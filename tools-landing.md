@@ -2,7 +2,7 @@
 title: Tools Landing Page
 description: All tools listed here which contain general mostly short guides.
 published: true
-date: 2024-02-08T15:10:04.424Z
+date: 2024-02-08T15:13:10.651Z
 tags: tools, photoshop, maya, wwise, obsidian, cslol, visual studio, hacksaw
 editor: markdown
 dateCreated: 2024-02-06T17:01:25.224Z
@@ -23,21 +23,21 @@ Necessary tools for creating mods.
 
 -   [Blender](/tools-landing/blender)
 -   [Autodesk Maya Student/ Trial](/tools-landing/maya)
-
+<br>
 ### Paid
 
 -   [Autodesk Maya](/tools-landing/maya)
-
+<br>
 # Animation
 
 ### Free
 
 -   [Blender](/tools-landing/blender)
-
+<br>
 ### Paid
 
 -   [Autodesk Maya](/tools-landing/maya)
-
+<br>
 # Coding
 
 ### Free
@@ -45,20 +45,20 @@ Necessary tools for creating mods.
 -   [Visual Studio](/tools-landing/visual-studio)
 -   [Notepad++](/tools-landing/notepadplusplus)
 -   [Hacksaw](/tools-landing/hacksaw)
-
+<br>
 # Sound FX
 
 ### Free
 
 -   [Wwise](/tools-landing/wwise)
-
+<br>
 # Texturing
 
 ### Free
 
 -   [Gimp](/tools-landing/gimp)
 -   [Photopea (Browser)](/tools-landing/photopea)
-
+<br>
 ### Paid
 
 -   [Adobe](/tools-landing/adobe) [Photoshop](/tools-landing/adobe/photoshop)
