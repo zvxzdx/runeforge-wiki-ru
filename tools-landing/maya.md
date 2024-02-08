@@ -2,7 +2,7 @@
 title: Autodesk Maya
 description: This page is all about Autodesk Maya. We include a list of pages which contain this tool in order to help you finding what you need!
 published: true
-date: 2024-02-08T15:11:00.924Z
+date: 2024-02-08T15:12:09.066Z
 tags: maya, autodesk, student, trial, tool
 editor: markdown
 dateCreated: 2024-02-07T11:21:56.262Z
@@ -15,13 +15,13 @@ dateCreated: 2024-02-07T11:21:56.262Z
 If you want to test out Maya or if you are new and want to check out if modding is for you, then the free trial version might be for you! 
 
 [**Get Maya free trial (30 days)**](https://www.autodesk.com/products/maya/free-trial)
-
+<br>
 ### Maya for Students
 
 If you are a student on an university or school, you can get Maya for free for up to a year, you can renew you license each year until your graduation.
 
 [**Get Maya student**](https://www.autodesk.com/education/edu-software/overview?sorting=featured&filters=individual)
-
+<br>
 ### **Maya paid subscription**
 
 If you want to buy a Maya subscription keep in mind, that you have 3 subscription plans (3 years, 1 year, 1 month). Make sure you are capable of buying the product, dont take financial risks since there is a free option with [Blender](/tools-landing/blender).
@@ -34,12 +34,12 @@ To spare you some time, here is the pricing list (*02/07/2024*):
 | 1 Year | 1,875$ | 156,25$ |
 | 1 Month | 235$ |     |
 
-> Also those prices are paid in **advance** so the full price for the whole time period is paid at once.
+Also those prices are paid in **advance** so the full price for the whole time period is paid at once.
 
 [**Get Maya (Paid)**](https://www.autodesk.com/products/maya/overview?term=1-YEAR&tab=subscription&plc=MAYA)
 
-> *Make sure you use Maya 2023! Maya 2024.1 is confirmed to work, while 2024.2 might be buggy.*
-
+*Make sure you use Maya 2023! Maya 2024.1 is confirmed to work, while 2024.2 might be buggy.*
+<br>
 # **Installation Guide**
 
 First download LoL-Maya [here](https://github.com/tarngaina/lol_maya/releases/tag/4.2.8).
@@ -72,7 +72,7 @@ And thats it, click close and either restart or click refresh and close the Plug
 You can check if it worked when a **LolMaya and LolMaya\_MAPGEO** tab were created at the main bar of Maya.
 
 ![](/menubar.png)
-
+<br>
 # Updating LoL Maya
 
 When updating the plugin, you simply need to download the latest version and replace the files in Maya's Plugin Folder! That's it.
