@@ -2,7 +2,7 @@
 title: Autodesk Maya
 description: This page is all about Autodesk Maya. We include a list of pages which contain this tool in order to help you finding what you need!
 published: true
-date: 2024-02-08T15:12:09.066Z
+date: 2024-02-09T14:41:57.730Z
 tags: maya, autodesk, student, trial, tool
 editor: markdown
 dateCreated: 2024-02-07T11:21:56.262Z
