@@ -2,15 +2,15 @@
 title: Home
 description: Runeforge Wiki Main Page
 published: true
-date: 2024-02-08T16:09:34.331Z
+date: 2024-02-09T18:23:23.687Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-07T11:55:37.251Z
 ---
 
-> **This Wiki is now the official Runeforge Wiki!**
-Keep in mind, we are working on this wiki to get it filled! Any contribution is welcome but expect bugs, missing features and missing pages.
-{.is-success}
+> **Construction ahead!**
+While you are browsing, you might find missing pages or features. We are still heavily working on improving the wiki and to add more content. If you want to contribute: [Apply as a Contributor!](/posting-guide-landing/apply-con)
+{.is-warning}
 
 # Welcome to the Runeforge Wiki
 This wiki is for custom skins (also known as custom content) and provides a source of information across the League of Legends modding community.
