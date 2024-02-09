@@ -2,7 +2,7 @@
 title: Obsidian
 description: A tool to explore and export .wad archives.
 published: true
-date: 2024-02-08T18:20:46.234Z
+date: 2024-02-09T14:30:44.144Z
 tags: obsidian, tool, export, explorer
 editor: markdown
 dateCreated: 2024-02-08T18:19:22.298Z
