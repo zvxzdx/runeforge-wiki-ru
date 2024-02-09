@@ -2,7 +2,7 @@
 title: All Guides for Posting
 description: Posting pages in this wiki can be tricky, so here is a list for all the waays you can post here!
 published: true
-date: 2024-02-08T20:38:23.535Z
+date: 2024-02-09T19:25:10.372Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-08T13:36:33.153Z
@@ -54,4 +54,5 @@ At the top you can also see tabs: **Scheduling, Scripts, Styles**, you can sched
 Edit the page. Its pretty simple, you can use any Markdown feature thats available. You might need to get used to it, but its not that bad once you get the hang of it. All you need to know here is, that **Headers** determin an anker point. 
 
 # Edit existing pages
-You are allowed to edit existing guides and pages, which does not mean, that you can write whatever you want. You as contributor can't see the page history, the Mods can and will check. Abusing this feature will lead into an exclusion of the Runeforge Wiki permanently.
+You are allowed to edit existing pages, which does not mean, that you can write whatever you want. You as contributor can't see the page history, the Mods can and will check. Abusing this feature will lead into an exclusion of the Runeforge Wiki permanently.
+**You dont need extra permissions to edit or alter an existing page. However, if the content you added is simply wrong, anyone else can always change it again! Including Mods**
