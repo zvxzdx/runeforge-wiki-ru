@@ -1,8 +1,8 @@
 ---
-title: Information about Sound Effect modding
-description: Everything you have to know!
+title: Sound FX Landing Page
+description: All guides listed here.
 published: true
-date: 2024-02-10T20:42:25.040Z
+date: 2024-02-10T20:45:54.913Z
 tags: sfx, sound fx, audio
 editor: markdown
 dateCreated: 2024-02-06T17:06:37.964Z
