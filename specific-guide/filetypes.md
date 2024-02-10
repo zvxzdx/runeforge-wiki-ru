@@ -2,7 +2,7 @@
 title: Filetypes Landing Page
 description: All filetypes listed here.
 published: true
-date: 2024-02-10T16:19:42.567Z
+date: 2024-02-10T16:21:56.702Z
 tags: filetypes
 editor: markdown
 dateCreated: 2024-02-10T14:08:46.366Z
@@ -24,7 +24,7 @@ All filetypes related to modding in League of Legends.
 ### .skn
 The model file for League of Legends.
 ### .skl
-The sekelton file for a model in League of Legends.
+The skeleton file for a model in League of Legends.
 <br>
 
 # Animation
