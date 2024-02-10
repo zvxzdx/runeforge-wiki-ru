@@ -2,7 +2,7 @@
 title: Filetypes Landing Page
 description: All filetypes listed here.
 published: true
-date: 2024-02-10T22:23:53.977Z
+date: 2024-02-10T22:25:12.190Z
 tags: filetypes
 editor: markdown
 dateCreated: 2024-02-10T14:08:46.366Z
@@ -55,17 +55,11 @@ File format that the game reads. You can not use any other type of audio format 
 Format that contains all the compressed .wem files that a model can have. There are two distinctions of the formats: "events.bnk" and "audio.bnk"
 <br>
 
-# Texturing
+# Texturing/ UI/ Visual FX
 ## Program
 ### .psd
 This is a [Photoshop](/core-guides/tools-landing/adobe/photoshop) file, which is used to store your work.
 <br>
-
-# UI
-
-<br>
-
-# Visual FX
 
 # Misc Files
 ### .zip
