@@ -2,7 +2,7 @@
 title: Filetypes Landing Page
 description: All filetypes listed here.
 published: true
-date: 2024-02-10T14:19:44.432Z
+date: 2024-02-10T14:20:16.639Z
 tags: filetypes
 editor: markdown
 dateCreated: 2024-02-10T14:08:46.366Z
@@ -17,14 +17,14 @@ All filetypes related to modding in League of Legends.
 ---
 
 # Modeling
-## Program specific
+## Program
 ### Name of the Filetype (Replace here)
 Add a small text information about the filetype.
 
 ### Another Name of the Filetype (Replace here)
 Add a small text information about the filetype.
 
-## League specific
+## Universal
 
 <br>
 
@@ -41,7 +41,7 @@ Add a small text information about the filetype.
 <br>
 
 # Texturing
-## Program specific
+## Program
 ### .psd
 This is a [Photoshop](/core-guides/tools-landing/adobe/photoshop) file, which is used to store your work.
 <br>
