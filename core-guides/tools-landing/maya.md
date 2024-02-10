@@ -2,7 +2,7 @@
 title: Autodesk Maya
 description: This page is all about Autodesk Maya. We include a list of pages which contain this tool in order to help you finding what you need!
 published: true
-date: 2024-02-10T14:21:48.799Z
+date: 2024-02-10T14:23:15.081Z
 tags: maya, autodesk, student, trial, tool
 editor: markdown
 dateCreated: 2024-02-07T11:21:56.262Z
@@ -32,7 +32,7 @@ To spare you some time, here is the pricing list (*02/07/2024*):
 | --- | --- | --- |
 | 3 Years | 5,625$ | 156,25$ |
 | 1 Year | 1,875$ | 156,25$ |
-| 1 Month | 235$ |     |
+| 1 Month | 235$   | 235$         |
 
 Also those prices are paid in **advance** so the full price for the whole time period is paid at once.
 
