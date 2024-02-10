@@ -2,7 +2,7 @@
 title: CS-LoL Manager
 description: The tool to install and create mod packages.
 published: true
-date: 2024-02-10T17:07:47.466Z
+date: 2024-02-10T22:09:37.520Z
 tags: cslol, tool
 editor: markdown
 dateCreated: 2024-02-07T11:36:31.919Z
@@ -30,5 +30,7 @@ In order to install CS-LoL, you simply have to execute the file and choose the f
 The standard installation path would be: 
 `C:\Riot Games\League of Legends\Game`
 Now press select and you're done!
+
+# Update CS-LoL Manager
 
 # Create a mod package
