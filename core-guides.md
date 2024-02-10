@@ -2,7 +2,7 @@
 title: Core Guides
 description: All core guides
 published: true
-date: 2024-02-09T14:34:58.357Z
+date: 2024-02-10T21:46:55.084Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-09T14:34:58.357Z
@@ -10,5 +10,7 @@ dateCreated: 2024-02-09T14:34:58.357Z
 
 # Core guides
 
-1. [Get Started!](/core-guides/general-guides-landing)
-2. [Tools](/core-guides/tools-landing)
+- [How to install mods? *A short guide on how to install mods on Runeforge, including common errors and mistakes*](/core-guides/how-to-install)
+- [Get Started! *All infos on how to start modding*](/core-guides/general-guides-landing)
+- [Tools *All currently available tools listed*](/core-guides/tools-landing)
+{.links-list}
