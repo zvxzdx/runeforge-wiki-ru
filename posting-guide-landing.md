@@ -2,7 +2,7 @@
 title: All Guides for Posting
 description: Posting pages in this wiki can be tricky, so here is a list for all the waays you can post here!
 published: true
-date: 2024-02-09T19:25:10.372Z
+date: 2024-02-10T13:47:41.880Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-08T13:36:33.153Z
@@ -52,7 +52,16 @@ At the top you can also see tabs: **Scheduling, Scripts, Styles**, you can sched
 
 ## Step 3
 Edit the page. Its pretty simple, you can use any Markdown feature thats available. You might need to get used to it, but its not that bad once you get the hang of it. All you need to know here is, that **Headers** determin an anker point. 
-
+<br>
 # Edit existing pages
 You are allowed to edit existing pages, which does not mean, that you can write whatever you want. You as contributor can't see the page history, the Mods can and will check. Abusing this feature will lead into an exclusion of the Runeforge Wiki permanently.
 **You dont need extra permissions to edit or alter an existing page. However, if the content you added is simply wrong, anyone else can always change it again! Including Mods**
+<br>
+# Uploading and Managing Files
+Since some guides might need files, you may want to upload them. In order to do that, you can create a folder with your name and manage it on your own. Here is a tiny guide on how to do that.
+
+- First, get into edit mode of any page
+- Second, click on "inster assets" on the sidebar (the folder Icon)
+- Third, click on user-pictures
+- Fourth, click on "New Folder" 
+![new-folder.png](/user-pictures/vector/posting guides/new-folder.png)
