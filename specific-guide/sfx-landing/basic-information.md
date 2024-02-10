@@ -2,7 +2,7 @@
 title: Basic Information
 description: Basic Information to do SFX modding!
 published: true
-date: 2024-02-10T20:50:48.764Z
+date: 2024-02-10T21:19:20.259Z
 tags: sfx, audio, voice over, sound effects, sound, effect, vo
 editor: markdown
 dateCreated: 2024-02-10T20:41:38.554Z
@@ -42,13 +42,3 @@ tr_TR: Turkish
 - .wem: File format that the game reads. You can not use any other type of audio format to replace sounds
 - .bin: Code that reads every .wem file and makes the logic to get it to work in game; something like the brain of the game. (Not only used for sounds)
 - .bnk: Format that contains all the compressed .wem files that a model can have. There are two distinctions of the formats: "events.bnk" and "audio.bnk"
-
-## Point 3: Tools to use.
-- Obsidian: Used to extract the game files (.wad.client or .en_US.wad.client)
-- Audacity (or any other audio editting software)
-
-## Point 4: How to use the tools.
-something goes here
-
-## Point 5: Tips and Tricks.
-something goes here
