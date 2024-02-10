@@ -2,7 +2,7 @@
 title: CS-LoL Manager
 description: The tool to install and create mod packages.
 published: true
-date: 2024-02-10T22:10:55.527Z
+date: 2024-02-10T22:19:37.512Z
 tags: cslol, tool
 editor: markdown
 dateCreated: 2024-02-07T11:36:31.919Z
@@ -32,7 +32,7 @@ The standard installation path would be:
 Now press select and you're done!
 
 # Install a Mod
-Once you have the [CS-LoL-Manager](/core-guides/tools-landing/cslolmanager) set up, downloading mods is rather straightforward from then on. Simply take the [.zip](https://wiki.vecslab.com/en/specific-guide/filetypes#zip) or [.fantome](https://wiki.vecslab.com/en/specific-guide/filetypes#fantome) file that you downloaded on our site for the relevant skin, and drag and drop it into the program.
+Once you have the CS-LoL-Manager set up, downloading mods is rather straightforward from then on. Simply take the [.zip](https://wiki.vecslab.com/en/specific-guide/filetypes#zip) or [.fantome](https://wiki.vecslab.com/en/specific-guide/filetypes#fantome) file that you downloaded on our site for the relevant skin, and drag and drop it into the program.
 
 ![running_skins.webp](/user-pictures/vector/new-post-guide/running_skins.webp)
 As you add the skin into the program, simply click the box to mark it as selected, and click run on the top right corner for it to run.
@@ -41,4 +41,37 @@ This is it! Click stop if you don’t want to load the skins anymore, or reselec
 
 # Update CS-LoL Manager
 
+Updating CSLoL-Manager is quite simple.
+On the main folder you have been using the program in, you delete everything except for the folders and the “Config” file.
+
+![update_cslol.webp](/user-pictures/vector/new-post-guide/update_cslol.webp)
+
+Whereafter what you do, is run the installer of the updated CSLoL-Manager and extract it in the same main folder, where a popup shows up:
+
+![update_cslol_2.webp](/user-pictures/vector/new-post-guide/update_cslol_2.webp)
+
+Here you just click “Auto Rename” and it will extract the files. 
+
+ 
+
+And that’s all! Now CSLoL is updated! 
 # Create a mod package
+
+# Misc Guides
+## Sort Mods in List
+Sorting your Mod List is quite simple. Just go into the CSLoL-Manager where your skins are installed, and click edit on each individual item.
+From there you can rename the skins to whatever sorting system you wish to have. By champions, by number or anything really. 
+
+![edit_mod_list.webp](/user-pictures/vector/new-post-guide/edit_mod_list.webp)
+Just keep in mind that everything is sorted alphabetically.
+
+## Conflicting Mods
+In case of conflicting mods, meaning that you have multiple mods that change the same file(s), but you want one mod’s files to be prioritised over the other.
+
+What you do is simply, as mentioned above with regard to managing your mods, you rename the mod you want to prioritise over the other so that it is at the top of the list.
+
+Then you go into CSLoL-Manager’s setting and enable “Suppress Install Conflicts”.
+
+![conflicting_mods.webp](/user-pictures/vector/new-post-guide/conflicting_mods.webp)
+
+And that’s it! Now when you run the mods, the files of the top mod will get prioritised and load first, whereas the other mods which got some of the same files edited, will only add those files they do not have in common. 
