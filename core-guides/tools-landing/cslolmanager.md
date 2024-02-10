@@ -2,7 +2,7 @@
 title: CS-LoL Manager
 description: The tool to install and create mod packages.
 published: true
-date: 2024-02-10T14:32:22.469Z
+date: 2024-02-10T17:05:32.375Z
 tags: cslol, tool
 editor: markdown
 dateCreated: 2024-02-07T11:36:31.919Z
@@ -17,8 +17,11 @@ CS-LoL Manager is a tool to install and create mod packages mostly made by [Moon
 ---
 
 # Download and Installation
-Make sure you download the newest version [here](https://github.com/LeagueToolkit/cslol-manager/releases)
+Make sure you download the newest version:
+- [CS-LoL *Download the newest version*](https://github.com/LeagueToolkit/cslol-manager/releases)
+{.links-list}
 
+<br>
 <img src="/csloldownload.png" alt="cs-lol download" style="height: 500px" />
 
 Make sure you check for the green "latest" lable
