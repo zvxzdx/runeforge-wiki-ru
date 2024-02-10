@@ -2,7 +2,7 @@
 title: Autodesk Maya
 description: This page is all about Autodesk Maya. We include a list of pages which contain this tool in order to help you finding what you need!
 published: true
-date: 2024-02-10T14:23:15.081Z
+date: 2024-02-10T21:56:49.999Z
 tags: maya, autodesk, student, trial, tool
 editor: markdown
 dateCreated: 2024-02-07T11:21:56.262Z
@@ -59,10 +59,11 @@ Make sure you always use the “latest” Version as shown in green next to the 
 Next, put those files into you Maya plugins folder. Depending on which version you installed (2023 and above) the folder would be here: `Documents/Maya/2023` (Year can change depending on what version you installed).
 
 Once you've done that, you can open Maya and go into the **Plugin Manager**.
+`Windows` > `Settings/Preferences` > `Plug-in Manager`
 
 ![](/plugin_manager.png)
 
-From there, search for lol\_maya and check both *loaded* and *auto load.*   
+From there, search for `lol_maya` and check both *loaded* and *auto load.*   
  
 
 ![](/activate_plugin.png)
