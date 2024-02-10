@@ -2,7 +2,7 @@
 title: Filetypes Landing Page
 description: All filetypes listed here.
 published: true
-date: 2024-02-10T21:18:39.462Z
+date: 2024-02-10T22:23:53.977Z
 tags: filetypes
 editor: markdown
 dateCreated: 2024-02-10T14:08:46.366Z
@@ -66,3 +66,10 @@ This is a [Photoshop](/core-guides/tools-landing/adobe/photoshop) file, which is
 <br>
 
 # Visual FX
+
+# Misc Files
+### .zip
+A Winrar/ 7-Zip file which contains the mod in our case.
+
+### .fantome
+Same as .zip, it contains the mod files which can be read by [CS-LoL Manager](https://wiki.vecslab.com/en/core-guides/tools-landing/cslolmanager#install-a-mod)
