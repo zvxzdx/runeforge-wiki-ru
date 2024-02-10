@@ -2,7 +2,7 @@
 title: CS-LoL Manager
 description: The tool to install and create mod packages.
 published: true
-date: 2024-02-10T22:09:37.520Z
+date: 2024-02-10T22:10:55.527Z
 tags: cslol, tool
 editor: markdown
 dateCreated: 2024-02-07T11:36:31.919Z
@@ -30,6 +30,14 @@ In order to install CS-LoL, you simply have to execute the file and choose the f
 The standard installation path would be: 
 `C:\Riot Games\League of Legends\Game`
 Now press select and you're done!
+
+# Install a Mod
+Once you have the [CS-LoL-Manager](/core-guides/tools-landing/cslolmanager) set up, downloading mods is rather straightforward from then on. Simply take the [.zip](https://wiki.vecslab.com/en/specific-guide/filetypes#zip) or [.fantome](https://wiki.vecslab.com/en/specific-guide/filetypes#fantome) file that you downloaded on our site for the relevant skin, and drag and drop it into the program.
+
+![running_skins.webp](/user-pictures/vector/new-post-guide/running_skins.webp)
+As you add the skin into the program, simply click the box to mark it as selected, and click run on the top right corner for it to run.
+
+This is it! Click stop if you don’t want to load the skins anymore, or reselect and add new skins to enjoy them all to your fullest. 
 
 # Update CS-LoL Manager
 
