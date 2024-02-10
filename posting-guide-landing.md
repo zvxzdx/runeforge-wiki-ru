@@ -2,7 +2,7 @@
 title: All Guides for Posting
 description: Posting pages in this wiki can be tricky, so here is a list for all the waays you can post here!
 published: true
-date: 2024-02-10T13:47:41.880Z
+date: 2024-02-10T13:58:47.706Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-08T13:36:33.153Z
@@ -60,8 +60,13 @@ You are allowed to edit existing pages, which does not mean, that you can write 
 # Uploading and Managing Files
 Since some guides might need files, you may want to upload them. In order to do that, you can create a folder with your name and manage it on your own. Here is a tiny guide on how to do that.
 
-- First, get into edit mode of any page
-- Second, click on "inster assets" on the sidebar (the folder Icon)
-- Third, click on user-pictures
-- Fourth, click on "New Folder" 
-![new-folder.png](/user-pictures/vector/posting guides/new-folder.png)
+1. Get into edit mode of any page
+2. Click on "inster assets" on the sidebar (the folder Icon)
+3. Click on user-pictures
+4. Click on "New Folder" 
+![new-folder.png](/user-pictures/vector/new-post-guide/new-folder.png)
+
+5. Name the folder with ur name (don't use spaces! use either: "_"; "-" or no space at all)
+6. Done, now you can upload any picture you want to use right there. You can also add new folders in your folder to organize it your way. 
+
+**Remember: Don't use a space in naming your files and folders. They will do extra work in the future, so keep that in mind. Atm we dont have the ability do delete or rename folders!**
