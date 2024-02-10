@@ -2,8 +2,8 @@
 title: Blender
 description: A starting guide to using Blender for League modding
 published: true
-date: 2024-02-10T20:09:47.114Z
-tags: guide, tools, 3d, modelling, animation, blender, r, y, u
+date: 2024-02-10T20:44:40.030Z
+tags: guide, tools, 3d, modelling, animation, blender
 editor: markdown
 dateCreated: 2024-02-10T14:01:52.224Z
 ---
