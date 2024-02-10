@@ -2,7 +2,7 @@
 title: Blender
 description: A starting guide to using Blender for League modding
 published: true
-date: 2024-02-10T16:40:05.630Z
+date: 2024-02-10T20:09:28.690Z
 tags: guide, tools, 3d, modelling, animation, blender, r, y, u
 editor: markdown
 dateCreated: 2024-02-10T14:01:52.224Z
@@ -60,6 +60,12 @@ If you have Autodesk Maya 2023/2024 you can edit all the files mentioned above i
 
 # Saving FBX to convert back
   <!--TBD-->
+You will need to select what you want and then export it as FBX.
+>Before saving your fbx you will have to head to the Modeling tab and select your mesh.
+>After selecting the mesh you will need flip the normals. Press Alt+N and click Flip.
+>{.is-info}
 
+>When saving the fbx file, you will need to open the armature tab on the right side of the prompt and disable "Add Leaf Bones" option.
+>{.is-warning}
 
 
