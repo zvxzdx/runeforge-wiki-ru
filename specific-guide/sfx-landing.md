@@ -2,7 +2,7 @@
 title: Information about Sound Effect modding
 description: Everything you have to know!
 published: true
-date: 2024-02-10T20:37:06.950Z
+date: 2024-02-10T20:38:10.303Z
 tags: sfx, sound fx, audio
 editor: markdown
 dateCreated: 2024-02-06T17:06:37.964Z
