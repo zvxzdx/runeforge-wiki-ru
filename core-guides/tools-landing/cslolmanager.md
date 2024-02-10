@@ -2,8 +2,8 @@
 title: CS-LoL Manager
 description: The tool to install and create mod packages.
 published: true
-date: 2024-02-10T22:19:37.512Z
-tags: cslol, tool
+date: 2024-02-10T22:36:52.669Z
+tags: guide, cslol, tool, install, update, conflict, error
 editor: markdown
 dateCreated: 2024-02-07T11:36:31.919Z
 ---
@@ -75,3 +75,6 @@ Then you go into CSLoL-Manager’s setting and enable “Suppress Install Confli
 ![conflicting_mods.webp](/user-pictures/vector/new-post-guide/conflicting_mods.webp)
 
 And that’s it! Now when you run the mods, the files of the top mod will get prioritised and load first, whereas the other mods which got some of the same files edited, will only add those files they do not have in common. 
+
+## Error Codes/ Messages
+### 
