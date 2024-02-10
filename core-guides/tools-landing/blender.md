@@ -2,7 +2,7 @@
 title: Blender
 description: A starting guide to using Blender for League modding
 published: true
-date: 2024-02-10T16:37:39.025Z
+date: 2024-02-10T16:40:05.630Z
 tags: guide, tools, 3d, modelling, animation, blender, r, y, u
 editor: markdown
 dateCreated: 2024-02-10T14:01:52.224Z
@@ -50,7 +50,7 @@ Click on the download link and follow the installation instructions below.
 ### Without Maya
 <!--ADD EXAMPLES OF ALL MENTIONED FILES AS SCREENSHOTS, CROSS OUT ONES YOU CANT DO IN BLENDER-->
 Without using Autodesk Maya you can edit champion's <a href="https://wiki.vecslab.com/en/specific-guide/filetypes#skn">.skn</a> and [.skl](https://wiki.vecslab.com/en/specific-guide/filetypes#skl) files.
-Currently you cannot edit .anm (animations), .scb and .sco (props) files without using Autodesk Maya.
+Currently you cannot edit <a href="https://wiki.vecslab.com/en/specific-guide/filetypes#anm">.anm</a>, .scb and .sco files without using Autodesk Maya.
   <!--ADD LINKS FOR MAYA PAGE TO WORDS AUTODESK MAYA-->
 ### With Maya
 If you have Autodesk Maya 2023/2024 you can edit all the files mentioned above in Blender.
