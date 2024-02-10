@@ -2,7 +2,7 @@
 title: Filetypes Landing Page
 description: All filetypes listed here.
 published: true
-date: 2024-02-10T21:01:36.443Z
+date: 2024-02-10T21:18:39.462Z
 tags: filetypes
 editor: markdown
 dateCreated: 2024-02-10T14:08:46.366Z
@@ -29,7 +29,7 @@ The skeleton file for a model in League of Legends.
 ### .wad.client
 Combination of compressed files that is used to hold multiple files at once, those being textures, models, animations, sound effects, everything that a champion has.
 ### .*en_US*.wad.client
-Exactly the same as .was.client but specifically for voice lines for a champion in a language. "en_US" is the prefix for the english language in the game file. For more information about these, go to the [basic information about sound modding](/specific-guide/sfx-landing/basic-information).
+Exactly the same as .wad.client but specifically for voice lines for a champion in a language. "en_US" is the prefix for the english language in the game file. For more information about these, go to the [basic information about sound modding](/specific-guide/sfx-landing/basic-information).
 
 <br>
 
@@ -42,7 +42,8 @@ The animation file for a League of Legends skeleton.
 <br>
 
 # Coding
-
+### .bin
+Code that reads every file and makes the logic to get it to work in game; something like the brain of the game.
 <br>
 
 # Sound FX
@@ -50,8 +51,6 @@ The animation file for a League of Legends skeleton.
 Generic audio file format used before converting into the format that League of Legends can read.
 ### .wem
 File format that the game reads. You can not use any other type of audio format to replace sounds
-### .bin
-Code that reads every .wem file and makes the logic to get it to work in game; something like the brain of the game. (Not only used for sounds)
 ### .bnk
 Format that contains all the compressed .wem files that a model can have. There are two distinctions of the formats: "events.bnk" and "audio.bnk"
 <br>
