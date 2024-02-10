@@ -2,14 +2,14 @@
 title: Filetypes Landing Page
 description: All filetypes listed here.
 published: true
-date: 2024-02-10T22:25:12.190Z
+date: 2024-02-10T22:25:36.204Z
 tags: filetypes
 editor: markdown
 dateCreated: 2024-02-10T14:08:46.366Z
 ---
 
 > **W.I.P**
-> This page is currently worked on!
+> This page is constantly worked on!
 {.is-info}
 
 All filetypes related to modding in League of Legends.
