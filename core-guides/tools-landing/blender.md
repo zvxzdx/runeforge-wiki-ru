@@ -2,7 +2,7 @@
 title: Blender
 description: A starting guide to using Blender for League modding
 published: true
-date: 2024-02-10T20:44:40.030Z
+date: 2024-02-10T23:21:29.543Z
 tags: guide, tools, 3d, modelling, animation, blender
 editor: markdown
 dateCreated: 2024-02-10T14:01:52.224Z
@@ -25,11 +25,16 @@ If you don't need multiple Blender instances open and you like automatic updates
 <a href="https://www.blender.org/download/">Standalone Blender download</a>
 
 ---
-# Lol2Gltf/LtMAO
+# lol2gltf and LtMAO
 You will need one of the listed tools if you are unable or do not want to use Autodesk Maya.
-## Lol2Gltf
+## lol2gltf
 <!--TBD-->
-<!--LINK TO THE PAGE FOR THE TUTORIAL WHEN ITS CREATED-->
+<!--ADD LINKS TO EVERYTHING THAT NEEDS TO BE LINKED-->
+lol2gltf can convert .skn and .skl to the gltf format usable by Blender.
+
+Converting the gltf file back is not as user friendly and i recommend using lol2fbx in LtMAO.
+
+If you wish to use <a href="lol2gltf">lol2gltf</a> refer to its guide page.
 ## LtMAO
 <!--CHANGE THE LTMAO LINK IF THE PAGE GETS MADE WITH A DIFFERENT LINK-->
 <a href="LtMAO">LtMAO</a> is a useful modding tool, however you will need it for its lol2fbx feature as there is no Blender plugin for League files.
@@ -53,19 +58,25 @@ Without using Autodesk Maya you can edit champion's <a href="https://wiki.vecsla
 Currently you cannot edit <a href="https://wiki.vecslab.com/en/specific-guide/filetypes#anm">.anm</a>, .scb and .sco files without using Autodesk Maya.
   <!--ADD LINKS FOR MAYA PAGE TO WORDS AUTODESK MAYA-->
 ### With Maya
-If you have Autodesk Maya 2023/2024 you can edit all the files mentioned above in Blender.
-<!--EXPLAIN CONVERTING FILES FROM BLENDER FBX TO LEAGUE ANM-->
-
+If you have Autodesk Maya 2023/24 you can edit all the files mentioned above with Blender.
+When you save your FBX file in blender you save it in Maya as .anm, .scb and .sco.
+  
+Refer to the Autodesk Maya guide on how to save these files.
+  <!--ADD LINKS WHERE NEEDED-->
 ---
 
 # Saving FBX to convert back
-  <!--TBD-->
 You will need to select what you want and then export it as FBX.
->Before saving your fbx you will have to head to the Modeling tab and select your mesh.
+>Before saving your fbx you will have to open the Modeling tab and select your mesh.
 >After selecting the mesh you will need flip the normals. Press Alt+N and click Flip.
+>![normalsflipp.png](/user-pictures/bud/normalsflipp.png)
 >{.is-info}
 
->When saving the fbx file, you will need to open the armature tab on the right side of the prompt and disable "Add Leaf Bones" option.
+>When saving the fbx file, you will need to open the armature tab on the right side of the prompt and <ins>uncheck</ins> "Add Leaf Bones" option.
+>![leaf-bones.png](/user-pictures/bud/leaf-bones.png)
 >{.is-warning}
+  
+After saving your FBX file convert it back to .skn and .skl using one of the tools mentioned.
 
+  ---
 
