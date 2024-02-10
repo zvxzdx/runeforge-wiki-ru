@@ -2,7 +2,7 @@
 title: Filetypes Landing Page
 description: All filetypes listed here.
 published: true
-date: 2024-02-10T16:39:53.526Z
+date: 2024-02-10T17:39:24.193Z
 tags: filetypes
 editor: markdown
 dateCreated: 2024-02-10T14:08:46.366Z
@@ -26,11 +26,14 @@ All filetypes related to modding in League of Legends.
 The model file for League of Legends.
 ### .skl
 The skeleton file for a model in League of Legends.
-### .anm
-The animation file for a League of Legends skeleton.
+
 <br>
 
 # Animation
+
+## Universal
+### .anm
+The animation file for a League of Legends skeleton.
 
 <br>
 
