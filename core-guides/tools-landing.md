@@ -2,7 +2,7 @@
 title: Tools Landing Page
 description: All tools listed here which contain general mostly short guides.
 published: true
-date: 2024-02-10T16:24:36.656Z
+date: 2024-02-10T17:12:42.300Z
 tags: tools, photoshop, maya, wwise, obsidian, cslol, visual studio, hacksaw
 editor: markdown
 dateCreated: 2024-02-06T17:01:25.224Z
@@ -37,7 +37,12 @@ Necessary tools for creating mods.
 ### Paid
 
 -   [Autodesk Maya](/core-guides/tools-landing/maya)
+
+### Plugins
+
+- [LtMAO](/core-guides/tools-landing/blender/LtMAO)
 <br>
+
 # Coding
 
 ### Free
