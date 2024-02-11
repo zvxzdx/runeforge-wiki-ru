@@ -2,7 +2,7 @@
 title: Home
 description: Runeforge Wiki Main Page
 published: true
-date: 2024-02-11T14:44:49.128Z
+date: 2024-02-11T14:56:33.538Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-07T11:55:37.251Z
@@ -11,7 +11,7 @@ dateCreated: 2024-02-07T11:55:37.251Z
 > **Construction successful!**
 > The transfer to the new domain was successul, we currently work on re-linking all pages and assets.  
 >Login currently only possible via E-Mail
->Registration currently only via E-Mail
+>Registration currently only via E-Mail **Verification Mails currently under construction**
 {.is-warning}
 
 
