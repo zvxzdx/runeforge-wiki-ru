@@ -2,7 +2,7 @@
 title: Blender
 description: A starting guide to using Blender for League modding
 published: true
-date: 2024-02-11T16:44:30.497Z
+date: 2024-02-11T17:15:46.900Z
 tags: guide, tools, 3d, modelling, animation, blender
 editor: markdown
 dateCreated: 2024-02-10T14:01:52.224Z
@@ -69,7 +69,7 @@ Click on the download link and follow the installation instructions below.
 # Saving FBX to convert back
 You will need to select what you want and then export it as FBX.
 >Before saving your fbx you will have to open the Modeling tab and select your mesh.
->After selecting the mesh you will need flip the normals. Press Alt+N and click Flip.
+>After selecting the mesh you will need to flip the normals. Press Alt+N and click Flip.
 >![normalsflipp.png](/user-pictures/bud/normalsflipp.png)
 >{.is-info}
 
