@@ -2,7 +2,7 @@
 title: Filetypes Landing Page
 description: All filetypes listed here.
 published: true
-date: 2024-02-10T22:25:36.204Z
+date: 2024-02-11T13:16:45.432Z
 tags: filetypes
 editor: markdown
 dateCreated: 2024-02-10T14:08:46.366Z
@@ -26,6 +26,10 @@ All filetypes related to modding in League of Legends.
 The model file for League of Legends.
 ### .skl
 The skeleton file for a model in League of Legends.
+### .scb
+Prop model file for League of Legends.
+### .sco
+Particle prop file for League of Legends.
 ### .wad.client
 Combination of compressed files that is used to hold multiple files at once, those being textures, models, animations, sound effects, everything that a champion has.
 ### .*en_US*.wad.client
