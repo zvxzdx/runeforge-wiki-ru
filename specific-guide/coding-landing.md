@@ -2,11 +2,19 @@
 title: Coding Landing Page
 description: All guides listed here.
 published: true
-date: 2024-02-09T14:26:29.404Z
+date: 2024-02-11T19:41:22.553Z
 tags: coding, code
 editor: markdown
 dateCreated: 2024-02-06T17:07:09.342Z
 ---
 
->Oh shucks!
-This Page is still a messy place. But don't be afraid, we add new content as soon as we can!{.is-danger}
+
+# Basic Guides
+
+
+# Advanced Guides
+
+- [Manually edit VFX colors in bins *A Guide made by Yoru Queen of Night*](/specific-guide/coding-landing/man-edit-vfxcolor)
+{.links-list}
+
+
