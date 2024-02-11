@@ -2,7 +2,7 @@
 title: Tools Landing Page
 description: All tools listed here which contain general mostly short guides.
 published: true
-date: 2024-02-10T21:34:03.887Z
+date: 2024-02-11T12:13:36.831Z
 tags: tools, photoshop, maya, wwise, obsidian, cslol, visual studio, hacksaw, blender, ltmao, gimp
 editor: markdown
 dateCreated: 2024-02-06T17:01:25.224Z
@@ -16,7 +16,9 @@ Necessary tools for creating mods.
 
 -   [CS-Lol Manager](/core-guides/tools-landing/cslolmanager)
 -   [Obsidian](/core-guides/tools-landing/obsidian)
-
+---
+General tools that aren't required for mod creation.
+- [LtMAO](/core-guides/tools-landing/blender/LtMAO)
 # 3D Modeling
 
 ### Free
@@ -33,7 +35,7 @@ Necessary tools for creating mods.
 ### Free
 
 - [Blender](/core-guides/tools-landing/blender)
-- [LtMAO](/core-guides/tools-landing/blender/LtMAO)
+
 <br>
 ### Paid
 
