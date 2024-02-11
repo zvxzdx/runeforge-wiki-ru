@@ -2,7 +2,7 @@
 title: LtMAO
 description: A guide on how to install and use LtMAO.
 published: true
-date: 2024-02-11T23:02:52.870Z
+date: 2024-02-11T23:11:33.137Z
 tags: guide, install, ltmao
 editor: markdown
 dateCreated: 2024-02-11T19:27:37.139Z
@@ -58,7 +58,28 @@ Press the Start button and select the folder where you want the mod to be create
   ## lol2fbx
   To convert .skn and .skl files to FBX simply add the .skn file with the button and the .skl will be added alongside it if it's in the same folder.
   
+  Then press the skn->FBX button and you will get your FBX file.
+
+---
+  In order to convert the FBX back to .skn and .skl put the FBX in with the button and press FBX->skn.
   
+  If you encounter an error in the logs look below to see what they mean and how to fix them.
+  
+  ---
+  
+  ### <span style="color:#7040F0">Possible errors when using lol2fbx
+  #### <span style="color:#CF4000">IndexError: list index out of range</span>
+  
+  You most likely did not provide the file.
+  
+  ---
+ #### <span style="color:#CF4000">Failed: Too many joints found
+  
+Your skeleton has a bigger number of joints than supported, 256.
+  
+  ---
+  
+  <!--ADD MORE INFO :PRAY:-->
   <!--ADD LINKS TO STUFF FOR THE LOVE OF GOD-->
   
   
