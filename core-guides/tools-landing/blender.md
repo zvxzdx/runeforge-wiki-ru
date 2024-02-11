@@ -2,7 +2,7 @@
 title: Blender
 description: A starting guide to using Blender for League modding
 published: true
-date: 2024-02-11T21:12:24.769Z
+date: 2024-02-11T22:51:36.600Z
 tags: guide, tools, 3d, modelling, animation, blender
 editor: markdown
 dateCreated: 2024-02-10T14:01:52.224Z
@@ -54,9 +54,9 @@ If you wish to use <a href="lol2gltf">lol2gltf</a> refer to its guide page.
 
 ## LtMAO
 <!--CHANGE THE LTMAO LINK IF THE PAGE GETS MADE WITH A DIFFERENT LINK-->
-<a href="LtMAO">LtMAO</a> is a useful modding tool, however you will need it for its lol2fbx feature as there is no Blender plugin for League files.
+<a href="/core-guides/tools-landing/LtMAO">LtMAO</a> is a useful modding tool, however you will need it for its lol2fbx feature as there is no Blender plugin for League files.
 
-Head to <a href="LtMAO">LtMAO</a> guide page to see how to use the tool, along with lol2fbx.
+Head to <a href="/core-guides/tools-landing/LtMAO">LtMAO</a> guide page to see how to use the tool, along with lol2fbx.
 
 Click on the download link and follow the installation instructions below.
 > ### <p><span style="color:#ffffff">Installation</span>
