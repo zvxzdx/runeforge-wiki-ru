@@ -2,7 +2,7 @@
 title: Filetypes Landing Page
 description: All filetypes listed here.
 published: true
-date: 2024-02-11T13:26:45.720Z
+date: 2024-02-11T19:05:08.496Z
 tags: filetypes
 editor: markdown
 dateCreated: 2024-02-10T14:08:46.366Z
@@ -66,6 +66,11 @@ Format that contains all the compressed .wem files that a model can have. There 
 ## Program
 ### .psd
 This is a [Photoshop](/core-guides/tools-landing/adobe/photoshop) file, which is used to store your work.
+### .dds
+Texture file used in several League of Legends files. *(e.g.: model texture, vfx, terrain)*
+### .tex
+Different texture file which is used in League of Legends. *(e.g. UI-Elements)*
+
 <br>
 
 # Misc Files
