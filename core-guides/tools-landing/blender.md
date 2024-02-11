@@ -2,7 +2,7 @@
 title: Blender
 description: A starting guide to using Blender for League modding
 published: true
-date: 2024-02-11T13:18:49.087Z
+date: 2024-02-11T14:44:57.158Z
 tags: guide, tools, 3d, modelling, animation, blender
 editor: markdown
 dateCreated: 2024-02-10T14:01:52.224Z
@@ -83,3 +83,14 @@ After saving your FBX file convert it back to .skn and .skl using one of the too
 >{.is-info}
   
 ---
+  
+ # Resolving issues
+## Failed: Too many joints found
+ This usually means that you forgot to uncheck "Add Leaf Bones" option.
+ If you did, your skeleton has a bigger number of joints than supported, 256.
+  ## Texture look wierd in game
+ You most likely forgot to flip the normals of the mesh.
+  
+  
+  
+  
