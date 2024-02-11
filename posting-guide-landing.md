@@ -2,7 +2,7 @@
 title: All Guides for Posting
 description: Posting pages in this wiki can be tricky, so here is a list for all the waays you can post here!
 published: true
-date: 2024-02-11T22:15:24.667Z
+date: 2024-02-11T22:34:27.601Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-08T13:36:33.153Z
@@ -69,3 +69,45 @@ Since some guides might need files, you may want to upload them. In order to do 
 6. Done, now you can upload any picture you want to use right there. You can also add new folders in your folder to organize it your way. 
 
 **Remember: Don't use a space in naming your files and folders. They will do extra work in the future, so keep that in mind. Atm we dont have the ability do delete or rename folders!**
+
+# Markdown editor
+The usual markdown editor as known from other sites works here partially, so sometimes you run into issues. This part is ro understand how markdown works.
+
+In order to get the hang of it here is what you can do in wiki.js: [Link](https://docs.requarks.io/en/editors/markdown) 
+
+---
+
+# Linking
+The most important thing in a wiki is linking. Means, you need to link every piece of knowledge we own together so user can find them easily. The good part about wiki.js is, that linking is super easy to do here some examples:
+
+`[Text which is clickable](the link)`
+Thats basically it. 
+
+Wiki js also features a cool feature on how to link pages of the same wiki, you dont need to wite the domain for example. All you need is the filepath (everything behind the .../en/ of any pagelink)
+
+Example:
+`[Link me to this page](/posting-guide-landing)`
+
+This will be printed out so:
+[Link me to this page](/posting-guide-landing)
+
+Another great feature is the customizability of those links. You can add an anker point for example which would directly scroll to the header you want, simply add the #(ankerlink) behind it.
+
+Example:
+`[Link me to this position](/posting-guide-landing#linking)` << keep in mind, the # needs to be the whole title, without any spaces, they become a dash "-".
+
+This will printed out so:
+[Link me to this position](/posting-guide-landing#linking)
+
+Also a really fancy feature which is only doable in wiki.js is making a link a list, this is a bit more complicated to remember but you will get the hang of it. You need the core structure but as a list.
+
+Example:
+`- [A Listed Link? *How fancy*](Your link)`
+`- [And another Link? *This is crazy!*](Your link)`
+`{.links-list}`
+
+Thats the print:
+
+- [A Listed Link? *How fancy*]()
+- [And another Link? *This is crazy!*]()
+{.links-list}
