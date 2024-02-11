@@ -2,7 +2,7 @@
 title: Autodesk Maya
 description: This page is all about Autodesk Maya. We include a list of pages which contain this tool in order to help you finding what you need!
 published: true
-date: 2024-02-10T21:56:49.999Z
+date: 2024-02-11T14:54:17.642Z
 tags: maya, autodesk, student, trial, tool
 editor: markdown
 dateCreated: 2024-02-07T11:21:56.262Z
@@ -24,7 +24,7 @@ If you are a student on an university or school, you can get Maya for free for u
 <br>
 ### **Maya paid subscription**
 
-If you want to buy a Maya subscription keep in mind, that you have 3 subscription plans (3 years, 1 year, 1 month). Make sure you are capable of buying the product, dont take financial risks since there is a free option with [Blender](/tools-landing/blender).
+If you want to buy a Maya subscription keep in mind, that you have 3 subscription plans (3 years, 1 year, 1 month). Make sure you are capable of buying the product, dont take financial risks since there is a free option with [Blender](/core-guides/tools-landing/blender).
 
 To spare you some time, here is the pricing list (*02/07/2024*):
 
