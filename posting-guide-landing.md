@@ -2,7 +2,7 @@
 title: All Guides for Posting
 description: Posting pages in this wiki can be tricky, so here is a list for all the waays you can post here!
 published: true
-date: 2024-02-11T19:26:36.009Z
+date: 2024-02-11T22:09:38.255Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-08T13:36:33.153Z
@@ -17,7 +17,6 @@ How do you post at this wiki? What can you do and what is to avoid. All those qu
 ---
 
 # How to post?
-In order for you to post, you need the "Contributor" role which is granted as soon as you are verfied by a Moderator or Admin. If you dont know you current status, check out the Menu bar at the left, if you see "Wiki Guides", then you are a Contributor!
 
 Let's start by creating a page, make sure you know what you want to create. If you want e.g. create a guide for texturing, then you have to link it accordingly.
 
