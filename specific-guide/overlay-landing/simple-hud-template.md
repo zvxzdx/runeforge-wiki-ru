@@ -2,14 +2,14 @@
 title: Simple HUD Template by Yoru
 description: A short guide on how to use the "Simple HUD Template" made by Yoru Queen of Night
 published: true
-date: 2024-02-11T19:22:14.222Z
+date: 2024-02-11T22:54:20.828Z
 tags: hud, yoru, template, simple hud
 editor: markdown
 dateCreated: 2024-02-11T18:16:47.335Z
 ---
 
 # Simple HUD Template
-Yoru made a simplified HUD for herself and decided to turn it into an easy-to-use template so you guys can use it too.
+Yoru made a simplified HUD for herself and decided to turn it into an easy-to-use template so everyone can use it too.
 
 If you use this template, please credit it properly and link back to this page.
 
