@@ -2,7 +2,7 @@
 title: LtMAO
 description: A guide on how to install and use LtMAO.
 published: true
-date: 2024-02-11T23:16:08.624Z
+date: 2024-02-11T23:18:30.010Z
 tags: guide, install, ltmao
 editor: markdown
 dateCreated: 2024-02-11T19:27:37.139Z
@@ -83,6 +83,13 @@ Your skeleton has a bigger number of joints than supported, 256.
   #### <span style="color:#CF4000">Exception: lol2fbx: Failed: body contains vertices shared by multiple material.
   
   The mesh contains vertices that are shared by multiple materials, this needs to be fixed in Maya or Blender.
+  
+  ---
+  
+   #### <span style="color:#CF4000"> ValueError: min() arg is an empty sequence
+  Editor bud encountered this error but has no idea what it is or how to fix it.
+  
+  Assumption is that something is wrong with the FBX file.
   
   ---
   <!--ADD MORE INFO :PRAY:-->
