@@ -2,7 +2,7 @@
 title: LtMAO
 description: A guide on how to install and use LtMAO.
 published: true
-date: 2024-02-11T23:13:34.674Z
+date: 2024-02-11T23:16:08.624Z
 tags: guide, install, ltmao
 editor: markdown
 dateCreated: 2024-02-11T19:27:37.139Z
@@ -80,7 +80,11 @@ Press the Start button and select the folder where you want the mod to be create
 Your skeleton has a bigger number of joints than supported, 256.
   
   ---
+  #### <span style="color:#CF4000">Exception: lol2fbx: Failed: body contains vertices shared by multiple material.
   
+  The mesh contains vertices that are shared by multiple materials, this needs to be fixed in Maya or Blender.
+  
+  ---
   <!--ADD MORE INFO :PRAY:-->
   <!--ADD LINKS TO STUFF FOR THE LOVE OF GOD-->
   
