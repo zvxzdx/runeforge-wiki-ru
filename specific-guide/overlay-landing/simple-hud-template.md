@@ -2,7 +2,7 @@
 title: Simple HUD Template by Yoru
 description: A short guide on how to use the "Simple HUD Template" made by Yoru Queen of Night
 published: false
-date: 2024-02-11T18:16:47.335Z
+date: 2024-02-11T18:51:13.238Z
 tags: hud, yoru, template, simple hud
 editor: markdown
 dateCreated: 2024-02-11T18:16:47.335Z
@@ -19,9 +19,24 @@ If you use this template, please credit it properly and link back to this page.
 
 ![previewpic.webp](/user-pictures/vector/general-guides/simplehud/previewpic.webp)
 
+## Nessecary tools
+- [Yoru's Template *Download the .zip file and extract it to the folder "UI.wad.client"*](https://drive.google.com/file/d/1_Hkgvk2E0BL7-wdAazjzKx_cXaTWwW5i/view?pli=1)
+- [Photoshop *Paid Program to edit picture files*](/core-guides/tools-landing/adobe/photoshop)
+- [PLUGIN: Nvidia Texture Tool *Plugin for Photoshop to edit .dds files | ONLY USABLE if you have a Nvidia Graphics card*](https://developer.nvidia.com/nvidia-texture-tools-exporter)
+- [PLUGIN: Intel Texture Works *Plugin for Photoshop to edit .dds files | USABLE if you don't have a Nvidia Graphics card*](https://www.intel.com/content/www/us/en/developer/articles/tool/intel-texture-works-plugin.html)
+- [Photopea *No guarantee, web version of Photoshop*](https://www.photopea.com/)
+{.links-list}
+
+**Season 12 Update:**
+Due to changes in filetype to .tex files you now need to convert all [.dds](https://wiki.runeforge.io/en/specific-guide/filetypes#dds) files into [.tex](https://wiki.runeforge.io/en/specific-guide/filetypes#tex) files after editing:
+- [Tex2DDS by Morilli *Tool to convert .dds files into .tex*](https://github.com/Morilli/Ritoddstex/releases)
+{.links-list}
+
+<br>
+
 ## Infos
 
-The layers (should) have the same name in all of the .psd files.They are also color coded:
+The layers (should) have the same name in all of the [.psd](/specific-guide/filetypes#psd) files.They are also color coded:
 
 | Color | Description |
 | --- | --- | --- |
@@ -40,4 +55,10 @@ The layers (should) have the same name in all of the .psd files.They are also co
 |Uncolored: |Folders containing all the image areas you can drop in your image.|
 <br>
 There will also be gray colored folders called “Empty layers for actions (Ignore)”. They are needed in order to not break when batch processing the template.
+
+## Video Guide
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9BMv-_M00ac?si=iTRmwuOCGid9OnJQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 
