@@ -2,7 +2,7 @@
 title: Blender
 description: A starting guide to using Blender for League modding
 published: true
-date: 2024-02-11T00:09:58.324Z
+date: 2024-02-11T13:18:49.087Z
 tags: guide, tools, 3d, modelling, animation, blender
 editor: markdown
 dateCreated: 2024-02-10T14:01:52.224Z
@@ -29,14 +29,14 @@ If you don't need multiple Blender instances open and you like automatic updates
 # What you can and cannot do in Blender
 ### Without Maya
 <!--ADD EXAMPLES OF ALL MENTIONED FILES AS SCREENSHOTS, CROSS OUT ONES YOU CANT DO IN BLENDER-->
-Without using Autodesk Maya you can edit champion's <a href="https://wiki.vecslab.com/en/specific-guide/filetypes#skn">.skn</a> and [.skl](https://wiki.vecslab.com/en/specific-guide/filetypes#skl) files.
-Currently you cannot edit <a href="https://wiki.vecslab.com/en/specific-guide/filetypes#anm">.anm</a>, .scb and .sco files without using Autodesk Maya.
+Without using Autodesk Maya you can edit champion's <a href="/en/specific-guide/filetypes#skn">.skn</a> and [.skl](/en/specific-guide/filetypes#skl) files.
+Currently you cannot edit <a href="/en/specific-guide/filetypes#anm">.anm</a>, <a href="/en/specific-guide/filetypes#scb">.scb</a> and <a href="/en/specific-guide/filetypes#sco">.sco</a> files without using <a href="maya">Autodesk Maya.</a>
   <!--ADD LINKS FOR WORDS THAT NEED TO BE LINKED, FILES AND MAYA-->
 ### With Maya
 If you have Autodesk Maya 2023/24 you can edit all the files mentioned above with Blender.
-When you save your FBX file in blender you save it in Maya as .anm, .scb and .sco.
+When you save your FBX file in blender you can save it in Maya as one of the files you need.
 
-Refer to the Autodesk Maya guide on how to save these files.
+Refer to the <a href="maya">Autodesk Maya</a> guide on how to save these files.
 <!--ADD LINKS WHERE NEEDED-->
 ---
 # lol2gltf and LtMAO
