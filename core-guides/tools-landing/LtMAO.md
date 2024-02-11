@@ -2,7 +2,7 @@
 title: LtMAO
 description: A guide on how to install and use LtMAO.
 published: true
-date: 2024-02-11T23:11:33.137Z
+date: 2024-02-11T23:13:34.674Z
 tags: guide, install, ltmao
 editor: markdown
 dateCreated: 2024-02-11T19:27:37.139Z
@@ -43,6 +43,8 @@ TBA
 >{.is-info}
   
 Press the Start button and select the folder where you want the mod to be created.
+  
+  After the operation is completed select the .fantome file you got and put it in CsLol or cslmao.
   ## uvee
   TBA
   ## shrum
