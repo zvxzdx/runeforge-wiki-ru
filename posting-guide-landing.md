@@ -2,7 +2,7 @@
 title: All Guides for Posting
 description: Posting pages in this wiki can be tricky, so here is a list for all the waays you can post here!
 published: true
-date: 2024-02-11T22:09:38.255Z
+date: 2024-02-11T22:12:59.385Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-08T13:36:33.153Z
@@ -47,7 +47,7 @@ Once you selected "markdown", the editor will open including a new settings wind
 - The path (this can be changed so even if you linked something wrong, nothing is cursed, mostly we will tell you and you have to fix it ^^)
 - Tags (by clicking in the Tags field, you can select tags which were already created, make sure you use them aswell, this does not mean, that you aren't allowed to create new tags!)
 
-At the top you can also see tabs: **Scheduling, Scripts, Styles**, you can schedule a page if you dont want to release it yet, however, dont forget about it. You can also publish unfinished guides, thats not an issue, as long as you keep working on it.
+At the top you can also see tabs: **Scheduling**, you can "unpublish" a page if you dont want to release it yet, however, dont forget about it. You can also publish unfinished guides, thats not an issue, as long as you keep working on it.
 
 ## Step 3
 Edit the page. Its pretty simple, you can use any Markdown feature thats available. You might need to get used to it, but its not that bad once you get the hang of it. All you need to know here is, that **Headers** determin an anker point. 
