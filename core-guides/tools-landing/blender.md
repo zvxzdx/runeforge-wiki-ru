@@ -2,7 +2,7 @@
 title: Blender
 description: A starting guide to using Blender for League modding
 published: true
-date: 2024-02-11T14:45:41.115Z
+date: 2024-02-11T14:45:56.254Z
 tags: guide, tools, 3d, modelling, animation, blender
 editor: markdown
 dateCreated: 2024-02-10T14:01:52.224Z
@@ -92,6 +92,6 @@ After saving your FBX file convert it back to .skn and .skl using one of the too
  You most likely forgot to flip the normals of the mesh.
   ## Other issues
   Refer to the LtMAO lol2fbx guide for any encountered errors.
-  
+  <!--ADD LINKS TO STUFF-->
   
   
