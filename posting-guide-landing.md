@@ -2,7 +2,7 @@
 title: All Guides for Posting
 description: Posting pages in this wiki can be tricky, so here is a list for all the waays you can post here!
 published: true
-date: 2024-02-11T22:34:27.601Z
+date: 2024-02-11T22:36:11.156Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-08T13:36:33.153Z
@@ -94,10 +94,10 @@ This will be printed out so:
 Another great feature is the customizability of those links. You can add an anker point for example which would directly scroll to the header you want, simply add the #(ankerlink) behind it.
 
 Example:
-`[Link me to this position](/posting-guide-landing#linking)` << keep in mind, the # needs to be the whole title, without any spaces, they become a dash "-".
+`[Link me to this position](/posting-guide-landing#how-to-post)` << keep in mind, the # needs to be the whole title, without any spaces, they become a dash "-".
 
 This will printed out so:
-[Link me to this position](/posting-guide-landing#linking)
+[Link me to this position](/posting-guide-landing#how-to-post)
 
 Also a really fancy feature which is only doable in wiki.js is making a link a list, this is a bit more complicated to remember but you will get the hang of it. You need the core structure but as a list.
 
