@@ -2,7 +2,7 @@
 title: Filetypes Landing Page
 description: All filetypes listed here.
 published: true
-date: 2024-02-11T13:16:45.432Z
+date: 2024-02-11T13:23:13.220Z
 tags: filetypes
 editor: markdown
 dateCreated: 2024-02-10T14:08:46.366Z
@@ -18,7 +18,8 @@ All filetypes related to modding in League of Legends.
 
 # Modeling
 ## Program
-
+### .fbx
+3D model file. Can contain data such as meshes, skeletons, animations.
 <br>
 
 ## Universal
