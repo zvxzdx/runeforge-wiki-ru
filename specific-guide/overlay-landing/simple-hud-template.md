@@ -2,7 +2,7 @@
 title: Simple HUD Template by Yoru
 description: A short guide on how to use the "Simple HUD Template" made by Yoru Queen of Night
 published: false
-date: 2024-02-11T18:51:13.238Z
+date: 2024-02-11T18:54:34.760Z
 tags: hud, yoru, template, simple hud
 editor: markdown
 dateCreated: 2024-02-11T18:16:47.335Z
@@ -58,7 +58,7 @@ There will also be gray colored folders called “Empty layers for actions (Igno
 
 ## Video Guide
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9BMv-_M00ac?si=iTRmwuOCGid9OnJQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9BMv-_M00ac?si=iTRmwuOCGid9OnJQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 
