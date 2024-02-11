@@ -2,7 +2,7 @@
 title: Filetypes Landing Page
 description: All filetypes listed here.
 published: true
-date: 2024-02-11T13:24:21.613Z
+date: 2024-02-11T13:26:45.720Z
 tags: filetypes
 editor: markdown
 dateCreated: 2024-02-10T14:08:46.366Z
@@ -20,6 +20,8 @@ All filetypes related to modding in League of Legends.
 ## Program
 ### .fbx
 3D model file. Can contain data such as mesh, material, texture, and skeletal animation data.
+### .gltf
+glTF is a standard file format for three-dimensional scenes and models.
 <br>
 
 ## Universal
