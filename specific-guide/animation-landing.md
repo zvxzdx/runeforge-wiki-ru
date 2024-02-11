@@ -2,7 +2,7 @@
 title: Animation Landing Page
 description: All guides listed here.
 published: true
-date: 2024-02-11T22:04:40.480Z
+date: 2024-02-11T22:08:29.712Z
 tags: animation, animate
 editor: markdown
 dateCreated: 2024-02-06T17:04:47.520Z
@@ -13,7 +13,7 @@ This page is under construction!
 {.is-info}
 
 # Basic Guides
-- [Importing and Exporting Animations](/specific-guide/coding-landing/man-edit-vfxcolor)
+- [Importing and Exporting Animations](/core-guides/tools-landing/maya)
 {.links-list}
 
 # Advanced Guides
