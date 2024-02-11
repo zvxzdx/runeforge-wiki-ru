@@ -2,7 +2,7 @@
 title: Blender
 description: A starting guide to using Blender for League modding
 published: true
-date: 2024-02-11T17:15:46.900Z
+date: 2024-02-11T21:12:24.769Z
 tags: guide, tools, 3d, modelling, animation, blender
 editor: markdown
 dateCreated: 2024-02-10T14:01:52.224Z
@@ -22,8 +22,9 @@ Steam Blender has 2 differences from the standalone version.
 If you don't need multiple Blender instances open and you like automatic updates you can get Blender from Steam.
 
 ### Downloads
-<a href="https://store.steampowered.com/app/365670/Blender/">Steam Blender download</a> (*requires a Steam account*)
-<a href="https://www.blender.org/download/">Standalone Blender download</a>
+- <a href="https://store.steampowered.com/app/365670/Blender/">Steam Blender download</a> (*requires a Steam account*)
+- <a href="https://www.blender.org/download/">Standalone Blender download</a>
+{.links-list}
 
 ---
 # What you can and cannot do in Blender
