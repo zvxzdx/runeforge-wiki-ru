@@ -2,11 +2,26 @@
 title: Animation Landing Page
 description: All guides listed here.
 published: true
-date: 2024-02-09T14:26:06.906Z
+date: 2024-02-11T21:58:21.458Z
 tags: animation, animate
 editor: markdown
 dateCreated: 2024-02-06T17:04:47.520Z
 ---
 
->Oh shucks!
-This Page is still a messy place. But don't be afraid, we add new content as soon as we can!{.is-danger}
+>WIP
+This page is under construction!
+{.is-info}
+# Animation
+This guide will help you export your own animations for League modding.
+
+## Tools Needed
+<!--ADD LINKS TO THE DIFFERENT TOOL-->
+- Obsidian
+- RitoBin
+- Maya (with LoLMaya)
+
+IMPORTANT!!!! THE CURRENT METHODS DO NOT WORK IN BLENDER, ONLY MAYA
+
+## Getting Started
+
+
