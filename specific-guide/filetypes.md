@@ -2,7 +2,7 @@
 title: Filetypes Landing Page
 description: All filetypes listed here.
 published: true
-date: 2024-02-11T19:05:08.496Z
+date: 2024-02-11T19:58:46.146Z
 tags: filetypes
 editor: markdown
 dateCreated: 2024-02-10T14:08:46.366Z
@@ -51,6 +51,9 @@ The animation file for a League of Legends skeleton.
 # Coding
 ### .bin
 Code that reads every file and makes the logic to get it to work in game; something like the brain of the game.
+
+### .py
+A Python file.
 <br>
 
 # Sound FX
