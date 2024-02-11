@@ -2,7 +2,7 @@
 title: All Guides for Posting
 description: Posting pages in this wiki can be tricky, so here is a list for all the waays you can post here!
 published: true
-date: 2024-02-10T13:58:47.706Z
+date: 2024-02-11T19:26:36.009Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-08T13:36:33.153Z
@@ -61,7 +61,7 @@ You are allowed to edit existing pages, which does not mean, that you can write 
 Since some guides might need files, you may want to upload them. In order to do that, you can create a folder with your name and manage it on your own. Here is a tiny guide on how to do that.
 
 1. Get into edit mode of any page
-2. Click on "inster assets" on the sidebar (the folder Icon)
+2. Click on "instert assets" on the sidebar (the folder Icon)
 3. Click on user-pictures
 4. Click on "New Folder" 
 ![new-folder.png](/user-pictures/vector/new-post-guide/new-folder.png)
