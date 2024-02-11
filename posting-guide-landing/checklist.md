@@ -2,7 +2,7 @@
 title: Contributor Checklist
 description: A list with all transferable guides and tutorial from Runeforge to the Wiki.
 published: true
-date: 2024-02-11T21:23:47.353Z
+date: 2024-02-11T22:52:44.104Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-11T20:22:14.142Z
@@ -13,7 +13,6 @@ dateCreated: 2024-02-11T20:22:14.142Z
 # High Priority
 
 - [ ] [Creating a 3D custom skin in Maya 2018](https://www.runeforge.io/post/creating-a-3d-custom-skins-in-maya-2018)
-- [ ] [Obsidian guide](https://www.runeforge.io/obsidian)
 - [ ] [Ritobin guide](https://www.runeforge.io/ritobin)
 - [ ] [Hacksaw guide](https://www.runeforge.io/hacksaw)
 - [ ] [lol2gltf guide](https://www.runeforge.io/lol2gltf)
@@ -61,4 +60,5 @@ dateCreated: 2024-02-11T20:22:14.142Z
 
 - [x] [Simple Hud by Yoru](https://wiki.runeforge.io/specific-guide/overlay-landing/simple-hud-template)
 - [x] [Manually editing VFX colors in Bins by Yoru](https://wiki.runeforge.io/en/specific-guide/coding-landing/man-edit-vfxcolor)
+- [x] [Obsidian guide](/core-guides/tools-landing/obsidian)
 
