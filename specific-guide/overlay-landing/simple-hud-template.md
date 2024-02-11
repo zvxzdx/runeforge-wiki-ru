@@ -2,7 +2,7 @@
 title: Simple HUD Template by Yoru
 description: A short guide on how to use the "Simple HUD Template" made by Yoru Queen of Night
 published: true
-date: 2024-02-11T19:00:57.756Z
+date: 2024-02-11T19:22:14.222Z
 tags: hud, yoru, template, simple hud
 editor: markdown
 dateCreated: 2024-02-11T18:16:47.335Z
@@ -22,8 +22,15 @@ If you use this template, please credit it properly and link back to this page.
 ## Nessecary tools
 - [Yoru's Template *Download the .zip file and extract it to the folder "UI.wad.client"*](https://drive.google.com/file/d/1_Hkgvk2E0BL7-wdAazjzKx_cXaTWwW5i/view?pli=1)
 - [Photoshop *Paid Program to edit picture files*](/core-guides/tools-landing/adobe/photoshop)
+{.links-list}
+
+**PLUS** one of the Plugin options:
+
 - [PLUGIN: Nvidia Texture Tool *Plugin for Photoshop to edit .dds files | ONLY USABLE if you have a Nvidia Graphics card*](https://developer.nvidia.com/nvidia-texture-tools-exporter)
 - [PLUGIN: Intel Texture Works *Plugin for Photoshop to edit .dds files | USABLE if you don't have a Nvidia Graphics card*](https://www.intel.com/content/www/us/en/developer/articles/tool/intel-texture-works-plugin.html)
+{.links-list}
+
+Optional if you dont have Photoshop:
 - [Photopea *No guarantee, web version of Photoshop*](https://www.photopea.com/)
 {.links-list}
 
