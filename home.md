@@ -2,17 +2,17 @@
 title: Home
 description: Runeforge Wiki Main Page
 published: true
-date: 2024-02-11T13:25:08.899Z
+date: 2024-02-11T14:44:49.128Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-07T11:55:37.251Z
 ---
 
-> **Construction ahead!**
-> We currently change the domain name for the Runeforge Wiki! This will lead to many issues with the webpage during the transfer, please be patient until we finished construction. 
->
->For savety, Discord and Github login methods got disabled temporary
-{.is-danger}
+> **Construction successful!**
+> The transfer to the new domain was successul, we currently work on re-linking all pages and assets.  
+>Login currently only possible via E-Mail
+>Registration currently only via E-Mail
+{.is-warning}
 
 
 # Welcome to the Runeforge Wiki
