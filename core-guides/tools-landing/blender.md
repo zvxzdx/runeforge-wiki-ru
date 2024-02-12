@@ -2,7 +2,7 @@
 title: Blender
 description: A starting guide to using Blender for League modding
 published: true
-date: 2024-02-11T22:51:36.600Z
+date: 2024-02-12T19:11:40.532Z
 tags: guide, tools, 3d, modelling, animation, blender
 editor: markdown
 dateCreated: 2024-02-10T14:01:52.224Z
@@ -45,7 +45,7 @@ You will need one of the listed tools if you are unable or do not want to use Au
 ## lol2gltf
 lol2gltf can convert .skn and .skl to the gltf format usable by Blender.
 
-Converting the gltf file back is not as user friendly and i recommend using lol2fbx in LtMAO.
+Converting the gltf file back is not as user friendly and i recommend using lol2fbx for that.
 
 If you wish to use <a href="lol2gltf">lol2gltf</a> refer to its guide page.
 <!--ADD LINKS TO EVERYTHING THAT NEEDS TO BE LINKED-->
@@ -58,14 +58,6 @@ If you wish to use <a href="lol2gltf">lol2gltf</a> refer to its guide page.
 
 Head to <a href="/core-guides/tools-landing/LtMAO">LtMAO</a> guide page to see how to use the tool, along with lol2fbx.
 
-Click on the download link and follow the installation instructions below.
-> ### <p><span style="color:#ffffff">Installation</span>
-> Download: <a href="https://github.com/tarngaina/LtMAO/archive/refs/heads/master.zip">LtMAO-master.zip</a>
-> Extract: <kbd>LtMAO-master.zip</kbd>
-> Run <kbd>LtMAO/start.bat</kbd>
->
-> <a href="https://github.com/tarngaina/LtMAO?tab=readme-ov-file">LtMAO GitHub page</a>
-> {.is-info}
 ---
 # Saving FBX to convert back
 You will need to select what you want and then export it as FBX.
