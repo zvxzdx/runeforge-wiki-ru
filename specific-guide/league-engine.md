@@ -1,8 +1,8 @@
 ---
-title: League Engine Guides
-description: All guides about the League of Legends Engine.
+title: Development
+description: All guides about the League of Legends Development.
 published: true
-date: 2024-02-12T14:21:23.193Z
+date: 2024-02-12T14:38:28.140Z
 tags: guide, engine
 editor: markdown
 dateCreated: 2024-02-12T14:21:23.193Z
