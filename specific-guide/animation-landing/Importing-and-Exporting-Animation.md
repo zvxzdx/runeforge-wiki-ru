@@ -2,7 +2,7 @@
 title: Importing and Exporting Animations
 description: A guide on how to import animations in Maya and export then for League modding
 published: true
-date: 2024-02-12T19:44:46.526Z
+date: 2024-02-12T19:49:08.770Z
 tags: animation
 editor: markdown
 dateCreated: 2024-02-12T01:46:49.842Z
@@ -37,7 +37,9 @@ Now, if you want to Export an animation, you will want to specify the frames you
 ![timeline_show-off.png](/user-pictures/goat/timeline_show-off.png =x300)
 Here, the animation lasts for 20 frames, but the frames are between frame 40 and 60. To select the frames you want to export, make sure the two numbers are the same in both boxes, so I type 40/40 and 60/60 (this will change depending on YOUR animation lenght)
 ![waving.gif](/user-pictures/goat/waving.gif =x325)
-
+This is not what you want
+![timeline_specification.png](/user-pictures/goat/timeline_specification.png)
+This is what you want
 ![timeline_specification2.png](/user-pictures/goat/timeline_specification2.png)
 The bar needs to be "full"
 
