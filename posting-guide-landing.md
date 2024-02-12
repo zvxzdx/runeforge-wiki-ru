@@ -2,7 +2,7 @@
 title: All Guides for Posting
 description: Posting pages in this wiki can be tricky, so here is a list for all the waays you can post here!
 published: true
-date: 2024-02-12T03:18:52.907Z
+date: 2024-02-12T14:20:02.640Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-08T13:36:33.153Z
@@ -71,7 +71,7 @@ Since some guides might need files, you may want to upload them. In order to do 
 **Remember: Don't use a space in naming your files and folders. They will do extra work in the future, so keep that in mind. Atm we dont have the ability do delete or rename folders!**
 
 # Markdown editor
-The usual markdown editor as known from other sites works here partially, so sometimes you run into issues. This part is ro understand how markdown works.
+The usual markdown editor as known from other sites works here partially, so sometimes you may run into issues. This part is t understand how markdown works.
 
 In order to get the hang of it here is what you can do in wiki.js: [Link](https://docs.requarks.io/en/editors/markdown) 
 
