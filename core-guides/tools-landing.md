@@ -2,7 +2,7 @@
 title: Tools Landing Page
 description: All tools listed here which contain general mostly short guides.
 published: true
-date: 2024-02-11T22:50:23.099Z
+date: 2024-02-12T10:11:31.812Z
 tags: tools, photoshop, maya, wwise, obsidian, cslol, visual studio, hacksaw, blender, ltmao, gimp
 editor: markdown
 dateCreated: 2024-02-06T17:01:25.224Z
@@ -80,6 +80,7 @@ General tools that aren't required for mod creation.
 
 -   [Gimp *Program to edit 2D files*](/core-guides/tools-landing/gimp)
 -   [Photopea (Browser) *Close Photoshop clone as a web application*](https://www.photopea.com/)
+-   [paint.net *A simple yet powerful program ideal for smaller edits*](/core-guides/tools-landing/paint.net)
 {.links-list}
 
 <br>
