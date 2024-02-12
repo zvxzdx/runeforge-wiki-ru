@@ -1,8 +1,8 @@
 ---
-title: Filetypes Landing Page
+title: Filetypes
 description: All filetypes listed here.
 published: true
-date: 2024-02-12T09:36:11.603Z
+date: 2024-02-12T14:40:40.577Z
 tags: filetypes
 editor: markdown
 dateCreated: 2024-02-10T14:08:46.366Z
