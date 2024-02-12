@@ -2,7 +2,7 @@
 title: Custom Skins in Blender - Starting guide
 description: A couple of videos(with a tutorial you can follow) to get started with the very basics of custom skinning
 published: false
-date: 2024-02-12T16:10:47.938Z
+date: 2024-02-12T16:11:51.723Z
 tags: 3d, modelling, blender
 editor: markdown
 dateCreated: 2024-02-12T16:10:47.938Z
@@ -16,10 +16,10 @@ This guide will help you start making custom skins on Blender, having the tools 
 - [lol2gltf(both the .exe and the CLI.exe)](https://github.com/Crauzer/lol2gltf/releases/tag/3.0.3)
 - [Paint NET](https://www.getpaint.net/download.html#download)
 ## Tool Instalation([Video Tutorial](https://www.youtube.com/watch?v=TQ683WcB2r4&list=PLs0PAKp5tPPvXdbtx012Or5-n9udpG00B))
-#### Blender
+### Blender
 - Download and run the installer
 - Blender should be now ready to be used
-#### Obsidian
+### Obsidian
 - Create a folder called "Obsidian"
 - **Copy all of** "Obsidian_X.X.X.zip" **onto said folder**)
 - Open "Obsidian.exe"
@@ -27,11 +27,11 @@ This guide will help you start making custom skins on Blender, having the tools 
 ![tutorial_04.png](/user-pictures/thisisquitter/blender_starting_guide/tutorial_04.png =x200)
 ![tut_06.png](/user-pictures/thisisquitter/blender_starting_guide/tut_06.png =x400)
 - Obsidian is now ready to be used
-#### lol2gltf
+### lol2gltf
 - Create a folder called "lol2gltf"
 - Copy both "lol2gltf.zip" and "lol2gltf.CLI.zip" into the folder
 - lol2gltf is now ready to be used by clicking "lol2gltf.exe"
-#### Paint NET
+### Paint NET
 - Download and run the installer
 - Paint NET should be ready to use after installation
 ## Extracting 3d model to edit in Blender([Video Tutorial](https://www.youtube.com/watch?v=HXfCIvMYYOY&list=PLs0PAKp5tPPvXdbtx012Or5-n9udpG00B&index=2))
