@@ -1,8 +1,8 @@
 ---
-title: General Guides Landing Page
+title: General Guides
 description: All guides listed here which contain general mostly short guides around all topics.
 published: true
-date: 2024-02-09T14:29:09.326Z
+date: 2024-02-12T14:39:47.242Z
 tags: guide, general, short, landing
 editor: markdown
 dateCreated: 2024-02-05T17:23:14.329Z
