@@ -2,83 +2,29 @@
 title: Filetypes Landing Page
 description: All filetypes listed here.
 published: true
-date: 2024-02-11T19:58:46.146Z
+date: 2024-02-12T09:36:11.603Z
 tags: filetypes
 editor: markdown
 dateCreated: 2024-02-10T14:08:46.366Z
 ---
 
 > **W.I.P**
-> This page is constantly worked on!
+> This page is under development
 {.is-info}
 
-All filetypes related to modding in League of Legends.
+All file formats used by the League of Legends engine.
 
 ---
-
-# Modeling
-## Program
-### .fbx
-3D model file. Can contain data such as mesh, material, texture, and skeletal animation data.
-### .gltf
-glTF is a standard file format for three-dimensional scenes and models.
-<br>
-
-## Universal
-### .skn
-The model file for League of Legends.
-### .skl
-The skeleton file for a model in League of Legends.
-### .scb
-Prop model file for League of Legends.
-### .sco
-Particle prop file for League of Legends.
-### .wad.client
-Combination of compressed files that is used to hold multiple files at once, those being textures, models, animations, sound effects, everything that a champion has.
-### .*en_US*.wad.client
-Exactly the same as .wad.client but specifically for voice lines for a champion in a language. "en_US" is the prefix for the english language in the game file. For more information about these, go to the [basic information about sound modding](/specific-guide/sfx-landing/basic-information).
-
-<br>
-
-# Animation
-
-## Universal
-### .anm
-The animation file for a League of Legends skeleton.
-
-<br>
-
-# Coding
-### .bin
-Code that reads every file and makes the logic to get it to work in game; something like the brain of the game.
-
-### .py
-A Python file.
-<br>
-
-# Sound FX
-### .wav
-Generic audio file format used before converting into the format that League of Legends can read.
-### .wem
-File format that the game reads. You can not use any other type of audio format to replace sounds
-### .bnk
-Format that contains all the compressed .wem files that a model can have. There are two distinctions of the formats: "events.bnk" and "audio.bnk"
-<br>
-
-# Texturing/ UI/ Visual FX
-## Program
-### .psd
-This is a [Photoshop](/core-guides/tools-landing/adobe/photoshop) file, which is used to store your work.
-### .dds
-Texture file used in several League of Legends files. *(e.g.: model texture, vfx, terrain)*
-### .tex
-Different texture file which is used in League of Legends. *(e.g. UI-Elements)*
-
-<br>
-
-# Misc Files
-### .zip
-A Winrar/ 7-Zip file which contains the mod in our case.
-
-### .fantome
-Same as .zip, it contains the mod files which can be read by [CS-LoL Manager](https://wiki.vecslab.com/en/core-guides/tools-landing/cslolmanager#install-a-mod)
+| Name                | Extension | Description                                                                 |
+|---------------------|-----------|-----------------------------------------------------------------------------|
+| Animation           | anm       | Stores (usually) compressed animation data                                  |
+| Direct Draw Surface | dds       | https://en.wikipedia.org/wiki/DirectDraw_Surface                            |
+| Property Bin        | bin       | Stores object properties in a hierarchical tree format (game configuration) |
+| Simple Skin         | skn       | Stores rigged mesh data of characters                                       |
+| Skeleton            | skl       | Stores skeleton data for a rigged mesh (skn) usually using the same name    |
+| Static Object       | sco       | Static mesh data stored in ASCII text format                                |
+| Static Object       | scb       | Static mesh data stored in a binary format                                  |
+| Texture             | tex       | Proprietary texture format which can store BCn, ETC and raw block data      |
+| Vorbis Audio        | wem       | Vorbis-encoded audio data                                                   |
+| Wad                 | .wad.*    | Game data storage archive, stores all of the game data                      |
+| Wwise Bank          | .bnk      | Wwise audio bank - contains events/sound effects                            |
