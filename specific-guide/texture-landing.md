@@ -1,8 +1,8 @@
 ---
-title: Texturing Landing Page
+title: Texturing
 description: All guides listed here.
 published: true
-date: 2024-02-11T20:00:08.244Z
+date: 2024-02-12T14:41:11.890Z
 tags: texturing, texture
 editor: markdown
 dateCreated: 2024-02-06T17:04:08.844Z
