@@ -2,7 +2,7 @@
 title: Animation Landing Page
 description: All guides listed here.
 published: true
-date: 2024-02-11T22:17:55.285Z
+date: 2024-02-12T01:48:50.762Z
 tags: animation, animate
 editor: markdown
 dateCreated: 2024-02-06T17:04:47.520Z
@@ -13,6 +13,8 @@ This page is under construction!
 {.is-info}
 
 # Basic Guides
+- [Importing and Exporting Animations](/specific-guide/animation-landing/Importing-and-Exporting-Animation)
+{.links-list}
 
 
 # Advanced Guides
