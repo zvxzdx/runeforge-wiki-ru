@@ -1,8 +1,8 @@
 ---
-title: Animation Landing Page
+title: Animation
 description: All guides listed here.
 published: true
-date: 2024-02-12T14:23:56.450Z
+date: 2024-02-12T14:40:14.287Z
 tags: animation, animate
 editor: markdown
 dateCreated: 2024-02-06T17:04:47.520Z
