@@ -2,7 +2,7 @@
 title: Lol2gltf
 description: A guide on how to install and use lol2gltf
 published: true
-date: 2024-02-12T20:30:56.573Z
+date: 2024-02-12T20:59:00.097Z
 tags: guide, install, lol2gltf
 editor: markdown
 dateCreated: 2024-02-12T20:30:56.573Z
@@ -34,11 +34,13 @@ This page will explain lol2gltf and its features
 ![lol2gltftut.png](/user-pictures/thisisquitter/blender_starting_guide/lol2gltftut.png)
 - The file is now exported where you selected with the <kbd>.glb</kbd> file format.
 ## Importing to blender
-> When importing to blender, **ALWAYS PUT THE BONE DIR MODE** TO <kbd>Blender(best for re-importing)</kbd>
-![imagem_2024-02-12_153307903.png](/user-pictures/thisisquitter/blender_starting_guide/imagem_2024-02-12_153307903.png =x270)
-If you don't do it, when you re-import the skin, it will look wonky since the bones changed positions
-![malformed_udyr.png](/user-pictures/thisisquitter/blender_starting_guide/malformed_udyr.png =x300)
+>  When importing to blender, remember to put the `Bone Dir` to  <kbd>Blender(best for re-importing)</kbd> 
+If you forget to do so, the bones will be adjuste for blender, and during re importion, it will deform your skin
 {.is-warning}
+
+![bonedir.png](/user-pictures/thisisquitter/blender_starting_guide/bonedir.png)
+
+![malformed_udyr.png](/user-pictures/thisisquitter/blender_starting_guide/malformed_udyr.png =x300)
 ## Exporting from .gltf to .skn
 - Save the 3D Model in Blender as a GLTF 2.0  file
 - Modify the following command to fit your files
