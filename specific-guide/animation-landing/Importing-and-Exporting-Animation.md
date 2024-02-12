@@ -2,7 +2,7 @@
 title: Importing and Exporting Animations
 description: A guide on how to import animations in Maya and export then for League modding
 published: true
-date: 2024-02-12T03:52:14.883Z
+date: 2024-02-12T03:58:12.548Z
 tags: animation
 editor: markdown
 dateCreated: 2024-02-12T01:46:49.842Z
@@ -16,7 +16,7 @@ This guide will help you import animations in maya and export them for League mo
 - Maya (with LoLmaya)
 
 ### Before you begin animation stuff
-I strongly suggest you first get familiar with how to import .skn and .skl .
+I strongly suggest you first get familiar with how to import <a href="/en/specific-guide/filetypes#skn">.skn</a> and [.skl](/en/specific-guide/filetypes#skl).
 
 ## Importing
 
@@ -28,7 +28,7 @@ Once extracted, navigate to the location where you extracted it and find the ani
 
 ### Importing the animation in Maya
 
-With the model in the scene (import the .skn and .skl first), simply drag and drop the animation you want to see in the viewport, and VOILA, you have your funny Blitzcrank walk in the Maya scene.
+With the model in the scene (import the <a href="/en/specific-guide/filetypes#skn">.skn</a> and [.skl](/en/specific-guide/filetypes#skl) first), simply drag and drop the animation you want (should be <a href="/en/specific-guide/filetypes#anm">.anm</a>) to see in the viewport, and VOILA, you have your funny Blitzcrank walk in the Maya scene.
 ![cry_about_it.gif](/user-pictures/goat/cry_about_it.gif =x300)
 
 ## Exporting
@@ -43,7 +43,7 @@ The bar needs to be "full"
 To export, select file > Export All 
 ![export_all.png](/user-pictures/goat/export_all.png)
 
-Then, select the animation you want to replace and make sure you export as .anm
+Then, select the animation you want to replace and make sure you export as <a href="/en/specific-guide/filetypes#anm">.anm</a>
 
 ![export_has_anm.png](/user-pictures/goat/export_has_anm.png =x400)
 
