@@ -1,8 +1,8 @@
 ---
-title: Coding Landing Page
+title: Coding
 description: All guides listed here.
 published: true
-date: 2024-02-12T14:24:37.845Z
+date: 2024-02-12T14:40:25.707Z
 tags: coding, code
 editor: markdown
 dateCreated: 2024-02-06T17:07:09.342Z
