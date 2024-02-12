@@ -2,7 +2,7 @@
 title: Importing and Exporting Animations
 description: A guide on how to import animations in Maya and export then for League modding
 published: true
-date: 2024-02-12T03:58:12.548Z
+date: 2024-02-12T04:08:08.246Z
 tags: animation
 editor: markdown
 dateCreated: 2024-02-12T01:46:49.842Z
@@ -23,7 +23,7 @@ I strongly suggest you first get familiar with how to import <a href="/en/specif
 ### Extracting what you need
 
 Firstly, you want to extract your desired Champion folder with Obsidian (for this post, I will be working with Blitzcrank). 
-![extracting_stuff.png](/user-pictures/goat/extracting_stuff.png)
+![extracting_stuff.png](/user-pictures/goat/extracting_stuff.png =x400)
 Once extracted, navigate to the location where you extracted it and find the animation folder (Should be something like assets\characters\character\skins\base\animations).
 
 ### Importing the animation in Maya
