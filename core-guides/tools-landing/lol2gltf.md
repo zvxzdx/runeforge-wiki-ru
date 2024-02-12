@@ -2,7 +2,7 @@
 title: Lol2gltf
 description: A guide on how to install and use lol2gltf
 published: true
-date: 2024-02-12T20:59:00.097Z
+date: 2024-02-12T21:04:07.104Z
 tags: guide, install, lol2gltf
 editor: markdown
 dateCreated: 2024-02-12T20:30:56.573Z
@@ -58,3 +58,11 @@ For my example, the command would be
 - Make sure there is only one single mesh, parented to one skeleton
 - Make sure the command is correct, and no <kbd>"</kbd> are missing or spelling mistakes are made
 - If you can't find the problem, don't hesitate to ask for help on Runeforge's discord
+
+## List of common errors
+
+> `Unhandled exception. System.ArgumentException: Parameter "LogicalMeshes" (System.Collections.Generic.IReadOnlyCollection<SharpGLTF.Schema2.Mesh>) must have a size equal to 1, had a size of <X>. (Parameter 'LogicalMeshes')` 
+
+File is not a single mesh, join all meshes
+
+
