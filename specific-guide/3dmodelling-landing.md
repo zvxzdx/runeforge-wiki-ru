@@ -1,8 +1,8 @@
 ---
-title: 3D Modelling Landing Page
+title: 3D Modelling
 description: All guides listed here.
 published: true
-date: 2024-02-09T14:25:41.633Z
+date: 2024-02-12T14:39:25.293Z
 tags: 3d, modelling, model
 editor: markdown
 dateCreated: 2024-02-06T17:03:29.274Z
