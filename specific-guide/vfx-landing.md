@@ -1,8 +1,8 @@
 ---
-title: Visual FX Landing Page
+title: Visual FX
 description: All guides listed here.
 published: true
-date: 2024-02-12T14:23:36.205Z
+date: 2024-02-12T14:41:41.104Z
 tags: vfx, visual fx
 editor: markdown
 dateCreated: 2024-02-06T17:06:02.394Z
