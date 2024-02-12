@@ -2,7 +2,7 @@
 title: All Guides for Posting
 description: Posting pages in this wiki can be tricky, so here is a list for all the waays you can post here!
 published: true
-date: 2024-02-11T22:36:11.156Z
+date: 2024-02-12T03:16:50.492Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-08T13:36:33.153Z
@@ -111,3 +111,22 @@ Thats the print:
 - [A Listed Link? *How fancy*]()
 - [And another Link? *This is crazy!*]()
 {.links-list}
+
+# Pictures
+Adding pictures is easy. Sidebar > Insert Asset > select and insert. Done.
+Sometimes you need to resize it since its to small, there is a simple way.
+
+Add a `=HEIGHTxWIDTH` with a space behind the image link.
+
+Example:
+`![emote+pg.nasus_v01.png](/user-pictures/vector/new-post-guide/emote+pg.nasus_v01.png =350x200)`
+
+Now this is what happens:
+![emote+pg.nasus_v01.png](/user-pictures/vector/new-post-guide/emote+pg.nasus_v01.png =350x200)
+
+whoops, sometimes images shouldnt be scaled directly so its easier to just adjust the height or width. In that case leave the number for either one free. Lets change the width for example:
+`![emote+pg.nasus_v01.png](/user-pictures/vector/new-post-guide/emote+pg.nasus_v01.png =x200)`
+
+Now this is printed:
+![emote+pg.nasus_v01.png](/user-pictures/vector/new-post-guide/emote+pg.nasus_v01.png =x200)
+Perfect, now you're ready to add pictures!
