@@ -2,7 +2,7 @@
 title: Custom Skins in Blender - Starting guide
 description: A couple of videos(with a tutorial you can follow) to get started with the very basics of custom skinning
 published: false
-date: 2024-02-12T16:11:51.723Z
+date: 2024-02-12T16:39:40.420Z
 tags: 3d, modelling, blender
 editor: markdown
 dateCreated: 2024-02-12T16:10:47.938Z
@@ -56,7 +56,7 @@ This guide will help you start making custom skins on Blender, having the tools 
 - Select your file
 - You should be able to see the model imported into blender
 - If the model has various materials interlapping eachother, you can hide them by changing them to "Alpha Clip" (see video for example)
-## Importing 3d Model back to League
+## Importing 3d Model back to League([Video Tutorial](https://youtu.be/Zkswkr_uEz4))
 - Save the 3D Model in Blender as a GLTF 2.0  file
 - Modify the following command to fit your files
 `lol2gltf.CLI.exe gltf2skn -g "skin exported from blender" -m "league of legends .skn file"`
@@ -71,9 +71,9 @@ For my example, the command would be
 ![imagem_2024-02-12_154851922.png](/user-pictures/thisisquitter/blender_starting_guide/imagem_2024-02-12_154851922.png =x400)![imagem_2024-02-12_154903496.png](/user-pictures/thisisquitter/blender_starting_guide/imagem_2024-02-12_154903496.png)
 ---
 ###### If it didnt work, check the following
-Make sure all the meshes are joined
-Make sure the command is correct
-Ask for help on Runeforge's Discord
+- Make sure all the meshes are joined
+- Make sure the command is correct
+- Ask for help on Runeforge's Discord
 
 ---
 - You can replace the skn and skl files inside "assets/character/briar/skin/base"
