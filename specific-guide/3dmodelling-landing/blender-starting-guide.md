@@ -1,8 +1,8 @@
 ---
 title: Custom Skins in Blender - Starting guide
 description: A couple of videos(with a tutorial you can follow) to get started with the very basics of custom skinning
-published: false
-date: 2024-02-12T16:39:40.420Z
+published: true
+date: 2024-02-12T16:41:58.907Z
 tags: 3d, modelling, blender
 editor: markdown
 dateCreated: 2024-02-12T16:10:47.938Z
