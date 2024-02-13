@@ -2,7 +2,7 @@
 title: Tools
 description: All tools listed here which contain general mostly short guides.
 published: true
-date: 2024-02-13T16:25:51.552Z
+date: 2024-02-13T18:39:10.383Z
 tags: tools, photoshop, maya, wwise, obsidian, cslol, visual studio, hacksaw, blender, ltmao, gimp
 editor: markdown
 dateCreated: 2024-02-06T17:01:25.224Z
@@ -25,7 +25,7 @@ General tools that aren't required for mod creation.
 
 ### Free
 
--   [Blender *Program to create, edit, animate or rig 3D models*](/core-guides/tools-landing/blender)
+-   [Blender *Program to create, edit, animate or rig 3D models*](/core-guides/tools/blender)
 -   [Autodesk Maya Student/ Trial *Program to create, edit, animate or rig 3D models*](/core-guides/tools-landing/maya)
 {.links-list}
 
