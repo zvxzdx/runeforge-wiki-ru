@@ -1,8 +1,8 @@
 ---
 title: Ritoddstex
 description: Ritoddstex tool guide
-published: false
-date: 2024-02-12T12:15:57.106Z
+published: true
+date: 2024-02-13T09:14:14.104Z
 tags: guide, tools, texturing, texture, 2d, ritoddstex
 editor: markdown
 dateCreated: 2024-02-12T12:15:57.106Z
@@ -27,3 +27,6 @@ This programm comes as standalone .exe file and doesn't require any installation
 
 # How to use
 
+> **Work in progress**
+> The page is not finished yet.
+{.is-danger}
