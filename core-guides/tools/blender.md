@@ -2,7 +2,7 @@
 title: Blender
 description: A starting guide to using Blender for League modding
 published: true
-date: 2024-02-13T10:44:35.720Z
+date: 2024-02-13T18:39:38.860Z
 tags: guide, tools, 3d, modelling, animation, blender
 editor: markdown
 dateCreated: 2024-02-10T14:01:52.224Z
@@ -43,11 +43,11 @@ Refer to the <a href="/core-guides/tools-landing/maya">Autodesk Maya</a> guide o
 # lol2gltf and LtMAO
 You will need one of the listed tools if you are unable or do not want to use Autodesk Maya.
 ## lol2gltf
-[lol2gltf](/core-guides/tools-landing/lol2gltf) can convert .skn and .skl to the gltf format usable by Blender.
+[lol2gltf](/core-guides/tools/lol2gltf) can convert .skn and .skl to the gltf format usable by Blender.
 
 Converting the gltf file back is not as user friendly and i recommend using lol2fbx for that.
 
-If you wish to use [lol2gltf](/core-guides/tools-landing/lol2gltf) refer to its guide page.
+If you wish to use [lol2gltf](/core-guides/tools/lol2gltf) refer to its guide page.
 <!--ADD LINKS TO EVERYTHING THAT NEEDS TO BE LINKED-->
 
 ---
