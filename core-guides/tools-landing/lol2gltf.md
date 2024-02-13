@@ -2,7 +2,7 @@
 title: Lol2gltf
 description: A guide on how to install and use lol2gltf
 published: true
-date: 2024-02-12T21:04:07.104Z
+date: 2024-02-13T10:43:23.241Z
 tags: guide, install, lol2gltf
 editor: markdown
 dateCreated: 2024-02-12T20:30:56.573Z
