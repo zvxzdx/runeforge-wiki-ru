@@ -2,7 +2,7 @@
 title: Importing and Exporting Animations
 description: A guide on how to import animations in Maya and export then for League modding
 published: true
-date: 2024-02-13T01:43:11.936Z
+date: 2024-02-13T01:46:55.720Z
 tags: animation
 editor: markdown
 dateCreated: 2024-02-12T01:46:49.842Z
@@ -44,7 +44,7 @@ This is what you want
 The bar needs to be "full"
 
 ### Exporting the animation
-To export, select file > Export All 
+To export, select File > Export All 
 ![export_all.png](/user-pictures/goat/export_all.png)
 
 Then, select the animation you want to replace and make sure you export as <a href="/en/specific-guide/filetypes#anm">.anm</a>
