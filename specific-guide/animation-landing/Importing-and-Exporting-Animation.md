@@ -2,7 +2,7 @@
 title: Importing and Exporting Animations
 description: A guide on how to import animations in Maya and export then for League modding
 published: true
-date: 2024-02-13T01:46:55.720Z
+date: 2024-02-13T10:38:12.972Z
 tags: animation
 editor: markdown
 dateCreated: 2024-02-12T01:46:49.842Z
