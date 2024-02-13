@@ -2,7 +2,7 @@
 title: Importing and Exporting Animations
 description: A guide on how to import animations in Maya and export then for League modding
 published: true
-date: 2024-02-12T19:49:08.770Z
+date: 2024-02-13T01:39:55.366Z
 tags: animation
 editor: markdown
 dateCreated: 2024-02-12T01:46:49.842Z
@@ -52,6 +52,8 @@ Then, select the animation you want to replace and make sure you export as <a hr
 ![export_has_anm.png](/user-pictures/goat/export_has_anm.png =x400)
 
 Annnnnd well done! You now know how to import and export animations for League models!
+
+![works.gif](/user-pictures/goat/works.gif =x450)
 
 
 
