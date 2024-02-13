@@ -2,7 +2,7 @@
 title: Coding
 description: All guides listed here.
 published: true
-date: 2024-02-12T14:40:25.707Z
+date: 2024-02-13T18:37:06.233Z
 tags: coding, code
 editor: markdown
 dateCreated: 2024-02-06T17:07:09.342Z
