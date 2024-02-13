@@ -2,7 +2,7 @@
 title: Edit Visual FX Colors manually
 description: A short guide on how to manually edit VFX colors in bin files.
 published: true
-date: 2024-02-11T22:55:54.143Z
+date: 2024-02-13T18:33:23.771Z
 tags: visual studio, vfx, code, bin, color
 editor: markdown
 dateCreated: 2024-02-11T19:57:31.882Z
