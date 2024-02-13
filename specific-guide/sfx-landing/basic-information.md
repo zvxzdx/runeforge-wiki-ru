@@ -2,7 +2,7 @@
 title: Basic Information
 description: Basic Information to do SFX modding!
 published: true
-date: 2024-02-10T21:19:20.259Z
+date: 2024-02-13T19:08:00.499Z
 tags: sfx, audio, voice over, sound effects, sound, effect, vo
 editor: markdown
 dateCreated: 2024-02-10T20:41:38.554Z
