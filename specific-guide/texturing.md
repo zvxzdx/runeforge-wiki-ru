@@ -2,7 +2,7 @@
 title: Texturing
 description: All guides listed here.
 published: true
-date: 2024-02-13T10:42:42.593Z
+date: 2024-02-13T10:42:54.910Z
 tags: texturing, texture
 editor: markdown
 dateCreated: 2024-02-06T17:04:08.844Z
