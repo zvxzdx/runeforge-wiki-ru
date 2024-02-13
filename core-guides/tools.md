@@ -2,7 +2,7 @@
 title: Tools
 description: All tools listed here which contain general mostly short guides.
 published: true
-date: 2024-02-13T11:55:23.670Z
+date: 2024-02-13T16:25:51.552Z
 tags: tools, photoshop, maya, wwise, obsidian, cslol, visual studio, hacksaw, blender, ltmao, gimp
 editor: markdown
 dateCreated: 2024-02-06T17:01:25.224Z
@@ -81,7 +81,7 @@ General tools that aren't required for mod creation.
 -   [Gimp *Program to edit 2D files*](/core-guides/tools-landing/gimp)
 -   [Photopea (Browser) *Close Photoshop clone as a web application*](https://www.photopea.com/)
 -   [paint.net *Program to edit 2D files*](/core-guides/tools-landing/paintdotnet)
--   [Ritoddstex (tex2dds) *Programm to convert files between .tex and .dds*](/core-guides/tools-landing/ritoddstex)
+-   [Ritoddstex (tex2dds) *Programm to convert files between .tex and .dds*](/core-guides/tools/ritoddstex)
 {.links-list}
 
 <br>
