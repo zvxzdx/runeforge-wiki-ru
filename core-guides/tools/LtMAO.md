@@ -2,7 +2,7 @@
 title: LtMAO
 description: A guide on how to install and use LtMAO.
 published: true
-date: 2024-02-14T22:05:56.334Z
+date: 2024-02-14T22:06:38.723Z
 tags: guide, install, ltmao
 editor: markdown
 dateCreated: 2024-02-11T19:27:37.139Z
@@ -67,7 +67,7 @@ Just <a href="cslolmanager">cslol-manager</a>, but different UI.
 		+ Joint hashes -> joint names in SKL.
 		+ Submesh hashes -> submesh names in SKN.
 	- game:
-		+ File path that starts with <kbd style="background-color:#343942">assets/</kbd> or <kbd style="background-color:#343942">data/</kbd> in BIN. If file type is <a href="/en/core-guides/filetypes#dds">.dds</a>, extract 2x, 4x dds too.
+		+ File path that starts with <kbd style="background-color:#343942">assets/</kbd> or <kbd style="background-color:#343942">data/</kbd> in BIN. If file type is <a href="/en/specific-guides/filetypes#dds">.dds</a>, extract 2x, 4x dds too.
 
 3. Custom Hashes:
 
