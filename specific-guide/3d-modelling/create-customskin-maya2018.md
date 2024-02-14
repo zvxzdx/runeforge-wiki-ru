@@ -2,14 +2,14 @@
 title: Create a skin in Maya 2018
 description: This guide will show you how to create your very own custom skin with Maya 2018
 published: true
-date: 2024-02-14T22:26:26.049Z
+date: 2024-02-14T23:09:29.292Z
 tags: guide, maya, 2018, custom skin
 editor: markdown
 dateCreated: 2024-02-14T22:23:02.802Z
 ---
 
 > Work ahead!
-> We want to write this guide out instead of linking a video. If you want to help use out: [Click here](/posting-guide/apply-as-contributor)
+> We want to write this guide out instead of linking a video. If you want to help us out: [Click here](/posting-guide/apply-as-contributor)
 {.is-info}
 
 
