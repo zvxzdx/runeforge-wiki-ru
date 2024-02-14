@@ -2,7 +2,7 @@
 title: Tools
 description: All tools listed here which contain general mostly short guides.
 published: true
-date: 2024-02-13T18:58:53.471Z
+date: 2024-02-14T17:50:50.411Z
 tags: tools, photoshop, maya, wwise, obsidian, cslol, visual studio, hacksaw, blender, ltmao, gimp
 editor: markdown
 dateCreated: 2024-02-06T17:01:25.224Z
@@ -14,8 +14,8 @@ All tools availabe for creating and using mods! This page is sorted by categorie
 
 Necessary tools for creating mods.
 
--   [CS-Lol Manager *Main program to install mods and create mod packages*](/core-guides/tools-landing/cslolmanager)
--   [Obsidian *Main program to extract and browse Leagues gamefiles.*](/core-guides/tools-landing/obsidian)
+-   [CS-Lol Manager *Main program to install mods and create mod packages*](/core-guides/tools/cslolmanager)
+-   [Obsidian *Main program to extract and browse Leagues gamefiles.*](/core-guides/tools/obsidian)
 {.links-list}
 ---
 General tools that aren't required for mod creation.
@@ -26,14 +26,14 @@ General tools that aren't required for mod creation.
 ### Free
 
 -   [Blender *Program to create, edit, animate or rig 3D models*](/core-guides/tools/blender)
--   [Autodesk Maya Student/ Trial *Program to create, edit, animate or rig 3D models*](/core-guides/tools-landing/maya)
+-   [Autodesk Maya Student/ Trial *Program to create, edit, animate or rig 3D models*](/core-guides/tools/maya)
 {.links-list}
 
 <br>
 
 ### Paid
 
--   [Autodesk Maya *Program to create, edit, animate or rig 3D models*](/core-guides/tools-landing/maya)
+-   [Autodesk Maya *Program to create, edit, animate or rig 3D models*](/core-guides/tools/maya)
 {.links-list}
 
 <br>
@@ -42,14 +42,14 @@ General tools that aren't required for mod creation.
 
 ### Free
 
-- [Blender *Program to create, edit, animate or rig 3D models*](/core-guides/tools-landing/blender)
+- [Blender *Program to create, edit, animate or rig 3D models*](/core-guides/tools/blender)
 {.links-list}
 
 <br>
 
 ### Paid
 
--   [Autodesk Maya *Program to create, edit, animate or rig 3D models*](/core-guides/tools-landing/maya)
+-   [Autodesk Maya *Program to create, edit, animate or rig 3D models*](/core-guides/tools/maya)
 {.links-list}
 
 <br>
@@ -58,9 +58,9 @@ General tools that aren't required for mod creation.
 
 ### Free
 
--   [Visual Studio Code *Feature rich tool to read, create or edit code*](/core-guides/tools-landing/visual-studio)
--   [Notepad++ *Simple program to read, create or edit code*](/core-guides/tools-landing/notepadplusplus)
--   [Hacksaw *Tool to modify League specific bin-file color variables*](/core-guides/tools-landing/hacksaw)
+-   [Visual Studio Code *Feature rich tool to read, create or edit code*](/core-guides/tools/visual-studio)
+-   [Notepad++ *Simple program to read, create or edit code*](/core-guides/tools/notepadplusplus)
+-   [Hacksaw *Tool to modify League specific bin-file color variables*](/core-guides/tools/hacksaw)
 {.links-list}
 
 <br>
@@ -69,7 +69,7 @@ General tools that aren't required for mod creation.
 
 ### Free
 
--   [Wwise *Program to create or edit Sound banks for games*](/core-guides/tools-landing/wwise)
+-   [Wwise *Program to create or edit Sound banks for games*](/core-guides/tools/wwise)
 {.links-list}
 
 <br>
@@ -88,8 +88,8 @@ General tools that aren't required for mod creation.
 
 ### Paid
 
--   [Adobe Photoshop *Program to edit 2D files*](/core-guides/tools-landing/adobe/photoshop)
--   [Adobe Substance Painter *Program to edit textures on a 3D model in a 2D or 3D environment*](/core-guides/tools-landing/adobe/substance-painter)
+-   [Adobe Photoshop *Program to edit 2D files*](/core-guides/tools/adobe/photoshop)
+-   [Adobe Substance Painter *Program to edit textures on a 3D model in a 2D or 3D environment*](/core-guides/tools/adobe/substance-painter)
 {.links-list}
 
 <br>
@@ -98,14 +98,14 @@ General tools that aren't required for mod creation.
 
 ### Free
 
--   [Gimp *Program to edit 2D files*](/core-guides/tools-landing/gimp)
+-   [Gimp *Program to edit 2D files*](/core-guides/tools/gimp)
 -   [Photopea (Browser) *Program to edit 2D files*](https://www.photopea.com/)
--   [Hacksaw *Tool to modify League specific bin-file color variables*](/core-guides/tools-landing/hacksaw)
+-   [Hacksaw *Tool to modify League specific bin-file color variables*](/core-guides/tools/hacksaw)
 {.links-list}
 
 <br>
 
 ### Paid
 
--  [Adobe Photoshop *Program to edit 2D files*](/core-guides/tools-landing/adobe/photoshop)
+-  [Adobe Photoshop *Program to edit 2D files*](/core-guides/tools/adobe/photoshop)
 {.links-list}
