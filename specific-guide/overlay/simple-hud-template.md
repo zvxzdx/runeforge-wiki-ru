@@ -2,7 +2,7 @@
 title: Simple HUD Template by Yoru
 description: A short guide on how to use the "Simple HUD Template" made by Yoru Queen of Night
 published: true
-date: 2024-02-11T22:54:20.828Z
+date: 2024-02-14T17:55:02.440Z
 tags: hud, yoru, template, simple hud
 editor: markdown
 dateCreated: 2024-02-11T18:16:47.335Z
@@ -21,7 +21,7 @@ If you use this template, please credit it properly and link back to this page.
 
 ## Nessecary tools
 - [Yoru's Template *Download the .zip file and extract it to the folder "UI.wad.client"*](https://drive.google.com/file/d/1_Hkgvk2E0BL7-wdAazjzKx_cXaTWwW5i/view?pli=1)
-- [Photoshop *Paid Program to edit picture files*](/core-guides/tools-landing/adobe/photoshop)
+- [Photoshop *Paid Program to edit picture files*](/core-guides/tools/adobe/photoshop)
 {.links-list}
 
 **PLUS** one of the Plugin options:
@@ -35,7 +35,7 @@ Optional if you dont have Photoshop:
 {.links-list}
 
 **Season 12 Update:**
-Due to changes in filetype to .tex files you now need to convert all [.dds](https://wiki.runeforge.io/en/specific-guide/filetypes#dds) files into [.tex](https://wiki.runeforge.io/en/specific-guide/filetypes#tex) files after editing:
+Due to changes in filetype to .tex files you now need to convert all [.dds](/specific-guide/filetypes) files into [.tex](/specific-guide/filetypes) files after editing:
 - [Tex2DDS by Morilli *Tool to convert .dds files into .tex*](https://github.com/Morilli/Ritoddstex/releases)
 {.links-list}
 
@@ -43,7 +43,7 @@ Due to changes in filetype to .tex files you now need to convert all [.dds](http
 
 ## Infos
 
-The layers (should) have the same name in all of the [.psd](/specific-guide/filetypes#psd) files.They are also color coded:
+The layers (should) have the same name in all of the .psd files.They are also color coded:
 
 | Color | Description |
 | --- | --- | --- |
