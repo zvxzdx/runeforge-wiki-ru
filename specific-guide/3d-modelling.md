@@ -2,7 +2,7 @@
 title: 3D Modelling
 description: All guides listed here.
 published: true
-date: 2024-02-14T22:46:43.968Z
+date: 2024-02-14T23:09:40.858Z
 tags: 3d, modelling, model
 editor: markdown
 dateCreated: 2024-02-06T17:03:29.274Z
