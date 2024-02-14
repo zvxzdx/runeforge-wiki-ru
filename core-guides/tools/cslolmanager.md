@@ -2,7 +2,7 @@
 title: CS-LoL Manager
 description: The tool to install and create mod packages.
 published: true
-date: 2024-02-11T17:49:11.055Z
+date: 2024-02-14T22:45:26.004Z
 tags: guide, cslol, tool, install, update, conflict, error
 editor: markdown
 dateCreated: 2024-02-07T11:36:31.919Z
@@ -78,3 +78,8 @@ And that’s it! Now when you run the mods, the files of the top mod will get pr
 
 ## Error Codes/ Messages
 ### This section will be filled, once CS-LoL will include error codes.
+
+# Sources
+
+- Nagilian
+- Vector
