@@ -2,7 +2,7 @@
 title: LtMAO
 description: A guide on how to install and use LtMAO.
 published: true
-date: 2024-02-13T18:30:13.137Z
+date: 2024-02-14T21:05:59.007Z
 tags: guide, install, ltmao
 editor: markdown
 dateCreated: 2024-02-11T19:27:37.139Z
@@ -13,7 +13,7 @@ This page is under construction and could use contribution!
 {.is-warning}
 
 # LtMAO
-This page will explain the LtMAO tool and all of its features.
+This page will explain the LtMAO tool made by Tarngaina and all of its features.
 
 ---
 ## Download and Installation
@@ -26,18 +26,70 @@ This page will explain the LtMAO tool and all of its features.
 {.links-list}
 ---
 ## cslmao
-This is basically the same as <a href="cslol">CsLol</a> except the interface is a little different.
-## leaguefile_inspector
-  TBA
-## animask_viewer
-  TBA
-## hash_manager
-  TBA
-  ## vo_helper
-TBA
-  ## no_skin
-  This option will create a mod that disabled (almost) all riot skins and turns every champion to the default skin.
+Just <a href="cslolmanager">cslol-manager</a>, but different UI.
+
+<u style="color:orange">Important: Need to set Game folder in setting tab first to work.</u>
   
+  ![cslmao.png](/user-pictures/bud/cslmao.png)
+---
+## leaguefile_inspector
+  View League files information.
+  
+  ![ltmaofileinspect.png](/user-pictures/bud/ltmaofileinspect.png)
+---
+## animask_viewer
+  Edit MaskData's weights inside animation BINs.
+  
+  ![animask.png](/user-pictures/bud/animask.png)
+---
+## hash_manager
+  ![hashmanager.png](/user-pictures/bud/hashmanager.png)
+  
+  <u style="color:orange">Important: Please wait for all syncing/updating/loading hashes finished before process with any <kbd style="background-color:#343942;color:orange">LtMAO</kbd> functions.</u>
+
+1. CDTB Hashes: Auto sync <a href="https://github.com/CommunityDragon/CDTB/tree/master/cdragontoolbox">CommunityDragon</a> hashes. Can also be manually downloaded at mentioned link.
+
+ <span>
+   
+2. Extracted Hashes: Extract personally by user.
+
+	<span>
+    
+   Hashes that can be extracted:
+
+	- binentries:
+		+ VfxSystemDefinitionData -> particlePath in BIN.
+		+ StaticMaterialDef -> name in BIN.
+	- binhashes:
+		+ Joint hashes -> joint names in SKL.
+		+ Submesh hashes -> submesh names in SKN.
+	- game:
+		+ File path that starts with <kbd style="background-color:#343942">assets/</kbd> or <kbd style="background-color:#343942">data/</kbd> in BIN. If file type is <a href="/e/en/core-guides/filetypes#dds">.dds</a>, extract 2x, 4x dds too.
+
+3. Custom Hashes:
+
+ 	- Custom Hashes is hashes that used with all LtMAO related functions: leaguefile_inspector, ritobin, wad_tool,...
+   
+	 - Custom Hashes = CDTB Hashes + Extracted Hashes + User Manually Added Hashes
+
+
+Also has generate wad & bin hash function. Those generated hashes can be added to Custom Hashes with <kbd style="background-color:#343942">-></kbd> buttons.
+   
+---
+  ## vo_helper
+Make the fantome work on all languages by cloning it.
+
+<u style="color:orange">Important: The audio inside fantome must also come with events file to make it work on other languages.</u>
+    
+![vohelper.png](/user-pictures/bud/vohelper.png)
+---
+  ## no_skin
+  Creates a mod that disables (almost) all riot skins and turns every champion to the default skin.
+    
+<kbd style="background-color:#343942">SKIPS.json</kbd>: Some skins cause League to crash when they get changed to base. This file tells the program to not change those skins to base.
+  
+![noskin.png](/user-pictures/bud/noskin.png)
+    
   Use it by clicking "Browse Champions folder" button and locating the Champions folder inside the game installation address.
 >The address should look like this: "\Riot Games\League of Legends\Game\DATA\FINAL\Champions"
 >{.is-info}
@@ -45,6 +97,8 @@ TBA
 Press the Start button and select the folder where you want the mod to be created.
   
   After the operation is completed select the .fantome file you got and put it in CsLol or cslmao.
+    
+ ---
   ## uvee
   TBA
   ## shrum
