@@ -2,7 +2,7 @@
 title: Edit Visual FX Colors manually
 description: A short guide on how to manually edit VFX colors in bin files.
 published: true
-date: 2024-02-13T18:33:23.771Z
+date: 2024-02-14T17:53:21.426Z
 tags: visual studio, vfx, code, bin, color
 editor: markdown
 dateCreated: 2024-02-11T19:57:31.882Z
@@ -11,13 +11,13 @@ dateCreated: 2024-02-11T19:57:31.882Z
 # Required tools
 
 Extractor and Converter:
-- [Obsidian *Tool to explore and export Riot Game files*](/core-guides/tools-landing/obsidian)
-- [Ritobin *Tools to translate bin files into Python files*](/core-guides/tools-landing/rito-bin)
+- [Obsidian *Tool to explore and export Riot Game files*](/core-guides/tools/obsidian)
+- [Ritobin *Tools to translate bin files into Python files*](/core-guides/tools/rito-bin)
 {.links-list}
 
 An code editor of your choice:
-- [Visual Studio Code (Requires Plugin) *Tool to create or edit code*](/core-guides/tools-landing/visual-studio)
-- [Notepad ++](/core-guides/tools-landing/notepadplusplus)
+- [Visual Studio Code (Requires Plugin) *Tool to create or edit code*](/core-guides/tools/visual-studio)
+- [Notepad ++](/core-guides/tools/notepadplusplus)
 {.links-list}
 
 If you choose Visual Studio Code, you need the [Python extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python) aswell!
