@@ -2,7 +2,7 @@
 title: Create a skin in Maya 2018
 description: This guide will show you how to create your very own custom skin with Maya 2018
 published: true
-date: 2024-02-14T23:13:25.392Z
+date: 2024-02-14T23:14:10.994Z
 tags: guide, maya, 2018, custom skin
 editor: markdown
 dateCreated: 2024-02-14T22:23:02.802Z
@@ -20,7 +20,7 @@ If you want to see the guide for Maya 2023, click the link down below.
 
 # Required Tools
 
-- [Maya 2018 *You have to download this manually, there is no specific guide*](/https://wiki.runeforge.io/core-guides/tools/maya)
+- [Maya 2018 *You have to download this manually, there is no specific guide*](/core-guides/tools/maya)
 - [Riot File Translator Plug-in *Provided by Yoru*](https://drive.google.com/file/d/1mDEyhK2H90LorVSeMu2JHxWihHTjG5aG/view)
 - [Any 2D editing software *Skip this step if you already have one*](/core-guides/tools#texturing)
 {.links-list}
