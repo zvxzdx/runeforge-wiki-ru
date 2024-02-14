@@ -2,7 +2,7 @@
 title: Contributor Checklist
 description: A list with all transferable guides and tutorial from Runeforge to the Wiki.
 published: true
-date: 2024-02-14T22:44:54.914Z
+date: 2024-02-14T23:19:03.433Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-11T20:22:14.142Z
@@ -12,7 +12,7 @@ dateCreated: 2024-02-11T20:22:14.142Z
 # High Priority
 
 - [ ] [lol2gltf guide](https://www.runeforge.io/lol2gltf)
-- [ ] [create 3D custom skin Maya 2023 by yoru](https://www.runeforge.io/post/maya-2023-creating-3d-custom-skins)
+
 
 
 
@@ -60,4 +60,5 @@ dateCreated: 2024-02-11T20:22:14.142Z
 - [x] [Creating a 3D custom skin in Maya 2018](/specific-guide/3d-modelling/create-customskin-maya2018)
 - [x] [Ritobin guide](/core-guides/tools/rito-bin)
 - [X] [Hacksaw guide](/core-guides/tools/hacksaw)
+- [x] [create 3D custom skin Maya 2023 by yoru](/specific-guide/3d-modelling/create-customskin-maya2023)
 
