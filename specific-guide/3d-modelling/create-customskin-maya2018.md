@@ -2,7 +2,7 @@
 title: Create a skin in Maya 2018
 description: This guide will show you how to create your very own custom skin with Maya 2018
 published: true
-date: 2024-02-14T23:09:29.292Z
+date: 2024-02-14T23:13:25.392Z
 tags: guide, maya, 2018, custom skin
 editor: markdown
 dateCreated: 2024-02-14T22:23:02.802Z
@@ -22,18 +22,8 @@ If you want to see the guide for Maya 2023, click the link down below.
 
 - [Maya 2018 *You have to download this manually, there is no specific guide*](/https://wiki.runeforge.io/core-guides/tools/maya)
 - [Riot File Translator Plug-in *Provided by Yoru*](https://drive.google.com/file/d/1mDEyhK2H90LorVSeMu2JHxWihHTjG5aG/view)
-- [Photoshop *Paid Program to edit picture files*](/core-guides/tools/adobe/photoshop)
+- [Any 2D editing software *Skip this step if you already have one*](/core-guides/tools#texturing)
 {.links-list}
-
-**PLUS** one of the Plugin options:
-
-- [PLUGIN: Nvidia Texture Tool *Plugin for Photoshop to edit .dds files | ONLY USABLE if you have a Nvidia Graphics card*](https://developer.nvidia.com/nvidia-texture-tools-exporter)
-- [PLUGIN: Intel Texture Works *Plugin for Photoshop to edit .dds files | USABLE if you don't have a Nvidia Graphics card*](https://www.intel.com/content/www/us/en/developer/articles/tool/intel-texture-works-plugin.html)
-{.links-list}
-
-<br>
-
-- [Photopea *No guarantee, web version of Photoshop | optional if you don't have Photoshop*](https://www.photopea.com/)
 - [.skl Updater *by Morilli, download "Latest" not "Pre-Alpha"*](https://github.com/Morilli/LeagueToolkit/releases)
 {.links-list}
 
