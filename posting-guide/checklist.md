@@ -2,12 +2,11 @@
 title: Contributor Checklist
 description: A list with all transferable guides and tutorial from Runeforge to the Wiki.
 published: true
-date: 2024-02-11T22:52:44.104Z
+date: 2024-02-14T17:57:48.959Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-11T20:22:14.142Z
 ---
-
 
 <!--add a Cross "[x]" if you completed a transfer and replace the link with the wiki version! Then move it to completed.-->
 # High Priority
@@ -58,7 +57,7 @@ dateCreated: 2024-02-11T20:22:14.142Z
 
 # Completed
 
-- [x] [Simple Hud by Yoru](https://wiki.runeforge.io/specific-guide/overlay-landing/simple-hud-template)
-- [x] [Manually editing VFX colors in Bins by Yoru](https://wiki.runeforge.io/en/specific-guide/coding-landing/man-edit-vfxcolor)
-- [x] [Obsidian guide](/core-guides/tools-landing/obsidian)
+- [x] [Simple Hud by Yoru](https://wiki.runeforge.io/specific-guide/ui/simple-hud-template)
+- [x] [Manually editing VFX colors in Bins by Yoru](https://wiki.runeforge.io/en/specific-guide/coding/man-edit-vfxcolor)
+- [x] [Obsidian guide](/core-guides/tools/obsidian)
 
