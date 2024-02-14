@@ -2,7 +2,7 @@
 title: Obsidian
 description: A tool to explore and export .wad archives.
 published: true
-date: 2024-02-11T22:48:08.462Z
+date: 2024-02-14T22:46:03.299Z
 tags: obsidian, tool, export, explorer
 editor: markdown
 dateCreated: 2024-02-08T18:19:22.298Z
@@ -51,3 +51,7 @@ Where we then click the boxes next to the files we wish to extract:
 ![extract.webp](/user-pictures/vector/new-post-guide/extract.webp)
 
 From there we go back to the top menu under the box icon, and click “Extract Selected” where we select the folder that we want to extract his files in. 
+
+# Sources
+
+- Nagiliant
