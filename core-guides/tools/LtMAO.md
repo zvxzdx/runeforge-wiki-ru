@@ -2,7 +2,7 @@
 title: LtMAO
 description: A guide on how to install and use LtMAO.
 published: true
-date: 2024-02-14T21:05:59.007Z
+date: 2024-02-14T21:58:05.194Z
 tags: guide, install, ltmao
 editor: markdown
 dateCreated: 2024-02-11T19:27:37.139Z
@@ -82,6 +82,7 @@ Make the fantome work on all languages by cloning it.
 <u style="color:orange">Important: The audio inside fantome must also come with events file to make it work on other languages.</u>
     
 ![vohelper.png](/user-pictures/bud/vohelper.png)
+    
 ---
   ## no_skin
   Creates a mod that disables (almost) all riot skins and turns every champion to the default skin.
