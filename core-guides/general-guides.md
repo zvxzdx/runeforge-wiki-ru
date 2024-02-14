@@ -2,7 +2,7 @@
 title: General Guides
 description: All guides listed here which contain general mostly short guides around all topics.
 published: true
-date: 2024-02-14T23:06:30.978Z
+date: 2024-02-14T23:23:45.466Z
 tags: guide, general, short, landing
 editor: markdown
 dateCreated: 2024-02-05T17:23:14.329Z
