@@ -2,7 +2,7 @@
 title: Blender
 description: A starting guide to using Blender for League modding
 published: true
-date: 2024-02-15T13:56:42.461Z
+date: 2024-02-15T13:56:51.403Z
 tags: guide, tools, 3d, modelling, animation, blender
 editor: markdown
 dateCreated: 2024-02-10T14:01:52.224Z
@@ -29,7 +29,7 @@ If you don't need multiple Blender instances open and you like automatic updates
 ---
 # What you can and cannot do in Blender
   ### Without Maya
-<!--ADD EXAMPLES OF ALL MENTIONED FILES AS SCREENSHOTS, CROSS OUT ONES YOU CANT DO IN BLENDER-->
+ <!--ADD EXAMPLES OF ALL MENTIONED FILES AS SCREENSHOTS, CROSS OUT ONES YOU CANT DO IN BLENDER-->
 Without using Autodesk Maya you can edit champion's <a href="/en/specific-guide/filetypes#skn">.skn</a> and [.skl](/en/specific-guide/filetypes#skl) files.
 Currently you cannot edit <a href="/en/specific-guide/filetypes#anm">.anm</a>, <a href="/en/specific-guide/filetypes#scb">.scb</a> and <a href="/en/specific-guide/filetypes#sco">.sco</a> files without using <a href="/core-guides/tools/maya">Autodesk Maya.</a>
   ### With Maya
