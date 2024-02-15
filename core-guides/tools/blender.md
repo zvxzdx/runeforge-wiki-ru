@@ -2,7 +2,7 @@
 title: Blender
 description: A starting guide to using Blender for League modding
 published: true
-date: 2024-02-15T13:55:44.489Z
+date: 2024-02-15T13:56:18.348Z
 tags: guide, tools, 3d, modelling, animation, blender
 editor: markdown
 dateCreated: 2024-02-10T14:01:52.224Z
@@ -32,11 +32,11 @@ If you don't need multiple Blender instances open and you like automatic updates
 <!--ADD EXAMPLES OF ALL MENTIONED FILES AS SCREENSHOTS, CROSS OUT ONES YOU CANT DO IN BLENDER-->
 Without using Autodesk Maya you can edit champion's <a href="/en/specific-guide/filetypes#skn">.skn</a> and [.skl](/en/specific-guide/filetypes#skl) files.
 Currently you cannot edit <a href="/en/specific-guide/filetypes#anm">.anm</a>, <a href="/en/specific-guide/filetypes#scb">.scb</a> and <a href="/en/specific-guide/filetypes#sco">.sco</a> files without using <a href="/core-guides/tools/maya">Autodesk Maya.</a>
-  <!--ADD LINKS FOR WORDS THAT NEED TO BE LINKED, FILES AND MAYA-->
+<!--ADD LINKS FOR WORDS THAT NEED TO BE LINKED, FILES AND MAYA-->
 ### With Maya
 If you have Autodesk Maya 2023/24 you can edit all the files mentioned above with Blender.
 When you save your FBX file in blender you can save it in Maya as one of the files you need.
-
+ 
 Refer to the <a href="/core-guides/tools/maya">Autodesk Maya</a> guide on how to save these files.
 <!--ADD LINKS WHERE NEEDED-->
 ---
