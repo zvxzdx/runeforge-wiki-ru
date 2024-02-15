@@ -2,7 +2,7 @@
 title: Tools
 description: All tools listed here which contain general mostly short guides.
 published: true
-date: 2024-02-14T22:36:36.679Z
+date: 2024-02-15T13:53:40.141Z
 tags: tools, photoshop, maya, wwise, obsidian, cslol, visual studio, hacksaw, blender, ltmao, gimp
 editor: markdown
 dateCreated: 2024-02-06T17:01:25.224Z
@@ -54,6 +54,17 @@ General tools that aren't required for mod creation.
 
 <br>
 
+# Conversion
+
+### Free
+
+- [Ritobin *.bin to .py file converter*](/core-guides/tools/rito-bin)
+-   [Ritoddstex (tex2dds) *Program to convert files between .tex and .dds*](/core-guides/tools/ritoddstex)
+- <a href="/core-guides/tools/lol2gltf">lol2gltf *Tool to convert League .skn and .skl to gltf*</a>
+{.links-list}
+
+<br>
+
 # Coding
 
 ### Free
@@ -61,7 +72,6 @@ General tools that aren't required for mod creation.
 - [Visual Studio Code *Feature rich tool to read, create or edit code*](/core-guides/tools/visual-studio)
 - [Notepad++ *Simple program to read, create or edit code*](/core-guides/tools/notepadplusplus)
 - [Hacksaw *Tool to modify League specific bin-file color variables*](/core-guides/tools/hacksaw)
-- [Ritobin *.bin to .py file converter*](/core-guides/tools/rito-bin)
 {.links-list}
 
 <br>
@@ -82,7 +92,6 @@ General tools that aren't required for mod creation.
 -   [Gimp *Program to edit 2D files*](/core-guides/tools/gimp)
 -   [Photopea (Browser) *Close Photoshop clone as a web application*](https://www.photopea.com/)
 -   [paint.net *Program to edit 2D files*](/core-guides/tools/paint-net)
--   [Ritoddstex (tex2dds) *Programm to convert files between .tex and .dds*](/core-guides/tools/ritoddstex)
 {.links-list}
 
 <br>
