@@ -2,7 +2,7 @@
 title: Blender
 description: A starting guide to using Blender for League modding
 published: true
-date: 2024-02-13T18:39:38.860Z
+date: 2024-02-15T13:55:06.485Z
 tags: guide, tools, 3d, modelling, animation, blender
 editor: markdown
 dateCreated: 2024-02-10T14:01:52.224Z
@@ -54,9 +54,9 @@ If you wish to use [lol2gltf](/core-guides/tools/lol2gltf) refer to its guide pa
 
 ## LtMAO
 <!--CHANGE THE LTMAO LINK IF THE PAGE GETS MADE WITH A DIFFERENT LINK-->
-<a href="/core-guides/tools-landing/LtMAO">LtMAO</a> is a useful modding tool, however you will need it for its lol2fbx feature as there is no Blender plugin for League files.
+<a href="/core-guides/tools/LtMAO">LtMAO</a> is a useful modding tool, however you will need it for its lol2fbx feature as there is no Blender plugin for League files.
 
-Head to <a href="/core-guides/tools-landing/LtMAO">LtMAO</a> guide page to see how to use the tool, along with lol2fbx.
+Head to <a href="/core-guides/tools/LtMAO">LtMAO</a> guide page to see how to use the tool, along with lol2fbx.
 
 ---
 # Saving FBX to convert back
@@ -78,13 +78,10 @@ After saving your FBX file convert it back to .skn and .skl using one of the too
 ---
   
  # Resolving issues
-## Failed: Too many joints found
- This usually means that you forgot to uncheck "Add Leaf Bones" option.
- If you did, your skeleton has a bigger number of joints than supported, 256.
   ## Texture look wierd in game
  You most likely forgot to flip the normals of the mesh.
   ## Other issues
-  Refer to the LtMAO lol2fbx guide for any encountered errors.
+  Refer to the <a href="/core-guides/tools/LtMAO">LtMAO</a> lol2fbx or <a href="/core-guides/tools/lol2gltf">lol2gltf</a> guide for any encountered errors.
   <!--ADD LINKS TO STUFF-->
   
   
