@@ -2,7 +2,7 @@
 title: LtMAO
 description: A guide on how to install and use LtMAO.
 published: true
-date: 2024-02-16T17:06:39.947Z
+date: 2024-02-16T17:08:28.603Z
 tags: guide, install, ltmao
 editor: markdown
 dateCreated: 2024-02-11T19:27:37.139Z
@@ -31,17 +31,17 @@ Just <a href="cslolmanager">cslol-manager</a>, but different UI.
 <u style="color:orange">Important: Need to set Game folder in setting tab first to work.</u>
 
   ![cslmao.png](/user-pictures/bud/cslmao.png)
----
+ ---
 ## leaguefile_inspector
   View League files information.
   
   ![ltmaofileinspect.png](/user-pictures/bud/ltmaofileinspect.png)
----
+ ---
 ## animask_viewer
   Edit MaskData's weights inside animation BINs.
   
   ![animask.png](/user-pictures/bud/animask.png)
----
+ ---
 ## hash_manager
   ![hashmanager.png](/user-pictures/bud/hashmanager.png)
 
@@ -75,14 +75,14 @@ Just <a href="cslolmanager">cslol-manager</a>, but different UI.
 
 Also has generate wad & bin hash function. Those generated hashes can be added to Custom Hashes with <kbd style="background-color:#343942">-></kbd> buttons.
    
----
+ ---
   ## vo_helper
 Make the fantome work on all languages by cloning it.
 
 <u style="color:orange">Important: The audio inside fantome must also come with events file to make it work on other languages.</u>
     
 ![vohelper.png](/user-pictures/bud/vohelper.png)
----
+ ---
   ## no_skin
   Creates a mod that disables (almost) all riot skins and turns every champion to the default skin.
     
@@ -103,7 +103,7 @@ Press the Start button and select the folder where you want the mod to be create
 Extract UVs from skn/sco/scb as png files.
     
 ![uvee.png](/user-pictures/bud/uvee.png)
----
+ ---
 
   ## shrum
 Rename joints in ANM using old names & new names input.
@@ -111,7 +111,7 @@ Rename joints in ANM using old names & new names input.
 Can load SKL as inputs.
     
 ![shrum.png](/user-pictures/bud/shrum.png)
----
+ ---
   ## hapiBin
 An app with multiple functions related to updating BIN file:
 
@@ -119,7 +119,7 @@ An app with multiple functions related to updating BIN file:
 - Copy vfx colors.
 
 ![hapibin.png](/user-pictures/bud/hapibin.png)
----
+ ---
 
 ## wad_tool
   Simple tool to unpack and pack WAD files.
@@ -127,25 +127,25 @@ An app with multiple functions related to updating BIN file:
 Can bulk unpack multiple WADs into same output. Example: Bulk unpacking all voiced wad then throw into vo_helper is a fast way to create a champion voicepack for specific language mod.
 
 ![wadtool.png](/user-pictures/bud/wadtool.png)
----
+ ---
 
   ## pyntex
 <a href="/core-guides/tools/hacksaw">Hacksaw/bintex</a> but rewritten. Print out mentioned & missing files in all BINs inside a WAD or a Folder.
 
 ![pyntex.png](/user-pictures/bud/pyntex.png)
----
+ ---
 
   ## sborf
 Fix skin based on rito files: moonwalk animations, layering animations,...
     
 ![sborf.png](/user-pictures/bud/sborf.png)
----
+ ---
     
   ## lol2fbx
 Convert League .skn and .skl files to FBX and vice versa.
     
 ![lol2fbx.png](/user-pictures/bud/lol2fbx.png)
----
+ ---
 ## issues
 If you have any issues or questions you can ask for help on the RuneForge discord.
   
