@@ -2,7 +2,7 @@
 title: LtMAO
 description: A guide on how to install and use LtMAO.
 published: true
-date: 2024-02-14T22:07:07.224Z
+date: 2024-02-16T17:03:52.385Z
 tags: guide, install, ltmao
 editor: markdown
 dateCreated: 2024-02-11T19:27:37.139Z
@@ -31,19 +31,16 @@ Just <a href="cslolmanager">cslol-manager</a>, but different UI.
 <u style="color:orange">Important: Need to set Game folder in setting tab first to work.</u>
   
   ![cslmao.png](/user-pictures/bud/cslmao.png)
-  
 ---
 ## leaguefile_inspector
   View League files information.
   
   ![ltmaofileinspect.png](/user-pictures/bud/ltmaofileinspect.png)
-  
 ---
 ## animask_viewer
   Edit MaskData's weights inside animation BINs.
   
   ![animask.png](/user-pictures/bud/animask.png)
-  
 ---
 ## hash_manager
   ![hashmanager.png](/user-pictures/bud/hashmanager.png)
@@ -85,7 +82,6 @@ Make the fantome work on all languages by cloning it.
 <u style="color:orange">Important: The audio inside fantome must also come with events file to make it work on other languages.</u>
     
 ![vohelper.png](/user-pictures/bud/vohelper.png)
-    
 ---
   ## no_skin
   Creates a mod that disables (almost) all riot skins and turns every champion to the default skin.
@@ -104,55 +100,54 @@ Press the Start button and select the folder where you want the mod to be create
     
  ---
   ## uvee
-  TBA
-  ## shrum
-  TBA
-  ## hapiBin
-  TBA
-  ## wad_tool
-  TBA
-  ## pyntex
-  TBA
-  ## sborf
-  TBA
-  ## lol2fbx
-  To convert .skn and .skl files to FBX simply add the .skn file with the button and the .skl will be added alongside it if it's in the same folder.
-  
-  Then press the skn->FBX button and you will get your FBX file.
-
+Extract UVs from skn/sco/scb as png files.
+    
+![uvee.png](/user-pictures/bud/uvee.png)
 ---
-  In order to convert the FBX back to .skn and .skl put the FBX in with the button and press FBX->skn.
-  
-  If you encounter an error in the logs look below to see what they mean and how to fix them.
-  
-  ---
-  
-  ### <span style="color:#7040F0">Possible errors when using lol2fbx
-  #### <span style="color:#CF4000">IndexError: list index out of range</span>
-  
-  You most likely did not provide the file.
-  
-  ---
- #### <span style="color:#CF4000">Failed: Too many joints found
-  
-Your skeleton has a bigger number of joints than supported, 256.
-  
-  ---
-  #### <span style="color:#CF4000">Exception: lol2fbx: Failed: body contains vertices shared by multiple material.
-  
-  The mesh contains vertices that are shared by multiple materials, this needs to be fixed in Maya or Blender.
-  
-  ---
-  
-   #### <span style="color:#CF4000"> ValueError: min() arg is an empty sequence
-  Editor bud encountered this error but has no idea what it is or how to fix it.
-  
-  Assumption is that something is wrong with the FBX file.
-  
-  ---
-  <!--ADD MORE INFO :PRAY:-->
-  <!--ADD LINKS TO STUFF FOR THE LOVE OF GOD-->
-  
+
+  ## shrum
+Rename joints in ANM using old names & new names input.
+
+Can load SKL as inputs.
+    
+![shrum.png](/user-pictures/bud/shrum.png)
+---
+  ## hapiBin
+An app with multiple functions related to updating BIN file:
+
+- Copy linked list.
+- Copy vfx colors.
+
+![hapibin.png](/user-pictures/bud/hapibin.png)
+---
+
+## wad_tool
+  Simple tool to unpack and pack WAD files.
+
+Can bulk unpack multiple WADs into same output. Example: Bulk unpacking all voiced wad then throw into vo_helper is a fast way to create a champion voicepack for specific language mod.
+
+![wadtool.png](/user-pictures/bud/wadtool.png)
+---
+
+  ## pyntex
+<a href="/core-guides/tools/hacksaw">Hacksaw/bintex</a> but rewritten. Print out mentioned & missing files in all BINs inside a WAD or a Folder.
+
+![pyntex.png](/user-pictures/bud/pyntex.png)
+---
+
+  ## sborf
+Fix skin based on rito files: moonwalk animations, layering animations,...
+    
+![sborf.png](/user-pictures/bud/sborf.png)
+---
+    
+  ## lol2fbx
+Convert League .skn and .skl files to FBX and vice versa.
+    
+![lol2fbx.png](/user-pictures/bud/lol2fbx.png)
+---
+## issues
+If you have any issues or questions you can ask for help on the RuneForge discord.
   
   
   
