@@ -2,7 +2,7 @@
 title: LtMAO
 description: A guide on how to install and use LtMAO.
 published: true
-date: 2024-02-16T17:03:52.385Z
+date: 2024-02-16T17:06:21.487Z
 tags: guide, install, ltmao
 editor: markdown
 dateCreated: 2024-02-11T19:27:37.139Z
@@ -27,7 +27,7 @@ This page will explain the LtMAO tool made by Tarngaina and all of its features.
 ---
 ## cslmao
 Just <a href="cslolmanager">cslol-manager</a>, but different UI.
-
+  
 <u style="color:orange">Important: Need to set Game folder in setting tab first to work.</u>
   
   ![cslmao.png](/user-pictures/bud/cslmao.png)
@@ -44,7 +44,7 @@ Just <a href="cslolmanager">cslol-manager</a>, but different UI.
 ---
 ## hash_manager
   ![hashmanager.png](/user-pictures/bud/hashmanager.png)
-  
+
   <u style="color:orange">Important: Please wait for all syncing/updating/loading hashes finished before process with any <kbd style="background-color:#343942;color:orange">LtMAO</kbd> functions.</u>
 
 1. CDTB Hashes: Auto sync <a href="https://github.com/CommunityDragon/CDTB/tree/master/cdragontoolbox">CommunityDragon</a> hashes. Can also be manually downloaded at mentioned link.
