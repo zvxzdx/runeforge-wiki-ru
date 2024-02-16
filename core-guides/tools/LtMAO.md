@@ -2,15 +2,11 @@
 title: LtMAO
 description: A guide on how to install and use LtMAO.
 published: true
-date: 2024-02-16T17:09:35.197Z
+date: 2024-02-16T17:10:15.821Z
 tags: guide, install, ltmao
 editor: markdown
 dateCreated: 2024-02-11T19:27:37.139Z
 ---
-
->W.I.P.
-This page is under construction and could use contribution!
-{.is-warning}
 
 # LtMAO
 This page will explain the LtMAO tool made by Tarngaina and all of its features.
