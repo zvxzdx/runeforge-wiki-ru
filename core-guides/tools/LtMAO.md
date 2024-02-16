@@ -2,7 +2,7 @@
 title: LtMAO
 description: A guide on how to install and use LtMAO.
 published: true
-date: 2024-02-16T17:06:21.487Z
+date: 2024-02-16T17:06:39.947Z
 tags: guide, install, ltmao
 editor: markdown
 dateCreated: 2024-02-11T19:27:37.139Z
@@ -27,9 +27,9 @@ This page will explain the LtMAO tool made by Tarngaina and all of its features.
 ---
 ## cslmao
 Just <a href="cslolmanager">cslol-manager</a>, but different UI.
-  
+
 <u style="color:orange">Important: Need to set Game folder in setting tab first to work.</u>
-  
+
   ![cslmao.png](/user-pictures/bud/cslmao.png)
 ---
 ## leaguefile_inspector
