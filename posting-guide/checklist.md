@@ -2,23 +2,15 @@
 title: Contributor Checklist
 description: A list with all transferable guides and tutorial from Runeforge to the Wiki.
 published: true
-date: 2024-02-15T13:58:48.423Z
+date: 2024-02-18T21:13:03.349Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-11T20:22:14.142Z
 ---
 
 <!--add a Cross "[x]" if you completed a transfer and replace the link with the wiki version! Then move it to completed.-->
-# High Priority
-
-
-
-
-
-
 # All other Guides
 
-- [ ] [substance painter tutorial by bearded](https://www.runeforge.io/post/adobe-substance-3d-painter-tutorial-for-riot-games)
 - [ ] [Making custom cursors by bud](https://www.runeforge.io/post/making-custom-cursors-with-paint-net)
 - [ ] [Creating models with multiple mats by Yoru](https://www.runeforge.io/post/creating-models-with-multiple-materials-in-maya)
 - [ ] [Updating old wooxy skin by Yoru](https://www.runeforge.io/post/updating-old-wooxy-skins)
@@ -62,4 +54,5 @@ dateCreated: 2024-02-11T20:22:14.142Z
 - [X] [Hacksaw guide](/core-guides/tools/hacksaw)
 - [x] [create 3D custom skin Maya 2023 by yoru](/specific-guide/3d-modelling/create-customskin-maya2023)
 - [x] [lol2gltf guide](https://www.runeforge.io/lol2gltf)
+- [x] [substance painter tutorial by bearded](/specific-guide/texturing/substance-painter-guide)
 
