@@ -2,7 +2,7 @@
 title: Substance Painter 3D Guide
 description: A full overview on how to use Adobe Substance Painter 3D.
 published: false
-date: 2024-02-18T20:58:47.087Z
+date: 2024-02-18T21:04:35.396Z
 tags: guide, maya, texturing, adobe, substance, painter, drawing
 editor: markdown
 dateCreated: 2024-02-18T20:05:08.131Z
@@ -185,6 +185,37 @@ Take a screenshot of your champion in Maya and place them in a test scene agains
 Sometimes the values can differ depending on what you are comparing to. Darker colors will obviously be darker in value, so you have to be especially mindful of gradients in those. Lighter colors are usually easy to catch issues in. In this example of Graves, I plan to make a darker purple color for the lower half of his jacket to help with giving a more convincing lighting situation.
 
 ![lighting2.webp](/user-pictures/vector/general-guides/substance-guides/lighting2.webp =x800)
+
+## Get skin color right
+Usually as you go darker you also want to saturate and push more towards a colder hue like purple or blue. As you go lighter, push your hue slightly more towards a warm color like yellow.
+
+It is especially important to keep this concept in mind as you paint skin tones because it’ll help to make the skin feel alive and colorful while also keeping away from making it look muddy. Pick a level of saturation for your base mid tone color and push that color down and right with a shift to red to go darker or up and left with a shift to yellow to go lighter. You can see this in this example that I have painted.
+
+![skin1.webp](/user-pictures/vector/general-guides/substance-guides/skin1.webp =x800)
+
+## Lighting
+
+Cast shadows from top down will be casted such as under the nose, on the neck, and where other objects such as hair may sit above or overlap another like a skirt onto legs.
+
+![shadow1.webp](/user-pictures/vector/general-guides/substance-guides/shadow1.webp)
+
+Here are a couple of great examples of how lighting affects the torso for males and females.
+
+Males will generally have much harsher transitions, especially if there is bare skin as muscles have defined crevices and edges.
+
+Females on the other hand are the opposite as their bodies are generally much softer and transitions are smoother. These can obviously change depending on the champion’s gender and level of strength. Keeping the champion’s integrity however is always recommended.
+
+![shadow2.webp](/user-pictures/vector/general-guides/substance-guides/shadow2.webp)
+
+There can be exceptions to "[Get skin color right](/specific-guide/texturing/substance-painter-guide#get-skin-color-right)" as there are some champs with darker skin tones that have green highlights as opposed to yellow like Senna, or there are champions from the Shadow Isles who have the same green or even blueish highlights like with Gwen who has very pale skin.
+
+Desaturated skin tones like Viego indicate death or less health and well-being. This can also be seen in the Ruined skin line in Karma and Draven.
+
+![shadow3.webp](/user-pictures/vector/general-guides/substance-guides/shadow3.webp =x1000)
+
+Other champions have completely unique skin tones such as purple or blue like Mundo and Cosmic Lux. You can still see the same concept of more yellow being added to the blue color for Lux on her lighter highlights. And Mundo on the other hand has more blue since his skin is unnatural. These are things to look out for as you use League skins as references for your painting.
+
+![shadow4.webp](/user-pictures/vector/general-guides/substance-guides/shadow4.webp =x800)
 
 # Sources
 
