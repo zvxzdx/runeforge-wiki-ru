@@ -2,7 +2,7 @@
 title: Substance Painter 3D Guide
 description: A full overview on how to use Adobe Substance Painter 3D.
 published: false
-date: 2024-02-18T21:04:35.396Z
+date: 2024-02-18T21:04:58.118Z
 tags: guide, maya, texturing, adobe, substance, painter, drawing
 editor: markdown
 dateCreated: 2024-02-18T20:05:08.131Z
@@ -215,7 +215,7 @@ Desaturated skin tones like Viego indicate death or less health and well-being. 
 
 Other champions have completely unique skin tones such as purple or blue like Mundo and Cosmic Lux. You can still see the same concept of more yellow being added to the blue color for Lux on her lighter highlights. And Mundo on the other hand has more blue since his skin is unnatural. These are things to look out for as you use League skins as references for your painting.
 
-![shadow4.webp](/user-pictures/vector/general-guides/substance-guides/shadow4.webp =x800)
+![shadow4.webp](/user-pictures/vector/general-guides/substance-guides/shadow4.webp =x500)
 
 # Sources
 
