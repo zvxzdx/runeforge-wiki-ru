@@ -2,7 +2,7 @@
 title: Substance Painter 3D Guide
 description: A full overview on how to use Adobe Substance Painter 3D.
 published: false
-date: 2024-02-18T20:31:23.496Z
+date: 2024-02-18T20:45:47.693Z
 tags: guide, maya, texturing, adobe, substance, painter, drawing
 editor: markdown
 dateCreated: 2024-02-18T20:05:08.131Z
@@ -72,9 +72,55 @@ You will also see `Properties` which is where you can adjust your brush texture 
 4. *(Optional step 4)* The next step you want to do is bake the Ambient Occlusion map (AO). This will essentially create shadows for your mesh and will make your painting process significantly faster. Go to `Texture Set Settings`, and hit `Bake Mesh Maps`. 
 Change your output size if you would like and then select `Ambient Occlusion.` Change Secondary Rays to `40`, with Distribution to `Uniform`. Then bake it.
 
-![modelp5.webp](/user-pictures/vector/general-guides/substance-guides/modelp5.webp)
+![modelp5.webp](/user-pictures/vector/general-guides/substance-guides/modelp5.webp =x1500)
 
+5. *(Optional step 4)* Drag your AO texture under the shelf project onto the `base color` of your fill layer. Then right click on your layer and click `add filter`. Choose `Gradient` and change the colors as you want. (Starting with the skin as the first layer is what I usually do).
 
+![modelp6.webp](/user-pictures/vector/general-guides/substance-guides/modelp6.webp =x2000)
+
+6. *(Optional step 4)* Add another filter to your fill layer and choose `blur`. Setting it to `0.5` usually works best but you can adjust it as you need. You can see here what the texture looks like with and without the blur.
+
+![modelp7.webp](/user-pictures/vector/general-guides/substance-guides/modelp7.webp)
+
+> If some parts of your model appear black and it doesn’t look right, see [AMBIENT OCCLUSION BAKE FIX (WITH MAYA)](/specific-guide/texturing/substance-painter-guide#maya-bake-fix). If you don’t mind it you can just proceed.
+{.is-info}
+
+---
+
+7. Now that you have your base down, you can now add a paint layer by right clicking and adding it onto your fill layer. You can change the color of your brush and begin painting.
+
+**Tip**:
+- As a general note, when you are painting in the 3D view, I recommend setting your brush alignment to `camera` and size space to `viewport`. When you want to work in the 2D view or paint within the UVs, change the brush alignment to `UV` and size space to `texture`.
+
+8. Adding another layer to paint the dress for example is essentially the same process however, this time you will add a black mask to your fill layer. White color is to paint, and black is to erase.
+Now you can paint the areas that you want for the dress. In this particular instance, I would add another layer for her bow, the rope around her waist, the hair, etc. I essentially keep things with the same colors on the same layers.
+
+![modelp8.webp](/user-pictures/vector/general-guides/substance-guides/modelp8.webp =x1000)
+
+---
+
+<br>
+
+## Exporting
+
+9. Once you have finished painting go to `File > Export Textures`. Click on your material name and deselect everything but the base color. When it states the export is finished, go to `Open output directory` and you will be directed to the location of the texture’s export. 
+
+![export1.webp](/user-pictures/vector/general-guides/substance-guides/export1.webp =x2600)
+
+> You will need to convert all textures exported to DDS as your final output into the game. If you are using Gimp, you will not need a plugin, however if you are using [Photoshop](/core-guides/tools/adobe/photoshop), you will need to get either [Nvidia Texture Tools](/core-guides/tools/adobe/photoshop#nvidia-texture-tools) or [Intel Texture Works](/core-guides/tools/adobe/photoshop#intel-texture-works). Nvidia only works with Nvidia graphic cards. Listed below are the settings for each export.
+{.is-info}
+
+### Nvidia Texture Tools Export Settings
+
+![nvidiaexport.webp](/user-pictures/vector/general-guides/substance-guides/nvidiaexport.webp =x1150)
+
+### Intel Texture Works Export Settings
+
+![intelexport.webp](/user-pictures/vector/general-guides/substance-guides/intelexport.webp)
+
+# Tips
+
+## Maya Bake fix
 
 
 # Sources
