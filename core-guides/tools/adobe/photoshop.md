@@ -2,7 +2,7 @@
 title: Adobe Photoshop
 description: A guide on how to install and use Adobe Photoshop
 published: true
-date: 2024-02-18T19:57:19.366Z
+date: 2024-02-18T19:59:39.519Z
 tags: guide, photoshop, install, adobe
 editor: markdown
 dateCreated: 2024-02-11T19:32:06.351Z
@@ -19,7 +19,7 @@ In order to edit [dds](/specific-guide/filetypes) files, you need to install a c
 ### Download
 Head to Intel's website on the link below and click the download link at the top of the page.
 When redirected to the second page click the <kbd style="background:#7cad18">ZIP</kbd> button at the top.
-- <a href="https://www.intel.com/content/www/us/en/developer/articles/tool/intel-texture-works-plugin.html">Intel Texture Works download*Only if you have an Intel&reg; processor*</a>
+- <a href="https://www.intel.com/content/www/us/en/developer/articles/tool/intel-texture-works-plugin.html">Intel Texture Works download*Works with both Intel&reg; and AMD processors*</a>
 {.links-list}
 ### Installation
 1. Close Photoshop.
