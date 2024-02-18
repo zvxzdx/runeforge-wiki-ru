@@ -2,7 +2,7 @@
 title: Substance Painter 3D Guide
 description: A full overview on how to use Adobe Substance Painter 3D.
 published: false
-date: 2024-02-18T20:19:57.845Z
+date: 2024-02-18T20:25:07.351Z
 tags: guide, maya, texturing, adobe, substance, painter, drawing
 editor: markdown
 dateCreated: 2024-02-18T20:05:08.131Z
@@ -42,6 +42,21 @@ Seraphine however has three textures: one for her entire body, separate one for 
 You can always add more than one material via the champion’s bins.
 
 ![matsgraves.webp](/user-pictures/vector/general-guides/substance-guides/matsgraves.webp =x1000)
+
+**3.**
+When you open Adobe Substance 3D Painter and start a project with a new FBX (for multiple materials) model, you get both a 3D and 2D view (UV). 
+
+On the top right of your screen you should see something that says `Texture Set List.` This is where all of your materials will be located. In most cases you will only need one but some champions have two or more as stated in **step 2** on **PREPARING THE MODEL FOR SUBSTANCE**. You can hit the eye to toggle visibility on each material.
+
+You will also see `Properties` which is where you can adjust your brush texture and other attributes. This can also be found on the top left of the UI for ease of access. And then there’s “Layers” which is self explanatory.
+
+> Interface will differ depending on your version of the program - the version in the pictures is older.
+{.is-info}
+
+![modelp1.webp](/user-pictures/vector/general-guides/substance-guides/modelp1.webp)
+
+1. If your model’s faces are correct, it should appear as it does on the left picture. If your model or specific faces are flipped such as in the image on the right, then you must flip those faces in Maya (or other 3D software) and update the model in Substance (`edit > project configuration > select > [updated mesh] > OK`).
+
 
 # Sources
 
