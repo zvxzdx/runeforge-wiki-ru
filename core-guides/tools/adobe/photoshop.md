@@ -2,14 +2,12 @@
 title: Adobe Photoshop
 description: A guide on how to install and use Adobe Photoshop
 published: true
-date: 2024-02-18T19:37:55.046Z
+date: 2024-02-18T19:38:34.105Z
 tags: guide, photoshop, install, adobe
 editor: markdown
 dateCreated: 2024-02-11T19:32:06.351Z
 ---
 
->W.I.P!
-This Page is still a messy place. But don't be afraid, we add new content as soon as we can!{.is-warning}
 # Intel Texture Works
 ### Download
 Head to Intel's website on the link below and click the download link at the top of the page.
