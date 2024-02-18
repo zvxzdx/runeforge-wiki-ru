@@ -2,7 +2,7 @@
 title: Substance Painter 3D Guide
 description: A full overview on how to use Adobe Substance Painter 3D.
 published: false
-date: 2024-02-18T20:19:43.235Z
+date: 2024-02-18T20:19:57.845Z
 tags: guide, maya, texturing, adobe, substance, painter, drawing
 editor: markdown
 dateCreated: 2024-02-18T20:05:08.131Z
@@ -28,7 +28,7 @@ In Maya, to check our face normals, select your object in face mode and then hol
 
 If your normals need to be reversed, go to `mesh display > reverse.`
 
-![reversenormals.webp](/user-pictures/vector/general-guides/substance-guides/reversenormals.webp =x1000)
+![reversenormals.webp](/user-pictures/vector/general-guides/substance-guides/reversenormals.webp =x1200)
 
 **2.**
 Our entire model must also be one material. You can set different materials for different parts on the model as you like, however you will need to combine the textures in a photo editing software such as through Photoshop or Gimp equivalent after you have finished painting.
