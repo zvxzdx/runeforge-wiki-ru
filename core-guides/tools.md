@@ -2,8 +2,8 @@
 title: Tools
 description: All tools listed here which contain general mostly short guides.
 published: true
-date: 2024-02-15T13:53:40.141Z
-tags: tools, photoshop, maya, wwise, obsidian, cslol, visual studio, hacksaw, blender, ltmao, gimp
+date: 2024-02-18T20:03:56.094Z
+tags: 
 editor: markdown
 dateCreated: 2024-02-06T17:01:25.224Z
 ---
