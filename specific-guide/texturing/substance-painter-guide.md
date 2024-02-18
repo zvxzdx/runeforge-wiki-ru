@@ -2,7 +2,7 @@
 title: Substance Painter 3D Guide
 description: A full overview on how to use Adobe Substance Painter 3D.
 published: false
-date: 2024-02-18T20:58:39.126Z
+date: 2024-02-18T20:58:47.087Z
 tags: guide, maya, texturing, adobe, substance, painter, drawing
 editor: markdown
 dateCreated: 2024-02-18T20:05:08.131Z
@@ -184,7 +184,7 @@ Take a screenshot of your champion in Maya and place them in a test scene agains
 
 Sometimes the values can differ depending on what you are comparing to. Darker colors will obviously be darker in value, so you have to be especially mindful of gradients in those. Lighter colors are usually easy to catch issues in. In this example of Graves, I plan to make a darker purple color for the lower half of his jacket to help with giving a more convincing lighting situation.
 
-![lighting2.webp](/user-pictures/vector/general-guides/substance-guides/lighting2.webp =x8000)
+![lighting2.webp](/user-pictures/vector/general-guides/substance-guides/lighting2.webp =x800)
 
 # Sources
 
