@@ -2,7 +2,7 @@
 title: Adobe Photoshop
 description: A guide on how to install and use Adobe Photoshop
 published: true
-date: 2024-02-18T19:41:04.577Z
+date: 2024-02-18T19:42:15.333Z
 tags: guide, photoshop, install, adobe
 editor: markdown
 dateCreated: 2024-02-11T19:32:06.351Z
@@ -12,6 +12,8 @@ dateCreated: 2024-02-11T19:32:06.351Z
 Photoshop is a subscription based tool to edit 2D files. 
 - [View Photoshop Subscriptions *External Link*](https://www.adobe.com/de/products/photoshop.html)
 {.links-list}
+
+In order to edit [dds](/specific-guide/filetypes) files, you need to install a corresponding plugin.
 
 # Intel Texture Works
 ### Download
