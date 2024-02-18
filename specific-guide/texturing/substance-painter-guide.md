@@ -2,7 +2,7 @@
 title: Substance Painter 3D Guide
 description: A full overview on how to use Adobe Substance Painter 3D.
 published: false
-date: 2024-02-18T20:25:07.351Z
+date: 2024-02-18T20:26:23.473Z
 tags: guide, maya, texturing, adobe, substance, painter, drawing
 editor: markdown
 dateCreated: 2024-02-18T20:05:08.131Z
@@ -57,6 +57,11 @@ You will also see `Properties` which is where you can adjust your brush texture 
 
 1. If your model’s faces are correct, it should appear as it does on the left picture. If your model or specific faces are flipped such as in the image on the right, then you must flip those faces in Maya (or other 3D software) and update the model in Substance (`edit > project configuration > select > [updated mesh] > OK`).
 
+![modelp2.webp](/user-pictures/vector/general-guides/substance-guides/modelp2.webp)
+
+2. Click on the tab just above the model where it says `Material` and change it to `Base Color` since that is all that League uses.
+
+![modelp3.webp](/user-pictures/vector/general-guides/substance-guides/modelp3.webp)
 
 # Sources
 
