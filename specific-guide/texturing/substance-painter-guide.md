@@ -2,7 +2,7 @@
 title: Substance Painter 3D Guide
 description: A full overview on how to use Adobe Substance Painter 3D.
 published: false
-date: 2024-02-18T20:26:23.473Z
+date: 2024-02-18T20:31:23.496Z
 tags: guide, maya, texturing, adobe, substance, painter, drawing
 editor: markdown
 dateCreated: 2024-02-18T20:05:08.131Z
@@ -62,6 +62,20 @@ You will also see `Properties` which is where you can adjust your brush texture 
 2. Click on the tab just above the model where it says `Material` and change it to `Base Color` since that is all that League uses.
 
 ![modelp3.webp](/user-pictures/vector/general-guides/substance-guides/modelp3.webp)
+
+3. You usually want to work with `fill` layers as opposed to just jumping in and painting (much easier when making chromas or editing certain clothing pieces). Create a fill layer by clicking the bucket and your model will appear with that color. Make sure to only have `color` toggled (<kbd>alt</kbd> + <kbd>left click</kbd> on color to disable everything else except what you click)
+
+![modelp4.webp](/user-pictures/vector/general-guides/substance-guides/modelp4.webp)
+
+---
+
+4. *(Optional step 4)* The next step you want to do is bake the Ambient Occlusion map (AO). This will essentially create shadows for your mesh and will make your painting process significantly faster. Go to `Texture Set Settings`, and hit `Bake Mesh Maps`. 
+Change your output size if you would like and then select `Ambient Occlusion.` Change Secondary Rays to `40`, with Distribution to `Uniform`. Then bake it.
+
+![modelp5.webp](/user-pictures/vector/general-guides/substance-guides/modelp5.webp)
+
+
+
 
 # Sources
 
