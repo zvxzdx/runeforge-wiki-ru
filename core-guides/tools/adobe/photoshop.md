@@ -1,8 +1,8 @@
 ---
 title: Adobe Photoshop
 description: A guide on how to install and use Adobe Photoshop
-published: true
-date: 2024-02-16T16:44:22.500Z
+published: false
+date: 2024-02-18T19:26:20.087Z
 tags: guide, photoshop, install, adobe
 editor: markdown
 dateCreated: 2024-02-11T19:32:06.351Z
@@ -44,3 +44,26 @@ When redirected to the second page click the <kbd style="background:#7cad18">ZIP
 7. Press OK.
 
 # Nvidia Texture Tools
+
+### Download
+- [Download Nvidia Texture Tools *Only if you have a Nvidia Graphics Card*](https://developer.nvidia.com/nvidia-texture-tools-exporter)
+{.links-list}
+
+Scroll down and download the Photoshop extension. You need a developer account for that, but you can simply create one following the site's instructions.
+
+### Installation
+
+1. 
+
+# Tabs {.tabset}
+## First Tab
+
+Any content here will go into the first tab...
+
+## Second Tab
+
+Any content here will go into the second tab...
+
+## Third Tab
+
+Any content here will go into the third tab...
