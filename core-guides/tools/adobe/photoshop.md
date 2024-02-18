@@ -1,8 +1,8 @@
 ---
 title: Adobe Photoshop
 description: A guide on how to install and use Adobe Photoshop
-published: false
-date: 2024-02-18T19:37:47.909Z
+published: true
+date: 2024-02-18T19:37:55.046Z
 tags: guide, photoshop, install, adobe
 editor: markdown
 dateCreated: 2024-02-11T19:32:06.351Z
