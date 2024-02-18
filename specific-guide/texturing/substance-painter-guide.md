@@ -2,7 +2,7 @@
 title: Substance Painter 3D Guide
 description: A full overview on how to use Adobe Substance Painter 3D.
 published: false
-date: 2024-02-18T20:50:58.331Z
+date: 2024-02-18T20:58:18.430Z
 tags: guide, maya, texturing, adobe, substance, painter, drawing
 editor: markdown
 dateCreated: 2024-02-18T20:05:08.131Z
@@ -139,6 +139,52 @@ You can import textures to your scene which is especially useful when you are re
 Go to `file > import resources > add resource`, then select your image/texture file and change the file type to `texture`. Import the resource to your Project. Now you can create a fill layer with a mask and paint where you want the face and make your edits!
 
 ![texturefix1.webp](/user-pictures/vector/general-guides/substance-guides/texturefix1.webp =x900)
+
+You can also export your entire texture when you are finished and then reimport that texture so that you have everything on one single layer. Very useful for repainting areas like hair where you want to do a lot of smudging on top of what you’ve already painted.
+
+# General painting tips
+
+## Paint on higher resolution
+Always paint at a higher texture output than you plan to export, at the very least double the original texture size. Most League textures are at their highest at **1020x1020px**. That means you want your texture output to be at **2040x2040px** or higher at **4096×4096** (only IF your computer can handle it). You can always downscale in Photoshop or Gimp equivalent later. 
+
+> EVEN IF A CHAMPION’S ORIGINAL TEXTURE IS 512×512, ALWAYS MAKE YOUR FINAL TEXTURE 1024×1024. 
+{.is-info}
+
+You won’t break the game, trust me. Every champion needs love, especially the older ones, so their textures should be the exact same sizes as their newer skins and champions. Be mindful that all textures must also be converted into a [.DDS](/specific-guide/filetypes) file format.
+
+![tip1.webp](/user-pictures/vector/general-guides/substance-guides/tip1.webp)
+
+To show you just how important painting at higher resolutions can be, take a look at these comparisons between textures. Graves being a pretty old champion has yet so receive a visual game update so his texture is quite rough in comparison with a newer champion like Akshan. Older champions tend to have 512×512 as their base textures which is usually very bad especially if they have a lot going on in their meshes. Graves has a cape and his entire gun so it’s a lot to squeeze onto a UV map but it’s also a 512×512 texture painted directly at that same size, so you can very easily see the pixelation.
+
+Akshan on the other hand has a 1024×1024 texture and was likely painted in 2048×2048 or 4096×4096 before downscaling for the final in-game output. You can tell this because you can just barely make out any pixelation and the transitions between light and dark values is very clean. They both have roughly the same amount of space allocated for their face textures but somehow Akshan looks better, and that is because his texture was downscaled. Downscaling will always cause some degree of pixelation but it is very important to be at a higher resolution during your painting process to make sure as much of your work is salvaged.
+
+![tip1_2.webp](/user-pictures/vector/general-guides/substance-guides/tip1_2.webp)
+
+Zoe’s final texture output for her body is 512×512. Even though she is newer than Graves, she actually has a separate texture for her hair as well, so rather than cramming her hair onto her body texture as well, Riot decided to make a separate texture file. 512 + 512 = 1024, so the division between two texture files makes sense. In her UVs everything is adequately sized to about the same to make sure they all get an even amount of resolution. You can also tell that she was not initially painted in 512×512 but rather downscaled after which is why she looks better than Graves. It helps that her face is quite large in the UVs in comparison for sure, but painting at a higher resolution before downscaling also plays a vital factor.
+
+![tip1_3.webp](/user-pictures/vector/general-guides/substance-guides/tip1_3.webp)
+
+**Always Remember**: You can go big to small, but not small to big. This is in reference to your texture output. It's always better to work from a higher resolution when painting the textures instead of a small texture resolution.
+
+## Combat extreme lag
+
+Sometimes you may experience extreme lag when painting. Make sure on your brush properties that you only have `color` toggled.
+
+## Get the right lighting
+
+Generally, League has lighting that is top-down, so you want to paint your shadows as such. Baking your AO map is very important as it takes care of where the shadows generally are. Underneath the arms and on the sides of the body for example and on the inner leg. Sometimes these details are missed by beginner eyes, so baking the AO helps to take care of that with ease.
+
+Here in this diagram you can see a very simplified example of how this lighting works. As we move towards the legs, there will be more darkness and less contrast between highlights and shadows. Pool Party Jarvan is a fantastic example to look at. The closer the body is the ground, the less contrast there will be between lights and darks. As you travel up, there will be more contrast.
+
+![lighting1.webp](/user-pictures/vector/general-guides/substance-guides/lighting1.webp =x1000)
+
+You must always keep in mind the top-down lighting that League has. You will always have a dark gradient traveling upwards. Without this, champions can appear flat in-game. The farther their body is away from us, the darker it gets!
+
+Take a screenshot of your champion in Maya and place them in a test scene against a Summoner’s Rift background with both a color and grayscale to help you visualize what needs to be done.
+
+Sometimes the values can differ depending on what you are comparing to. Darker colors will obviously be darker in value, so you have to be especially mindful of gradients in those. Lighter colors are usually easy to catch issues in. In this example of Graves, I plan to make a darker purple color for the lower half of his jacket to help with giving a more convincing lighting situation.
+
+![lighting2.webp](/user-pictures/vector/general-guides/substance-guides/lighting2.webp =x1000)
 
 # Sources
 
