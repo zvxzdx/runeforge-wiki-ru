@@ -2,7 +2,7 @@
 title: Substance Painter 3D Guide
 description: A full overview on how to use Adobe Substance Painter 3D.
 published: false
-date: 2024-02-18T20:45:47.693Z
+date: 2024-02-18T20:46:58.500Z
 tags: guide, maya, texturing, adobe, substance, painter, drawing
 editor: markdown
 dateCreated: 2024-02-18T20:05:08.131Z
@@ -82,7 +82,7 @@ Change your output size if you would like and then select `Ambient Occlusion.` C
 
 ![modelp7.webp](/user-pictures/vector/general-guides/substance-guides/modelp7.webp)
 
-> If some parts of your model appear black and it doesn’t look right, see [AMBIENT OCCLUSION BAKE FIX (WITH MAYA)](/specific-guide/texturing/substance-painter-guide#maya-bake-fix). If you don’t mind it you can just proceed.
+> If some parts of your model appear black and it doesn’t look right, see [AMBIENT OCCLUSION BAKE FIX (WITH MAYA)](/specific-guide/texturing/substance-painter-guide#ambient-occlusion-bake-fix). If you don’t mind it you can just proceed.
 {.is-info}
 
 ---
@@ -120,7 +120,7 @@ Now you can paint the areas that you want for the dress. In this particular inst
 
 # Tips
 
-## Maya Bake fix
+## Ambient Occlusion Bake Fix
 
 
 # Sources
