@@ -2,7 +2,7 @@
 title: Substance Painter 3D Guide
 description: A full overview on how to use Adobe Substance Painter 3D.
 published: false
-date: 2024-02-18T20:46:58.500Z
+date: 2024-02-18T20:50:58.331Z
 tags: guide, maya, texturing, adobe, substance, painter, drawing
 editor: markdown
 dateCreated: 2024-02-18T20:05:08.131Z
@@ -120,8 +120,25 @@ Now you can paint the areas that you want for the dress. In this particular inst
 
 # Tips
 
-## Ambient Occlusion Bake Fix
+## Ambient Occlusion bake fix
+Sometimes when you bake your AO map onto your model you will get a black or dark AO, and no matter what you do to the color it still doesn’t have enough contrast for the ideal amount of control.
 
+![bakefix1.webp](/user-pictures/vector/general-guides/substance-guides/bakefix1.webp)
+
+This commonly happens when you take model parts and pieces from the existing skins and champions from League. It will happen if your normals are flipped the incorrect way. If you have them flipped correctly however, this can still happen. You can easily fix this easily through Maya.
+
+When you bring your model in Maya you want to first reverse your normals AND then hit `set to face`. Your model should appear white like normal. From there you can `soften edges` and that’ll help get rid of polygonal faces in your bake.
+
+![bakefix2.webp](/user-pictures/vector/general-guides/substance-guides/bakefix2.webp)
+
+---
+
+## Importing textures to your scene
+You can import textures to your scene which is especially useful when you are reusing a champion’s face from their best skin. You can only import regular image formats like PNG or JPG. [DDS](/specific-guide/filetypes) will NOT work.
+
+Go to `file > import resources > add resource`, then select your image/texture file and change the file type to `texture`. Import the resource to your Project. Now you can create a fill layer with a mask and paint where you want the face and make your edits!
+
+![texturefix1.webp](/user-pictures/vector/general-guides/substance-guides/texturefix1.webp =x900)
 
 # Sources
 
