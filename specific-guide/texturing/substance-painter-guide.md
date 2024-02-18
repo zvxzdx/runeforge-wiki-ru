@@ -1,8 +1,8 @@
 ---
 title: Substance Painter 3D Guide
 description: A full overview on how to use Adobe Substance Painter 3D.
-published: false
-date: 2024-02-18T21:04:58.118Z
+published: true
+date: 2024-02-18T21:11:55.292Z
 tags: guide, maya, texturing, adobe, substance, painter, drawing
 editor: markdown
 dateCreated: 2024-02-18T20:05:08.131Z
@@ -193,7 +193,7 @@ It is especially important to keep this concept in mind as you paint skin tones 
 
 ![skin1.webp](/user-pictures/vector/general-guides/substance-guides/skin1.webp =x800)
 
-## Lighting
+## Get the right shadows
 
 Cast shadows from top down will be casted such as under the nose, on the neck, and where other objects such as hair may sit above or overlap another like a skirt onto legs.
 
@@ -216,6 +216,32 @@ Desaturated skin tones like Viego indicate death or less health and well-being. 
 Other champions have completely unique skin tones such as purple or blue like Mundo and Cosmic Lux. You can still see the same concept of more yellow being added to the blue color for Lux on her lighter highlights. And Mundo on the other hand has more blue since his skin is unnatural. These are things to look out for as you use League skins as references for your painting.
 
 ![shadow4.webp](/user-pictures/vector/general-guides/substance-guides/shadow4.webp =x500)
+
+## Painting in black and white
+You should also try painting in black and white then using the gradient color filter to apply your color after. When you paint in B&W you focus significantly more on details, slight changes in values and on your edges without having to worry about color. This makes it effortless to create chromas because all you have to do is change the colors on your gradient as opposed to adding more layers with different blending modes and praying that you will get the color that you want.
+
+![blackandwhite.webp](/user-pictures/vector/general-guides/substance-guides/blackandwhite.webp)
+
+## Use the right reference
+
+And that brings me to TIP 7 which is to always use League of Legends skins as reference for anything you are painting, especially if you want your skin to match the same aesthetic as the game. Check out [Teemo.gg](https://teemo.gg/) to view their models and use as reference.
+
+There are plenty of great references for leather such as in Swiftbolt Varus and KDA ALL OUT Evelynn. Metals on Mordekaiser, hair in Transcended Kayle or Coven Morgana, muscles in Pool Party Braum or female forms in Evelynn, body hair in Pantheon, patterns in Spirit Blossom Cassiopeia, and many more.
+
+## Brush Settings and Importing Alphas
+
+Referring back to the tip on step 7 in WRITTEN STEPS, it is important that you are conscious of what your brush alignment and size space settings are as it can become frustrating to deal with. Be mindful that everytime you open and close your project, the brush alignment will resort back to its default settings.
+
+An alpha is basically your brush texture.
+
+When importing your brush texture, it’s essentially the same process as importing a texture, except you change the file type to `alpha`. You can create a texture in Photoshop or Gimp equivalent. Simply make your background black and your texture white.
+
+Setting the import to `shelf, shelf` will basically import the brush texture to your Substance Painter shelf, meaning that whenever you open or start a new project you will always have that brush texture available in your brush alphas. The same is true for textures and any other resources you decide to import.
+
+![brush.webp](/user-pictures/vector/general-guides/substance-guides/brush.webp)
+
+**Smudge Tool**: For smudge tool I recommend putting the flow at 8-15% for soft transitions. For smudging in areas like hair highlights to get hard transitions with softened tips I would recommend 40% and more. I would never recommend using `UV` as your brush alignment ever when using the smudge tool, use the `Camera` alignment instead.
+
 
 # Sources
 
