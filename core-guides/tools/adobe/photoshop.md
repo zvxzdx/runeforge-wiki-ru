@@ -2,7 +2,7 @@
 title: Adobe Photoshop
 description: A guide on how to install and use Adobe Photoshop
 published: false
-date: 2024-02-18T19:26:20.087Z
+date: 2024-02-18T19:37:47.909Z
 tags: guide, photoshop, install, adobe
 editor: markdown
 dateCreated: 2024-02-11T19:32:06.351Z
@@ -53,17 +53,21 @@ Scroll down and download the Photoshop extension. You need a developer account f
 
 ### Installation
 
-1. 
+1. Close Photoshop
+2. Double click the installer and follow the instruction given. *It usually automatically detects your Photoshop file location*
+3. Once the installation is finished you can re-open Photoshop and you're done.
 
-# Tabs {.tabset}
-## First Tab
+### Export files as .dds
+Once you're done editing your file you need to export it as `.dds`.
 
-Any content here will go into the first tab...
+1. Click `File` >> `Save as` **OR** <kbd>CTRL</kbd> + <kbd>Shift</kbd> + <kbd>S</kbd>
+2. Select Filetype: `DDS - NVIDIA Texture Tools Exporter (*.DDS;*.DDS)`
 
-## Second Tab
+**In the exporter settings you need to follow the instruction given in your specific guide! The following instructions are the standard settings used for most but not all .dds files.**
 
-Any content here will go into the second tab...
+3. Format: `BC3 RGBA 8bpp | DXT5: interpolated alpha` 
+4. Compression Quality: `Highest`
 
-## Third Tab
+Leave the rest as it is >> Click Save. Done.
 
-Any content here will go into the third tab...
+![nvidia_txt_showcase.png](/user-pictures/vector/general-guides/nvidia_txt_showcase.png)
