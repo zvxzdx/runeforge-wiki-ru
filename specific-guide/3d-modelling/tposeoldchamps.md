@@ -2,7 +2,7 @@
 title: T/A posing older champions in Maya
 description: This guide shows you how to T/A pose an older champion that might not be posed.
 published: true
-date: 2024-02-13T10:46:29.520Z
+date: 2024-02-19T19:02:59.491Z
 tags: maya, model
 editor: markdown
 dateCreated: 2024-02-13T00:23:29.029Z
@@ -25,6 +25,7 @@ This short guide will show you how to T/A pose older champions.
   ### <span style="color:white">3. Import that skin’s SKL to the scene with the champion you want to T/A-pose.
   
   ![tryndapose.png](/user-pictures/bud/tryndapose.png)
+  
   ---
   >Results may vary depending on the skeleon used, some parts may break.
 	>If so try using a different skeleton from an older skin, yet newer than default.
