@@ -2,7 +2,7 @@
 title: Making Custom Cursors
 description: This guide explains the creation of custom cursors using Photoshop and paint.net
 published: true
-date: 2024-02-19T19:59:38.332Z
+date: 2024-02-19T21:03:02.710Z
 tags: guide, photoshop, ui, paint.net
 editor: markdown
 dateCreated: 2024-02-18T21:42:47.305Z
@@ -97,7 +97,7 @@ The final address of the folder should look like this:
 
 <kbd style="background-color:#343942">UI.wad.client\assets\ux\cursors</kbd> or <kbd style="background-color:#343942">UI\assets\ux\cursors</kbd>.
 
-Now simply create the mod in CsLoL. If you are unable to, refer to the <a href="/core-guides/tools/cslol">Cslol guide</a>.
+Now simply create the mod in CsLoL. If you are unable to, refer to the <a href="/core-guides/tools/cslolmanager">Cslol guide</a>.
 
 Head over to the Practice Tool and check how your cursor looks. Enable target champions only, hover the shop, ping, hover allies, etc. Check if everything is in order.
 
