@@ -2,7 +2,7 @@
 title: Contributor Checklist
 description: A list with all transferable guides and tutorial from Runeforge to the Wiki.
 published: true
-date: 2024-02-20T03:46:27.931Z
+date: 2024-02-20T03:47:29.666Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-11T20:22:14.142Z
@@ -13,7 +13,7 @@ dateCreated: 2024-02-11T20:22:14.142Z
 
 
 
-- [ ] [Updating old wooxy skin by Yoru](https://www.runeforge.io/post/updating-old-wooxy-skins)
+~~- [ ] [Updating old wooxy skin by Yoru](https://www.runeforge.io/post/updating-old-wooxy-skins)~~ *I dont think we need that*
 - [ ] [copy skinweights by yoru](https://www.runeforge.io/post/copying-skinweights-in-maya)
 - [ ] [update models after patch 11.3 by yoru](https://www.runeforge.io/post/updating-remodels-after-patch-11-3)
 - [ ] [Loading textures in maya by yoru](https://www.runeforge.io/post/loading-textures-in-maya)
