@@ -2,8 +2,8 @@
 title: Animation
 description: All guides listed here.
 published: true
-date: 2024-02-13T20:29:53.102Z
-tags: animation, animate
+date: 2024-02-20T03:54:51.151Z
+tags: 
 editor: markdown
 dateCreated: 2024-02-06T17:04:47.520Z
 ---
