@@ -2,7 +2,7 @@
 title: Contributor Checklist
 description: A list with all transferable guides and tutorial from Runeforge to the Wiki.
 published: true
-date: 2024-02-20T03:48:49.828Z
+date: 2024-02-20T04:03:28.295Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-11T20:22:14.142Z
@@ -11,7 +11,7 @@ dateCreated: 2024-02-11T20:22:14.142Z
 <!--add a Cross "[x]" if you completed a transfer and replace the link with the wiki version! Then move it to completed.-->
 # All Guides
 
-- [ ] [copy skinweights by yoru](https://www.runeforge.io/post/copying-skinweights-in-maya)
+
 - [ ] [update models after patch 11.3 by yoru](https://www.runeforge.io/post/updating-remodels-after-patch-11-3)
 - [ ] [Loading textures in maya by yoru](https://www.runeforge.io/post/loading-textures-in-maya)
 - [ ] [Fix missing champ voice by yoru](https://www.runeforge.io/post/fixing-missing-champion-voices)
@@ -54,6 +54,7 @@ dateCreated: 2024-02-11T20:22:14.142Z
 - [x] [substance painter tutorial by bearded](/specific-guide/texturing/substance-painter-guide)
 - [X] [Making custom cursors by bud](https://www.runeforge.io/post/making-custom-cursors-with-paint-net)
 - [x] [Creating models with multiple mats by Yoru](/specific-guide/texturing/create-skin-with-multiple-mats)
+- [x] [copy skinweights by yoru](/specific-guide/rigging-weighting/copy-skinweights)
 
 # Scrapped
 
