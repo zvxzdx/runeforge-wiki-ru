@@ -2,7 +2,7 @@
 title: Contributor Checklist
 description: A list with all transferable guides and tutorial from Runeforge to the Wiki.
 published: true
-date: 2024-02-20T04:03:28.295Z
+date: 2024-02-20T04:05:12.371Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-11T20:22:14.142Z
@@ -12,7 +12,7 @@ dateCreated: 2024-02-11T20:22:14.142Z
 # All Guides
 
 
-- [ ] [update models after patch 11.3 by yoru](https://www.runeforge.io/post/updating-remodels-after-patch-11-3)
+
 - [ ] [Loading textures in maya by yoru](https://www.runeforge.io/post/loading-textures-in-maya)
 - [ ] [Fix missing champ voice by yoru](https://www.runeforge.io/post/fixing-missing-champion-voices)
 - [ ] [fix broken vfx after patch 13.1](https://www.runeforge.io/post/fixing-broken-vfx-after-patch-13-1)
@@ -58,4 +58,5 @@ dateCreated: 2024-02-11T20:22:14.142Z
 
 # Scrapped
 
-~~- [ ] [Updating old wooxy skin by Yoru](https://www.runeforge.io/post/updating-old-wooxy-skins)~~ *I dont think we need that anymore*
+~~- [Updating old wooxy skin by Yoru](https://www.runeforge.io/post/updating-old-wooxy-skins)~~ *I dont think we need that anymore*
+~~- [update models after patch 11.3 by yoru](https://www.runeforge.io/post/updating-remodels-after-patch-11-3)~~ *Most guides are for Maya 2023 which include the new Maya Plugin, we dont need to "fix" the models anymore*
