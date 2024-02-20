@@ -2,7 +2,7 @@
 title: Vectors Testpage
 description: 
 published: false
-date: 2024-02-20T22:03:05.366Z
+date: 2024-02-20T22:06:07.791Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-20T22:03:05.366Z
@@ -75,4 +75,26 @@ dateCreated: 2024-02-20T22:03:05.366Z
 
 -   [Adobe Photoshop *Program to edit 2D files*](/core-guides/tools/adobe/photoshop)
 -   [Adobe Substance Painter *Program to edit textures on a 3D model in a 2D or 3D environment*](/core-guides/tools/adobe/substance-painter)
+{.links-list}
+
+## Visual FX
+### Free
+
+-   [Gimp *Program to edit 2D files*](/core-guides/tools/gimp)
+-   [Photopea (Browser) *Program to edit 2D files*](https://www.photopea.com/)
+{.links-list}
+### Visual Editors
+
+- [Hacksaw *Tool to visually edit bin files*](/core-guides/tools/hacksaw)
+{.links-list}
+### Paid
+
+-  [Adobe Photoshop *Program to edit 2D files*](/core-guides/tools/adobe/photoshop)
+{.links-list}
+## Converters
+### Free
+
+- [Ritobin *.bin to .py file converter*](/core-guides/tools/rito-bin)
+- [Ritoddstex (tex2dds) *Program to convert files between .tex and .dds*](/core-guides/tools/ritoddstex)
+- [lol2gltf *Tool to convert League .skn and .skl to gltf*](/core-guides/tools/lol2gltf)
 {.links-list}
