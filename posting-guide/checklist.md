@@ -2,7 +2,7 @@
 title: Contributor Checklist
 description: A list with all transferable guides and tutorials from Runeforge to the Wiki.
 published: true
-date: 2024-02-20T04:10:09.979Z
+date: 2024-02-20T21:54:13.268Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-11T20:22:14.142Z
@@ -11,7 +11,6 @@ dateCreated: 2024-02-11T20:22:14.142Z
 <!--add a Cross "[x]" if you completed a transfer and replace the link with the wiki version! Then move it to completed.-->
 # All Guides
 
-- [ ] [Fix missing champ voice by yoru](https://www.runeforge.io/post/fixing-missing-champion-voices)
 - [ ] [fix broken vfx after patch 13.1](https://www.runeforge.io/post/fixing-broken-vfx-after-patch-13-1)
 - [ ] [fix broken healthbars by yoru](https://www.runeforge.io/post/fixing-broken-healthbars)
 - [ ] [fix broken vfx and prevent from breaking by yoru](https://www.runeforge.io/post/how-to-fix-broken-vfx-and-prevent-them-from-breaking)
@@ -52,6 +51,7 @@ dateCreated: 2024-02-11T20:22:14.142Z
 - [X] [Making custom cursors by bud](https://www.runeforge.io/post/making-custom-cursors-with-paint-net)
 - [x] [Creating models with multiple mats by Yoru](/specific-guide/texturing/create-skin-with-multiple-mats)
 - [x] [copy skinweights by yoru](/specific-guide/rigging-weighting/copy-skinweights)
+- [x] [Fix missing champ voice by yoru](/specific-guide/sfx/fix-missing-voicelines)
 
 # Scrapped
 
