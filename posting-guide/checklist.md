@@ -2,7 +2,7 @@
 title: Contributor Checklist
 description: A list with all transferable guides and tutorial from Runeforge to the Wiki.
 published: true
-date: 2024-02-19T20:02:23.740Z
+date: 2024-02-20T03:46:27.931Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-11T20:22:14.142Z
@@ -12,7 +12,7 @@ dateCreated: 2024-02-11T20:22:14.142Z
 # All other Guides
 
 
-- [ ] [Creating models with multiple mats by Yoru](https://www.runeforge.io/post/creating-models-with-multiple-materials-in-maya)
+
 - [ ] [Updating old wooxy skin by Yoru](https://www.runeforge.io/post/updating-old-wooxy-skins)
 - [ ] [copy skinweights by yoru](https://www.runeforge.io/post/copying-skinweights-in-maya)
 - [ ] [update models after patch 11.3 by yoru](https://www.runeforge.io/post/updating-remodels-after-patch-11-3)
@@ -56,3 +56,4 @@ dateCreated: 2024-02-11T20:22:14.142Z
 - [x] [lol2gltf guide](https://www.runeforge.io/lol2gltf)
 - [x] [substance painter tutorial by bearded](/specific-guide/texturing/substance-painter-guide)
 - [X] [Making custom cursors by bud](https://www.runeforge.io/post/making-custom-cursors-with-paint-net)
+- [x] [Creating models with multiple mats by Yoru](/specific-guide/texturing/create-skin-with-multiple-mats)
