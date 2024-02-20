@@ -2,8 +2,8 @@
 title: Sound FX
 description: All guides listed here.
 published: true
-date: 2024-02-14T17:55:44.486Z
-tags: sfx, sound fx, audio
+date: 2024-02-20T03:55:36.683Z
+tags: 
 editor: markdown
 dateCreated: 2024-02-06T17:06:37.964Z
 ---
