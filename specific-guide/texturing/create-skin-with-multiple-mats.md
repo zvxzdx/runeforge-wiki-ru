@@ -2,7 +2,7 @@
 title: Create models/ skins with multiple materials
 description: A guide on how to bind multiple materials onto models in Maya.
 published: true
-date: 2024-02-20T03:44:21.671Z
+date: 2024-02-20T03:45:56.731Z
 tags: maya, modelling, texturing, multiple, material
 editor: markdown
 dateCreated: 2024-02-20T03:44:21.671Z
@@ -11,6 +11,12 @@ dateCreated: 2024-02-20T03:44:21.671Z
 > Work ahead!
 > We want to write this guide out instead of linking a video. If you want to help us out: [Click here](/posting-guide/apply-as-contributor)
 {.is-info}
+
+# Required Tools
+
+- [Maya 2023](/core-guides/tools/maya)
+{.links-list}
+
 
 This tutorial teaches you how to assign multiple materials to a skin properly.
 A lot of the newer champions and skins require multiple materials. An indicator for that are assets, that are not always there, but for example only appear in the recall animation, like KDA Ahri’s throne. Those champions and skins also usually have more than just the basic texture in the folder Skins/base.
