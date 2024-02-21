@@ -2,7 +2,7 @@
 title: Coding
 description: All guides listed here.
 published: true
-date: 2024-02-20T03:55:02.722Z
+date: 2024-02-21T21:12:05.908Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-06T17:07:09.342Z
@@ -10,7 +10,8 @@ dateCreated: 2024-02-06T17:07:09.342Z
 
 
 # Basic Guides
-
+- [Particle & Bin Dictionary *A dictionary with all informations about Particles in bin files*](/specific-guide/coding/particle-dictionary)
+{.links-list}
 
 # Advanced Guides
 
