@@ -2,7 +2,7 @@
 title: Contributor Checklist
 description: A list with all transferable guides and tutorials from Runeforge to the Wiki.
 published: true
-date: 2024-02-20T21:55:07.707Z
+date: 2024-02-21T20:59:57.366Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-11T20:22:14.142Z
@@ -12,7 +12,7 @@ dateCreated: 2024-02-11T20:22:14.142Z
 # All Guides
 
 
-- [ ] [fix broken healthbars by yoru](https://www.runeforge.io/post/fixing-broken-healthbars)
+
 - [ ] [fix broken vfx and prevent from breaking by yoru](https://www.runeforge.io/post/how-to-fix-broken-vfx-and-prevent-them-from-breaking)
 - [ ] [particle and bin directory by bearded](https://www.runeforge.io/post/particle-and-bins-dictionary)
 - [ ] [change ahri orb by yoru](https://www.runeforge.io/post/how-to-change-ahri-orb)
@@ -59,3 +59,4 @@ dateCreated: 2024-02-11T20:22:14.142Z
 - ~~[update models after patch 11.3 by yoru](https://www.runeforge.io/post/updating-remodels-after-patch-11-3)~~ *Most guides are for Maya 2023 which include the new Maya Plugin, we dont need to "fix" the models anymore*
 - ~~[Loading textures in maya by yoru](https://www.runeforge.io/post/loading-textures-in-maya)~~ *That's a general Maya function, if users want to know they can google it. We provide LoL CS only not generic program guides*
 - ~~[fix broken vfx after patch 13.1](https://www.runeforge.io/post/fixing-broken-vfx-after-patch-13-1)~~ *Patch related fixes shouldnt be nessecary anymore*
+- ~~[fix broken healthbars by yoru](https://www.runeforge.io/post/fixing-broken-healthbars)~~ *Same as broken vfx, patch related, if it happenes we use the dc forum*
