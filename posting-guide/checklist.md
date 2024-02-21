@@ -2,7 +2,7 @@
 title: Contributor Checklist
 description: A list with all transferable guides and tutorials from Runeforge to the Wiki.
 published: true
-date: 2024-02-21T21:08:47.968Z
+date: 2024-02-21T21:58:30.818Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-11T20:22:14.142Z
@@ -11,7 +11,7 @@ dateCreated: 2024-02-11T20:22:14.142Z
 <!--add a Cross "[x]" if you completed a transfer and replace the link with the wiki version! Then move it to completed.-->
 # All Guides
 
-- [ ] [particle and bin directory by bearded](https://www.runeforge.io/post/particle-and-bins-dictionary)
+
 - [ ] [change ahri orb by yoru](https://www.runeforge.io/post/how-to-change-ahri-orb)
 - [ ] [using matrix to edit by bloo](https://www.runeforge.io/post/using-matrix-to-edit-vfx)
 - [ ] [fix moonwalking champ by yoru](https://www.runeforge.io/post/fix-moonwalking-champions)
@@ -50,6 +50,7 @@ dateCreated: 2024-02-11T20:22:14.142Z
 - [x] [copy skinweights by yoru](/specific-guide/rigging-weighting/copy-skinweights)
 - [x] [Fix missing champ voice by yoru](/specific-guide/sfx/fix-missing-voicelines)
 - [x] [fix broken vfx and prevent from breaking by yoru](/specific-guide/coding/fix-breaking-vfx)
+- [x] [particle and bin directory by bearded](/specific-guide/coding/particle-dictionary)
 
 # Scrapped
 
