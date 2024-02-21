@@ -2,11 +2,15 @@
 title: Copy skin weights in Maya
 description: A guide on how to copy existing skin weights with Maya
 published: true
-date: 2024-02-20T04:02:19.846Z
+date: 2024-02-21T22:23:04.696Z
 tags: maya, rigging, weighting, copy, skin weight
 editor: markdown
 dateCreated: 2024-02-20T04:02:19.846Z
 ---
+
+> Work ahead!
+> We want to write this guide out instead of linking a video. If you want to help us out: [Click here](/posting-guide/apply-as-contributor)
+{.is-info}
 
 # Required Tools
 
