@@ -2,7 +2,7 @@
 title: Contributor Checklist
 description: A list with all transferable guides and tutorials from Runeforge to the Wiki.
 published: true
-date: 2024-02-21T22:39:47.375Z
+date: 2024-02-21T22:56:14.320Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-11T20:22:14.142Z
@@ -40,9 +40,9 @@ dateCreated: 2024-02-11T20:22:14.142Z
 - [x] [Ritobin guide](/core-guides/tools/rito-bin)
 - [X] [Hacksaw guide](/core-guides/tools/hacksaw)
 - [x] [create 3D custom skin Maya 2023 by yoru](/specific-guide/3d-modelling/create-customskin-maya2023)
-- [x] [lol2gltf guide](https://www.runeforge.io/lol2gltf)
+- [x] [lol2gltf guide](/core-guides/tools/lol2gltf)
 - [x] [substance painter tutorial by bearded](/specific-guide/texturing/substance-painter-guide)
-- [X] [Making custom cursors by bud](https://www.runeforge.io/post/making-custom-cursors-with-paint-net)
+- [X] [Making custom cursors by bud](/specific-guide/ui/custom-cursors)
 - [x] [Creating models with multiple mats by Yoru](/specific-guide/texturing/create-skin-with-multiple-mats)
 - [x] [copy skinweights by yoru](/specific-guide/rigging-weighting/copy-skinweights)
 - [x] [Fix missing champ voice by yoru](/specific-guide/sfx/fix-missing-voicelines)
