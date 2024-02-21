@@ -2,7 +2,7 @@
 title: All Guides for Posting
 description: Posting pages in this wiki can be tricky, so here is a list for all the waays you can post here!
 published: true
-date: 2024-02-12T14:55:46.482Z
+date: 2024-02-21T22:49:47.056Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-08T13:36:33.153Z
@@ -86,18 +86,18 @@ Thats basically it.
 Wiki js also features a cool feature on how to link pages of the same wiki, you dont need to wite the domain for example. All you need is the filepath (everything behind the .../en/ of any pagelink)
 
 Example:
-`[Link me to this page](/posting-guide-landing)`
+`[Link me to this page](/posting-guide)`
 
 This will be printed out so:
-[Link me to this page](/posting-guide-landing)
+[Link me to this page](/posting-guide)
 
 Another great feature is the customizability of those links. You can add an anker point for example which would directly scroll to the header you want, simply add the #(ankerlink) behind it.
 
 Example:
-`[Link me to this position](/posting-guide-landing#how-to-post)` << keep in mind, the # needs to be the whole title, without any spaces, they become a dash "-".
+`[Link me to this position](/posting-guide#how-to-post)` << keep in mind, the # needs to be the whole title, without any spaces, they become a dash "-".
 
 This will printed out so:
-[Link me to this position](/posting-guide-landing#how-to-post)
+[Link me to this position](/posting-guide#how-to-post)
 
 Also a really fancy feature which is only doable in wiki.js is making a link a list, this is a bit more complicated to remember but you will get the hang of it. You need the core structure but as a list.
 
