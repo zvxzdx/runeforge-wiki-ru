@@ -2,7 +2,7 @@
 title: Particle and Bin Dictionary
 description: The full overview about everything you need to know about bins and particles!
 published: true
-date: 2024-02-21T21:54:11.745Z
+date: 2024-02-21T21:55:02.374Z
 tags: vfx, bin, particle, dictionary
 editor: markdown
 dateCreated: 2024-02-21T21:54:11.745Z
@@ -123,7 +123,7 @@ For regular texture files.
 - 5 = Overlay like in photoshop.
 {.grid-list}
 
-Blending modes are different for [SCB/SCO](/specific-guide/coding/particle-dictionary#scb-sco)s and [SKN/SKL](/specific-guide/coding/particle-dictionaryskn-skl).
+Blending modes are different for [SCB/SCO](/specific-guide/coding/particle-dictionary#scb-sco)s and [SKN/SKL](/specific-guide/coding/particle-dictionary#skn-skl).
 - SCB/SCO: 3 = Normal.
 - SKN/SKL: 1 = Normal, 3 = Inverts faces, 4 = Whiten,
 {.grid-list}
