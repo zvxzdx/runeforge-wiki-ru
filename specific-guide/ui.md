@@ -2,7 +2,7 @@
 title: UI
 description: All guides listed here.
 published: true
-date: 2024-02-21T20:56:34.068Z
+date: 2024-02-21T20:59:04.407Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-08T18:25:05.289Z
@@ -19,8 +19,4 @@ dateCreated: 2024-02-08T18:25:05.289Z
 # Templates
 
 - [Using "Simple HUD Template" *A Template made by Yoru Queen of Night*](/specific-guide/ui/simple-hud-template)
-{.links-list}
-
-# Fixes
-- [Fix broken health bars](/specific-guide/ui/fix-broken-healthbars)
 {.links-list}
