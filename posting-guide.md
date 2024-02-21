@@ -2,7 +2,7 @@
 title: All Guides for Posting
 description: Posting pages in this wiki can be tricky, so here is a list for all the waays you can post here!
 published: true
-date: 2024-02-21T22:49:47.056Z
+date: 2024-02-21T22:51:15.299Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-08T13:36:33.153Z
@@ -102,9 +102,11 @@ This will printed out so:
 Also a really fancy feature which is only doable in wiki.js is making a link a list, this is a bit more complicated to remember but you will get the hang of it. You need the core structure but as a list.
 
 Example:
-`- [A Listed Link? *How fancy*](Your link)`
-`- [And another Link? *This is crazy!*](Your link)`
-`{.links-list}`
+```
+- [A Listed Link? *How fancy*](Your link)
+- [And another Link? *This is crazy!*](Your link)
+{.links-list}
+```
 
 Thats the print:
 
