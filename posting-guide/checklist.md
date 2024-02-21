@@ -2,7 +2,7 @@
 title: Contributor Checklist
 description: A list with all transferable guides and tutorials from Runeforge to the Wiki.
 published: true
-date: 2024-02-21T21:58:30.818Z
+date: 2024-02-21T22:14:53.762Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-11T20:22:14.142Z
@@ -12,7 +12,7 @@ dateCreated: 2024-02-11T20:22:14.142Z
 # All Guides
 
 
-- [ ] [change ahri orb by yoru](https://www.runeforge.io/post/how-to-change-ahri-orb)
+
 - [ ] [using matrix to edit by bloo](https://www.runeforge.io/post/using-matrix-to-edit-vfx)
 - [ ] [fix moonwalking champ by yoru](https://www.runeforge.io/post/fix-moonwalking-champions)
 - [ ] [fix bugged vfx transparency by yoru](https://www.runeforge.io/post/fixing-particles-not-properly-showing-transparency)
@@ -59,3 +59,4 @@ dateCreated: 2024-02-11T20:22:14.142Z
 - ~~[Loading textures in maya by yoru](https://www.runeforge.io/post/loading-textures-in-maya)~~ *That's a general Maya function, if users want to know they can google it. We provide LoL CS only not generic program guides*
 - ~~[fix broken vfx after patch 13.1](https://www.runeforge.io/post/fixing-broken-vfx-after-patch-13-1)~~ *Patch related fixes shouldnt be nessecary anymore*
 - ~~[fix broken healthbars by yoru](https://www.runeforge.io/post/fixing-broken-healthbars)~~ *Same as broken vfx, patch related, if it happenes we use the dc forum*
+-  ~~[change ahri orb by yoru](https://www.runeforge.io/post/how-to-change-ahri-orb)~~ *to specific for a wiki*
