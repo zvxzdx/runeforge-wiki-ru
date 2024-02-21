@@ -2,14 +2,17 @@
 title: Visual FX
 description: All guides listed here.
 published: true
-date: 2024-02-21T21:00:50.187Z
+date: 2024-02-21T21:11:53.123Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-06T17:06:02.394Z
 ---
 
-# Basic Guides
+# Mandatory
+- [Particle & Bin Dictionary *A dictionary with all informations about Particles in bin files*](/specific-guide/coding/particle-dictionary)
+{.links-list}
 
+# Basic Guides
 
 # Advanced Guides
 
