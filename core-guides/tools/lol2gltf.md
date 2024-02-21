@@ -2,7 +2,7 @@
 title: Lol2gltf
 description: A guide on how to install and use lol2gltf
 published: true
-date: 2024-02-13T10:43:23.241Z
+date: 2024-02-21T22:55:34.848Z
 tags: guide, install, lol2gltf
 editor: markdown
 dateCreated: 2024-02-12T20:30:56.573Z
@@ -19,7 +19,7 @@ This page will explain lol2gltf and its features
  - Extract both <kbd>lol2gltf.zip</kbd> and <kbd>lol2gltf.CLI.zip</kbd> into the folder
 - lol2gltf is now ready to be used by clicking "lol2gltf.exe"
 >In order to be able to use lol2gltf you need to be able to  extract all the files using [Obsidian](/core-guides/tools-landing/obsidian)(check guide)
-{.is-warning}
+{.is-info}
 
 ## Convert .skn to gltf
 - Open <kbd>lol2gltf</kbd>
