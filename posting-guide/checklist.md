@@ -2,7 +2,7 @@
 title: Contributor Checklist
 description: A list with all transferable guides and tutorials from Runeforge to the Wiki.
 published: true
-date: 2024-02-21T23:06:38.814Z
+date: 2024-02-21T23:08:29.166Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-11T20:22:14.142Z
@@ -23,7 +23,7 @@ dateCreated: 2024-02-11T20:22:14.142Z
 - [ ] [make model part invisible by yoru](https://www.runeforge.io/post/making-model-parts-invisible-through-textures-only)
 - [ ] [how to add child particles by bearded](https://www.runeforge.io/post/how-to-add-child-particles-to-your-league-of-legennds-custom-skin-vfx) <-- reserved by vector
 - [ ] [add special mats by bearded](https://www.runeforge.io/post/adding-special-materials-to-your-skin-in-league-of-legends) <-- reserved by vector
-- [ ] [save .dds & .tex files by yoru](https://www.runeforge.io/post/saving-dds-tex-files)
+
 - [ ] [add particle events to animations by bearded](https://www.runeforge.io/post/adding-particle-events-to-specific-animations) <-- reserved by vector
 - [ ] [create custom font by tyre](https://www.runeforge.io/post/how-to-create-a-custom-font)
 - [ ] [handpainting/ texture guide by froggles](https://www.runeforge.io/post/hand-painting---texturing-guide-by-yekaterina-bourykina)
@@ -64,3 +64,4 @@ dateCreated: 2024-02-11T20:22:14.142Z
 - ~~[fix broken vfx after patch 13.1](https://www.runeforge.io/post/fixing-broken-vfx-after-patch-13-1)~~ *Patch related fixes shouldnt be nessecary anymore*
 - ~~[fix broken healthbars by yoru](https://www.runeforge.io/post/fixing-broken-healthbars)~~ *Same as broken vfx, patch related, if it happenes we use the dc forum*
 -  ~~[change ahri orb by yoru](https://www.runeforge.io/post/how-to-change-ahri-orb)~~ *to specific for a wiki*
+- ~~[save .dds & .tex files by yoru](https://www.runeforge.io/post/saving-dds-tex-files)~~ *Should be explained in any related guide*
