@@ -2,7 +2,7 @@
 title: Contributor Checklist
 description: A list with all transferable guides and tutorials from Runeforge to the Wiki.
 published: true
-date: 2024-02-21T22:59:34.838Z
+date: 2024-02-21T23:06:38.814Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-11T20:22:14.142Z
@@ -23,13 +23,19 @@ dateCreated: 2024-02-11T20:22:14.142Z
 - [ ] [make model part invisible by yoru](https://www.runeforge.io/post/making-model-parts-invisible-through-textures-only)
 - [ ] [how to add child particles by bearded](https://www.runeforge.io/post/how-to-add-child-particles-to-your-league-of-legennds-custom-skin-vfx) <-- reserved by vector
 - [ ] [add special mats by bearded](https://www.runeforge.io/post/adding-special-materials-to-your-skin-in-league-of-legends) <-- reserved by vector
-- [ ] [create custom loadingscren by tyre](https://www.runeforge.io/post/creating-a-custom-loading-screen)
 - [ ] [save .dds & .tex files by yoru](https://www.runeforge.io/post/saving-dds-tex-files)
 - [ ] [add particle events to animations by bearded](https://www.runeforge.io/post/adding-particle-events-to-specific-animations) <-- reserved by vector
 - [ ] [create custom font by tyre](https://www.runeforge.io/post/how-to-create-a-custom-font)
 - [ ] [handpainting/ texture guide by froggles](https://www.runeforge.io/post/hand-painting---texturing-guide-by-yekaterina-bourykina)
+- [ ] [sound modding guide by Kaizen](https://www.runeforge.io/post/sound-modding-tutorial) <-- reserverd by wiko
+
+## Combine those:
+**Loading Screen:**
+- [ ] [create custom loadingscren by tyre](https://www.runeforge.io/post/creating-a-custom-loading-screen)
 - [ ] [custom loading screen spinner by lxver](https://www.runeforge.io/post/how-to-make-a-custom-loadingscreen-spinner)
-- [ ] [sound modding guide by Kaizen](https://www.runeforge.io/post/sound-modding-tutorial) <-- reserverd by wiki
+
+---
+
 
 # Completed
 
