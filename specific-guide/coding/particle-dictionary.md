@@ -2,7 +2,7 @@
 title: Particle and Bin Dictionary
 description: The full overview about everything you need to know about bins and particles!
 published: true
-date: 2024-02-21T21:55:02.374Z
+date: 2024-02-21T21:55:47.044Z
 tags: vfx, bin, particle, dictionary
 editor: markdown
 dateCreated: 2024-02-21T21:54:11.745Z
@@ -97,7 +97,7 @@ Followed by an SCB or SCO mesh. This defines what mesh will be used in an emitte
 ## scb/ sco
 **scb:** Mesh
 **sco:** Mesh with joints and materials
-## skn/skl
+## skn/ skl
 Mesh with full skeleton and materials (standard file types for League champions). Used for animated meshes (Ivern's root, Swain's bird) if found in particle folder.
 ## skinscale
 This determines the actual size of your champion in-game. Default value changes per champ. This will be located in the skin#.bin in `data/assets/characters/champion/skins`
