@@ -2,7 +2,7 @@
 title: Contributor Checklist
 description: A list with all transferable guides and tutorials from Runeforge to the Wiki.
 published: true
-date: 2024-02-21T23:08:29.166Z
+date: 2024-02-21T23:11:27.528Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-11T20:22:14.142Z
@@ -18,7 +18,7 @@ dateCreated: 2024-02-11T20:22:14.142Z
 - [ ] [particle swapping through bins by yoru](https://www.runeforge.io/post/particle-swapping-through-bin-editing)
 - [ ] [improve flat textures by yoru](https://www.runeforge.io/post/how-to-improve-flat-textures)
 - [ ] [fix broken animations by yoru](https://www.runeforge.io/post/how-to-fix-broken-animations-with-lolmaya)
-- [ ] [recolor particles text+bins by yoru](https://www.runeforge.io/post/recoloring-particles-textures-bins)
+
 - [ ] [create chromas by yoru](https://www.runeforge.io/post/how-to-create-chromas)
 - [ ] [make model part invisible by yoru](https://www.runeforge.io/post/making-model-parts-invisible-through-textures-only)
 - [ ] [how to add child particles by bearded](https://www.runeforge.io/post/how-to-add-child-particles-to-your-league-of-legennds-custom-skin-vfx) <-- reserved by vector
@@ -65,3 +65,4 @@ dateCreated: 2024-02-11T20:22:14.142Z
 - ~~[fix broken healthbars by yoru](https://www.runeforge.io/post/fixing-broken-healthbars)~~ *Same as broken vfx, patch related, if it happenes we use the dc forum*
 -  ~~[change ahri orb by yoru](https://www.runeforge.io/post/how-to-change-ahri-orb)~~ *to specific for a wiki*
 - ~~[save .dds & .tex files by yoru](https://www.runeforge.io/post/saving-dds-tex-files)~~ *Should be explained in any related guide*
+- ~~[recolor particles text+bins by yoru](https://www.runeforge.io/post/recoloring-particles-textures-bins)~~ *Not sure here, maybe later*
