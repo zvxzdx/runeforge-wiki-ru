@@ -2,7 +2,7 @@
 title: Autodesk Maya
 description: This page is all about Autodesk Maya. We include a list of pages which contain this tool in order to help you finding what you need!
 published: true
-date: 2024-02-22T23:32:02.701Z
+date: 2024-02-22T23:35:40.824Z
 tags: maya, autodesk, student, trial, tool, lolmaya
 editor: markdown
 dateCreated: 2024-02-07T11:21:56.262Z
@@ -42,7 +42,9 @@ Also those prices are paid in **advance** so the full price for the whole time p
 <br>
 # **Install LoL-Maya**
 
-First download LoL-Maya [here](https://github.com/tarngaina/lol_maya/releases/tag/4.2.8).
+First get the Plugin
+- [LoL-Maya *External Link*](https://github.com/tarngaina/lol_maya/releases/tag/4.2.8)
+{.links-list}
 
 Once you choose any way of getting a Maya License, you simply follow their installation instructions. 
 
