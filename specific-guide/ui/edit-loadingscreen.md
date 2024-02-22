@@ -2,7 +2,7 @@
 title: Customizing the Loadingscreen
 description: A guide collection of different ways to customize loadingscreens.
 published: true
-date: 2024-02-22T20:08:11.121Z
+date: 2024-02-22T20:09:27.046Z
 tags: guide, ui, loadingscreen
 editor: markdown
 dateCreated: 2024-02-22T18:42:08.415Z
@@ -37,7 +37,7 @@ First off all, what we want to do is split our gif or video into single individu
 
 Once we have the gifs broken down into images, you have to pick exactly 32 of them. Keep in mind that you can repeat frames if you're just short of 32.
 
-Next you're going to open your graphic editor of preference (In this guide [Photoshop](/core-guides/tools/Adobe/Photoshop) will be used). Bear in mind that the graphic editor must be able to handle transparent backgrounds, as we're working with sprites.
+Next you're going to open your graphic editor of preference (In this guide [Photoshop](/core-guides/tools/adobe/photoshop) will be used). Bear in mind that the graphic editor must be able to handle transparent backgrounds, as we're working with sprites.
 
  
 ### Placing the frames in the template
