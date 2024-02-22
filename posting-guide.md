@@ -2,7 +2,7 @@
 title: All Guides for Posting
 description: Posting pages in this wiki can be tricky, so here is a list for all the waays you can post here!
 published: true
-date: 2024-02-21T22:51:15.299Z
+date: 2024-02-22T01:39:15.888Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-08T13:36:33.153Z
@@ -33,13 +33,13 @@ Now you created a new page which you can edit in the next steps.
 Make sure you checked the following:
 
 - You selected the correct page, this can also mean that the path would be longer:
-(examples: /texture-landing/maya/*your name*), if there are categories already, you can select the fitting folder on the left side of the window aswell!
+(examples: /texture/maya/*your name*), if there are categories already, you can select the fitting folder on the left side of the window aswell!
 - make sure the choosen name is not yet used, otherways you will enter the edit mode of that page
 - if you are unsure what to do, don't hesitate to ask before you click, we are always here to help and this is also easy to understand once you've done it!
 
 ## Step 2
 Selecting the right Editor!
-Since we are using Github, we need all pages in **Markdown**, don't use the Visual editor or any other option.
+Since we are using Github, we need all pages in **Markdown**, don't use the Visual editor! You can also select a template!
 
 Once you selected "markdown", the editor will open including a new settings window. This window contains of:
 - The title
