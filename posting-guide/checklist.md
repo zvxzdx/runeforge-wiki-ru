@@ -2,7 +2,7 @@
 title: Contributor Checklist
 description: A list with all transferable guides and tutorials from Runeforge to the Wiki.
 published: true
-date: 2024-02-22T04:32:05.866Z
+date: 2024-02-22T05:04:53.939Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-11T20:22:14.142Z
@@ -12,7 +12,6 @@ dateCreated: 2024-02-11T20:22:14.142Z
 # All Guides
 
 - [ ] [particle swapping through bins by yoru](https://www.runeforge.io/post/particle-swapping-through-bin-editing) <-- STARTED BUT UNFINISHED
-- [ ] [improve flat textures by yoru](https://www.runeforge.io/post/how-to-improve-flat-textures)
 - [ ] [fix broken animations by yoru](https://www.runeforge.io/post/how-to-fix-broken-animations-with-lolmaya)
 - [ ] [create chromas by yoru](https://www.runeforge.io/post/how-to-create-chromas)
 - [ ] [make model part invisible by yoru](https://www.runeforge.io/post/making-model-parts-invisible-through-textures-only)
@@ -53,6 +52,7 @@ dateCreated: 2024-02-11T20:22:14.142Z
 - [X] [fix moonwalking champ by yoru](/specific-guide/animation/How_to_fix_moonwalking)
 - [X] [handling/fix weird .dds files by yoru](https://www.runeforge.io/post/handling-fixing-weird-dds-files)
 - [X] [fix broken face normals by yoru](https://www.runeforge.io/post/fixing-broken-face-normals)
+- [X] [improve flat textures by yoru](https://www.runeforge.io/post/how-to-improve-flat-textures)
 
 # Scrapped
 
