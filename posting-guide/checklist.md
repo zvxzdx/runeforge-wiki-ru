@@ -2,7 +2,7 @@
 title: Contributor Checklist
 description: A list with all transferable guides and tutorials from Runeforge to the Wiki.
 published: true
-date: 2024-02-22T20:55:50.400Z
+date: 2024-02-22T21:20:41.633Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-11T20:22:14.142Z
@@ -12,13 +12,6 @@ dateCreated: 2024-02-11T20:22:14.142Z
 # All Guides
 
 - [x] [yipee]
-
-## Combine those:
-
-
-
----
-
 
 # Completed
 
