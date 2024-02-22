@@ -2,7 +2,7 @@
 title: Creation Assets
 description: A page with all assets you can use for your custom skin as downloads!
 published: true
-date: 2024-02-22T21:03:56.695Z
+date: 2024-02-22T21:04:32.926Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-22T17:47:44.116Z
@@ -13,7 +13,7 @@ dateCreated: 2024-02-22T17:47:44.116Z
 ## Lol skin series loading screen borders
 A drive with many different loading screen borders from Riot's skin series.
 Provided by **Yoru**
-- [Google Drive Link](https://drive.google.com/drive/folders/1yeAYQjAJuYkzaXJdVWP6GL7NO31r2-Vp)
+- [Google Drive Link *External Link*](https://drive.google.com/drive/folders/1yeAYQjAJuYkzaXJdVWP6GL7NO31r2-Vp)
 {.links-list}
 # 3D Assets
 # Tabs {.tabset}
