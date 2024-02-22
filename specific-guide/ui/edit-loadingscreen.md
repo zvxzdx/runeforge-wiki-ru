@@ -2,7 +2,7 @@
 title: Customizing the Loadingscreen
 description: A guide collection of different ways to customize loadingscreens.
 published: true
-date: 2024-02-22T20:10:53.840Z
+date: 2024-02-22T20:53:59.023Z
 tags: guide, ui, loadingscreen
 editor: markdown
 dateCreated: 2024-02-22T18:42:08.415Z
@@ -27,6 +27,33 @@ style="width:75%"></a>
 
 >During events like worlds, there will be a different loading screen that you can also replace. Theoretically you can replace any loading screen as long as you can find it in obsidian (urf, tft, etc). I will not be covering these, though.
 
+---
+## Preparation
+Download the template provided and prepare the image you plan to use as the background.
+
+## Creation
+Open the template you have downloaded and go to Map11 folder and get srbackground.tex.
+
+You will convert the srbackground file using [tex2dds](/core-guides/tools/ritoddstex).
+
+Open the DDS file you got in the image editing program of choice.
+Take the image you prepared and copy it over the background.
+You can use any file thats 1024x512 or larger.
+
+
+## Saving
+Save your file as a DDS again and make sure its saved using Bc3/DXT5.
+
+Drag the DDS file on [tex2dds](/core-guides/tools/ritoddstex) to get the .tex file back.
+You can leave the DDS file in your mod or delete it if you wish.
+### Howling abyss
+If you want to use the same background for the Howling abyss map you will just need to copy the .tex file you got and rename it to habackground.tex.
+If you wish to make it different you will follow the same process as the one for Summoners Rift.
+### Cslol Notice
+If you are using a custom map mod which changes the loading screen, name your mod in Cslol with a 0 in front so that its at the top and make sure "Suppress install conflicts" setting is enabled.
+This will ensure that your loading screen is applied.
+
+---
 # Custom loadingscreen spinner
 # Tabs {.tabset}
 ## Photoshop
