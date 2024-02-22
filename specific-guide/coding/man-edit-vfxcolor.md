@@ -2,7 +2,7 @@
 title: Edit Visual FX Colors manually
 description: A short guide on how to manually edit VFX colors in bin files.
 published: true
-date: 2024-02-21T22:25:05.187Z
+date: 2024-02-22T18:42:36.809Z
 tags: visual studio, vfx, code, bin, color
 editor: markdown
 dateCreated: 2024-02-11T19:57:31.882Z
@@ -47,11 +47,12 @@ Now you just paste in your values and done.
 ![part4.webp](/user-pictures/vector/general-guides/manualedit-vfx/part4.webp)
 
 ## Video Guide
-
+<br>
 <div align="left">
   <a href="https://www.youtube.com/watch?v=h2NlIc35qWY"><img src="https://img.youtube.com/vi/h2NlIc35qWY/0.jpg" alt="Guide on how to edit VFX Color values via code"
 style="width:75%"></a>
 </div>
+*External Youtube Link!*
 
 # Sources
 - Yoru Queen of Night
