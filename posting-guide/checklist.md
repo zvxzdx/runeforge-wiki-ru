@@ -2,7 +2,7 @@
 title: Contributor Checklist
 description: A list with all transferable guides and tutorials from Runeforge to the Wiki.
 published: true
-date: 2024-02-22T17:40:19.403Z
+date: 2024-02-22T17:42:41.182Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-11T20:22:14.142Z
@@ -12,13 +12,13 @@ dateCreated: 2024-02-11T20:22:14.142Z
 # All Guides
 
 - [ ] [particle swapping through bins by yoru](https://www.runeforge.io/post/particle-swapping-through-bin-editing) <-- Unfinished but started!
-- [ ] [create chromas by yoru](https://www.runeforge.io/post/how-to-create-chromas)
+- [ ] [create chromas by yoru](https://www.runeforge.io/post/how-to-create-chromas) <-- reserved by vector
 - [ ] [create custom font by tyre](https://www.runeforge.io/post/how-to-create-a-custom-font)<-- reserved by bud
 - [ ] [sound modding guide by Kaizen](https://www.runeforge.io/post/sound-modding-tutorial) <-- reserverd by wiko
 
 ## Combine those:
 **Loading Screen:**
-- [ ] [create custom loadingscren by tyre](https://www.runeforge.io/post/creating-a-custom-loading-screen)
+- [ ] [create custom loadingscren by tyre](https://www.runeforge.io/post/creating-a-custom-loading-screen) <-- reserved by vector
 - [ ] [custom loading screen spinner by lxver](https://www.runeforge.io/post/how-to-make-a-custom-loadingscreen-spinner)<-- reserved by bud
 
 ---
