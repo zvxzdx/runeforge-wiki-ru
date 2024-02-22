@@ -2,7 +2,7 @@
 title: Customizing the Loadingscreen
 description: A guide collection of different ways to customize loadingscreens.
 published: true
-date: 2024-02-22T20:09:27.046Z
+date: 2024-02-22T20:10:53.840Z
 tags: guide, ui, loadingscreen
 editor: markdown
 dateCreated: 2024-02-22T18:42:08.415Z
@@ -52,7 +52,7 @@ If you aren't using Photoshop you can use [this online converter](https://www.co
  
 ### Converting .dds files to .tex
 
-You will need to convert the [.dds](/core-guides/filetypes#dds) file to [.tex](/core-guides/filetypes#tex). You will need [tex2dds](/core-guides/tools/tex2dds) for this.
+You will need to convert the [.dds](/specific-guide/filetypes#dds) file to [.tex](/specific-guide/filetypes#tex). You will need [tex2dds](/core-guides/tools/ritoddstex) for this.
 
 When the conversion is done, we'll change the name of the file to "loadingscreen_spinner_atlas" (without quotations). After that, you will want to create a few folders. It should look something like this:
 <kbd style="background-color:#343942">[FOLDER WITH YOUR MOD NAME]/assets/ux/loadingscreen/loadingscreen_spinner_atlas.tex</kbd>
