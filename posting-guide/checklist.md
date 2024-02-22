@@ -2,7 +2,7 @@
 title: Contributor Checklist
 description: A list with all transferable guides and tutorials from Runeforge to the Wiki.
 published: true
-date: 2024-02-22T18:45:30.565Z
+date: 2024-02-22T20:37:15.743Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-11T20:22:14.142Z
@@ -11,8 +11,6 @@ dateCreated: 2024-02-11T20:22:14.142Z
 <!--add a Cross "[x]" if you completed a transfer and replace the link with the wiki version! Then move it to completed.-->
 # All Guides
 
-
-- [ ] [create custom font by tyre](https://www.runeforge.io/post/how-to-create-a-custom-font)<-- reserved by bud
 - [ ] [sound modding guide by Kaizen](https://www.runeforge.io/post/sound-modding-tutorial) <-- reserverd by wiko
 
 ## Combine those:
@@ -54,6 +52,7 @@ Put here: [Link](/specific-guide/ui/edit-loadingscreen#custom-loadingscreen-spin
 - [x] [add particle events to animations by bearded](/specific-guide/coding/add-particles-to-animation) 
 - [x] [particle swapping through bins by yoru](/specific-guide/coding/Particle-swapping)
 - [x] [create custom loadingscren by tyre](/specific-guide/ui/edit-loadingscreen#create-custom-loadingscreen) 
+- [x] [create custom font by tyre](/specific-guide/ui/custom-font)
 
 # Scrapped
 
