@@ -2,7 +2,7 @@
 title: How to fix moonwalking
 description: This is the fix for when your champion starts walking diagonally
 published: true
-date: 2024-02-22T03:13:56.381Z
+date: 2024-02-22T03:15:30.827Z
 tags: animation, code
 editor: markdown
 dateCreated: 2024-02-22T03:13:56.381Z
