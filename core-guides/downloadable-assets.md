@@ -2,7 +2,7 @@
 title: Creation Assets
 description: A page with all assets you can use for your custom skin as downloads!
 published: true
-date: 2024-02-22T21:04:32.926Z
+date: 2024-02-22T21:18:40.383Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-22T17:47:44.116Z
@@ -15,6 +15,14 @@ A drive with many different loading screen borders from Riot's skin series.
 Provided by **Yoru**
 - [Google Drive Link *External Link*](https://drive.google.com/drive/folders/1yeAYQjAJuYkzaXJdVWP6GL7NO31r2-Vp)
 {.links-list}
+## Splash art, In-game circle and square templates
+Splash art template that has the shadow border made close to the one that Riot skins have.
+Provided by **bud**
+- [Photoshop Templates*Mediafire Link*](https://www.mediafire.com/folder/qb3kuw3ypwmq1/Photoshop_champion_templates)
+- [paint.net Templates*Mediafire Link*](https://www.mediafire.com/folder/ca1b1aoin342h/paint.net_champion_templates)
+- [GIMP Templates*Mediafire Link*](https://www.mediafire.com/folder/0z7na9qzm4vw4/GIMP_champion_templates)
+{.links-list}
+
 # 3D Assets
 # Tabs {.tabset}
 ## Base Bodies
