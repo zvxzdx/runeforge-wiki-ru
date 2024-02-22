@@ -2,7 +2,7 @@
 title: Autodesk Maya
 description: This page is all about Autodesk Maya. We include a list of pages which contain this tool in order to help you finding what you need!
 published: true
-date: 2024-02-13T19:09:03.910Z
+date: 2024-02-22T23:31:32.191Z
 tags: maya, autodesk, student, trial, tool
 editor: markdown
 dateCreated: 2024-02-07T11:21:56.262Z
@@ -40,7 +40,7 @@ Also those prices are paid in **advance** so the full price for the whole time p
 
 *Make sure you use Maya 2023! Maya 2024.1 is confirmed to work, while 2024.2 might be buggy.*
 <br>
-# **Installation Guide**
+# **Install LoL-Maya**
 
 First download LoL-Maya [here](https://github.com/tarngaina/lol_maya/releases/tag/4.2.8).
 
