@@ -2,7 +2,7 @@
 title: UI
 description: All guides listed here.
 published: true
-date: 2024-02-21T20:59:04.407Z
+date: 2024-02-22T18:30:51.058Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-08T18:25:05.289Z
@@ -11,7 +11,8 @@ dateCreated: 2024-02-08T18:25:05.289Z
 
 # Basic Guides
 
-- <a href="/specific-guide/ui/custom-cursors">Making Custom Cursors*Guide by bud covers Photoshop and paint.net*</a>
+- [Making Custom Cursors*Guide by bud covers Photoshop and paint.net*](/specific-guide/ui/custom-cursors)
+- [Editing the Loadingscreen *A guide collection*](/specific-guide/ui/edit-loadingscreen)
 {.links-list}
 
 # Advanced Guides
