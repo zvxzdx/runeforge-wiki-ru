@@ -2,7 +2,7 @@
 title: Creation Assets
 description: A page with all assets you can use for your custom skin as downloads!
 published: true
-date: 2024-02-22T21:50:29.770Z
+date: 2024-02-22T22:18:21.898Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-22T17:47:44.116Z
