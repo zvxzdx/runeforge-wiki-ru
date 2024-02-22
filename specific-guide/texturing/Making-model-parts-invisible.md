@@ -2,7 +2,7 @@
 title: Making model parts invisible through textures only
 description: This tutorial shows you how you can “delete” parts of a model/skin without having to actually 3D-edit it just by editing it in Photoshop or Gimp.
 published: true
-date: 2024-02-22T06:04:37.791Z
+date: 2024-02-22T15:43:46.537Z
 tags: photoshop, maya, texturing, texture, blender, gimp
 editor: markdown
 dateCreated: 2024-02-22T05:59:13.291Z
@@ -100,3 +100,7 @@ Simply take your eraser tool and erase all the selected areas fully.
 </details>
 
 Then save with BC3/DXT5 compression.
+
+# Sources
+
+- Yoru Queen of Night
