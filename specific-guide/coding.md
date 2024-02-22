@@ -2,7 +2,7 @@
 title: Coding
 description: All guides listed here.
 published: true
-date: 2024-02-22T01:21:23.066Z
+date: 2024-02-22T04:31:15.921Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-06T17:07:09.342Z
@@ -15,8 +15,9 @@ dateCreated: 2024-02-06T17:07:09.342Z
 
 # Advanced Guides
 
-- [Manually edit VFX colors in bins *A Guide on how to edit VFX colors in bins via a Code Editor*](/specific-guide/coding/man-edit-vfxcolor)
-- [Using matrix to edit VFX *A Guide on how to edit VFX via a Code Editor*](/specific-guide/coding/edit-vfx-using-matrix)
+- [Manually edit VFX colors in bins *A guide on how to edit VFX colors in bins via a Code Editor*](/specific-guide/coding/man-edit-vfxcolor)
+- [Using matrix to edit VFX *A guide on how to edit VFX via a Code Editor*](/specific-guide/coding/edit-vfx-using-matrix)
+- [Particle swapping through bin-editing *A guide on how to reuse particles from another source via a Code Editor* ](/specific-guide/coding/Particle-swapping)
 {.links-list}
 
 
