@@ -2,7 +2,7 @@
 title: How to fix broken animations with LoLmaya
 description: This tutorial shows you how to fix broken animations on your model that happen due to animation layering etc.
 published: true
-date: 2024-02-22T17:26:16.568Z
+date: 2024-02-22T18:03:22.401Z
 tags: maya, animation
 editor: markdown
 dateCreated: 2024-02-22T05:14:01.874Z
@@ -23,14 +23,14 @@ For Jhin, his reload animation is horribly bugged if you export it normally:
 
 # WRITTEN TUTORIAL
 
-## HOW TO GET A RIOT.SKL FILE
+## How to get a Riot .skl file
 First extract the original champion <a href="/en/specific-guide/filetypes#skn">.skl</a> file from Obsidian, following the tutorial above. You only need the <a href="/en/specific-guide/filetypes#skn">.skl</a>. In my case, it’s Jhin.skl
 
 Rename the <a href="/en/specific-guide/filetypes#skn">.skl</a> to Riot.skl and place it in the champion skin folder of your custom skin. I rename Jhin.skl to Riot.skl and put it into Jhin.wad.client/assets/characters/jhin/skins/base.
 
 ![2.webp](/user-pictures/goat/fixbrokenanimation/2.webp)
 
-## EXPORTING YOUR SKIN
+## Exporting your skin
 Load your finished skin in Maya. You have to have all the weighting done.
 
 ![3.webp](/user-pictures/goat/fixbrokenanimation/3.webp)
@@ -42,7 +42,7 @@ In the bottom right/Script Editor you will see this. This means it worked.
 
 Delete the riot.skl file.
 
-## RESULT
+## Result
 
 ![5.gif](/user-pictures/goat/fixbrokenanimation/5.gif =x300)
 
