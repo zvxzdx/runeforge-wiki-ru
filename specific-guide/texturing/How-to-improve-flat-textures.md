@@ -2,7 +2,7 @@
 title: How to improve flat textures
 description: This tutorial shows you how you can improve flat, textures without shadows, specifically Wild Rift textures, by baking an occlusion map in Maya and editing the texture in Photoshop.
 published: true
-date: 2024-02-22T17:19:17.959Z
+date: 2024-02-22T18:01:52.952Z
 tags: photoshop, texturing, texture, gimp
 editor: markdown
 dateCreated: 2024-02-22T05:01:56.625Z
@@ -57,7 +57,7 @@ Now you get a Autodesk pop-up. Select the Arnold renderer (which is not installe
 </details>
 
 
-## CHECKING AND OR FIXING NORMALS IN MAYA
+## Checking and/or fixing normals in Maya
 Now you wanna load your model in Maya, you don’t need to load textures.
 First you wanna check the Normals of your model: LoL skins need to have the Normals facing inwards, but the Maya default is outwards and we need them to be facing outwards.
 <details>
@@ -72,7 +72,7 @@ If you don’t see any small green lines poking outside your model, you need to 
 ![27.webp](/user-pictures/goat/improvingtextures/27.webp)
 </details>
 
-## RENDERING AN OCCLUSION TEXTURE IN MAYA
+## Rendering an occlusion texture in Maya
 Now we will render the occlusion map. This will create contact shadows on the model and give it a lot more depth.
 
 First we need to add a new material to the model. Select your mesh, right click and hold and let go on “Assign new material”
@@ -103,7 +103,7 @@ You don’t have to edit the other settings at all.
 
 Then press Render and let your PC work. If you are stuck and your PC is struggeling, kill Maya with the Task Manager and try again with a lower resolution.
 
-## APPLYING THE OCCLUSION MAP TO YOUR TEXTURE IN PHOTOSHOP
+## Applying the occlusion map to your texture in photoshop
 Maya will give you a .exr file which can be opened simply in Photoshop.
 Load your texture in photoshop and load the .exr on top of it. Load the **Alpha Channel Data as Transparency**.
 ![9.webp](/user-pictures/goat/improvingtextures/9.webp)
@@ -122,7 +122,7 @@ Roughly **copy my Curves settings** on the left by dragging the left point above
 
 ![12.webp](/user-pictures/goat/improvingtextures/12.webp)
 
-## COLORING THE SHADOWS
+## Coloring the shadows
 Now the texture already looks a lot better. But now we have the issue that all the shadows are really gray compared to for example the skin color.
 
 ![13.webp](/user-pictures/goat/improvingtextures/13.webp)
@@ -163,7 +163,7 @@ Move the left half arrow towards the left and the right half arrow towards the r
 
 ![20.webp](/user-pictures/goat/improvingtextures/20.webp)
 
-## OTHER IMPROVEMENTS IN PHOTOSHOP
+## Other improvements in Photoshop
 What I also think helps is adding another Curves adjustment layer above the texture and below the occlusion map and setting the Preset to “Medium Contrast”.
 
 ![21.webp](/user-pictures/goat/improvingtextures/21.webp)
