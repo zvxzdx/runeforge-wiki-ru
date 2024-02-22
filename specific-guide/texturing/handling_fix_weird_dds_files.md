@@ -2,7 +2,7 @@
 title: Handling/Fixing weird .dds files
 description: 
 published: true
-date: 2024-02-22T03:44:52.272Z
+date: 2024-02-22T15:41:55.830Z
 tags: photoshop, texturing, gimp
 editor: markdown
 dateCreated: 2024-02-22T03:44:52.272Z
@@ -82,6 +82,11 @@ Now when I save the file looks like this:
 ![12.webp](/user-pictures/goat/handlingfixingdds/12.webp)
 
 It reproduces the effect of a riot texture.
+
+# Sources
+
+- Yoru Queen of Night
+
 
 
 
