@@ -2,7 +2,7 @@
 title: Contributor Checklist
 description: A list with all transferable guides and tutorials from Runeforge to the Wiki.
 published: true
-date: 2024-02-22T20:55:23.520Z
+date: 2024-02-22T20:55:50.400Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-11T20:22:14.142Z
@@ -52,7 +52,7 @@ dateCreated: 2024-02-11T20:22:14.142Z
 - [x] [create custom loadingscren by tyre](/specific-guide/ui/edit-loadingscreen#create-custom-loadingscreen) 
 - [x] [create custom font by tyre](/specific-guide/ui/custom-font)
 - [x] [sound modding guide by Kaizen](/specific-guide/sfx/full-sfx-guide)
-- [X] [custom loading screen spinner by lxver](https://www.runeforge.io/post/how-to-make-a-custom-loadingscreen-spinner)<-- reserved by bud
+- [X] [custom loading screen spinner by lxver](https://www.runeforge.io/post/how-to-make-a-custom-loadingscreen-spinner)
 
 # Scrapped
 
