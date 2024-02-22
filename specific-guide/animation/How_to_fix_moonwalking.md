@@ -2,7 +2,7 @@
 title: How to fix moonwalking
 description: This is the fix for when your champion starts walking in random directions
 published: true
-date: 2024-02-22T03:28:08.955Z
+date: 2024-02-22T15:41:41.507Z
 tags: animation, code
 editor: markdown
 dateCreated: 2024-02-22T03:13:56.381Z
@@ -20,3 +20,7 @@ Sometimes champions might be turned in the opposite direction of where  they go 
 
 
 Done!
+
+# Sources
+
+- Yoru Queen of Night
