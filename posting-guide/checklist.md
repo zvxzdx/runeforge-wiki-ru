@@ -2,7 +2,7 @@
 title: Contributor Checklist
 description: A list with all transferable guides and tutorials from Runeforge to the Wiki.
 published: true
-date: 2024-02-22T03:25:12.881Z
+date: 2024-02-22T03:25:43.326Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-11T20:22:14.142Z
@@ -52,7 +52,7 @@ dateCreated: 2024-02-11T20:22:14.142Z
 - [x] [using matrix to edit by bloo](/specific-guide/coding/edit-vfx-using-matrix)
 - [x] [how to add child particles by bearded](/specific-guide/coding/adding-child-particles)
 - [x] [fix bugged vfx transparency by yoru](/specific-guide/coding/fix-breaking-vfx#fix-vfx-transparency)
-- [X] [fix moonwalking champ by yoru](https://www.runeforge.io/post/fix-moonwalking-champions)
+- [X] [fix moonwalking champ by yoru](/specific-guide/animation/How_to_fix_moonwalking)
 
 # Scrapped
 
