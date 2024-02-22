@@ -2,11 +2,16 @@
 title: Use custom Font
 description: A short guide including a template on how to use your custom font.
 published: true
-date: 2024-02-22T20:35:39.524Z
+date: 2024-02-22T20:36:18.371Z
 tags: template, font
 editor: markdown
 dateCreated: 2024-02-22T20:35:39.524Z
 ---
+
+> Work ahead!
+> We want to write this guide out instead of linking videos. If you want to help us out: [Click here](/posting-guide/apply-as-contributor)
+{.is-info}
+
 
 # Required Tools
 
