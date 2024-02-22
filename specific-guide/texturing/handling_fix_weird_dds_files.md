@@ -2,7 +2,7 @@
 title: Handling/Fixing weird .dds files
 description: 
 published: true
-date: 2024-02-22T17:14:20.876Z
+date: 2024-02-22T17:24:41.788Z
 tags: photoshop, texturing, gimp
 editor: markdown
 dateCreated: 2024-02-22T03:44:52.272Z
@@ -10,7 +10,7 @@ dateCreated: 2024-02-22T03:44:52.272Z
 
 # Handling/Fixing weird .dds files
 
-## Explanation of these strange .dds files
+## Explanation of these strange <a href="/en/specific-guide/filetypes#skn">.dds</a> files
 
 Some textures appear like this after you extracted them: They’re just mostly empty.
 
