@@ -2,7 +2,7 @@
 title: Contributor Checklist
 description: A list with all transferable guides and tutorials from Runeforge to the Wiki.
 published: true
-date: 2024-02-21T23:11:50.215Z
+date: 2024-02-22T01:21:00.946Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-11T20:22:14.142Z
@@ -20,7 +20,6 @@ dateCreated: 2024-02-11T20:22:14.142Z
 - [ ] [fix broken animations by yoru](https://www.runeforge.io/post/how-to-fix-broken-animations-with-lolmaya)
 - [ ] [create chromas by yoru](https://www.runeforge.io/post/how-to-create-chromas)
 - [ ] [make model part invisible by yoru](https://www.runeforge.io/post/making-model-parts-invisible-through-textures-only)
-- [ ] [how to add child particles by bearded](https://www.runeforge.io/post/how-to-add-child-particles-to-your-league-of-legennds-custom-skin-vfx) <-- reserved by vector
 - [ ] [add special mats by bearded](https://www.runeforge.io/post/adding-special-materials-to-your-skin-in-league-of-legends) <-- reserved by vector
 - [ ] [add particle events to animations by bearded](https://www.runeforge.io/post/adding-particle-events-to-specific-animations) <-- reserved by vector
 - [ ] [create custom font by tyre](https://www.runeforge.io/post/how-to-create-a-custom-font)
@@ -53,6 +52,7 @@ dateCreated: 2024-02-11T20:22:14.142Z
 - [x] [fix broken vfx and prevent from breaking by yoru](/specific-guide/coding/fix-breaking-vfx)
 - [x] [particle and bin directory by bearded](/specific-guide/coding/particle-dictionary)
 - [x] [using matrix to edit by bloo](/specific-guide/coding/edit-vfx-using-matrix)
+- [x] [how to add child particles by bearded](/specific-guide/coding/adding-child-particles)
 
 # Scrapped
 
