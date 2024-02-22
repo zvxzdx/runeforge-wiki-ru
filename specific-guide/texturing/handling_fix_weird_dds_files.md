@@ -2,7 +2,7 @@
 title: Handling/Fixing weird .dds files
 description: 
 published: true
-date: 2024-02-22T15:41:55.830Z
+date: 2024-02-22T17:14:20.876Z
 tags: photoshop, texturing, gimp
 editor: markdown
 dateCreated: 2024-02-22T03:44:52.272Z
@@ -25,11 +25,14 @@ In Yuumi’s case the yellow color shows, what glows when her passive is up.
 However, there are multiple textures which have that effect, so you  will need to figure out what exactly the texture and the effect do.
 
 ## Required tools
-- Photoshop
-- NVIDIA Texture Tools OR Intel Texture Works
+-   [Adobe Photoshop + .dds Plug-in: NVIDIA Texture Tools / Intel Texture Works *Program to edit 2D files*](/core-guides/tools/adobe/photoshop)
+{.links-list}
 
-OR:
-- Gimp
+Or
+ 
+-   [Gimp *Program to edit 2D files*](/core-guides/tools/gimp)
+{.links-list}
+
 
 ## Tutorial for Photoshop:
 If you open the image, you can actually see that all the texture is there:
