@@ -2,7 +2,7 @@
 title: Obsidian
 description: A tool to explore and export .wad archives.
 published: true
-date: 2024-02-22T23:40:55.511Z
+date: 2024-02-22T23:41:41.816Z
 tags: obsidian, tool, export, explorer
 editor: markdown
 dateCreated: 2024-02-08T18:19:22.298Z
@@ -35,14 +35,14 @@ What we do is that we go to our League of Legends files, and find the relevant f
 
 If you saved your game directly in your `C:\` Drive, then it will be located in `C:\Riot Games\League of Legends\Game\DATA\FINAL\Champions` where you can find Aatrox in there.
 
-Note: The "Champion.language_REGION[.wad.client](/specific-guide/filetypes#wadclient)" is for the local voice lines of the champion. Meaning that Aatrox.en_US.WAD.CLIENT is his English Voice Lines.
+Note: The "Champion.language_REGION.wad.client" is for the local voice lines of the champion. Meaning that Aatrox.en_US.WAD.CLIENT is his English Voice Lines.
 
 ![finding_files.webp](/user-pictures/vector/new-post-guide/finding_files.webp)
 Once you have found your file, simply copy the file path at the top of your file explorer so you can find it on Obsidian.
 
 ## Extract Files via Obsidian
 
-Now, open Obsidian.exe and wait for it to load. Whereafter you go to the menu at the top, click the box icon and click open, where you paste in the file path you copied, and find the [.wad.client](/specific-guide/filetypes#wadclient) file you want to extract.
+Now, open Obsidian.exe and wait for it to load. Whereafter you go to the menu at the top, click the box icon and click open, where you paste in the file path you copied, and find the .wad.client file you want to extract.
 
 ![open.webp](/user-pictures/vector/new-post-guide/open.webp)
 
