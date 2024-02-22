@@ -2,7 +2,7 @@
 title: LoL Maya Plugin Overview
 description: All lolmaya tools to teach you what each of its functions does.
 published: true
-date: 2024-02-22T23:34:11.295Z
+date: 2024-02-22T23:36:18.538Z
 tags: guide, maya, lolmaya
 editor: markdown
 dateCreated: 2024-02-22T23:34:11.295Z
