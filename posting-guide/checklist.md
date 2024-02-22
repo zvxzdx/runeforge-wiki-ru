@@ -2,7 +2,7 @@
 title: Contributor Checklist
 description: A list with all transferable guides and tutorials from Runeforge to the Wiki.
 published: true
-date: 2024-02-22T05:16:07.425Z
+date: 2024-02-22T06:05:09.931Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-11T20:22:14.142Z
@@ -13,7 +13,7 @@ dateCreated: 2024-02-11T20:22:14.142Z
 
 - [ ] [particle swapping through bins by yoru](https://www.runeforge.io/post/particle-swapping-through-bin-editing) <-- STARTED BUT UNFINISHED
 - [ ] [create chromas by yoru](https://www.runeforge.io/post/how-to-create-chromas)
-- [ ] [make model part invisible by yoru](https://www.runeforge.io/post/making-model-parts-invisible-through-textures-only)
+- [ ] [make model part invisible by yoru](https://www.runeforge.io/post/making-model-parts-invisible-through-textures-only) <-- MISSING VIDEO
 - [ ] [add special mats by bearded](https://www.runeforge.io/post/adding-special-materials-to-your-skin-in-league-of-legends) <-- reserved by vector
 - [ ] [add particle events to animations by bearded](https://www.runeforge.io/post/adding-particle-events-to-specific-animations) <-- reserved by vector
 - [ ] [create custom font by tyre](https://www.runeforge.io/post/how-to-create-a-custom-font)
