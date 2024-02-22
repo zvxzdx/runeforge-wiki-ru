@@ -2,7 +2,7 @@
 title: Texturing
 description: All guides listed here.
 published: true
-date: 2024-02-22T03:46:51.661Z
+date: 2024-02-22T05:04:13.442Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-06T17:04:08.844Z
@@ -11,8 +11,8 @@ dateCreated: 2024-02-06T17:04:08.844Z
 # Basic Guides
 
 - [Create skins with multiple materials](/specific-guide/texturing/create-skin-with-multiple-mats)
-{.links-list}
 - [Handling/Fixing weird .dds files](/specific-guide/texturing/handling_fix_weird_dds_files)
+- [How to improve flat textures](/specific-guide/texturing/How-to-improve-flat-textures)
 {.links-list}
 
 # Advanced Guides
