@@ -2,7 +2,7 @@
 title: Creation Assets
 description: A page with all assets you can use for your custom skin as downloads!
 published: true
-date: 2024-02-22T22:18:21.898Z
+date: 2024-02-22T22:18:44.189Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-22T17:47:44.116Z
@@ -16,7 +16,7 @@ Provided by **Yoru**
 - [Google Drive Link *External Link*](https://drive.google.com/drive/folders/1yeAYQjAJuYkzaXJdVWP6GL7NO31r2-Vp)
 {.links-list}
 ## Splash art, In-game circle and square templates
-Splash art, in-game circle and square templates that have the shadow border made close to the one that Riot skins have.
+Splash art, in-game circle and square templates that have the shadow border made as close to the one that Riot skins have.
 If you wish to know how to use these templates click on [this link](/core-guides/downloadable-assets/champion-templates).
 Provided by **bud**
 - [Photoshop Templates*Mediafire Link*](https://www.mediafire.com/folder/qb3kuw3ypwmq1/Photoshop_champion_templates)
