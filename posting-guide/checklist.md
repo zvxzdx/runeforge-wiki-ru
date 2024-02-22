@@ -2,7 +2,7 @@
 title: Contributor Checklist
 description: A list with all transferable guides and tutorials from Runeforge to the Wiki.
 published: true
-date: 2024-02-22T04:18:14.525Z
+date: 2024-02-22T04:32:05.866Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-11T20:22:14.142Z
@@ -11,7 +11,7 @@ dateCreated: 2024-02-11T20:22:14.142Z
 <!--add a Cross "[x]" if you completed a transfer and replace the link with the wiki version! Then move it to completed.-->
 # All Guides
 
-- [ ] [particle swapping through bins by yoru](https://www.runeforge.io/post/particle-swapping-through-bin-editing)
+- [ ] [particle swapping through bins by yoru](https://www.runeforge.io/post/particle-swapping-through-bin-editing) <-- STARTED BUT UNFINISHED
 - [ ] [improve flat textures by yoru](https://www.runeforge.io/post/how-to-improve-flat-textures)
 - [ ] [fix broken animations by yoru](https://www.runeforge.io/post/how-to-fix-broken-animations-with-lolmaya)
 - [ ] [create chromas by yoru](https://www.runeforge.io/post/how-to-create-chromas)
