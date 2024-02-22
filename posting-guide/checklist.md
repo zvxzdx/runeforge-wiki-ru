@@ -2,7 +2,7 @@
 title: Contributor Checklist
 description: A list with all transferable guides and tutorials from Runeforge to the Wiki.
 published: true
-date: 2024-02-22T01:36:44.021Z
+date: 2024-02-22T03:24:55.234Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-11T20:22:14.142Z
@@ -11,7 +11,6 @@ dateCreated: 2024-02-11T20:22:14.142Z
 <!--add a Cross "[x]" if you completed a transfer and replace the link with the wiki version! Then move it to completed.-->
 # All Guides
 
-- [ ] [fix moonwalking champ by yoru](https://www.runeforge.io/post/fix-moonwalking-champions)
 - [ ] [handling/fix weird .dds files by yoru](https://www.runeforge.io/post/handling-fixing-weird-dds-files)
 - [ ] [fix broken face normals by yoru](https://www.runeforge.io/post/fixing-broken-face-normals)
 - [ ] [particle swapping through bins by yoru](https://www.runeforge.io/post/particle-swapping-through-bin-editing)
@@ -53,6 +52,7 @@ dateCreated: 2024-02-11T20:22:14.142Z
 - [x] [using matrix to edit by bloo](/specific-guide/coding/edit-vfx-using-matrix)
 - [x] [how to add child particles by bearded](/specific-guide/coding/adding-child-particles)
 - [x] [fix bugged vfx transparency by yoru](/specific-guide/coding/fix-breaking-vfx#fix-vfx-transparency)
+- [X] [fix moonwalking champ by yoru](https://www.runeforge.io/post/fix-moonwalking-champions)
 
 # Scrapped
 
