@@ -2,7 +2,7 @@
 title: Particle swapping through bin-editing
 description: This tutorial teaches you how to take particles from one champion and reuse them on another champion.
 published: true
-date: 2024-02-22T18:06:34.716Z
+date: 2024-02-22T18:20:44.971Z
 tags: code, bin, particle
 editor: markdown
 dateCreated: 2024-02-22T04:29:01.767Z
@@ -14,9 +14,25 @@ This tutorial teaches you how to take particles from one champion and reuse them
 ![reuse_particle.gif](/user-pictures/goat/reuse_particle.gif =x400)
 
 ## Required Tools
-- [Ritobin *.bin to .py file converter*](/core-guides/tools/rito-bin)
+An code editor of your choice, we recommend **Visual Studio Code**:
+- [Choose any Code Editor *Visual Studio Code is recommended*](/core-guides/tools#code-bin-editing)
 {.links-list}
+
+If you choose Visual Studio Code, you need the [Python extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python) aswell!
+*Other editors work aswell, aslong as they can edit .py (Python) files.*
+- [BinReaderGui by Autergame *Reading containers in .bin files*](https://github.com/autergame/BinReaderGUI)
+- [Ritobin *.bin to .py file converter*](/core-guides/tools/rito-bin)
+- [Bintex by Marcius *Tool to list all textures and models inside a Python file*](https://www.dropbox.com/s/yfvuyl5rebwbaml/bintex.exe?dl=1)
 - [Hacksaw *Tool to visually edit bin files*](/core-guides/tools/hacksaw)
+{.links-list}
+---
+<br>
+
+<div align="left">
+  <a href="https://www.youtube.com/watch?v=_RoS1Dpdvfg"><img src="https://img.youtube.com/vi/_RoS1Dpdvfg/0.jpg" alt="Guide on how to install LOL Maya Plugin"
+style="width:75%"></a>
+</div>
+*External Youtube Link!*
 
 # TIPS
 ## Best order to work on particles to minimize fuckupsH
