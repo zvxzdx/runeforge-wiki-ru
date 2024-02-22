@@ -2,7 +2,7 @@
 title: Particle swapping through bin-editing
 description: This tutorial teaches you how to take particles from one champion and reuse them on another champion.
 published: true
-date: 2024-02-22T04:29:01.767Z
+date: 2024-02-22T15:44:26.953Z
 tags: code, bin, particle
 editor: markdown
 dateCreated: 2024-02-22T04:29:01.767Z
@@ -45,3 +45,7 @@ This tutorial teaches you how to take particles from one champion and reuse them
 # HOW TO MAKE YOUR PARTICLES BREAK LESS OFTEN
 After finishing your particles I recommend following this tutorial.
 Your skins will break less often and should only break when a new skin for the champion gets released.
+
+# Sources
+
+- Yoru Queen of Night
