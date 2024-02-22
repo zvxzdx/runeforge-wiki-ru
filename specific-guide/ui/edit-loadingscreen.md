@@ -2,7 +2,7 @@
 title: Customizing the Loadingscreen
 description: A guide collection of different ways to customize loadingscreens.
 published: true
-date: 2024-02-22T18:42:08.415Z
+date: 2024-02-22T18:43:43.809Z
 tags: guide, ui, loadingscreen
 editor: markdown
 dateCreated: 2024-02-22T18:42:08.415Z
@@ -26,3 +26,11 @@ style="width:75%"></a>
 *External Youtube Link!*
 
 >During events like worlds, there will be a different loading screen that you can also replace. Theoretically you can replace any loading screen as long as you can find it in obsidian (urf, tft, etc). I will not be covering these, though.
+
+# Custom loadingscreen spinner
+
+
+
+# Sources
+
+- Tyre
