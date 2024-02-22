@@ -2,7 +2,7 @@
 title: Fixing Broken Face Normal
 description: This is how you can fix your champion looking "see-through"
 published: true
-date: 2024-02-22T04:14:43.862Z
+date: 2024-02-22T15:42:23.523Z
 tags: modelling, texture
 editor: markdown
 dateCreated: 2024-02-22T04:14:43.862Z
@@ -43,3 +43,7 @@ Select your mesh, then, while in the modeling tab, go to Mesh Display > Reverse
 ![fix.png](/user-pictures/goat/brokennormals/fix.png =x400)
 
 Your model should now appear normal!
+
+# Sources
+
+- Yoru Queen of Night
