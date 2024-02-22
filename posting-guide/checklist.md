@@ -2,7 +2,7 @@
 title: Contributor Checklist
 description: A list with all transferable guides and tutorials from Runeforge to the Wiki.
 published: true
-date: 2024-02-22T18:22:56.356Z
+date: 2024-02-22T18:45:30.565Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-11T20:22:14.142Z
@@ -17,7 +17,8 @@ dateCreated: 2024-02-11T20:22:14.142Z
 
 ## Combine those:
 **Loading Screen:**
-- [ ] [create custom loadingscren by tyre](https://www.runeforge.io/post/creating-a-custom-loading-screen) <-- reserved by vector
+
+Put here: [Link](/specific-guide/ui/edit-loadingscreen#custom-loadingscreen-spinner) <-- BUD!
 - [ ] [custom loading screen spinner by lxver](https://www.runeforge.io/post/how-to-make-a-custom-loadingscreen-spinner)<-- reserved by bud
 
 ---
@@ -52,6 +53,7 @@ dateCreated: 2024-02-11T20:22:14.142Z
 - [x] [add special mats by bearded](/specific-guide/texturing/add-special-mats) 
 - [x] [add particle events to animations by bearded](/specific-guide/coding/add-particles-to-animation) 
 - [x] [particle swapping through bins by yoru](/specific-guide/coding/Particle-swapping)
+- [x] [create custom loadingscren by tyre](/specific-guide/ui/edit-loadingscreen#create-custom-loadingscreen) 
 
 # Scrapped
 
