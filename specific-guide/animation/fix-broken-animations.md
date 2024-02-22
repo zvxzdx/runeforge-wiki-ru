@@ -1,8 +1,8 @@
 ---
-title: How to fix broken animations with Lolmaya
+title: How to fix broken animations with LoLmaya
 description: This tutorial shows you how to fix broken animations on your model that happen due to animation layering etc.
 published: true
-date: 2024-02-22T05:14:01.874Z
+date: 2024-02-22T15:43:18.389Z
 tags: maya, animation
 editor: markdown
 dateCreated: 2024-02-22T05:14:01.874Z
@@ -45,3 +45,7 @@ Delete the riot.skl file.
 ## RESULT
 
 ![5.gif](/user-pictures/goat/fixbrokenanimation/5.gif =x300)
+
+# Sources
+
+- Yoru Queen of Night
