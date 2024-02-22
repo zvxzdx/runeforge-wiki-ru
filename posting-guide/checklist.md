@@ -2,7 +2,7 @@
 title: Contributor Checklist
 description: A list with all transferable guides and tutorials from Runeforge to the Wiki.
 published: true
-date: 2024-02-22T17:42:41.182Z
+date: 2024-02-22T17:43:19.053Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-11T20:22:14.142Z
@@ -11,7 +11,7 @@ dateCreated: 2024-02-11T20:22:14.142Z
 <!--add a Cross "[x]" if you completed a transfer and replace the link with the wiki version! Then move it to completed.-->
 # All Guides
 
-- [ ] [particle swapping through bins by yoru](https://www.runeforge.io/post/particle-swapping-through-bin-editing) <-- Unfinished but started!
+- [ ] [particle swapping through bins by yoru](https://www.runeforge.io/post/particle-swapping-through-bin-editing) <-- Unfinished but started! (Missing Tools and Videos)
 - [ ] [create chromas by yoru](https://www.runeforge.io/post/how-to-create-chromas) <-- reserved by vector
 - [ ] [create custom font by tyre](https://www.runeforge.io/post/how-to-create-a-custom-font)<-- reserved by bud
 - [ ] [sound modding guide by Kaizen](https://www.runeforge.io/post/sound-modding-tutorial) <-- reserverd by wiko
