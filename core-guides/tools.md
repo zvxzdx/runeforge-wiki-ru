@@ -2,7 +2,7 @@
 title: Tools
 description: All tools listed here which contain general mostly short guides.
 published: true
-date: 2024-02-21T19:40:21.740Z
+date: 2024-02-22T20:52:42.467Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-06T17:01:25.224Z
@@ -58,10 +58,18 @@ All tools availabe for creating and using mods! This page is sorted by categorie
 # Sound FX & Audio
 # Tabs {.tabset}
 ## Free
--   [Wwise *Program to create or edit Sound banks for games*](/core-guides/tools/wwise)
+- [Wwise *Program to create or edit Sound banks for games*](/core-guides/tools/wwise)
+- [Audacity *Audio Editor*](https://www.audacityteam.org/)
 {.links-list}
 ## Paid
-## Converters
+## Converters/ Extractors
+**Extractors**
+-   [BNK Extract *Program to extract.bnk files*](https://github.com/Morilli/bnk-extract-GUI/releases)
+{.links-list}
+
+**Converters**
+-   [VO-Helper *Program to convert voice-overs for multiple regions*](https://github.com/tarngaina/vo_helper/releases/tag/1.0.1)
+{.links-list}
 
 # Texturing
 # Tabs {.tabset}
