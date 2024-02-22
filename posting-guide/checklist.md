@@ -2,7 +2,7 @@
 title: Contributor Checklist
 description: A list with all transferable guides and tutorials from Runeforge to the Wiki.
 published: true
-date: 2024-02-22T15:53:12.367Z
+date: 2024-02-22T17:05:00.881Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-11T20:22:14.142Z
@@ -13,11 +13,8 @@ dateCreated: 2024-02-11T20:22:14.142Z
 
 - [ ] [particle swapping through bins by yoru](https://www.runeforge.io/post/particle-swapping-through-bin-editing) <-- Unfinished but started!
 - [ ] [create chromas by yoru](https://www.runeforge.io/post/how-to-create-chromas)
-
-- [ ] [add special mats by bearded](https://www.runeforge.io/post/adding-special-materials-to-your-skin-in-league-of-legends) <-- reserved by vector
 - [ ] [add particle events to animations by bearded](https://www.runeforge.io/post/adding-particle-events-to-specific-animations) <-- reserved by vector
 - [ ] [create custom font by tyre](https://www.runeforge.io/post/how-to-create-a-custom-font)
-
 - [ ] [sound modding guide by Kaizen](https://www.runeforge.io/post/sound-modding-tutorial) <-- reserverd by wiko
 
 ## Combine those:
@@ -54,6 +51,7 @@ dateCreated: 2024-02-11T20:22:14.142Z
 - [X] [improve flat textures by yoru](https://www.runeforge.io/post/how-to-improve-flat-textures)
 - [X] [fix broken animations by yoru](https://www.runeforge.io/post/how-to-fix-broken-animations-with-lolmaya)
 - [x] [make model part invisible by yoru](https://www.runeforge.io/post/making-model-parts-invisible-through-textures-only)
+- [x] [add special mats by bearded](/specific-guide/texturing/add-special-mats) 
 
 # Scrapped
 
