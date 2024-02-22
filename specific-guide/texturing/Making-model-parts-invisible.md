@@ -2,7 +2,7 @@
 title: Making model parts invisible through textures only
 description: This tutorial shows you how you can “delete” parts of a model/skin without having to actually 3D-edit it just by editing it in Photoshop or Gimp.
 published: true
-date: 2024-02-22T15:43:46.537Z
+date: 2024-02-22T15:49:50.798Z
 tags: photoshop, maya, texturing, texture, blender, gimp
 editor: markdown
 dateCreated: 2024-02-22T05:59:13.291Z
@@ -43,6 +43,16 @@ Often models are also incomplete, for example if you delete hair that fully cove
 # Tutorial
 Loading your model and extracting the UV
 Follow this tutorial to load your model in Blender (or Maya or wherever you can load a model and view models parts and uv) and extract the UV (best watch it until 15:20):
+
+<br>
+
+<div align="left">
+  <a href="https://www.youtube.com/watch?v=_i3xVpwBIHQ"><img src="https://img.youtube.com/vi/_i3xVpwBIHQ/0.jpg" alt="Guide on how to install LOL Maya Plugin"
+style="width:75%"></a>
+</div>
+
+*External link to Youtube!*
+
 
 ## Finding the UV space you want to erase
 First select the model parts you want to erase on your model. (I use Maya here instead of Blender, but its very similar).
