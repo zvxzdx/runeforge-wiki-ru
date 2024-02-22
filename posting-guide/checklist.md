@@ -2,7 +2,7 @@
 title: Contributor Checklist
 description: A list with all transferable guides and tutorials from Runeforge to the Wiki.
 published: true
-date: 2024-02-22T17:43:19.053Z
+date: 2024-02-22T18:11:15.283Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-11T20:22:14.142Z
@@ -12,7 +12,6 @@ dateCreated: 2024-02-11T20:22:14.142Z
 # All Guides
 
 - [ ] [particle swapping through bins by yoru](https://www.runeforge.io/post/particle-swapping-through-bin-editing) <-- Unfinished but started! (Missing Tools and Videos)
-- [ ] [create chromas by yoru](https://www.runeforge.io/post/how-to-create-chromas) <-- reserved by vector
 - [ ] [create custom font by tyre](https://www.runeforge.io/post/how-to-create-a-custom-font)<-- reserved by bud
 - [ ] [sound modding guide by Kaizen](https://www.runeforge.io/post/sound-modding-tutorial) <-- reserverd by wiko
 
@@ -64,3 +63,4 @@ dateCreated: 2024-02-11T20:22:14.142Z
 - ~~[save .dds & .tex files by yoru](https://www.runeforge.io/post/saving-dds-tex-files)~~ *Should be explained in any related guide*
 - ~~[recolor particles text+bins by yoru](https://www.runeforge.io/post/recoloring-particles-textures-bins)~~ *Not sure here, maybe later*
 - ~~[handpainting/ texture guide by froggles](https://www.runeforge.io/post/hand-painting---texturing-guide-by-yekaterina-bourykina)~~ *Just a link to someones Artstation guide*
+- ~~[create chromas by yoru](https://www.runeforge.io/post/how-to-create-chromas)~~ *Generalized knowledge, we teach that on different guides*
