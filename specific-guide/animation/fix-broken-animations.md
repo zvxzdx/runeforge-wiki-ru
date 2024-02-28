@@ -2,7 +2,7 @@
 title: How to fix broken animations with LoLmaya
 description: This tutorial shows you how to fix broken animations on your model that happen due to animation layering etc.
 published: true
-date: 2024-02-22T18:03:22.401Z
+date: 2024-02-28T19:29:04.255Z
 tags: maya, animation
 editor: markdown
 dateCreated: 2024-02-22T05:14:01.874Z
@@ -18,7 +18,8 @@ For Jhin, his reload animation is horribly bugged if you export it normally:
 ## Required Tools
 
 -   [Obsidian *Main program to extract and browse Leagues gamefiles.*](/core-guides/tools/obsidian)
--   [Autodesk Maya + LoLmaya plugin *Program to create, edit, animate or rig 3D models*](/core-guides/tools/maya)
+-   [Autodesk Maya *Program to create, edit, animate or rig 3D models*](/core-guides/tools/maya)
+- [LoL-Maya *Plugin made by tarngaina*](https://github.com/tarngaina/lol_maya)
 {.links-list}
 
 # WRITTEN TUTORIAL
