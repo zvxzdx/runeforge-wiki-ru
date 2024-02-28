@@ -2,7 +2,7 @@
 title: Importing and Exporting Animations
 description: A guide on how to import animations in Maya and export then for League modding
 published: true
-date: 2024-02-22T17:30:00.224Z
+date: 2024-02-28T19:28:10.205Z
 tags: animation
 editor: markdown
 dateCreated: 2024-02-12T01:46:49.842Z
@@ -12,8 +12,10 @@ dateCreated: 2024-02-12T01:46:49.842Z
 This guide will help you import animations in maya and export them for League modding.
 
 ## Tools Needed
-- Obsidian
-- Maya (with LoLmaya)
+-   [Obsidian *Main program to extract and browse Leagues gamefiles.*](/core-guides/tools/obsidian)
+- [Maya 2023](/core-guides/tools/maya)
+- [LoL-Maya *Plugin made by tarngaina*](https://github.com/tarngaina/lol_maya)
+{.links-list}
 
 ### Before you begin animation stuff
 I strongly suggest you first get familiar with how to import <a href="/en/specific-guide/filetypes#skn">.skn</a> and [.skl](/en/specific-guide/filetypes#skl).
