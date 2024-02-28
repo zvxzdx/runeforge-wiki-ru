@@ -2,7 +2,7 @@
 title: Particle swapping through bin-editing
 description: This tutorial teaches you how to take particles from one champion and reuse them on another champion.
 published: true
-date: 2024-02-22T18:20:44.971Z
+date: 2024-02-28T19:31:26.035Z
 tags: code, bin, particle
 editor: markdown
 dateCreated: 2024-02-22T04:29:01.767Z
@@ -35,7 +35,7 @@ style="width:75%"></a>
 *External Youtube Link!*
 
 # TIPS
-## Best order to work on particles to minimize fuckupsH
+## Best order to work on particles to minimize fuckups
 1. Look up skills that might be useful for your champion (skin previews etc.)
 
 2. Extract the bins and textures/models etc. for those abilities
