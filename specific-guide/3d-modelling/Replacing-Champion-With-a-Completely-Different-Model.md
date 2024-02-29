@@ -1,8 +1,8 @@
 ---
 title: Replacing Champions With a Different Character
 description: This tutotial will show you how to replace the model from a champion with another one
-published: true
-date: 2024-02-29T15:43:58.059Z
+published: false
+date: 2024-02-29T15:50:25.747Z
 tags: modelling
 editor: markdown
 dateCreated: 2024-02-29T02:01:05.953Z
@@ -204,7 +204,10 @@ With your mesh selected, go to the Modeling Tab, Mesh Display > Reverse
 
 ![28.png](/user-pictures/goat/custommodels/28.png =x400)
 
-And also replace the texture file in your assets! Replace the Body texture, usualy Champ_base_tx_cm
+And also replace the texture file in your assets! Replace the Body texture, usualy Champ_base_tx_cm. The 2x and 4x are texture quality when you lower them in settings in game, so swap them too! Or else the skin will look strange in lower settings.
 
 ![29.png](/user-pictures/goat/custommodels/29.png)
 
+And thats the basics! You should now have your new model in game!
+
+![30.png](/user-pictures/goat/custommodels/30.png)
