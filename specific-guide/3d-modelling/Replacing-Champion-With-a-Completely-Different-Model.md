@@ -2,7 +2,7 @@
 title: Replacing Champions With a Different Character
 description: This tutotial will show you how to replace the model from a champion with another one
 published: true
-date: 2024-02-29T15:57:10.139Z
+date: 2024-02-29T16:21:59.417Z
 tags: modelling
 editor: markdown
 dateCreated: 2024-02-29T02:01:05.953Z
@@ -80,8 +80,7 @@ With the group or mesh selected, go to File > Export Selected and select the fil
 
 # Replacing the model
 
-Now that we have our custom model ready, load your desired League champion into a new scene by drag and dropping the [.skn](/en/specific-guide/filetypes) in an empty scene (this will also import the [.skl](/en/specific-guide/filetypes) automatically)
-
+After saving your custom model, you can open a new scene and load your desired Leauge champion by drag and dropping the [.skn](/en/specific-guide/filetypes#skl) into it (this will also import the [.skl](/en/specific-guide/filetypes#skl) automatically)
 I will then import Zeri, since this is the Champion I chose
 
 ![7.png](/user-pictures/goat/custommodels/7.png =x400)
