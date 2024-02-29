@@ -2,7 +2,7 @@
 title: Replacing Champions With a Different Character
 description: This tutotial will show you how to replace the model from a champion with another one
 published: true
-date: 2024-02-29T02:40:51.954Z
+date: 2024-02-29T02:41:51.789Z
 tags: modelling
 editor: markdown
 dateCreated: 2024-02-29T02:01:05.953Z
@@ -161,5 +161,5 @@ Now that you are in the options, make sure to reset the settings, set your Max I
 # Weighting your character
 I will not be going over this step, since its a pretty big one and we already have another tutorial for it!
 
-You can follow Yoru's Weight Painting guide [here!](https://www.youtube.com/watch?v=LxO4djdtxJg)
+You can follow Yoru's Weight Painting guide [here!](https://youtu.be/LxO4djdtxJg?si=D9QrBaDeyVQ_eaqu)
 
