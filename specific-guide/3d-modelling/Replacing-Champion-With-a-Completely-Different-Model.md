@@ -2,7 +2,7 @@
 title: Replacing Champions With a Different Character
 description: This tutotial will show you how to replace the model from a champion with another one
 published: true
-date: 2024-02-29T03:15:58.042Z
+date: 2024-02-29T15:43:58.059Z
 tags: modelling
 editor: markdown
 dateCreated: 2024-02-29T02:01:05.953Z
@@ -172,8 +172,39 @@ Once the Weight Painting is done, you are pretty much good to go! You can now ex
 
 >Remember to select League of Legends : SKN + SKL !
 
+You could now see your model in game!
+
+![26.png](/user-pictures/goat/custommodels/26.png =x300)
+
+A little strange tho...
+
 ## Getting the textures
 
 Usually, when getting your model online, you should also have a texture file included with it.
 
-![24.png](/user-pictures/goat/custommodels/24.png)
+![24.png](/user-pictures/goat/custommodels/24.png =x400)
+
+Its possible that you will different weird files, we only want the colored ones. In my case, these 2.
+
+![25.png](/user-pictures/goat/custommodels/25.png =x400)
+
+Now in maya, assign the "Body" material to your mesh, since most if not all League champs have that material, the game will then be able to detect it and assign the right material to it.
+
+Select your mesh, then, while holding right click, Assign Existing Material > Body
+
+![27.png](/user-pictures/goat/custommodels/27.png =x500)
+
+>If your original model has multiple different Materials, go follow this tutorial here! 
+- [Create skins with multiple materials](/specific-guide/texturing/create-skin-with-multiple-mats)
+{.links-list}
+
+Lets also not forget to reverse the normals, or else your character is gonna look see through.
+
+With your mesh selected, go to the Modeling Tab, Mesh Display > Reverse
+
+![28.png](/user-pictures/goat/custommodels/28.png =x400)
+
+And also replace the texture file in your assets! Replace the Body texture, usualy Champ_base_tx_cm
+
+![29.png](/user-pictures/goat/custommodels/29.png)
+
