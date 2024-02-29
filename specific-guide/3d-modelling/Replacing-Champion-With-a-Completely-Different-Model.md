@@ -2,7 +2,7 @@
 title: Replacing Champions With a Different Character
 description: This tutotial will show you how to replace the model from a champion with another one
 published: true
-date: 2024-02-29T02:41:51.789Z
+date: 2024-02-29T03:15:58.042Z
 tags: modelling
 editor: markdown
 dateCreated: 2024-02-29T02:01:05.953Z
@@ -41,7 +41,7 @@ Here are a few sites to help you find some cool models :
 ## Setting-up your model
 First, I would recommend loading your new model in an empty scene, to check if everything is in order
 
-If your model has no .skl and is standing upright in the middle of the scene, then you won.
+If your model has no [.skl](/en/specific-guide/filetypes#skl) and is standing upright in the middle of the scene, then you won.
 
 ![11.png](/user-pictures/goat/custommodels/11.png =x400)
 
@@ -53,9 +53,10 @@ If your model has no .skl and is standing upright in the middle of the scene, th
 
 Here my model is not upright and already has a skeleton (or an [.skl](/en/specific-guide/filetypes#skl), for simpler term). So I will first start by fixing those issues
 
-If your model already has an .skl, you will first need to unbind it before doing any sort of movement. 
+If your model already has an [.skl](/en/specific-guide/filetypes#skl), you will first need to unbind it before doing any sort of movement. 
 
 You will first select every part of your mesh, then, in the Rigging tab, you will find Skin > Unbind
+  
 ![2.png](/user-pictures/goat/custommodels/2.png =x400)
 
 You can then delete the .skl, it is no longuer needed.
@@ -163,3 +164,16 @@ I will not be going over this step, since its a pretty big one and we already ha
 
 You can follow Yoru's Weight Painting guide [here!](https://youtu.be/LxO4djdtxJg?si=D9QrBaDeyVQ_eaqu)
 
+# Getting the new model in game
+Once the Weight Painting is done, you are pretty much good to go! You can now export your new [.skn](/en/specific-guide/filetypes) and [.skl](/en/specific-guide/filetypes#skl) into your asset folder. Simply replace the .skn, the .skl will update automatically
+
+![22.png](/user-pictures/goat/custommodels/22.png =x350)
+![23.png](/user-pictures/goat/custommodels/23.png =x350)
+
+>Remember to select League of Legends : SKN + SKL !
+
+## Getting the textures
+
+Usually, when getting your model online, you should also have a texture file included with it.
+
+![24.png](/user-pictures/goat/custommodels/24.png)
