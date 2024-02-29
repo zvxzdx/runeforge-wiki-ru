@@ -2,7 +2,7 @@
 title: 3D Modelling
 description: All guides listed here.
 published: true
-date: 2024-02-22T04:15:31.085Z
+date: 2024-02-29T15:56:58.199Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-06T17:03:29.274Z
@@ -21,6 +21,7 @@ dateCreated: 2024-02-06T17:03:29.274Z
 # Basic Guides
 - [T/A posing older champions in Maya](/specific-guide/3d-modelling/tposeoldchamps)
 - [Create skins with multiple materials](/specific-guide/texturing/create-skin-with-multiple-mats)
+- [Replacing Champions With a Different Character](/specific-guide/3d-modelling/Replacing-Champion-With-a-Completely-Different-Model)
  {.links-list}
 
 
