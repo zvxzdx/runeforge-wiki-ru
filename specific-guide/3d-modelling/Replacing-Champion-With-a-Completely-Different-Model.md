@@ -2,7 +2,7 @@
 title: Replacing Champions With a Different Character
 description: This tutotial will show you how to replace the model from a champion with another one
 published: true
-date: 2024-02-29T16:22:15.109Z
+date: 2024-03-01T16:43:30.877Z
 tags: modelling
 editor: markdown
 dateCreated: 2024-02-29T02:01:05.953Z
@@ -134,7 +134,7 @@ In general, you want the elbow bone where the elbow is, the hip bone where the h
 
 You can use the Translate tool and Rotate tool to make them align with your character as much as possible. 
 
-Try to use the Rotation tool as much as you can since you'll get a better result over all! 
+TRY TO PRIORITISE ROTATIONS ONLY!!!! YOU WILL GET MUCH BETTER RESULTS IF YOU ONLY USE ROTATIONS!!!
 
 Only use the Translate tool if the bones dont reach the places you want, like my wrist here, Zeri's arm is slightly too short to reach my hand.
 
@@ -170,6 +170,11 @@ Once the Weight Painting is done, you are pretty much good to go! You can now ex
 ![23.png](/user-pictures/goat/custommodels/23.png =x350)
 
 >Remember to select League of Legends : SKN + SKL !
+
+You can now drag the client folder into csLoL and run the program. Rename the folder containing your asset and data folder to (Champion Name).wad.client and just drag and drop it in csLoL, it should create a new mod.
+
+![31.png](/user-pictures/goat/custommodels/31.png =x380)
+![32.png](/user-pictures/goat/custommodels/32.png =x350)
 
 You could now see your model in game!
 
