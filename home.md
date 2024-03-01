@@ -2,7 +2,7 @@
 title: Home
 description: Runeforge Wiki Main Page
 published: true
-date: 2024-02-22T20:38:32.482Z
+date: 2024-03-01T16:19:08.883Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-07T11:55:37.251Z
@@ -26,7 +26,7 @@ However, alot of guides collide with each thematic, so even if you just want to 
 
 If you don't find what you need in our list, you can also use the search function by directly searching what you need or by searching by tags! Tag-searching is the icon next to the search bar. From there, you can select tags which would describe your goal the best.
 
-If you still can't find what you need then either, the guide/ page doesn't exist yet or you can ask for help at our [discord](https://discord.gg/runeforge-1062123296725930074). We always try to get more users to skin creating and influence us with their creative minds.
+If you still can't find what you need then either, the guide/ page doesn't exist yet or you can ask for help at our [discord](https://discord.com/invite/runeforge). We always try to get more users to skin creating and influence us with their creative minds.
 
 
 
