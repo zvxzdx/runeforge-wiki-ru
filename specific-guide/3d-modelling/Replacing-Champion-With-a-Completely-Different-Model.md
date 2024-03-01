@@ -2,7 +2,7 @@
 title: Replacing Champions With a Different Character
 description: This tutotial will show you how to replace the model from a champion with another one
 published: true
-date: 2024-03-01T17:07:21.446Z
+date: 2024-03-01T17:20:24.921Z
 tags: modelling
 editor: markdown
 dateCreated: 2024-02-29T02:01:05.953Z
@@ -148,6 +148,20 @@ Make the skeleton fit your character as much as possible! Its going to influence
 
 ------------------------BEFORE------------------------------------------------AFTER------------------------
 ![18.png](/user-pictures/goat/custommodels/18.png =x300)![19.png](/user-pictures/goat/custommodels/19.png =x300)
+
+<details>
+<summary>If your Champion has a weapon</summary>
+<br>
+Its fairly simple! For exemple, Zeri has a gun : if I want to replace it, simply add your desired weapon over the weapon bone! 
+  
+![33.png](/user-pictures/goat/custommodels/33.png =x300)
+  
+And apply the next few steps to the weapon as well!
+
+(We dont see the weapon very well, but its there)
+
+![34.png](/user-pictures/goat/custommodels/34.png =x300)
+</details>
 
 # Binding the skeleton 
 We will now bind the skeleton to our model! To do this, simply select your mesh/es and the Root of your skeleton, then go to the Rigging tab, Skin > Bind Skin and open the options by pressing the little square on the right side.
