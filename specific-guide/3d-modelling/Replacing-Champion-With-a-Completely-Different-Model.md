@@ -2,7 +2,7 @@
 title: Replacing Champions With a Different Character
 description: This tutotial will show you how to replace the model from a champion with another one
 published: true
-date: 2024-03-01T17:25:27.035Z
+date: 2024-03-01T17:30:59.378Z
 tags: modelling
 editor: markdown
 dateCreated: 2024-02-29T02:01:05.953Z
@@ -156,7 +156,7 @@ Its fairly simple! For exemple, Yasuo has a sword : if I want to replace it, sim
   
 ![33.png](/user-pictures/goat/custommodels/33.png =x300)
   
-And try to place it like the original weapon was, put it somewhere on the weapon bone, as close as the original weapon's position.
+And try to place it like the original weapon was, put it somewhere on the weapon bone, as close as possible to the original weapon's position.
   
 ![34.png](/user-pictures/goat/custommodels/34.png =x300)
 </details>
