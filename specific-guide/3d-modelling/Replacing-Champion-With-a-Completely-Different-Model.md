@@ -2,7 +2,7 @@
 title: Replacing Champions With a Different Character
 description: This tutotial will show you how to replace the model from a champion with another one
 published: true
-date: 2024-03-01T17:04:56.045Z
+date: 2024-03-01T17:07:21.446Z
 tags: modelling
 editor: markdown
 dateCreated: 2024-02-29T02:01:05.953Z
@@ -146,7 +146,7 @@ I'll move the shoulder joint so the arm is better placed over all
 
 Make the skeleton fit your character as much as possible! Its going to influence the quality a lot!
 
-              Before                      After           
+------------------------BEFORE------------------------------------------------AFTER------------------------
 ![18.png](/user-pictures/goat/custommodels/18.png =x300)![19.png](/user-pictures/goat/custommodels/19.png =x300)
 
 # Binding the skeleton 
