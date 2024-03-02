@@ -2,7 +2,7 @@
 title: CS-LoL Manager
 description: The tool to install and create mod packages.
 published: true
-date: 2024-02-20T04:12:48.674Z
+date: 2024-03-02T11:29:18.169Z
 tags: guide, cslol, tool, install, update, conflict, error
 editor: markdown
 dateCreated: 2024-02-07T11:36:31.919Z
@@ -32,7 +32,7 @@ The standard installation path would be:
 Now press select and you're done!
 
 # Install a Mod
-Once you have the CS-LoL-Manager set up, downloading mods is rather straightforward from then on. Simply take the [.zip](https://wiki.vecslab.com/en/specific-guide/filetypes#zip) or [.fantome](https://wiki.vecslab.com/en/specific-guide/filetypes#fantome) file that you downloaded on our site for the relevant skin, and drag and drop it into the program.
+Once you have the CS-LoL-Manager set up, downloading mods is rather straightforward from then on. Simply take the .zip or [.fantome](/specific-guide/filetypes#fantome) file that you downloaded on our site for the relevant skin, and drag and drop it into the program.
 
 ![running_skins.webp](/user-pictures/vector/new-post-guide/running_skins.webp)
 As you add the skin into the program, simply click the box to mark it as selected, and click run on the top right corner for it to run.
