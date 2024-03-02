@@ -2,7 +2,7 @@
 title: Filetypes
 description: All filetypes listed here.
 published: true
-date: 2024-02-22T17:23:43.606Z
+date: 2024-03-02T11:31:19.381Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-10T14:08:46.366Z
@@ -26,5 +26,6 @@ All file formats used by the League of Legends engine.
 | Static Object       | scb       | Static mesh data stored in a binary format                                  |
 | Texture             | tex       | Proprietary texture format which can store BCn, ETC and raw block data      |
 | Vorbis Audio        | wem       | Vorbis-encoded audio data                                                   |
-| Wad                 | wad    | Game data storage archive, stores all of the game data                      |
-| Wwise Bank          | bnk      | Wwise audio bank - contains events/sound effects                            |
+| Wad                 | wad       | Game data storage archive, stores all of the game data                      |
+| Wwise Bank          | bnk       | Wwise audio bank - contains events/sound effects                            |
+| Mod file            | fantome   | Contains the mod data. Can be installed via CSlol manager                   |
