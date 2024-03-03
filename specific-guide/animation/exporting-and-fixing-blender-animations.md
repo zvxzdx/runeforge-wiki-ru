@@ -2,15 +2,12 @@
 title: Exporting and Fixing Blender animations
 description: This guide will explain the process or exporting an animation from Blender and fix it in Maya so that it can be used in a mod.
 published: false
-date: 2024-03-03T21:40:03.459Z
+date: 2024-03-03T21:40:56.632Z
 tags: maya, animation, blender
 editor: markdown
 dateCreated: 2024-03-03T21:40:03.459Z
 ---
 
-# Important info
-
-The guide focuses on animations from UE5/4 with a custom skeleton. I don't know if every Blender animation breaks this way.
 
 # Exporting from Blender
 
