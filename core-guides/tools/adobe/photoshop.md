@@ -2,7 +2,7 @@
 title: Adobe Photoshop
 description: A guide on how to install and use Adobe Photoshop
 published: true
-date: 2024-02-18T19:59:39.519Z
+date: 2024-03-05T22:56:29.802Z
 tags: guide, photoshop, install, adobe
 editor: markdown
 dateCreated: 2024-02-11T19:32:06.351Z
@@ -24,7 +24,7 @@ When redirected to the second page click the <kbd style="background:#7cad18">ZIP
 ### Installation
 1. Close Photoshop.
 2. Extract the plugin .zip file you downloaded.
-3. Copy the desired plugin from one of the folders depending on your system:
+3. Copy the desired plugin from one of the folders depending on if you are using a 64bit or a 32bit version of windows:
 <kbd style="background-color:#343942"> .../IntelTextureWorks_1.0.4\Plugins\x64\IntelTextureWorks.8bi</kbd>
 <kbd style="background-color:#343942">	 .../IntelTextureWorks_1.0.4\Plugins\Win32\IntelTextureWorks.8bi</kbd>
 4. Paste the plugin into the appropriate Photoshop Plugin folder.
