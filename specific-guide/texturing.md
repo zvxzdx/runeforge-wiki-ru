@@ -2,7 +2,7 @@
 title: Texturing
 description: All guides listed here.
 published: true
-date: 2024-02-22T18:36:06.245Z
+date: 2024-03-06T19:57:19.145Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-06T17:04:08.844Z
@@ -24,4 +24,5 @@ dateCreated: 2024-02-06T17:04:08.844Z
 # Fixes
 
 - [Handling/Fixing weird .dds files](/specific-guide/texturing/handling_fix_weird_dds_files)
+- [Fixing Broken Face Normal](/specific-guide/3d-modelling/Fixing_broken_face_normals)
 {.links-list}
