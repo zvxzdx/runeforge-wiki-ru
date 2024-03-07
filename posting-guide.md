@@ -2,7 +2,7 @@
 title: All Guides for Posting
 description: Posting pages in this wiki can be tricky, so here is a list for all the waays you can post here!
 published: true
-date: 2024-02-22T01:39:15.888Z
+date: 2024-03-07T20:18:42.612Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-08T13:36:33.153Z
@@ -132,3 +132,26 @@ whoops, sometimes images shouldnt be scaled manually so its easier to just adjus
 Now this is printed:
 ![emote+pg.nasus_v01.png](/user-pictures/vector/new-post-guide/emote+pg.nasus_v01.png =x200)
 Perfect, now you're ready to add pictures!
+
+# Code
+
+You can add code by adding "```" at the front and the end of the code snippet
+
+```
+Code
+Blahblah
+```
+
+# Embed Video
+
+Copy paste the code into your page and change `LINK-ID` with the youtube link ID. Which would be everything after the "=" of the link!
+
+![ytlinkid.png](/user-pictures/vector/new-post-guide/ytlinkid.png)
+
+```
+<div align="left">
+  <a href="https://www.youtube.com/watch?v=VIDEO-ID"><img src="https://img.youtube.com/vi/VIDEO-ID/0.jpg" alt="Guide on how to use the simple hud template"
+style="width:75%"></a>
+</div>
+```
+
