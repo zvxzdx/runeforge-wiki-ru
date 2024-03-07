@@ -2,7 +2,7 @@
 title: Animation
 description: All guides listed here.
 published: true
-date: 2024-02-22T05:14:46.761Z
+date: 2024-03-07T00:01:34.687Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-06T17:04:47.520Z
@@ -16,6 +16,6 @@ dateCreated: 2024-02-06T17:04:47.520Z
 # Advanced Guides
 
 # Fixes
-- [How to fix "moonwalking" champion](/specific-guide/animation/How_to_fix_moonwalking)
-- [How to fix broken animations with LoLmaya](/specific-guide/animation/fix-broken-animations)
+- [Fix "moonwalking" champion](/specific-guide/animation/How_to_fix_moonwalking)
+- [Fix broken animations](/specific-guide/animation/fix-broken-animations)
 {.links-list}
