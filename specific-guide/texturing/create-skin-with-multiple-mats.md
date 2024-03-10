@@ -2,7 +2,7 @@
 title: Create models/ skins with multiple materials
 description: A guide on how to bind multiple materials onto models in Maya.
 published: true
-date: 2024-03-06T18:17:41.137Z
+date: 2024-03-10T15:49:59.588Z
 tags: maya, modelling, texturing, multiple, material
 editor: markdown
 dateCreated: 2024-02-20T03:44:21.671Z
@@ -72,9 +72,38 @@ To hide meshes, you can use this! If you have multiple of them, type them out an
 
 # Writen Guide
 
+## Getting the materials ready in maya
 
+To start off, lets open the hypershade, this is were you will find all the materials and textures associated with the current scene. (Windows > Rendering Editor > Hypershade)
+
+![1.png](/user-pictures/goat/multiplematerial/1.png =x400)
+
+First, import your textures by drag and dropping them in the texture tab of the hypershade.
+
+![2.png](/user-pictures/goat/multiplematerial/2.png =x300)
+
+Then, assign each texture to the correct mesh by first selecting your mesh (clicking on it), then hold right click over your texture and choosing "Assign Texture's Material to Selection".
+
+![3.png](/user-pictures/goat/multiplematerial/3.png =x400)
+
+Once you have fully textured your model, you can delete any unused materials, it will be easier to work with this way. (To do so, go back to the Material tab, then right click and select "Delete Unused Nodes")
+
+![4.png](/user-pictures/goat/multiplematerial/4.png =x400)
+
+Then, rename the materials to something more comprehensible if that isnt the case. (For exemple : rename the body material to "Body")
+
+![5.png](/user-pictures/goat/multiplematerial/5.png =x300)
+
+Also, before exporting the model, make sure the normals are correct! If your model looks transparent in game, simply follow this guide here.
+
+- [Fixing Broken Face Normal](/specific-guide/3d-modelling/Fixing_broken_face_normals)
+ {.links-list}
+
+After that, you can export the skn like you would normally.
+
+## Changing the code
 
 # Sources
 
 - Yoru Queen of Night
-- ☆Guardian☆
+- ☆Guardian☆ (GuiSai)
