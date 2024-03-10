@@ -2,7 +2,7 @@
 title: Create models/ skins with multiple materials
 description: A guide on how to bind multiple materials onto models in Maya.
 published: true
-date: 2024-03-10T16:27:21.930Z
+date: 2024-03-10T16:51:57.513Z
 tags: maya, modelling, texturing, multiple, material
 editor: markdown
 dateCreated: 2024-02-20T03:44:21.671Z
@@ -119,6 +119,34 @@ You can then add the MaterialOverride code snipet under it (at the bottom of the
 
 > Make sure to keep it like the picture above. If you make an error, the .py will not convert back. Verify your "{ }" and make sure they are well aligned.
 {.is-warning}
+
+You can add the "SkinMeshDataProperties" part as many time as you need, for every different materials you have.
+
+![8.png](/user-pictures/goat/multiplematerial/8.png =x300)
+
+In short : In the Texture string, you will change the name at the end for your texture name.
+
+(Exemple : Texture: string = "ASSETS/Characters/Briar/Skins/Champion_name/Body_Texture.dds", where the Body_Texture.dds is the new texture's name)
+
+And in the Submesh string, you will change it to the name you gave each material in Maya
+
+And of course, assossiate the "Body" texture with the "Body" material.
+
+Once you are done, delete the old skin0.bin and replace it with the new one you just made by drag and dropping the .py file directly on top if ritobin_cli, like we did before.
+
+![9.png](/user-pictures/goat/multiplematerial/9.png =x300)
+
+If you did no errors, a new skin0.bin file should be made, if not, you will need to check your code again for errors.
+
+You can now delete the .py file and put the mod in csLoL to see the textures in game!
+
+>Make sure you uncheck "Remove Unknown" in csLoL, or the game will not recognize your textures!
+![10.png](/user-pictures/goat/multiplematerial/10.png =x300)
+{.is-warning}
+
+You should now have your textures working properly!
+
+![11.png](/user-pictures/goat/multiplematerial/11.png =x300)
 
 # Sources
 
