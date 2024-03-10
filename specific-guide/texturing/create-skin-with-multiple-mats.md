@@ -2,7 +2,7 @@
 title: Create models/ skins with multiple materials
 description: A guide on how to bind multiple materials onto models in Maya.
 published: true
-date: 2024-03-10T15:49:59.588Z
+date: 2024-03-10T16:27:21.930Z
 tags: maya, modelling, texturing, multiple, material
 editor: markdown
 dateCreated: 2024-02-20T03:44:21.671Z
@@ -101,7 +101,24 @@ Also, before exporting the model, make sure the normals are correct! If your mod
 
 After that, you can export the skn like you would normally.
 
+Also, dont forget to put all your texture file in the asset folder! (assets\characters\champion_name\skins\base)
+
+And also dont forget to convert your textures into .dds
+
 ## Changing the code
+
+We will now make it so the game recognize the newly added materials and textures. First, locate the skin0.bin of your champion, which should be located in data\characters\champion_name\skins. After finding it, drag and drop the skin0.bin directly on top of ritobin_cli, this will create a new .py file in the same folder (that contains the skin0.bin) that you will be able to edit.
+
+![6.png](/user-pictures/goat/multiplematerial/6.png =x300)
+
+Once you have opened the .py file (using notepad++ or Visual Studio), search for SkinMeshProperties (press ctrt+f and type it). 
+
+You can then add the MaterialOverride code snipet under it (at the bottom of the paragraph, right before ArmorMaterial.
+
+![7.png](/user-pictures/goat/multiplematerial/7.png =x300)
+
+> Make sure to keep it like the picture above. If you make an error, the .py will not convert back. Verify your "{ }" and make sure they are well aligned.
+{.is-warning}
 
 # Sources
 
