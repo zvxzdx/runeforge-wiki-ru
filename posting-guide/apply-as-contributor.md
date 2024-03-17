@@ -2,7 +2,7 @@
 title: Apply as Contributor
 description: This wiki lives through their community, so as a Contributor you can help out here by adding/ editing pages.
 published: true
-date: 2024-02-13T10:40:31.601Z
+date: 2024-03-17T23:15:48.402Z
 tags: contributor, apply, staff
 editor: markdown
 dateCreated: 2024-02-09T18:24:48.431Z
@@ -34,5 +34,5 @@ The wiki is in English, means you need to write you whole guide in English.
 
 ## Application
 
-The application is simple, DM @Vector or @Crauzer in Discord, write something about you and how you want to contribute. Also you need to be registered here at the wiki (You can do that [here](https://wiki.vecslab.com/login)). State your Wiki username and then you're done =)
+The application is simple, DM @Vector or @Crauzer in Discord, write something about you and how you want to contribute. Also you need to be registered here at the wiki (You can do that [here](https://wiki.runeforge.io/login)). State your Wiki username and then you're done =)
 
