@@ -2,7 +2,7 @@
 title: FAQ
 description: Frequently Asked Questions
 published: true
-date: 2024-03-17T22:09:25.417Z
+date: 2024-03-17T22:20:58.585Z
 tags: faq
 editor: markdown
 dateCreated: 2024-03-17T21:31:27.204Z
@@ -11,12 +11,12 @@ dateCreated: 2024-03-17T21:31:27.204Z
 # *Frequently Asked Questions*
 
 ## Are custom skins safe to use?
-> Currently you will not be banned unless you play on the Korean server which was always more strict.
+> Riot has stated previously that Custom Skins are "Use at your own risk" as they cannot take responsibility if third parties provide you with any malware when using Custom Skins. 
+That said, RuneForge is the safest Custom Skins platform with an active community and moderation team. 
 {.is-info}
 
-Custom skins are safe to use for the time being as Vanguard is not implemented yet. You can get banned only on the Korean server as they have a history of being way more strict than other servers.
-
-If you have seen or heard of people being banned for custom skins it is most likely a lie and they are banned for having a botted account.
+### Can I get banned for using Custom Skins?
+RuneForge currently has no recorded bans registered from any of its mods. But does warn users not to use Custom Skins in Korean Servers due to past banning history and strict competitive management of those servers.
 ## When will Vanguard be added?
 > We do not know but we will keep the community updated with the info we get on our <a href="https://www.discord.gg/runeforge">Discord server</a>.
 {.is-info}
