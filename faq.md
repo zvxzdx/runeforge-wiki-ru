@@ -2,7 +2,7 @@
 title: FAQ
 description: Frequently Asked Questions
 published: true
-date: 2024-03-17T21:44:21.084Z
+date: 2024-03-17T21:56:34.754Z
 tags: faq
 editor: markdown
 dateCreated: 2024-03-17T21:31:27.204Z
@@ -10,7 +10,7 @@ dateCreated: 2024-03-17T21:31:27.204Z
 
 # *Frequently Asked Questions*
 
-## Are custom skins bannable?
+## Are custom skins safe to use?
 > Currently you will not be banned unless you play on the Korean server which was always more strict.
 {.is-info}
 
@@ -18,11 +18,18 @@ dateCreated: 2024-03-17T21:31:27.204Z
 > We do not know but we will keep the community updated with the info we get on our <a href="https://www.discord.gg/runeforge">Discord server</a>.
 {.is-info}
 
-## I had a specific skin but i cannot find it on RuneForge, where can i get it?
-> Some creators aren't active anymore, any skins you remember having you could look for and request in our <a href="https://www.discord.gg/runeforge">Discord server's</a> skin-recovery channel.
+## Missing skins?
+> Some creators aren't active anymore and skins could have been lost to time.
 {.is-info}
 
-## I need help regarding CsLoL, where to get it?
+We have the Skin Recovery Forum on our <a href="https://www.discord.gg/runeforge">Discord server</a> for:
+- Storing Skins
+- Fixing Old Skins
+- Looking For Skins
+
+Our main goal is to recover skins people want, so they can appear on the website later on.
+
+## Help/Support
 > You can join our <a href="https://www.discord.gg/runeforge">Discord server</a> and ask for assistance in the help-forum.
 {.is-info}
 
