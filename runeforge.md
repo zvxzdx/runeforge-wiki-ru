@@ -2,7 +2,7 @@
 title: Runeforge
 description: This is the Wiki/Knowledgebase for everything RuneForge
 published: true
-date: 2024-03-17T23:29:38.291Z
+date: 2024-03-17T23:30:08.543Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-17T21:23:53.939Z
@@ -40,4 +40,4 @@ Now wait for the invitation link *(this usually takes some time so please be pat
 <br>
 
 - **Step 5**
-Join Runeforge's site to post!
+Join [Runeforge's](https://www.runeforge.io/) site to post!
