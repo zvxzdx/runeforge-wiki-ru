@@ -2,7 +2,7 @@
 title: FAQ
 description: Frequently Asked Questions
 published: true
-date: 2024-03-17T21:33:36.577Z
+date: 2024-03-17T21:39:58.341Z
 tags: faq
 editor: markdown
 dateCreated: 2024-03-17T21:31:27.204Z
@@ -15,15 +15,15 @@ dateCreated: 2024-03-17T21:31:27.204Z
 {.is-info}
 
 ## When will Vanguard be added?
-> We do not know but we will keep the community updated with the info we get.
+> We do not know but we will keep the community updated with the info we get on our <a href="https://www.discord.gg/runeforge">Discord server</a>.
 {.is-info}
 
 ## I had a specific skin but i cannot find it on RuneForge, where can i get it?
-> Some creators aren't active anymore, any skins you remember having you could look for and request in our discord server's appropriate channel.
+> Some creators aren't active anymore, any skins you remember having you could look for and request in our <a href="https://www.discord.gg/runeforge">Discord server's</a> skin-recovery channel.
 {.is-info}
 
 ## I need help regarding CsLoL, where to get it?
-> You can join our Discord server and ask for assistance in the respective channel.
+> You can join our <a href="https://www.discord.gg/runeforge">Discord server</a> and ask for assistance in the help-forum.
 {.is-info}
 
 ## Can i get a riot skin through custom skins?
