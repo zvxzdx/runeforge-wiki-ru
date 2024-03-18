@@ -2,13 +2,13 @@
 title: Runeforge
 description: This is the Wiki/Knowledgebase for everything RuneForge
 published: true
-date: 2024-03-18T16:37:54.822Z
+date: 2024-03-18T16:39:33.241Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-17T21:23:53.939Z
 ---
 
-# Runeforge Status
+# Runeforge Status Reports
 
 > ACCEPTING NEW CREATORS PAUSED!
 > The hosting provider currently has issues, once we fixed them we will continue accepting new creators!
