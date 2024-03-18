@@ -2,7 +2,7 @@
 title: Runeforge
 description: This is the Wiki/Knowledgebase for everything RuneForge
 published: true
-date: 2024-03-18T16:39:33.241Z
+date: 2024-03-18T16:43:58.974Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-17T21:23:53.939Z
@@ -10,9 +10,11 @@ dateCreated: 2024-03-17T21:23:53.939Z
 
 # Runeforge Status Reports
 
-> ACCEPTING NEW CREATORS PAUSED!
-> The hosting provider currently has issues, once we fixed them we will continue accepting new creators!
-{.is-danger}
+> **Creator issue solved!**
+>
+> ~~ACCEPTING NEW CREATORS PAUSED!~~
+> ~~The hosting provider currently has issues, once we fixed them we will continue accepting new creators!~~
+{.is-success}
 
 > New Runeforge site has a bug which prevents customizing your profile picture and **Display Name**, once the account is created, you currently can't change your name!
 {.is-warning}
@@ -31,7 +33,7 @@ dateCreated: 2024-03-17T21:23:53.939Z
 This is a short step-by-step information on how to become a Runeforge Creator.
 
 - **Step 1**
-Create an account on [Wix Studio](https://wix.com/studio) **&** on [Runeforge](https://www.runeforge.io/userprofile) 
+Create an account on [Runeforge](https://www.runeforge.io/userprofile) **&** on [Wix Studio](https://wix.com/studio).  
 
 <br>
 
