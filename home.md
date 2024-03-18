@@ -2,14 +2,14 @@
 title: Home
 description: Runeforge Wiki Main Page
 published: true
-date: 2024-03-18T17:28:59.367Z
+date: 2024-03-18T17:31:34.765Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-07T11:55:37.251Z
 ---
 
 > **RUNEFORGE STATUS:**
-> There are currently some issues listed in the [Runeforge Status Report](/status#runeforge-status) please check that out if you are/ want to become a Creator!
+> There are currently some issues listed in the [Site Status Page](/status#runeforge-status) please check that out if you are/ want to become a Creator!
 {.is-info}
 
 
