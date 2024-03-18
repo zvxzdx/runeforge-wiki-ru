@@ -2,7 +2,7 @@
 title: Runeforge
 description: This is the Wiki/Knowledgebase for everything RuneForge
 published: true
-date: 2024-03-17T23:30:08.543Z
+date: 2024-03-18T08:43:08.796Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-17T21:23:53.939Z
@@ -17,7 +17,7 @@ dateCreated: 2024-03-17T21:23:53.939Z
 This is a short step-by-step information on how to become a Runeforge Creator.
 
 - **Step 1**
-Create an account on [Wix Studio](https://de.wix.com/studio). 
+Create an account on [Wix Studio](https://wix.com/studio). 
 
 <br>
 
