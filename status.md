@@ -2,7 +2,7 @@
 title: Status Page
 description: Runeforge & Runforge Wiki current status.
 published: true
-date: 2024-03-18T17:28:30.228Z
+date: 2024-03-22T14:59:16.908Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-18T16:58:55.268Z
@@ -11,17 +11,23 @@ dateCreated: 2024-03-18T16:58:55.268Z
 
 # Runeforge Status
 
-> New Runeforge site has a bug which prevents customizing your profile picture and **Display Name**, once the account is created, you currently can't change your name!
-{.is-warning}
+> Everything is in order.
+{.is-success}
 
 <br>
 
 ## Resolved
+
+> **Profile Name and Picture issue solved!**
+>
+> ~~New Runeforge site has a bug which prevents customizing your profile picture and **Display Name**, once the account is created, you currently can't change your name!~~
+
+
 > **Creator issue solved!**
 >
 > ~~ACCEPTING NEW CREATORS PAUSED!~~
 > ~~The hosting provider currently has issues, once we fixed them we will continue accepting new creators!~~
-{.is-success}
+
 
 <br>
 
