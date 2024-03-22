@@ -2,7 +2,7 @@
 title: Runeforge
 description: This is the Wiki/Knowledgebase for everything RuneForge
 published: true
-date: 2024-03-18T17:27:03.666Z
+date: 2024-03-22T14:59:42.623Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-17T21:23:53.939Z
@@ -45,14 +45,3 @@ Now wait for the invitation link *(this usually takes some time so please be pat
 
 - **Step 5**
 Join [Runeforge's](https://www.runeforge.io/) site to post!
-
-## Recover your posts
-
-Due to some issues at the back end, we need to manually transfer the rights to your old posts to your "new" account.
-Since this process is time consuming, you have one of two options:
-
-### Re-do your old post
-If you want to re-do your post which is faster, then simply tell @Nagi on discord to delete the old one. *(Which you just duplicated)*
-
-### Transfer rights
-Alternatively ask @Nagi on discord to transfer the rights of your older posts to your new account, depending on the current workload and the amount of posts they need to transfer, this may take a while.
