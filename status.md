@@ -2,7 +2,7 @@
 title: Status Page
 description: Runeforge & Runforge Wiki current status.
 published: true
-date: 2024-03-22T14:59:16.908Z
+date: 2024-03-22T15:00:51.377Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-18T16:58:55.268Z
@@ -10,6 +10,13 @@ dateCreated: 2024-03-18T16:58:55.268Z
 
 
 # Runeforge Status
+
+> Everything is in order.
+{.is-success}
+
+<br>
+
+# Runeforge Wiki Status
 
 > Everything is in order.
 {.is-success}
@@ -27,11 +34,3 @@ dateCreated: 2024-03-18T16:58:55.268Z
 >
 > ~~ACCEPTING NEW CREATORS PAUSED!~~
 > ~~The hosting provider currently has issues, once we fixed them we will continue accepting new creators!~~
-
-
-<br>
-
-# Runeforge Wiki Status
-
-> Everything is in order.
-{.is-success}
