@@ -2,7 +2,7 @@
 title: Full sound modding guide
 description: A full overview of sound modding for League of Legends.
 published: true
-date: 2024-03-29T20:56:37.404Z
+date: 2024-03-29T21:03:02.131Z
 tags: sfx, sound fx, sound effects, sound
 editor: markdown
 dateCreated: 2024-02-22T20:47:04.714Z
@@ -123,11 +123,7 @@ This is it, we are almost there! Now has come the time to create the wad files. 
 this file goes into the main wad file, the (Name).wad.client. As you might remember, this is the main file, so it stores all other info about a champion except for their voice-over. So, if you are just editing the sounds for your own custom skin mod, then you put both in the same wad file. But, to the point: you need to create a very specific path in your file explorer. Navigate to a folder of your choosing, then create a folder with your champion's name, exactly as it appeared in the original files. So, for my case, I have to name my folder "Khazix". In there create another folder, called "assets". In it, a folder called "sounds". In it, a folder called "wwise2016". In it, a folder called "sfx". In it, a folder called "characters". In it, a folder with the name of your champion, so for me, "khazix". In it, a folder called "skins". In it, a folder called "base" (if you are doing the default skin). And inside of that is where you put the file you extracted from BNK Extract gui.
 
 #### For Voice-over
-this file goes into the other file, the one named "(Name).en_US.wad.client". Again, remember that the en_US part will be different for you if you are using a different language. So, you need to create a very specific path in your file explorer. Navigate to a folder of your choosing, then create a folder with your champion's name, exactly as it appeared in the original files, and add ".en_US" after the name, or whatever other language you have. So, for my case, I have to name my folder "Khazix.en_US". In there create another folder, called "assets". In it, a folder called "sounds". In it, a folder called "wwise2016". In it, a folder called "vo".In it, a folder called "en_us", of course, change it if you have a different language set up. In it, a folder called "characters". In it, a folder with the name of your champion, so for me, "khazix". In it, a folder called "skins". In it, a folder called "base" (if you are doing the default skin). And inside of that is where you put the file you extracted from BNK Extract gui.
-
-For reference, this is how the "en_US" part will look like for other languages: 
-
-![sg11.webp](/user-pictures/vector/general-guides/sfxguide/sg11.webp)
+this file goes into the other file, the one named "(Name).en_US.wad.client". Again, remember that the en_US part will be different for you if you are using a different language. So, you need to create a very specific path in your file explorer. Navigate to a folder of your choosing, then create a folder with your champion's name, exactly as it appeared in the original files, and add ".en_US" after the name, or whatever other language you have. So, for my case, I have to name my folder "Khazix.en_US". In there create another folder, called "assets". In it, a folder called "sounds". In it, a folder called "wwise2016". In it, a folder called "vo". In it, a folder called "en_us". In it, a folder called "characters". In it, a folder with the name of your champion, so for me, "khazix". In it, a folder called "skins". In it, a folder called "base" (if you are doing the default skin). And inside of that is where you put the file you extracted from BNK Extract gui.
 
 #### For both
 Now head over to the place where you have your LCSManager installed. There, you should see a folder called "cslol-tools":
