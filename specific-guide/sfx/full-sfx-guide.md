@@ -2,7 +2,7 @@
 title: Full sound modding guide
 description: A full overview of sound modding for League of Legends.
 published: true
-date: 2024-03-29T21:03:02.131Z
+date: 2024-03-29T21:08:54.935Z
 tags: sfx, sound fx, sound effects, sound
 editor: markdown
 dateCreated: 2024-02-22T20:47:04.714Z
@@ -133,9 +133,6 @@ Now head over to the place where you have your LCSManager installed. There, you 
 Inside, you will find a file called "wad-make.exe". Drag your parent folder (so Name for sfx and Name.en_US for voice-over) over the said file, and it will create a wad file next to your parent folder. So it should look like this:
 
 ![sg13.webp](/user-pictures/vector/general-guides/sfxguide/sg13.webp)
-
-### Creating voice-overs for multiple regions
-To be completely honest, I have never done it, as I never saw the need to/was too lazy to do it. But to do so quickly, you will have to use the VO Helper by tarngaina. Go to the download link below, get the exe version, but bear in mind, it has been falsely flagged as a virus, so you'll need to tell your firewall to calm down. Tarngaina is a trusted and renowned creator, you shouldn't worry about your motherboard getting hacked. If you are still a bit paranoid, then you would have to do it manually. I'm pretty sure all you need to do is change the subfolder's name from "en_us" to a one corresponding to one of the regions displayed on a screenshot above. After that you would have to rename the parent folder to switch the "en_US" to the same thing  you've set the subfolder to. Still, I'm not sure, since I don't play in English all the time.
 
 ## Merging sound mods
 Imagine a situation in which you're trying to install two sound effect mods. You downloaded them, added to cslol, and then this happens:
