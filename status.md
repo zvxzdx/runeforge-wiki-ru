@@ -2,7 +2,7 @@
 title: Status Page
 description: Runeforge & Runforge Wiki current status.
 published: true
-date: 2024-03-22T15:00:51.377Z
+date: 2024-03-29T16:34:58.898Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-18T16:58:55.268Z
@@ -21,9 +21,14 @@ dateCreated: 2024-03-18T16:58:55.268Z
 > Everything is in order.
 {.is-success}
 
+> **We fixed an issue which prevented logged in Users to be unable to access any page!**
+{.is-info}
+
 <br>
 
 ## Resolved
+
+
 
 > **Profile Name and Picture issue solved!**
 >
