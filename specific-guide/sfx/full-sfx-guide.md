@@ -2,7 +2,7 @@
 title: Full sound modding guide
 description: A full overview of sound modding for League of Legends.
 published: true
-date: 2024-02-22T21:19:37.778Z
+date: 2024-03-29T20:56:37.404Z
 tags: sfx, sound fx, sound effects, sound
 editor: markdown
 dateCreated: 2024-02-22T20:47:04.714Z
@@ -22,10 +22,10 @@ Optional:
 # Written Guide
 ## Preparation
 
-### Acquiring the new sound you want in-game** 
+### Acquiring the new sound you want in-game 
 The first real step and already you are on your own. Not really, but you do have to have an idea for a mod first. Once you do, and you know what sounds you want to replace and for which champion, you still need to get those sounds. How you get them is up to you, and it wholly depends on what you want to do. Perhaps you can simply find them by googling, maybe you can get them from a Youtube video, or maybe you can rip them from a game. Once you do have your new audio files, the proper modding can commence.
 
-### Extracting League's files with Obsidian**
+### Extracting League's files with Obsidian
 Now that you have chosen your champion, open up Obsidian, then click on "File" and "Open". Now navigate to your League's install folder, which usually is under C:\Riot Games\League of Legends. From there, open the folder "Game", then "DATA", then "FINAL" and then "Champions". It should look like this: 
 
 ![sg1.webp](/user-pictures/vector/general-guides/sfxguide/sg1.webp)
@@ -43,7 +43,7 @@ If you only want to edit the SFX, simply open the (Name).wad.client file, howeve
 - For (Name).en_US.wad.client: simply click on `File -> Extract all`, then choose your preferred destination, it can be the same as for the previous file if you want.
 
 ## Editing and converting 
-### Editing your sound files using Audacity**
+### Editing your sound files using Audacity
 
 Now, it's time to prepare your custom sounds for their implementation into League. Launch Audacity and import your sound file into it (if you have a lot of files, e.g. a lot of new voice lines, you'll have to repeat the following process for every file)
 
@@ -141,6 +141,29 @@ Inside, you will find a file called "wad-make.exe". Drag your parent folder (so 
 ### Creating voice-overs for multiple regions
 To be completely honest, I have never done it, as I never saw the need to/was too lazy to do it. But to do so quickly, you will have to use the VO Helper by tarngaina. Go to the download link below, get the exe version, but bear in mind, it has been falsely flagged as a virus, so you'll need to tell your firewall to calm down. Tarngaina is a trusted and renowned creator, you shouldn't worry about your motherboard getting hacked. If you are still a bit paranoid, then you would have to do it manually. I'm pretty sure all you need to do is change the subfolder's name from "en_us" to a one corresponding to one of the regions displayed on a screenshot above. After that you would have to rename the parent folder to switch the "en_US" to the same thing  you've set the subfolder to. Still, I'm not sure, since I don't play in English all the time.
 
+## Merging sound mods
+Imagine a situation in which you're trying to install two sound effect mods. You downloaded them, added to cslol, and then this happens:
+![problem.png](/user-pictures/wiko/problem.png)
+You're confused. A mod changing Flash conflicts with a mod changing Recall? You turn on "Suppress install conflicts", and then one of the mods just doesn't work.
+What should you do in this situation? Read what's below to find the answer.
+
+### Extracting sounds from the first mod's soundbank file
+First thing you wanna do is opening one of the files, and extracting all the sounds from it. To learn how to do this, I recommend scrolling up to these parts of the sound modding tutorial:
+- [Opening the soundbank file](/specific-guide/sfx/full-sfx-guide#open-leagues-audio-files-using-bnk-extract)
+- [Extracting sounds from the file](/specific-guide/sfx/full-sfx-guide#optional-extracting-leagues-audio-files)
+
+After you do that, you will have a bunch of .wem files extracted. What you want to do is importing them into into the second mod's soundbank file.
+
+### Importing the sounds to the second mod's soundbank file
+Take the .wem files you just extracted. Using the bnk-gui, replace the ones with **names identical to the extracted .wem files** within the second mod file.
+Replacing sounds has also been already covered in this tutorial. Check it out!
+- [Replacing .wem files within the soundbank](/specific-guide/sfx/full-sfx-guide#replacing-sound-files)
+
+Once you're done, just save your file (press the "Save as bnk/wpk" button) and add it to the game. How, you ask? Well, this has also been already covered! Just check this out:
+- [Adding your sound mod to the game](/specific-guide/sfx/full-sfx-guide#place-your-modded-files-in-game)
+
+If you did all of the steps above properly, you should have one mod file. Add it to league and enjoy.
 # Sources
 
 - Kaizen (JesusMessiah)
+- Wiko
