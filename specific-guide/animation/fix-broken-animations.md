@@ -2,7 +2,7 @@
 title: How to fix broken animations with LoLmaya
 description: This tutorial shows you how to fix broken animations on your model that happen due to animation layering etc.
 published: true
-date: 2024-02-28T19:29:04.255Z
+date: 2024-03-29T16:15:24.090Z
 tags: maya, animation
 editor: markdown
 dateCreated: 2024-02-22T05:14:01.874Z
@@ -22,7 +22,7 @@ For Jhin, his reload animation is horribly bugged if you export it normally:
 - [LoL-Maya *Plugin made by tarngaina*](https://github.com/tarngaina/lol_maya)
 {.links-list}
 
-# WRITTEN TUTORIAL
+# Written Guide
 
 ## How to get a Riot .skl file
 First extract the original champion <a href="/en/specific-guide/filetypes#skn">.skl</a> file from Obsidian, following the tutorial above. You only need the <a href="/en/specific-guide/filetypes#skn">.skl</a>. In my case, it’s Jhin.skl
