@@ -2,7 +2,7 @@
 title: Animation
 description: All guides listed here.
 published: true
-date: 2024-03-07T00:01:34.687Z
+date: 2024-03-30T15:02:30.400Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-06T17:04:47.520Z
@@ -14,7 +14,8 @@ dateCreated: 2024-02-06T17:04:47.520Z
 
 
 # Advanced Guides
-
+- [Exporting Blender Animations to League](/specific-guide/animation/Exporting-Blender-Animations)
+{.links-list}
 # Fixes
 - [Fix "moonwalking" champion](/specific-guide/animation/How_to_fix_moonwalking)
 - [Fix broken animations](/specific-guide/animation/fix-broken-animations)
