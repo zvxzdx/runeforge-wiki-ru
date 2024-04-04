@@ -2,7 +2,7 @@
 title: Particle swapping through bin-editing
 description: This tutorial teaches you how to take particles from one champion and reuse them on another champion.
 published: true
-date: 2024-02-28T19:33:32.302Z
+date: 2024-04-04T20:27:18.556Z
 tags: code, bin, particle
 editor: markdown
 dateCreated: 2024-02-22T04:29:01.767Z
@@ -59,7 +59,7 @@ style="width:75%"></a>
 11. Done
 
 # How to make your particles break less often
-After finishing your particles I recommend following this [tutorial](specific-guide/coding/fix-breaking-vfx).
+After finishing your particles I recommend following this [tutorial](https://wiki.runeforge.io/specific-guide/coding/fix-breaking-vfx).
 Your skins will break less often and should only break when a new skin for the champion gets released.
 
 # Sources
