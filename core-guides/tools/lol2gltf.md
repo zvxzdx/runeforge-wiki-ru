@@ -2,7 +2,7 @@
 title: Lol2gltf
 description: A guide on how to install and use lol2gltf
 published: true
-date: 2024-04-04T16:38:04.852Z
+date: 2024-04-04T16:40:14.032Z
 tags: guide, install, lol2gltf
 editor: markdown
 dateCreated: 2024-02-12T20:30:56.573Z
@@ -64,5 +64,7 @@ For my example, the command would be
 > `Unhandled exception. System.ArgumentException: Parameter "LogicalMeshes" (System.Collections.Generic.IReadOnlyCollection<SharpGLTF.Schema2.Mesh>) must have a size equal to 1, had a size of <X>. (Parameter 'LogicalMeshes')` 
 
 File is not a single mesh, join all meshes
+> Opening `lol2gltf.exe` and it only shows a white screen
 
+`lol2gltf` and `Obsidian` can't be opened at the same time
 
