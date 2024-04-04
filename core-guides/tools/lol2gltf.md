@@ -2,7 +2,7 @@
 title: Lol2gltf
 description: A guide on how to install and use lol2gltf
 published: true
-date: 2024-04-04T16:40:14.032Z
+date: 2024-04-04T16:46:19.257Z
 tags: guide, install, lol2gltf
 editor: markdown
 dateCreated: 2024-02-12T20:30:56.573Z
@@ -35,7 +35,8 @@ This page will explain lol2gltf and its features
 - The file is now exported where you selected with the <kbd>.glb</kbd> file format.
 ## Importing to blender
 >  When importing to blender, remember to put the `Bone Dir` to  <kbd>Blender(best for re-importing)</kbd> 
-If you forget to do so, the bones will be adjuste for blender, and during re importion, it will deform your skin
+If you forget to do so, the bones will be adjusted for blender, and during re importion, it will deform your skin
+**This is only needed for Blender versions under 4.0**
 {.is-warning}
 
 ![bonedir.png](/user-pictures/thisisquitter/blender_starting_guide/bonedir.png)
