@@ -2,7 +2,7 @@
 title: All Guides for Posting
 description: Posting pages in this wiki can be tricky, so here is a list for all the waays you can post here!
 published: true
-date: 2024-04-05T09:26:22.486Z
+date: 2024-04-05T09:27:41.636Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-08T13:36:33.153Z
@@ -164,7 +164,7 @@ Blahblah
 
 # Embed Video
 
-Copy paste the code into your page and change `LINK-ID` with the youtube link ID. Which would be everything after the "=" of the link!
+Copy paste the code into your page and change `VIDEO-ID` with the youtube link ID. Which would be everything after the "=" of the link!
 
 ![ytlinkid.png](/user-pictures/vector/new-post-guide/ytlinkid.png)
 
