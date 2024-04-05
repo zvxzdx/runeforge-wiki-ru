@@ -2,15 +2,11 @@
 title: All Guides for Posting
 description: Posting pages in this wiki can be tricky, so here is a list for all the waays you can post here!
 published: true
-date: 2024-03-07T20:18:42.612Z
+date: 2024-04-05T09:26:22.486Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-08T13:36:33.153Z
 ---
-
-> Hey!
-> This page is currently W.I.P, but worked on!
-{.is-info}
 
 How do you post at this wiki? What can you do and what is to avoid. All those questions will be answered here!
 
@@ -83,6 +79,8 @@ The most important thing in a wiki is linking. Means, you need to link every pie
 `[Text which is clickable](the link)`
 Thats basically it. 
 
+
+## internal Link
 Wiki js also features a cool feature on how to link pages of the same wiki, you dont need to wite the domain for example. All you need is the filepath (everything behind the .../en/ of any pagelink)
 
 Example:
@@ -99,6 +97,7 @@ Example:
 This will printed out so:
 [Link me to this position](/posting-guide#how-to-post)
 
+## Link list
 Also a really fancy feature which is only doable in wiki.js is making a link a list, this is a bit more complicated to remember but you will get the hang of it. You need the core structure but as a list.
 
 Example:
@@ -113,6 +112,19 @@ Thats the print:
 - [A Listed Link? *How fancy*]()
 - [And another Link? *This is crazy!*]()
 {.links-list}
+
+## Picture Link
+
+This is very simple and combines adding pictures and linking!
+
+`[![Picture Name](Picture Link)](Link)`
+Thats basically it.
+
+Example:
+`[![emote+pg.nasus_v01.png](/user-pictures/vector/new-post-guide/emote+pg.nasus_v01.png =x200](/posting-guide)`
+This will be printed like this:
+
+[![emote+pg.nasus_v01.png](/user-pictures/vector/new-post-guide/emote+pg.nasus_v01.png =x200)](/posting-guide)
 
 # Pictures
 Adding pictures is easy. Sidebar > Insert Asset > select and insert. Done.
@@ -132,6 +144,14 @@ whoops, sometimes images shouldnt be scaled manually so its easier to just adjus
 Now this is printed:
 ![emote+pg.nasus_v01.png](/user-pictures/vector/new-post-guide/emote+pg.nasus_v01.png =x200)
 Perfect, now you're ready to add pictures!
+
+As a third option you can also choose to use percentages. By simply adding a `=Number%x`
+
+Example:
+`![emote+pg.nasus_v01.png](/user-pictures/vector/new-post-guide/emote+pg.nasus_v01.png =15%x)`
+
+The printed version:
+![emote+pg.nasus_v01.png](/user-pictures/vector/new-post-guide/emote+pg.nasus_v01.png =15%x)
 
 # Code
 
