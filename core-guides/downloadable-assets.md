@@ -2,7 +2,7 @@
 title: Creation Assets
 description: A page with all assets you can use for your custom skin as downloads!
 published: true
-date: 2024-02-22T22:18:44.189Z
+date: 2024-04-06T12:05:30.347Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-22T17:47:44.116Z
@@ -23,6 +23,10 @@ Provided by **bud**
 - [paint.net Templates*Mediafire Link*](https://www.mediafire.com/folder/ca1b1aoin342h/paint.net_champion_templates)
 - [GIMP Templates*Mediafire Link*](https://www.mediafire.com/folder/0z7na9qzm4vw4/GIMP_champion_templates)
 {.links-list}
+## Art Collection
+Primarily female champions currently, but includes many HD references, including Arcane Assets + LOR followers.
+- [Google Drive Link *External Link*](https://drive.google.com/drive/folders/1xBLNPxDiwBJrLm_7922q-kt9FvLGTGFL?usp=sharing)
+{.links-list}
 
 # 3D Assets
 # Tabs {.tabset}
@@ -33,3 +37,14 @@ Provided by **Bearded Shepherd**
 {.links-list}
 
 # Misc Assets
+# Tabs {.tabset}
+## unpiewad
+Small Tool which removes extensions like `.Pie_C_13_10.dds` or `.briar.dds`.
+
+To use it:
+1. download and place inside the Ritobin folder.
+2. Create a text file named allow.depie next to the folder that contains your assets and data like this (this is a safety feature)
+3. Drop your wad folder, in this case Example.wad.client onto unpiewad.exe
+
+- [Download here *External Link*](https://drive.google.com/file/d/1TltplZd9tFA5KLHMZ00Pp1TNvpLmI-_l/view?usp=sharing)
+{.links-list}
