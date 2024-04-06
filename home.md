@@ -2,7 +2,7 @@
 title: Home
 description: Runeforge Wiki Main Page
 published: true
-date: 2024-04-05T20:18:22.682Z
+date: 2024-04-06T16:43:12.127Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-07T11:55:37.251Z
@@ -31,7 +31,7 @@ If you still can't find what you need then either, the guide/ page doesn't exist
 
 # Help us improve the site!
 
-If you got a short moment (**~5 minutes)**, we gladly would appreciate you feedback!
+If you got a short moment (**~5 minutes)**, we appreciate you feedback!
 
 [![survey.webp](/survey.webp =75%x)](https://forms.gle/jKzcJ6jPtbPmK69d7)
 
