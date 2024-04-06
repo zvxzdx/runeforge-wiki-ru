@@ -2,7 +2,7 @@
 title: Resources
 description: A page with all assets you can use for your custom skin as downloads!
 published: true
-date: 2024-04-06T12:07:41.826Z
+date: 2024-04-06T12:08:11.781Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-22T17:47:44.116Z
@@ -41,7 +41,7 @@ Provided by **Bearded Shepherd**
 ## unpiewad
 Small Tool which removes extensions like `.Pie_C_13_10.dds` or `.briar.dds`.
 
-To use it:
+How to use it:
 1. download and place inside the Ritobin folder.
 2. Create a text file named allow.depie next to the folder that contains your assets and data like this (this is a safety feature)
 3. Drop your wad folder, in this case Example.wad.client onto unpiewad.exe
