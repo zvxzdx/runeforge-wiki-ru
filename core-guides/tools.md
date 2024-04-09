@@ -2,7 +2,7 @@
 title: Tools
 description: All tools listed here which contain general mostly short guides.
 published: true
-date: 2024-04-09T10:16:49.588Z
+date: 2024-04-09T10:22:45.018Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-06T17:01:25.224Z
@@ -57,7 +57,9 @@ All tools availabe for creating and using mods! This page is sorted by categorie
 {.links-list}
 ## Healthbar Fixer
 How to use:
-![fixhealthbar.gif](/fixhealthbar.gif)
+*Simply drag and drop all mods (also folders containing mods) onto the .exe file and you're done.*
+
+![healthbargif.gif](/healthbargif.gif)
 - [Fix Healthbar Patcher *for missing Healthbars in mods since Patch 14.7*](https://github.com/GuiSaiUwU/FixHealthBar/releases/tag/1.1)
 {.links-list}
 
