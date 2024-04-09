@@ -2,11 +2,18 @@
 title: Status Page
 description: Runeforge & Runforge Wiki current status.
 published: true
-date: 2024-03-30T21:31:55.777Z
+date: 2024-04-09T10:12:47.364Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-18T16:58:55.268Z
 ---
+
+# Issues
+
+> **Missing Healthbars since Patch 14.7!** 
+> We provide a fixing tool [here](/core-guides/tools#code-bin-editing)!
+{.is-info}
+
 
 
 # Runeforge Status
