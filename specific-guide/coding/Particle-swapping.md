@@ -2,7 +2,7 @@
 title: Particle swapping through bin-editing
 description: This tutorial teaches you how to take particles from one champion and reuse them on another champion.
 published: true
-date: 2024-04-04T20:27:37.175Z
+date: 2024-04-09T10:43:13.869Z
 tags: code, bin, particle
 editor: markdown
 dateCreated: 2024-02-22T04:29:01.767Z
@@ -32,6 +32,7 @@ If you choose Visual Studio Code, you need the [Python extension](https://market
   <a href="https://www.youtube.com/watch?v=_RoS1Dpdvfg"><img src="https://img.youtube.com/vi/_RoS1Dpdvfg/0.jpg" alt="Guide on how to install LOL Maya Plugin"
 style="width:75%"></a>
 </div>
+
 *External Youtube Link!*
 
 # TIPS
