@@ -2,7 +2,7 @@
 title: Tools
 description: All tools listed here which contain general mostly short guides.
 published: true
-date: 2024-04-06T12:06:44.314Z
+date: 2024-04-09T10:11:11.208Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-06T17:01:25.224Z
@@ -54,6 +54,9 @@ All tools availabe for creating and using mods! This page is sorted by categorie
 ## Converters
 - [Ritobin *.bin to .py file converter*](/core-guides/tools/rito-bin)
 - [Troygrade *.troybin to .bin file converter*](https://leischii.github.io/)
+{.links-list}
+## Smart Fixing
+- [Fix Healthbar Patcher *for missing Healthbars in mods since Patch 14.7*](https://github.com/GuiSaiUwU/FixHealthBar/releases/tag/1.1)
 {.links-list}
 
 # Sound FX & Audio
