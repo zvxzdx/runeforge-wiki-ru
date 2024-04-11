@@ -2,7 +2,7 @@
 title: FAQ
 description: Frequently Asked Questions
 published: true
-date: 2024-03-17T22:20:58.585Z
+date: 2024-04-11T18:58:56.797Z
 tags: faq
 editor: markdown
 dateCreated: 2024-03-17T21:31:27.204Z
@@ -20,6 +20,12 @@ RuneForge currently has no recorded bans registered from any of its mods. But do
 ## When will Vanguard be added?
 > We do not know but we will keep the community updated with the info we get on our <a href="https://www.discord.gg/runeforge">Discord server</a>.
 {.is-info}
+
+**Update**
+
+Vanguard is installed on PBE but is not fully running yet, so testing is still in progress. CS-LoL is still safe to use but keep an eye out in our News Channels. We keep you Updated!
+
+---
 
 Riot has not been clear regarding the Vanguard anti cheat implementation. They are pushing back the rollout date back. We update on any info we get right away.
 ## Missing skins?
