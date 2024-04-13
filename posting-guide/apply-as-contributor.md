@@ -1,8 +1,8 @@
 ---
 title: Apply as Contributor
 description: This wiki lives through their community, so as a Contributor you can help out here by adding/ editing pages.
-published: true
-date: 2024-03-17T23:15:48.402Z
+published: false
+date: 2024-04-13T12:22:56.122Z
 tags: contributor, apply, staff
 editor: markdown
 dateCreated: 2024-02-09T18:24:48.431Z
