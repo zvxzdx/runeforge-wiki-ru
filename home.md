@@ -2,15 +2,16 @@
 title: Home
 description: Runeforge Wiki Main Page
 published: true
-date: 2024-04-09T10:13:49.734Z
+date: 2024-04-13T12:21:57.425Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-07T11:55:37.251Z
 ---
 
 
-> **New modding issue stated in [Status](/status)!**
+> Contributor application is now open for more. If you want to be a part of our Wiki community, [just click here](https://forms.gle/nqszdXXTgY1684fy7)!
 {.is-info}
+
 
 
 
