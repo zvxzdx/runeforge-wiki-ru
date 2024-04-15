@@ -2,7 +2,7 @@
 title: Making Custom Cursors
 description: This guide explains the creation of custom cursors using Photoshop and paint.net
 published: true
-date: 2024-02-19T21:03:02.710Z
+date: 2024-04-15T00:43:16.409Z
 tags: guide, photoshop, ui, paint.net
 editor: markdown
 dateCreated: 2024-02-18T21:42:47.305Z
@@ -105,8 +105,15 @@ If everything is alright, congrats on creating a cursor mod!
 
 ## Windows cursors
 
-The pointers that the Windows Operating system uses are located under <kbd style="background-color:#343942">C:\Windows\Cursors</kbd>. Using the <a href="https://forums.getpaint.net/topic/927-icon-cursor-and-animated-cursor-format-v37-may-2010/page/13/#comment-514467">.ico .cur and .ani paint.net plugin</a> you can open these pointers in paint.<span>net</span> without needing to convert any files.
+The pointers that the Windows Operating system uses are located under <kbd style="background-color:#343942">C:\Windows\Cursors</kbd>. Using the <a href="https://forums.getpaint.net/topic/927-icon-cursor-and-animated-cursor-format-v37-may-2010/page/13/#comment-514467">.ico .cur and .ani paint.net plugin</a> and [.svg and .svgz plugin for paint.net](https://forums.getpaint.net/topic/117086-scalable-vector-graphics-filetype-alternative-plugin-svg-svgz/) you can open these pointers in paint.<span>net</span> without needing to convert any files.
 
+## Useful Links and Resources
+
+- [Open Cursor Library](http://www.rw-designer.com/cursor-library), there are many cursors for Windows here
+
+ - [The Spriters Resource](https://www.spriters-resource.com/), there are cursors from some games here
+
+ - [paint<span>.net</span>](https://forums.getpaint.net) forum, you can find useful plugins for paint<span>.net</span> here
 
 
 
