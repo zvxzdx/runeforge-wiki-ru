@@ -2,7 +2,7 @@
 title: Full sound modding guide
 description: A full overview of sound modding for League of Legends.
 published: true
-date: 2024-03-29T21:08:54.935Z
+date: 2024-04-18T22:35:23.153Z
 tags: sfx, sound fx, sound effects, sound
 editor: markdown
 dateCreated: 2024-02-22T20:47:04.714Z
@@ -156,7 +156,16 @@ Once you're done, just save your file (press the "Save as bnk/wpk" button) and a
 - [Adding your sound mod to the game](/specific-guide/sfx/full-sfx-guide#place-your-modded-files-in-game)
 
 If you did all of the steps above properly, you should have one mod file. Add it to league and enjoy.
+
+## Sound Cutoff Info
+
+Generally sounds play upon an event happening. Here's what cuts them off.
+- If a sound is tied to a buff it will cut off when that buff wears off (Darius passive for example)
+- mIsKillEvent: Decides if the audio cuts off when the animation ends. true = yes, false = no. True is the default value if the parameter doesn't exist.
+ 
+
 # Sources
 
 - Kaizen (JesusMessiah)
 - Wiko
+- Bud
