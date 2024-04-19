@@ -2,7 +2,7 @@
 title: Replacing Champions With a Different Character
 description: This tutotial will show you how to replace the model from a champion with another one
 published: true
-date: 2024-04-19T16:06:35.692Z
+date: 2024-04-19T16:13:08.264Z
 tags: modelling
 editor: markdown
 dateCreated: 2024-02-29T02:01:05.953Z
@@ -169,6 +169,12 @@ We will now bind the skeleton to our model! To do this, simply select your mesh/
 Now that you are in the options, try to copy my settings here : make sure to bind to the Joint Hierarchy, set the max influence TO A MAXIMUM OF 4 (but I highly recommend 3, and go lower if your mesh doesnt have a lot of polygons/faces), and remove "Maintain max influences".
 
 ![34.png](/user-pictures/goat/custommodels/34.png)
+
+Of course, make sure the deformation look good by rotating different joints, like the shoulders, the leg, the spine, etc.
+
+If the first settings didnt do a good job, unbind the mesh first and try these ones instead. (the unbind option is at the same place as the bind skin option)
+
+![35.png](/user-pictures/goat/custommodels/35.png)
 
 # Weighting your character
 I will not be going over this step, since its a pretty big one and we already have another tutorial for it!
