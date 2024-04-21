@@ -2,7 +2,7 @@
 title: Adobe Photoshop
 description: A guide on how to install and use Adobe Photoshop
 published: true
-date: 2024-03-05T22:56:29.802Z
+date: 2024-04-21T13:27:18.524Z
 tags: guide, photoshop, install, adobe
 editor: markdown
 dateCreated: 2024-02-11T19:32:06.351Z
@@ -76,3 +76,30 @@ Once you're done editing your file you need to export it as `.dds`.
 Leave the rest as it is >> Click Save. Done.
 
 ![nvidia_txt_showcase.png](/user-pictures/vector/general-guides/nvidia_txt_showcase.png)
+
+# Simple DDS Plugin
+
+
+This plugin is a generic .dds plugin and has no name.
+Its simplicity makes it easy to use and fast to save files.
+It's useful when doing batch export as it doesn't require you to confirm file saving.
+
+### Download
+- [DDS Plugin Download](/user-pictures/bud/dds.8bi)
+{.links-list}
+
+### Installation
+ Simply download the file and place it in the following address:
+ <kbd style="background-color:#343942">	C:\Program Files\Adobe\Adobe Photoshop 2024\Required\Plug-Ins\File Formats</kbd>
+
+### Saving Files
+
+1. File > Save As
+2. Select "Save as type" > **DDS (\*.DDS;\*.DDS)**
+3. Navigate to the location where you want the file to be saved.
+4. Assign file name.
+5. Save.
+6. Inside the plugin options select Format to be DXT5:
+7. Press OK.
+
+![ddsplg.png](/user-pictures/bud/ddsplg.png)
