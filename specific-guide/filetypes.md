@@ -2,15 +2,11 @@
 title: Filetypes
 description: All filetypes listed here.
 published: true
-date: 2024-03-02T11:31:19.381Z
+date: 2024-04-23T17:16:52.579Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-10T14:08:46.366Z
 ---
-
-> **W.I.P**
-> This page is under development
-{.is-info}
 
 All file formats used by the League of Legends engine.
 
