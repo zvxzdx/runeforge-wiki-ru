@@ -2,7 +2,7 @@
 title: UV Editing
 description: A general overview of UV editing and modding-specific use cases of it
 published: false
-date: 2024-04-29T15:29:50.080Z
+date: 2024-04-29T15:31:11.581Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-29T15:16:42.757Z
@@ -21,7 +21,7 @@ Page is still in the works, hope I get it done end of this week (5/5/24)
 - UVs outside 1,1 bounding box
 
 # Use cases in custom skins
-Just a short list of possible use cases I'll be covering in this guide.
+List of possible use cases I'll be covering in this guide.
 - Combining downloaded texture files into a single file
 - Fixing weird UVs
 - Matching added parts of a mesh
@@ -30,9 +30,9 @@ Just a short list of possible use cases I'll be covering in this guide.
 - LoLMaya interface
 - Maya-native UV tools
 
-# Specific use cases
+# Specific examples
 ## Combining downloaded texture files into a single file
-This will most likely be useful if you're following [the guide for replacing champions with a different model][https://wiki.runeforge.io/en/specific-guide/3d-modelling/Replacing-Champion-With-a-Completely-Different-Model], which doesn't go into detail about how to get textures to work, but that's what this guide is for.
+This will most likely be useful if you're following [the guide for replacing champions with a different model](https://wiki.runeforge.io/en/specific-guide/3d-modelling/Replacing-Champion-With-a-Completely-Different-Model), which doesn't go into detail about how to get textures to work, but that's what this guide is for.
 
 A champ's base texture file will be a single (or sometimes 2) square .dds file, the 2x and 4x files are the lower resolution ones. You can delete the 2x/4x ones and only replace the base one, which will also replace the lower resolution ones (they just wont be low res). (insert picture of champ's base\assets folder)
 
