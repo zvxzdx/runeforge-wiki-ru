@@ -2,7 +2,7 @@
 title: UV Editing
 description: A general overview of UV editing and modding-specific use cases of it
 published: false
-date: 2024-04-29T15:19:03.862Z
+date: 2024-04-29T15:29:50.080Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-29T15:16:42.757Z
@@ -11,8 +11,8 @@ dateCreated: 2024-04-29T15:16:42.757Z
 Page is still in the works, hope I get it done end of this week (5/5/24)
 
 # Required Tools
-- [Maya + LoLMaya Plugin *3D editing software*] [https://wiki.runeforge.io/en/core-guides/tools/maya]
-- [Any photo editing software *`paint.net` is highly recommended*] [https://wiki.runeforge.io/en/core-guides/tools/paint-net]
+- [Maya + LoLMayaPlugin *3D editing software*](https://wiki.runeforge.io/en/core-guides/tools/maya)
+- [Any photo editing software *`paint.net` is highly recommended*](https://wiki.runeforge.io/en/core-guides/tools/paint-net)
 {.links-list}
 
 # Introduction to UVs
