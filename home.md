@@ -2,18 +2,11 @@
 title: Home
 description: Runeforge Wiki Main Page
 published: true
-date: 2024-04-17T23:40:54.179Z
+date: 2024-04-30T14:18:03.002Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-07T11:55:37.251Z
 ---
-
-
-> Contributor application is now open for more. If you want to be a part of our Wiki community, [just click here](https://forms.gle/nqszdXXTgY1684fy7)!
-{.is-info}
-
-
-
 
 # Welcome to the Runeforge Wiki
 This wiki is for custom skins (also known as custom content) and provides a source of information across the League of Legends modding community.
