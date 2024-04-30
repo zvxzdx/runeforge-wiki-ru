@@ -1,8 +1,8 @@
 ---
-title: Untitled Page
-description: 
+title: Home 
+description: Runeforge Wiki Main Page
 published: true
-date: 2024-04-30T14:49:51.837Z
+date: 2024-04-30T14:50:12.978Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-30T14:49:51.837Z
