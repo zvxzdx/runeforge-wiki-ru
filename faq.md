@@ -2,7 +2,7 @@
 title: FAQ
 description: Frequently Asked Questions
 published: true
-date: 2024-04-25T12:15:32.572Z
+date: 2024-05-01T13:31:37.762Z
 tags: faq
 editor: markdown
 dateCreated: 2024-03-17T21:31:27.204Z
@@ -18,15 +18,17 @@ That said, RuneForge is the safest Custom Skins platform with an active communit
 ### Can I get banned for using Custom Skins?
 RuneForge currently has no recorded bans registered from any of its mods. But does warn users not to use Custom Skins in Korean Servers due to past banning history and strict competitive management of those servers.
 ## What about Vanguard?
-> Vanguard was recently added to the Phillipines server and will roll out to other servers in the next patch, for news surrounding it join our <a href="https://www.discord.gg/runeforge">Discord server</a>.
+> Vanguard was added to all the servers recently, for news surrounding it join our <a href="https://www.discord.gg/runeforge">Discord server</a>.
 {.is-info}
 
-We have confirmation that <kbd>cslol-manager</kbd> does indeed work on the PH server alongside Vanguard with the new DLL patching option.
-We expect custom skins and most of our tools to keep on working just fine after the 14.9 patch. 
+Custom skins work fine with <kbd>cslol-manager</kbd> as of right now.
 
 
-### Will cslol-manager keep on working when patch 14.9 comes out ?
-There will be a new version released when Vanguard comes out that makes the new patching method the default one. The current version <code>(2024-03-24-dc06972)</code> will keep on working with the new DLL patcher option which can be enabled in the settings.
+### But Vanguard was added in 14.9, is it bannable now?
+A new version of Cslol was released which uses the new DLL patcher that works with Vanguard.
+Download the new version and you are good to go!
+- [Download the latest Cslol <code>2024-05-01-bcef8f1</code>](https://github.com/LeagueToolkit/cslol-manager/releases/tag/2024-05-01-bcef8f1)
+{.links-list}
 
 ### Will I get banned for using cslol-manager if I use it with Vanguard ?
 We can confidently say that you will most likely not get banned. There have been no reports of bans from the PH server and we do not expect that to change any time soon as it would signal a stance change from Riot towards custom skins - something which is unlikely to happen.
