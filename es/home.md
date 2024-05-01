@@ -2,11 +2,15 @@
 title:  Inicio
 description: Página Principal de la Wiki de Runeforge
 published: true
-date: 2024-05-01T13:18:42.024Z
+date: 2024-05-01T13:42:02.223Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-01T13:18:42.024Z
 ---
+
+> En este momento, se recomienda usar la versión inglesa de la Wiki hasta nuevo aviso. Muchos enlaces y páginas estarán desabilitados hasta su traducción.
+{.is-danger}
+
 
 > **El español se tradujo mediante inteligencia artificial, ¡puede haber errores!**
 {.is-info}
