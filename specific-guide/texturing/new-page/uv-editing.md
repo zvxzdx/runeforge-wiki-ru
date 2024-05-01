@@ -2,7 +2,7 @@
 title: UV Editing
 description: A general overview of UV editing and modding-specific use cases of it
 published: false
-date: 2024-04-29T15:31:11.581Z
+date: 2024-05-01T17:03:11.221Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-29T15:16:42.757Z
@@ -33,23 +33,46 @@ List of possible use cases I'll be covering in this guide.
 # Specific examples
 ## Combining downloaded texture files into a single file
 This will most likely be useful if you're following [the guide for replacing champions with a different model](https://wiki.runeforge.io/en/specific-guide/3d-modelling/Replacing-Champion-With-a-Completely-Different-Model), which doesn't go into detail about how to get textures to work, but that's what this guide is for.
+Since both guides tell you to edit the mesh you've downloaded, it is important to note that ***editing the UV should ALWAYS happen before binding the skin to the skeleton.***
 
+### Sorting files
 A champ's base texture file will be a single (or sometimes 2) square .dds file, the 2x and 4x files are the lower resolution ones. You can delete the 2x/4x ones and only replace the base one, which will also replace the lower resolution ones (they just wont be low res). (insert picture of champ's base\assets folder)
 
 When you've downloaded a 3D model and unzip'd the .zip or .rar (or whatever file format it comes in), the extracted folder should look something like this
 (insert picture of folder with textures, .fbx/.gltf, other subfolders, unneccessary files)
 
-The only files you'll need will be texture files and the 3d model or Maya/Blender scene. There may be textures which are duplicate or have weird colour schemes.
+The only files you'll need will be texture files and the 3d model or Maya/Blender scene. There may be textures which are duplicate or have weird colour schemes
 You can delete all the files that don't look like a texture for the model (or just ignore them).
 
-After importing the model and all texture files, the first step is figuring out what texture files belong to which part of the mesh. This is pretty easy to do just by trial-and-erroring, since it is very obvious if a texture fits a part of the mesh once you apply it (insert picture of fitting and non-fitting texture applied to a part of a mesh).
+### Setting up your Maya scene
+After importing the model and all texture files, you now should have multiple meshes listed in your Outliner,the first step is figuring out what texture files belong to which part of the mesh. This is pretty easy to do just by trial-and-erroring, since it is very obvious if a texture fits a part of the mesh once you apply it (insert picture of fitting and non-fitting texture applied to a part of a mesh).
 
 After you applied all textures to your mesh you can now delete all unused nodes in Hypershade, which will leave you with all texture files you want to combine into the champ's base texture file.
 
-Now you can start combining the parts of the mesh that use the same texture file, which may require some UV editing.
+### Combining the mesh
+Now you can start combining the parts of the mesh that use the same texture file.
 
 If you're lucky, the UVs will look something like this when looked at together (insert picture of good UV)
 If that's the case, you can just combine those parts of the mesh, and continue to do so until you've done this for every texture file.
 
-If you're not lucky, it will look something like this (insert pictures of bad UVs, both single parts and multiple parts)
-This is where you have to get creative and actually edit UVs
+If you're not lucky, it will look something like this, with parts of the UV being stacked on top of each other or being outside of the 0-1 boundary (insert pictures of bad UVs, both single parts and multiple parts)
+If that's the case, you'll want to read the chapter below this "Fixing weird UVs"
+
+Once you have combined all parts of the mesh that use the same texture file, you'll also want to combine those bigger parts of the mesh, until you are only left with a single mesh. 
+Depending on the number of mesh parts (optimal is 4 or less) you can simply select their UVs and move them to different corners with the LoLMaya commands (insert picture showing stacked UVs -> UVs moved to corner)
+
+If you have more than 4 mesh parts, you'll have to split one or more quadrants of your UV into more quadrants, which comes down to using the LoLMaya commands multiple times (insert example picture: moved to corner -> moved to corner again)
+
+### Combining the texture files
+After you've moved the UVs so that looking at the combined UV of all mesh parts doesn't make any of them overlap or be outside the 0-1 UV boundary (VERY IMPORTANT), you're ready to combine the texture files!
+
+You can now open one of the texture files your mesh uses in `paint.net`, and then use the "Canvas Size" tool under "Image" expand the canvas to double its current size, so if the texture file is 256x256 pixels, you should expand the canvas to 512x512. 
+Remember to anchor the texture file to one of the corner before doing so though, preferrably the corner it inhabits in the UV.
+
+Now you just have to import all other texture files, put them in their assigned corners and save the image!
+Remember to save it as a .dds with "BC3, Linear DXT5" (`paint.net` will default to "BC1, Linear DXT1").
+
+This single file is what you'll replace the champ's original .dds texture with.
+You can now continue following [the guide for replacing champions with a different model](https://wiki.runeforge.io/en/specific-guide/3d-modelling/Replacing-Champion-With-a-Completely-Different-Model).
+
+## Fixing weird UVs
