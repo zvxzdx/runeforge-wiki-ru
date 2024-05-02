@@ -2,7 +2,7 @@
 title: UV Editing
 description: A general overview of UV editing and modding-specific use cases of it
 published: false
-date: 2024-05-01T17:03:11.221Z
+date: 2024-05-02T14:07:02.881Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-29T15:16:42.757Z
@@ -19,16 +19,33 @@ Page is still in the works, hope I get it done end of this week (5/5/24)
 - how it works (basic level)
 - importing texture files into maya for easier visualization
 - UVs outside 1,1 bounding box
+The concept of UVs is quite simple.
+A UV consists of every face of a mesh unfolded onto a square plane. The position of the face on this plane determines what part of the texture file gets applied to it.
+To view UVs, select the mesh you want to look at and then open the UV Editor via the button in LoLMaya (insert picture of LoLMaya tab with circle around "UV Editor" button)
+
+## Importing textures into Maya via Hypershade
+You can use Hypershade to import any image file as a texture into Maya. 
+Keep in mind that image files that aren't square will be stretched to fit.
+
+To do this you have to open Hypershade and then drag & drop an image file into the file space of the "Textures" tab.
+(insert picture - 1. Hypershade button in lolmaya 2. textures tab 3. arrow with drag & drop)
+Now you can select a mesh and hold right click onto the texture file you want to apply to it. 
+From the options that appear now you just have to select "Apply Texture's Material to Selection" and the UV of the mesh will use the image file you just imported.
+
+## UVs outside the 0-1 bounding box
+Normally all UV faces will be inside the 0-1 space of the UV plane, since this also is where the texture file will be applied. 
+Sometimes they will be outside of this bounding box though, but this only becomes a problem when you have to combine UVs, which I'll cover later.
+The way Maya deals with this is by "infinitely repeating" the texture file,
+
+# UV editing toolbox
+- LoLMaya interface
+- Maya-native UV tools
 
 # Use cases in custom skins
 List of possible use cases I'll be covering in this guide.
 - Combining downloaded texture files into a single file
 - Fixing weird UVs
 - Matching added parts of a mesh
-
-# UV editing toolbox
-- LoLMaya interface
-- Maya-native UV tools
 
 # Specific examples
 ## Combining downloaded texture files into a single file
