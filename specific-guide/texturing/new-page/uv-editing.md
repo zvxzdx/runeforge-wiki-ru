@@ -2,7 +2,7 @@
 title: UV Editing
 description: A general overview of UV editing and modding-specific use cases of it
 published: false
-date: 2024-05-03T21:34:09.880Z
+date: 2024-05-03T21:37:30.860Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-29T15:16:42.757Z
@@ -97,7 +97,7 @@ If you have more than 4 mesh parts, you'll have to split one or more quadrants o
 ### Combining the texture files
 After you've moved the UVs so that looking at the combined UV of all mesh parts doesn't make any of them overlap or be outside the 0-1 UV boundary (VERY IMPORTANT), you're ready to combine the texture files!
 
-You can now open one of the texture files your mesh uses in `paint.net`, and then use the "Canvas Size" tool under "Image" expand the canvas to double its current size, so if the texture file is 256x256 pixels, you should expand the canvas to 512x512. 
+You can now open one of the texture files your mesh uses in `paint.net`, and then use the "Canvas Size" tool under "Image" to expand the canvas to double its current size, so if the texture file is 256x256 pixels, you should expand the canvas to 512x512. 
 Remember to anchor the texture file to one of the corner before doing so though, preferrably the corner it inhabits in the UV.
 
 Now you just have to import all other texture files, put them in their assigned corners and save the image!
