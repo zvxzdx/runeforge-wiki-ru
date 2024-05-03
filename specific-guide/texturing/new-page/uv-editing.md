@@ -2,7 +2,7 @@
 title: UV Editing
 description: A general overview of UV editing and modding-specific use cases of it
 published: false
-date: 2024-05-03T21:45:47.956Z
+date: 2024-05-03T23:01:54.377Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-29T15:16:42.757Z
@@ -39,6 +39,10 @@ Normally all UV faces will be inside the 0-1 space of the UV plane, since this a
 Sometimes they will be outside of this bounding box though, but this only becomes a problem when you have to combine UVs, which I'll cover later.
 The way Maya deals with this is by "infinitely repeating" the texture file, which is best explained with a visualization (insert fitting picture)
 
+## "Line" UVs
+Sometimes UV faces will just be a single line instead of a polygon (insert example picture)
+idk how to fix this... yet
+
 
 # UV editing toolbox
 
@@ -59,8 +63,16 @@ I think it should be pretty obvious which button moves it to which corner.
 You can also use these multiple times to move them in smaller quadrants, which looks something like this (insert picture - 1. Moved to top right corner -> 2. Moved to bottom right corner (should be lower right of top right corner))
 
 ## Maya-native Tools
-- Gather Shells
-- 
+
+### Gather Shells
+Gather Shells tries to place all shells that are outside the 0-1 boundary inside it.
+It's always good to just start off the UV editing process by selecting all of the UV and then gathering shells, since sometimes the UVs can be very weird and placed at 2-3 instead of 0-1. (insert example picture(s))
+When they are placed on the edge of the 0-1 UV space, they wont get put inside it completely, since that would change the part of the texture that gets applied to it.
+
+I'll go over how to fix this in the "Fixing weird UVs" section
+
+### Other Tools
+I'll add other Maya-native tools here once I learn how to use them.
 
 # Use cases in custom skins
 List of possible use cases I'll be covering in this guide.
