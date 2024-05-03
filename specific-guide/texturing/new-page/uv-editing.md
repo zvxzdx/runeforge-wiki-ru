@@ -2,7 +2,7 @@
 title: UV Editing
 description: A general overview of UV editing and modding-specific use cases of it
 published: false
-date: 2024-05-03T21:08:43.096Z
+date: 2024-05-03T21:34:09.880Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-29T15:16:42.757Z
@@ -41,12 +41,19 @@ The way Maya deals with this is by "infinitely repeating" the texture file, whic
 
 
 # UV editing toolbox
+
 When editing UVs, you'll have to switch to Face Selection Mode (F11) to select parts of the UVs and edit them.
 
 There's lots of Maya-native UV editing tools available directly in the UV Editor, but you'll want to use those provided by LoLMaya almost exclusively (at least when you work with 3D models you've downloaded).
 You will need the Maya-native tools when you create your own 3D model and UV, which wont be covered in this guide (for now).
-- LoLMaya interface
-- Maya-native UV tools
+
+## LoLMaya interface
+
+On the right of the UV-Editor button
+
+## Maya-native Tools
+- Gather Shells
+- 
 
 # Use cases in custom skins
 List of possible use cases I'll be covering in this guide.
