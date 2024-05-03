@@ -2,7 +2,7 @@
 title: UV Editing
 description: A general overview of UV editing and modding-specific use cases of it
 published: false
-date: 2024-05-02T14:29:56.402Z
+date: 2024-05-03T21:08:43.096Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-29T15:16:42.757Z
@@ -23,7 +23,7 @@ Page is still in the works, hope I get it done end of this week (5/5/24)
 
 The concept of UVs is quite simple.
 A UV consists of every face of a mesh unfolded onto a square plane. The position of the face on this plane determines what part of the texture file gets applied to it.
-To view UVs, select the mesh you want to look at and then open the UV Editor via the button in LoLMaya (insert picture of LoLMaya tab with circle around "UV Editor" button)
+To view UVs, select the mesh you want to look at and then open the UV Editor via the button in LoLMaya (insert picture of LoLMaya tab with circle around "UV Editor" button, UV open too)
 
 ## Importing textures into Maya via Hypershade
 You can use Hypershade to import any image file as a texture into Maya. 
@@ -41,6 +41,10 @@ The way Maya deals with this is by "infinitely repeating" the texture file, whic
 
 
 # UV editing toolbox
+When editing UVs, you'll have to switch to Face Selection Mode (F11) to select parts of the UVs and edit them.
+
+There's lots of Maya-native UV editing tools available directly in the UV Editor, but you'll want to use those provided by LoLMaya almost exclusively (at least when you work with 3D models you've downloaded).
+You will need the Maya-native tools when you create your own 3D model and UV, which wont be covered in this guide (for now).
 - LoLMaya interface
 - Maya-native UV tools
 
