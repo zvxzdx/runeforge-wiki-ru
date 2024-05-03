@@ -2,14 +2,14 @@
 title: UV Editing
 description: A general overview of UV editing and modding-specific use cases of it
 published: false
-date: 2024-05-03T23:01:54.377Z
+date: 2024-05-03T23:03:08.717Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-29T15:16:42.757Z
 ---
 
 Page is still in the works, hope I get it done end of this week (5/5/24)
-
+-Gatrix
 # Required Tools
 - [Maya + LoLMayaPlugin *3D editing software*](https://wiki.runeforge.io/en/core-guides/tools/maya)
 - [Any photo editing software *`paint.net` is highly recommended*](https://wiki.runeforge.io/en/core-guides/tools/paint-net)
@@ -126,3 +126,4 @@ This single file is what you'll replace the champ's original .dds texture with.
 You can now continue following [the guide for replacing champions with a different model](https://wiki.runeforge.io/en/specific-guide/3d-modelling/Replacing-Champion-With-a-Completely-Different-Model).
 
 ## Fixing weird UVs
+
