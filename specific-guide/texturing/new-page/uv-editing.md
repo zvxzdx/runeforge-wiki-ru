@@ -2,7 +2,7 @@
 title: UV Editing
 description: A general overview of UV editing and modding-specific use cases of it
 published: false
-date: 2024-05-03T21:37:30.860Z
+date: 2024-05-03T21:45:47.956Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-29T15:16:42.757Z
@@ -47,9 +47,16 @@ When editing UVs, you'll have to switch to Face Selection Mode (F11) to select p
 There's lots of Maya-native UV editing tools available directly in the UV Editor, but you'll want to use those provided by LoLMaya almost exclusively (at least when you work with 3D models you've downloaded).
 You will need the Maya-native tools when you create your own 3D model and UV, which wont be covered in this guide (for now).
 
+I'll explain specific applications of these tools later on.
+
 ## LoLMaya interface
 
-On the right of the UV-Editor button
+On the right of the UV-Editor button there are four buttons which look like this (insert picture of buttons).
+
+Those buttons will, when clicked, make all selected UV faces half their current size and move them to a corner quadrant. (insert example picture)
+I think it should be pretty obvious which button moves it to which corner.
+
+You can also use these multiple times to move them in smaller quadrants, which looks something like this (insert picture - 1. Moved to top right corner -> 2. Moved to bottom right corner (should be lower right of top right corner))
 
 ## Maya-native Tools
 - Gather Shells
