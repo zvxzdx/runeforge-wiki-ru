@@ -2,7 +2,7 @@
 title: UV Editing
 description: A general overview of UV editing and modding-specific use cases of it
 published: false
-date: 2024-05-04T12:36:19.274Z
+date: 2024-05-04T13:54:32.975Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-29T15:16:42.757Z
@@ -101,8 +101,9 @@ Now you can start combining the parts of the mesh that use the same texture file
 If you're lucky, the UVs will look something like this when looked at together (insert picture of good UV)
 If that's the case, you can just combine those parts of the mesh, and continue to do so until you've done this for every texture file.
 
-If you're not lucky, it will look something like this, with parts of the UV being stacked on top of each other or being outside of the 0-1 boundary (insert pictures of bad UVs, both single parts and multiple parts)
-If that's the case, you'll want to read the chapter below this "Fixing weird UVs"
+If you're not lucky, it will look something like this, with parts of the UV being stacked on top of each other or being outside of the 0-1 boundary. 
+(insert pictures of bad UVs, both single parts and multiple parts)
+If that's the case, you'll want to read the chapter below this, "Fixing weird UVs".
 
 Once you have combined all parts of the mesh that use the same texture file, you'll also want to combine those bigger parts of the mesh, until you are only left with a single mesh. 
 Depending on the number of mesh parts (optimal is 4 or less) you can simply select their UVs and move them to different corners with the LoLMaya commands (insert picture showing stacked UVs -> UVs moved to corner)
@@ -122,4 +123,8 @@ This single file is what you'll replace the champ's original .dds texture with.
 You can now continue following [the guide for replacing champions with a different model](https://wiki.runeforge.io/en/specific-guide/3d-modelling/Replacing-Champion-With-a-Completely-Different-Model).
 
 ## Fixing weird UVs
+- UVs outside 0-1 boundary
+- Stacked UVs (same texture file)
+- "Line" UVs
 
+## Matching added parts of a mesh
