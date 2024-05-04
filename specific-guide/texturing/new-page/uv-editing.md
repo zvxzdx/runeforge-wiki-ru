@@ -2,7 +2,7 @@
 title: UV Editing
 description: A general overview of UV editing and modding-specific use cases of it
 published: false
-date: 2024-05-03T23:03:08.717Z
+date: 2024-05-04T12:36:19.274Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-29T15:16:42.757Z
@@ -16,10 +16,6 @@ Page is still in the works, hope I get it done end of this week (5/5/24)
 {.links-list}
 
 # Introduction to UVs
-- how it works (basic level)
-- importing texture files into maya for easier visualization
-- UVs outside 1,1 bounding box
-- "line" UVs
 
 The concept of UVs is quite simple.
 A UV consists of every face of a mesh unfolded onto a square plane. The position of the face on this plane determines what part of the texture file gets applied to it.
