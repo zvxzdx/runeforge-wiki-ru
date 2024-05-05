@@ -2,7 +2,7 @@
 title: UV Editing
 description: A general overview of UV editing and modding-specific use cases of it
 published: false
-date: 2024-05-04T13:54:32.975Z
+date: 2024-05-05T07:02:48.812Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-29T15:16:42.757Z
@@ -33,7 +33,7 @@ From the options that appear now you just have to select "Apply Texture's Materi
 ## UVs outside the 0-1 bounding box
 Normally all UV faces will be inside the 0-1 space of the UV plane, since this also is where the texture file will be applied. 
 Sometimes they will be outside of this bounding box though, but this only becomes a problem when you have to combine UVs, which I'll cover later.
-The way Maya deals with this is by "infinitely repeating" the texture file, which is best explained with a visualization (insert fitting picture)
+The way Maya deals with this is by "infinitely repeating" the texture file in all directions. (insert fitting picture)
 
 ## "Line" UVs
 Sometimes UV faces will just be a single line instead of a polygon (insert example picture)
@@ -108,10 +108,10 @@ If that's the case, you'll want to read the chapter below this, "Fixing weird UV
 Once you have combined all parts of the mesh that use the same texture file, you'll also want to combine those bigger parts of the mesh, until you are only left with a single mesh. 
 Depending on the number of mesh parts (optimal is 4 or less) you can simply select their UVs and move them to different corners with the LoLMaya commands (insert picture showing stacked UVs -> UVs moved to corner)
 
-If you have more than 4 mesh parts, you'll have to split one or more quadrants of your UV into more quadrants, which comes down to using the LoLMaya commands multiple times (insert example picture: moved to corner -> moved to corner again)
+If you have more than 4 mesh parts, you'll have to split one or more quadrants of your UV into more quadrants, which comes down to using the LoLMaya commands multiple times.
 
 ### Combining the texture files
-After you've moved the UVs so that looking at the combined UV of all mesh parts doesn't make any of them overlap or be outside the 0-1 UV boundary (VERY IMPORTANT), you're ready to combine the texture files!
+After you've moved the UVs so that looking at the combined UV of all mesh parts doesn't make any of them overlap or be outside the 0-1 UV boundary, you're ready to combine the texture files!
 
 You can now open one of the texture files your mesh uses in `paint.net`, and then use the "Canvas Size" tool under "Image" to expand the canvas to double its current size, so if the texture file is 256x256 pixels, you should expand the canvas to 512x512. 
 Remember to anchor the texture file to one of the corner before doing so though, preferrably the corner it inhabits in the UV.
