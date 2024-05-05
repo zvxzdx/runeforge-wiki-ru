@@ -2,7 +2,7 @@
 title: UV Editing
 description: A general overview of UV editing and modding-specific use cases of it
 published: false
-date: 2024-05-05T07:02:48.812Z
+date: 2024-05-05T07:07:26.907Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-29T15:16:42.757Z
@@ -74,8 +74,6 @@ I'll add other Maya-native tools here once I learn how to use them.
 List of possible use cases I'll be covering in this guide.
 - Combining downloaded texture files into a single file
 - Fixing weird UVs
-- Matching added parts of a mesh
-
 # Specific examples
 ## Combining downloaded texture files into a single file
 This will most likely be useful if you're following [the guide for replacing champions with a different model](https://wiki.runeforge.io/en/specific-guide/3d-modelling/Replacing-Champion-With-a-Completely-Different-Model), which doesn't go into detail about how to get textures to work, but that's what this guide is for.
@@ -126,5 +124,3 @@ You can now continue following [the guide for replacing champions with a differe
 - UVs outside 0-1 boundary
 - Stacked UVs (same texture file)
 - "Line" UVs
-
-## Matching added parts of a mesh
