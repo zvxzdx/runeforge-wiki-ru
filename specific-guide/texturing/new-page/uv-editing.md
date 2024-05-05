@@ -2,7 +2,7 @@
 title: UV Editing
 description: A general overview of UV editing and modding-specific use cases of it
 published: false
-date: 2024-05-05T07:07:26.907Z
+date: 2024-05-05T12:58:10.211Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-29T15:16:42.757Z
@@ -29,6 +29,11 @@ To do this you have to open Hypershade and then drag & drop an image file into t
 (insert picture - 1. Hypershade button in lolmaya 2. textures tab 3. arrow with drag & drop)
 Now you can select a mesh and hold right click onto the texture file you want to apply to it. 
 From the options that appear now you just have to select "Apply Texture's Material to Selection" and the UV of the mesh will use the image file you just imported.
+
+Your model may now look weirdly transparent, but this is rather easy to fix. (insert example picture of transparent mesh after applying texture)
+Select the part of the mesh that has the transparancy, then open the Attribute Editor via the button in the top right corner or the tab on the right edge.
+In the Attribute Editor itself there will be tabs listing various properties of the mesh, but you'll only need the texture, which will be towards the right end of the tab list.
+In there, you right click on the word "Transparency", then click "Break connection" and your mesh should look rock solid again.
 
 ## UVs outside the 0-1 bounding box
 Normally all UV faces will be inside the 0-1 space of the UV plane, since this also is where the texture file will be applied. 
@@ -67,6 +72,8 @@ When they are placed on the edge of the 0-1 UV space, they wont get put inside i
 
 I'll go over how to fix this in the "Fixing weird UVs" section
 
+### UV sets
+(can make the UV set disappear if you combine two meshes with different uv set name)
 ### Other Tools
 I'll add other Maya-native tools here once I learn how to use them.
 
