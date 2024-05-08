@@ -2,7 +2,7 @@
 title: Create Idleparticles
 description: This is a guide explaining how to create idle particles using the custom-made idle particle packs.
 published: true
-date: 2024-05-08T05:20:08.985Z
+date: 2024-05-08T05:22:01.501Z
 tags: #idleparticles
 editor: markdown
 dateCreated: 2024-05-08T04:44:42.696Z
@@ -43,10 +43,9 @@ So keep patient and follow the steps 1 by 1.
 If there is any error, you did something wrong, and you should check if you placed the brackets and lines correctly.
 # Written Guide
 
-Look at the bottom of the page to find a video guide and the downloads.
 
 0. Download an Idle Particle pack, which you can find at the bottom of the page.
-you can also find a Video Tutorial there
+You can also find a video guide there.
 
 ---
 
