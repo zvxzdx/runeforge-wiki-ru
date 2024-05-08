@@ -2,7 +2,7 @@
 title: Visual FX
 description: All guides listed here.
 published: true
-date: 2024-05-08T05:15:36.479Z
+date: 2024-05-08T05:16:11.289Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-06T17:06:02.394Z
@@ -13,7 +13,7 @@ dateCreated: 2024-02-06T17:06:02.394Z
 {.links-list}
 
 # Basic Guides
-- [Create Idle Particles using prebuilt Idle Particles packs](/specific-guide/vfx/create-Idleparticles-using-idleparticle-packs)
+- [Create Idle Particles using prebuilt Idle Particle packs](/specific-guide/vfx/create-Idleparticles-using-idleparticle-packs)
 {.links-list}
 
 # Advanced Guides
