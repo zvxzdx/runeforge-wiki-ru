@@ -2,7 +2,7 @@
 title: Create Idleparticles
 description: This is a guide explaining how to create idle particles using the custom-made idle particle packs.
 published: true
-date: 2024-05-08T04:44:42.696Z
+date: 2024-05-08T04:47:18.599Z
 tags: #idleparticles
 editor: markdown
 dateCreated: 2024-05-08T04:44:42.696Z
@@ -105,7 +105,7 @@ Keep in mind that if the skin.bin has no particles in it, you need to paste it i
 
 ---
 
-# 6. Copy and paste the code found in the character resolver into your bin. Just between anything doesn't matter.
+ 6. Copy and paste the code found in the character resolver into your bin. Just between anything doesn't matter.
 
 
 ![step_6_2.png](/user-pictures/friendlyfrog/step_6_2.png)
