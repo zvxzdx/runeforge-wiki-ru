@@ -2,7 +2,7 @@
 title: Create Idleparticles
 description: This is a guide explaining how to create idle particles using the custom-made idle particle packs.
 published: true
-date: 2024-05-08T05:28:04.188Z
+date: 2024-05-08T11:19:22.169Z
 tags: #idleparticles
 editor: markdown
 dateCreated: 2024-05-08T04:44:42.696Z
@@ -19,7 +19,7 @@ dateCreated: 2024-05-08T04:44:42.696Z
 {.links-list}
 
 
-
+> I will add more auras to this guide and collect more of them.
 
 # For what is this guide?
 
@@ -211,18 +211,6 @@ RIVEN SPIRIT BLOSSOM R SWORD AURA
 https://drive.google.com/file/d/1nxt3Wiz0c-6GYe4M4CYM9e4FiFIeV36V/view?usp=drive_link
 
 
-# THE END
+# Sources
 
-I hope you like my guide, and I'm open for criticism.
-
-Guide made by FriendlyFrog
-
-If you want to contact me, type me on Discord or visit the official RuneForge Discord.
-
-Also, if anyone collects auras, send them to me; I will separate them and repath the files.
-
-I will add more auras to this guide and collect more of them.
-
-Runeforge Discord: https://discord.com/invite/runeforgenvite/runeforge
-
-Discord: friendzoned6843
+FriendlyFrog
