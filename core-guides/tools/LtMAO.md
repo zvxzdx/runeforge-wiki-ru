@@ -2,7 +2,7 @@
 title: LtMAO
 description: A guide on how to install and use LtMAO.
 published: true
-date: 2024-05-08T16:29:01.178Z
+date: 2024-05-08T22:42:32.772Z
 tags: guide, install, ltmao
 editor: markdown
 dateCreated: 2024-02-11T19:27:37.139Z
@@ -21,9 +21,13 @@ This page will explain the LtMAO tool made by Tarngaina and all of its features.
 - <a href="https://github.com/tarngaina/LtMAO?tab=readme-ov-file">LtMAO GitHub page</a>
 {.links-list}
 ---
-## ~~cslmao~~
->   Disclaimer: Please use cs-lol manager since this version is outdated!
+## cslmao
+> Please make sure to use the updated cslol version in order to work with vanguard!
 {.is-danger}
+### Update cslmao
+  copy cslol/mod-tools.exe to ltmao/resources/ext-tools
+  
+### Info
 
 Just <a href="/core-guides/tools/cslolmanager">cslol-manager</a>, but different UI.
 
