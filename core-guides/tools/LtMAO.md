@@ -2,7 +2,7 @@
 title: LtMAO
 description: A guide on how to install and use LtMAO.
 published: true
-date: 2024-05-08T22:42:32.772Z
+date: 2024-05-08T22:43:27.324Z
 tags: guide, install, ltmao
 editor: markdown
 dateCreated: 2024-02-11T19:27:37.139Z
@@ -18,7 +18,8 @@ This page will explain the LtMAO tool made by Tarngaina and all of its features.
 > Extract: <kbd>LtMAO-master.zip</kbd>
 > Run <kbd>LtMAO/start.bat</kbd>
 > {.is-info}
-- <a href="https://github.com/tarngaina/LtMAO?tab=readme-ov-file">LtMAO GitHub page</a>
+  
+- [LtMAO GitHub page](https://github.com/tarngaina/LtMAO?tab=readme-ov-file)
 {.links-list}
 ---
 ## cslmao
