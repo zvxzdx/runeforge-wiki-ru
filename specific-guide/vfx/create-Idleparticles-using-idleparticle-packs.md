@@ -2,7 +2,7 @@
 title: Create Idleparticles
 description: This is a guide explaining how to create idle particles using the custom-made idle particle packs.
 published: true
-date: 2024-05-08T05:03:04.989Z
+date: 2024-05-08T05:17:14.950Z
 tags: #idleparticles
 editor: markdown
 dateCreated: 2024-05-08T04:44:42.696Z
@@ -31,7 +31,7 @@ It will only guide you on how to copy and paste custom-made idle particle packs 
 
 They are also known as "Auras".
 
-IdleParticlesEffects is an emitter in the main.bin of your champ, which tells the game which particles you set as idle particles (auras).
+IdleParticlesEffects is an emitter in the main.bin of your champ, it tells the game which particles you set as idle particles (auras).
 
 
 # Is it difficult to make idle particles?
