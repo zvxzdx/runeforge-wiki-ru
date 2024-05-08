@@ -2,7 +2,7 @@
 title: Create Idleparticles
 description: This is a guide explaining how to create idle particles using the custom-made idle particle packs.
 published: true
-date: 2024-05-08T11:19:22.169Z
+date: 2024-05-08T11:19:57.186Z
 tags: #idleparticles
 editor: markdown
 dateCreated: 2024-05-08T04:44:42.696Z
@@ -20,6 +20,8 @@ dateCreated: 2024-05-08T04:44:42.696Z
 
 
 > I will add more auras to this guide and collect more of them.
+{.is-info}
+
 
 # For what is this guide?
 
