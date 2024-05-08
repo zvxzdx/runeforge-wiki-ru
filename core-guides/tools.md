@@ -2,7 +2,7 @@
 title: Tools
 description: All tools listed here which contain general mostly short guides.
 published: true
-date: 2024-04-12T12:29:39.464Z
+date: 2024-05-08T11:13:28.215Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-06T17:01:25.224Z
@@ -47,7 +47,7 @@ dateCreated: 2024-02-06T17:01:25.224Z
 ## Paid
 
 ## Visual Editors
-- [Hacksaw *Tool to visually edit bin files*](/core-guides/tools/hacksaw)
+- [Hacksaw *Tool to visually edit bin file **colors***](/core-guides/tools/hacksaw)
 {.links-list}
 ## Converters
 - [Ritobin *.bin to .py file converter*](/core-guides/tools/rito-bin)
