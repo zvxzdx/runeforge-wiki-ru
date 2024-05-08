@@ -2,7 +2,7 @@
 title: Tools
 description: All tools listed here which contain general mostly short guides.
 published: true
-date: 2024-05-08T11:13:28.215Z
+date: 2024-05-08T16:30:21.594Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-06T17:01:25.224Z
@@ -13,6 +13,8 @@ dateCreated: 2024-02-06T17:01:25.224Z
 ## Mandatory
 -   [CS-Lol Manager *Main program to install mods and create mod packages*](/core-guides/tools/cslolmanager)
 -   [Obsidian *Main program to extract and browse Leagues gamefiles.*](/core-guides/tools/obsidian)
+-   [LtMAO *Multifunctional tool for alot of different tasks*](/core-guides/tools/LtMAO)
+
 {.links-list}
 
 # 3D Modeling
