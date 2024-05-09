@@ -2,7 +2,7 @@
 title: UV Editing
 description: A general overview of UV editing and modding-specific use cases of it
 published: false
-date: 2024-05-09T17:18:50.213Z
+date: 2024-05-09T17:21:01.050Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-29T15:16:42.757Z
@@ -45,7 +45,6 @@ In the Attribute Editor itself there will be tabs listing various properties of 
 
 In there, you right click on the word "Transparency", then click "Break connection" and your mesh should look rock solid again.
 
-
 ## UVs outside the 0-1 bounding box
 
 Normally all UV faces will be inside the 0-1 space of the UV plane, since this also is where the texture file will be applied. 
@@ -54,10 +53,6 @@ Sometimes they will be outside of this bounding box though, but this only become
 
 The way Maya deals with this is by "infinitely repeating" the texture file in all directions.
 ![outsideuvsexample.png](/user-pictures/gatrix/outsideuvsexample.png)
-
-## "Line" UVs
-Sometimes UV faces will just be a single line instead of a polygon (insert example picture)
-idk how to fix this... yet
 
 # UV editing toolbox
 
