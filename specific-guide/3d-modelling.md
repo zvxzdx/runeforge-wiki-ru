@@ -2,7 +2,7 @@
 title: 3D Modelling
 description: All guides listed here.
 published: true
-date: 2024-05-09T22:03:43.923Z
+date: 2024-05-09T22:41:21.452Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-06T17:03:29.274Z
@@ -22,9 +22,9 @@ dateCreated: 2024-02-06T17:03:29.274Z
 - [T/A posing older champions in Maya](/specific-guide/3d-modelling/tposeoldchamps)
 - [Create skins with multiple materials](/specific-guide/texturing/create-skin-with-multiple-mats)
 - [Replacing Champions With a Different Character](/specific-guide/3d-modelling/Replacing-Champion-With-a-Completely-Different-Model)
-
+- [Maya's Skin Bind Settings](/specific-guide/3d-modelling/maya-bind-settings)
  {.links-list}
-<!--- [Maya's Skin Bind Settings](/specific-guide/3d-modelling/maya-bind-settings)-->
+
 
 
 # Advanced Guides
