@@ -2,7 +2,7 @@
 title: UV Editing
 description: A general overview of UV editing and modding-specific use cases of it
 published: false
-date: 2024-05-09T17:21:01.050Z
+date: 2024-05-09T17:21:16.853Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-29T15:16:42.757Z
@@ -34,7 +34,7 @@ Now you can select a mesh and hold right click onto the texture file you want to
 
 From the options that appear now you just have to select "Apply Texture's Material to Selection" and the UV of the mesh will use the image file you just imported.
 
-### Fixing transparent textures
+## Fixing transparent textures
 ![transparentexample.png](/user-pictures/gatrix/transparentexample.png)
 Your model may look weirdly transparent, but this is rather easy to fix.
 
