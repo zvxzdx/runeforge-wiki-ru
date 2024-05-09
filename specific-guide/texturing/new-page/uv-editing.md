@@ -2,7 +2,7 @@
 title: UV Editing
 description: A general overview of UV editing and modding-specific use cases of it
 published: false
-date: 2024-05-06T16:34:01.163Z
+date: 2024-05-09T17:18:50.213Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-29T15:16:42.757Z
@@ -18,33 +18,46 @@ Page is still in the works, hope I get it done end of this week (5/5/24)
 
 # Introduction to UVs
 The concept of UVs is quite simple.
+
 A UV consists of every face of a mesh unfolded onto a square plane. The position of the face on this plane determines what part of the texture file gets applied to it.
-To view UVs, select the mesh you want to look at and then open the UV Editor via the button in LoLMaya (insert picture of LoLMaya tab with circle around "UV Editor" button, UV open too)
+
+To view UVs, select a mesh and then open the UV Editor via the button in LoLMaya. ![uveditorbutton.png](/user-pictures/gatrix/uveditorbutton.png)
 
 ## Importing textures into Maya via Hypershade
 You can use Hypershade to import any image file as a texture into Maya. 
 Keep in mind that image files that aren't square will be stretched to fit.
 
 To do this you have to open Hypershade and then drag & drop an image file into the file space of the "Textures" tab.
-(insert picture - 1. Hypershade button in lolmaya 2. textures tab 3. arrow with drag & drop)
+![hypershadeimport.png](/user-pictures/gatrix/hypershadeimport.png)
+
 Now you can select a mesh and hold right click onto the texture file you want to apply to it. 
+
 From the options that appear now you just have to select "Apply Texture's Material to Selection" and the UV of the mesh will use the image file you just imported.
 
 ### Fixing transparent textures
-Your model may now look weirdly transparent, but this is rather easy to fix. (insert example picture of transparent mesh after applying texture)
+![transparentexample.png](/user-pictures/gatrix/transparentexample.png)
+Your model may look weirdly transparent, but this is rather easy to fix.
+
 Select the part of the mesh that has the transparancy, then open the Attribute Editor via the button in the top right corner or the tab on the right edge.
-In the Attribute Editor itself there will be tabs listing various properties of the mesh, but you'll only need the texture, which is towards the right end of the tab list.
+
+In the Attribute Editor itself there will be tabs listing various properties of the mesh, but you'll only need the texture(s), which are towards the right end of the tab list.
+![transparentfix.png](/user-pictures/gatrix/transparentfix.png)
+
 In there, you right click on the word "Transparency", then click "Break connection" and your mesh should look rock solid again.
 
+
 ## UVs outside the 0-1 bounding box
+
 Normally all UV faces will be inside the 0-1 space of the UV plane, since this also is where the texture file will be applied. 
+
 Sometimes they will be outside of this bounding box though, but this only becomes a problem when you have to combine UVs, which I'll cover later.
-The way Maya deals with this is by "infinitely repeating" the texture file in all directions. (insert fitting picture)
+
+The way Maya deals with this is by "infinitely repeating" the texture file in all directions.
+![outsideuvsexample.png](/user-pictures/gatrix/outsideuvsexample.png)
 
 ## "Line" UVs
 Sometimes UV faces will just be a single line instead of a polygon (insert example picture)
 idk how to fix this... yet
-
 
 # UV editing toolbox
 
