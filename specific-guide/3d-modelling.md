@@ -2,7 +2,7 @@
 title: 3D Modelling
 description: All guides listed here.
 published: true
-date: 2024-04-30T13:59:59.562Z
+date: 2024-05-09T22:03:43.923Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-06T17:03:29.274Z
@@ -24,7 +24,7 @@ dateCreated: 2024-02-06T17:03:29.274Z
 - [Replacing Champions With a Different Character](/specific-guide/3d-modelling/Replacing-Champion-With-a-Completely-Different-Model)
 
  {.links-list}
-<!--- [Maya's Skin Bind Settings](/specific-guide/3d-modelling/mayabindsettings)-->
+<!--- [Maya's Skin Bind Settings](/specific-guide/3d-modelling/maya-bind-settings)-->
 
 
 # Advanced Guides
