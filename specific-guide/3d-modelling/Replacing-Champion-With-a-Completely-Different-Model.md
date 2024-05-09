@@ -2,7 +2,7 @@
 title: Replacing Champions With a Different Character
 description: This tutotial will show you how to replace the model from a champion with another one
 published: true
-date: 2024-04-19T16:13:08.264Z
+date: 2024-05-09T04:27:44.232Z
 tags: modelling
 editor: markdown
 dateCreated: 2024-02-29T02:01:05.953Z
@@ -132,19 +132,11 @@ Now, you may have noticed the the bones dont really align with my character, so 
 
 In general, you want the elbow bone where the elbow is, the hip bone where the hip is, etc...
 
-You can use the Translate tool and Rotate tool to make them align with your character as much as possible. 
+You can use the Rotate tool to make them align with your character as much as possible. 
 
-TRY TO PRIORITISE ROTATIONS ONLY!!!! YOU WILL GET MUCH BETTER RESULTS IF YOU ONLY USE ROTATIONS!!!
+If, lets say, the arms are too long/too short, scale them to make it fit the skeleton
 
-Only use the Translate tool if the bones dont reach the places you want, like my wrist here, Zeri's arm is slightly too short to reach my hand.
-
-![16.png](/user-pictures/goat/custommodels/16.png =x300)
-
-I'll move the shoulder joint so the arm is better placed over all
-
-![17.png](/user-pictures/goat/custommodels/17.png =x300)
-
-Make the skeleton fit your character as much as possible! Its going to influence the quality a lot!
+Make your character fit the skeleton as much as possible! Its going to influence the quality a lot!
 
 ------------------------BEFORE------------------------------------------------AFTER------------------------
 ![18.png](/user-pictures/goat/custommodels/18.png =x300)![19.png](/user-pictures/goat/custommodels/19.png =x300)
