@@ -2,7 +2,7 @@
 title: UV Editing
 description: A general overview of UV editing and modding-specific use cases of it
 published: false
-date: 2024-05-09T17:21:16.853Z
+date: 2024-05-09T17:57:35.285Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-29T15:16:42.757Z
@@ -30,9 +30,8 @@ Keep in mind that image files that aren't square will be stretched to fit.
 To do this you have to open Hypershade and then drag & drop an image file into the file space of the "Textures" tab.
 ![hypershadeimport.png](/user-pictures/gatrix/hypershadeimport.png)
 
-Now you can select a mesh and hold right click onto the texture file you want to apply to it. 
+### Applying imported textures to a mesh
 
-From the options that appear now you just have to select "Apply Texture's Material to Selection" and the UV of the mesh will use the image file you just imported.
 
 ## Fixing transparent textures
 ![transparentexample.png](/user-pictures/gatrix/transparentexample.png)
