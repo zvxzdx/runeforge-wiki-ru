@@ -2,7 +2,7 @@
 title: Tools
 description: All tools listed here which contain general mostly short guides.
 published: true
-date: 2024-05-10T15:44:07.115Z
+date: 2024-05-10T15:45:04.968Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-06T17:01:25.224Z
@@ -13,6 +13,8 @@ dateCreated: 2024-02-06T17:01:25.224Z
 ## Mandatory
 -   [CS-Lol Manager *Main program to install mods and create mod packages*](/core-guides/tools/cslolmanager)
 -   [Obsidian *Main program to extract and browse Leagues gamefiles.*](/core-guides/tools/obsidian)
+{.links-list}
+## Multifunctional
 -   [LtMAO *Multifunctional tool for alot of different tasks*](/core-guides/tools/LtMAO)
 - 	[League Director *Camera tool for League of Legends replays with alot of functions*](https://github.com/RiotGames/leaguedirector/releaseshttps://github.com/RiotGames/leaguedirector/releases)
 
