@@ -2,7 +2,7 @@
 title: How to Transfer Animations from One Champ to Another (AKA Animation Retargeting)
 description: This guide will show you how to transfer an animation unto another character
 published: true
-date: 2024-05-11T19:38:06.976Z
+date: 2024-05-11T19:42:25.752Z
 tags: animation, champion, retargeting
 editor: markdown
 dateCreated: 2024-05-11T18:04:07.434Z
@@ -41,7 +41,7 @@ You will then want to import the desired animation. To do so, go to File > Impor
 
 ![2.png](/user-pictures/goat/retargetanimation/2.png =x500)
 
-Next select the "Root" bone and add a prefix. Go to Modify > Prefix Hiarchy Names
+Next select the "Root" bone and add a prefix. Go to Modify > Prefix Hierarchy Names
 
 ![3.png](/user-pictures/goat/retargetanimation/3.png)
 
