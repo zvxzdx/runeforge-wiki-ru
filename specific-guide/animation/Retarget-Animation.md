@@ -2,7 +2,7 @@
 title: How to Transfer Animations from One Champ to Another (AKA Animation Retargeting)
 description: This guide will show you how to transfer an animation unto another character
 published: false
-date: 2024-05-11T18:04:27.182Z
+date: 2024-05-11T19:38:00.981Z
 tags: animation, champion, retargeting
 editor: markdown
 dateCreated: 2024-05-11T18:04:07.434Z
@@ -94,8 +94,37 @@ In the end, it should look like something like this :
 
 ![19.png](/user-pictures/goat/retargetanimation/19.png =x600)
 
+Once thats done, lets do the same for the Main SKL. Start by hiding the Targetted SKL bones and mesh and unhidding the Main SKL by selecting them and pressing H, like before.
 
+![20.png](/user-pictures/goat/retargetanimation/20.png)
 
+Now, above the scary man, you will find a little "+" icon, click it. This will create a new character definition.
+
+![21.png](/user-pictures/goat/retargetanimation/21.png)
+
+And now, do the same thing again, double click the scary man's bone and then the Main SKL bone. It is important to fill the EXACT SAME THINGS as you did with the Targetted SKL, so same ammount of spine bones, same ammount of fingers, etc. If that is not possible, (for exemple, Ornn has one more spine bone then Ahri) you should then assign the main spine bone from the scary man (the one right above the hips) to the first spine, then, in the spine menu, select the rest of them.
+
+![24.png](/user-pictures/goat/retargetanimation/24.png =x500)
+
+Once that is done go back above the scary man menu and put "Character 1" in "Characters" and "Character 2" in "Source".
+
+![25.png](/user-pictures/goat/retargetanimation/25.png)
+
+And now see the magic unfold!
+
+![magic.gif](/user-pictures/goat/retargetanimation/magic.gif)
+
+Now, the only thing left is baking the animation and export it in game! To bake animation, click the blue square > Bake > Bake to Skeleton
+
+![26.png](/user-pictures/goat/retargetanimation/26.png)
+
+To export the animation follow this guide here :
+- [Importing and Exporting Animations](/specific-guide/animation/Importing-and-Exporting-Animation)
+{.links-list}
+
+And done! 
+
+![magicwin.gif](/user-pictures/goat/retargetanimation/magicwin.gif)
 
 
 
