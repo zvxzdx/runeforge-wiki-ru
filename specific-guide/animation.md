@@ -2,7 +2,7 @@
 title: Animation
 description: All guides listed here.
 published: true
-date: 2024-05-03T16:08:50.075Z
+date: 2024-05-11T19:39:31.250Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-06T17:04:47.520Z
@@ -10,6 +10,7 @@ dateCreated: 2024-02-06T17:04:47.520Z
 
 # Basic Guides
 - [Importing and Exporting Animations](/specific-guide/animation/Importing-and-Exporting-Animation)
+- [Animation Retargeting](/specific-guide/animation/Retarget-Animation)
 {.links-list}
 
 
