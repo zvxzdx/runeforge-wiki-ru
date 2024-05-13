@@ -1,14 +1,14 @@
 ---
 title: UV Editing
 description: A general overview of UV editing and modding-specific use cases of it
-published: false
-date: 2024-05-09T17:59:01.184Z
+published: true
+date: 2024-05-13T23:21:10.643Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-29T15:16:42.757Z
 ---
 
-Page is still in the works, hope I get it done end of this week ~~(5/5/24)~~ (12/5/24)
+Page is still in the works, for further help ask in the discord
 -Gatrix
 
 # Required Tools
