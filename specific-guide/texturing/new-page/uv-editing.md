@@ -2,7 +2,7 @@
 title: UV Editing
 description: A general overview of UV editing and modding-specific use cases of it
 published: true
-date: 2024-05-13T23:21:10.643Z
+date: 2024-05-13T23:22:37.145Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-29T15:16:42.757Z
