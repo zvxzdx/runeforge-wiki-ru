@@ -2,7 +2,7 @@
 title: FAQ
 description: Frequently Asked Questions
 published: true
-date: 2024-05-01T13:31:37.762Z
+date: 2024-05-14T14:27:25.145Z
 tags: faq
 editor: markdown
 dateCreated: 2024-03-17T21:31:27.204Z
@@ -63,8 +63,4 @@ We have the Help Forum where you can ask for help about but not limited to:
 Skin hacking would be obtaining Riot skins for free. We will never allow this and please do not request it within our community.
 ## What happened to Killerskins, where is it?
 > Killerskins was bound to shut down and Runeforge stepped in to save as much content as possible.
-{.is-info}
-
-## Do i need to delete CsLoL when Vanguard is implemented?
-> No, we just don't recommend you run CsLoL when Vanguard is implemented.
 {.is-info}
