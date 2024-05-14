@@ -2,11 +2,15 @@
 title: Home
 description: Runeforge Wiki Main Page
 published: true
-date: 2024-05-14T14:22:08.666Z
+date: 2024-05-14T14:22:24.506Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-07T11:55:37.251Z
 ---
+
+>**Vanguard Launched**
+>In order to keep custom skins with cs-lol make sure you update to the [latest version](https://github.com/LeagueToolkit/cslol-manager/releases)!
+{.is-warning}
 
 # Welcome to the Runeforge Wiki
 
