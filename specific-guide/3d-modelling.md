@@ -2,7 +2,7 @@
 title: 3D Modelling
 description: All guides listed here.
 published: true
-date: 2024-05-14T14:15:06.410Z
+date: 2024-05-16T16:51:39.402Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-06T17:03:29.274Z
@@ -23,13 +23,13 @@ dateCreated: 2024-02-06T17:03:29.274Z
 ## Model Editing
 - [T/A posing older champions](/specific-guide/3d-modelling/tposeoldchamps)
 - [Skin bind settings](/specific-guide/3d-modelling/maya-bind-settings)
+- [Replacing Champions with a different character](/specific-guide/3d-modelling/Replacing-Champion-With-a-Completely-Different-Model)
 {.links-list}
  ## UV Editing
  - [UV editing](/specific-guide/3d-modelling/uv-editing)
  {.links-list}
  ## Material Editing
 - [Create skins with multiple materials](/specific-guide/texturing/create-skin-with-multiple-mats)
-- [Replacing Champions with a different character](/specific-guide/3d-modelling/Replacing-Champion-With-a-Completely-Different-Model)
 {.links-list}
 
 # Blender Guides
