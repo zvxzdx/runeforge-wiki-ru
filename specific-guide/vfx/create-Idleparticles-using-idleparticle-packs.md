@@ -2,7 +2,7 @@
 title: Create Idleparticles
 description: This is a guide explaining how to create idle particles using the custom-made idle particle packs.
 published: true
-date: 2024-05-08T11:19:57.186Z
+date: 2024-05-21T15:55:03.864Z
 tags: #idleparticles
 editor: markdown
 dateCreated: 2024-05-08T04:44:42.696Z
@@ -148,6 +148,8 @@ Udyr E AURA AND SMOKE
 
 ![udyr_e_aura.gif](/user-pictures/friendlyfrog/udyr_e_aura.gif)
 
+https://drive.google.com/file/d/1ucKyVonQdo_-Ww3rtGMM2It08X1fP4OL/view?usp=drive_link
+
 ---
 GLOW AURA AND SETT BASIC ATTACK TRAILS 
 
@@ -155,9 +157,9 @@ GLOW AURA AND SETT BASIC ATTACK TRAILS
 
 0x6047adf7 = Glow
 
-https://drive.google.com/file/d/1ucKyVonQdo_-Ww3rtGMM2It08X1fP4OL/view?usp=drive_link
-
 ![udyr_glow_and_sett_ba_trail.gif](/user-pictures/friendlyfrog/udyr_glow_and_sett_ba_trail.gif)
+
+https://drive.google.com/file/d/1oFVwb23Trf3h0utjXRXOPnWSZ0rB8OMj/view?usp=drive_link
 
 ---
 SWAIN+YONE AURA
@@ -165,8 +167,6 @@ SWAIN+YONE AURA
 0x42e58c6a = Swain's part of the aura
 
 0x78882b8c = Yone's part of the aura
-
-https://drive.google.com/file/d/1oFVwb23Trf3h0utjXRXOPnWSZ0rB8OMj/view?usp=drive_link
 
 
 ![swain+yone_aura.gif](/user-pictures/friendlyfrog/swain+yone_aura.gif)
