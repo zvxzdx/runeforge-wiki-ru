@@ -2,7 +2,7 @@
 title: FAQ
 description: Frequently Asked Questions
 published: true
-date: 2024-05-14T14:27:25.145Z
+date: 2024-05-21T14:12:48.707Z
 tags: faq
 editor: markdown
 dateCreated: 2024-03-17T21:31:27.204Z
@@ -27,7 +27,7 @@ Custom skins work fine with <kbd>cslol-manager</kbd> as of right now.
 ### But Vanguard was added in 14.9, is it bannable now?
 A new version of Cslol was released which uses the new DLL patcher that works with Vanguard.
 Download the new version and you are good to go!
-- [Download the latest Cslol <code>2024-05-01-bcef8f1</code>](https://github.com/LeagueToolkit/cslol-manager/releases/tag/2024-05-01-bcef8f1)
+- [Download the latest Cslol](https://github.com/LeagueToolkit/cslol-manager/releases)
 {.links-list}
 
 ### Will I get banned for using cslol-manager if I use it with Vanguard ?
