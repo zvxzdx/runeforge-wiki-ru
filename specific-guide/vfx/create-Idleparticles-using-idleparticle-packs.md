@@ -2,7 +2,7 @@
 title: Create Idleparticles
 description: This is a guide explaining how to create idle particles using the custom-made idle particle packs.
 published: true
-date: 2024-05-21T15:55:03.864Z
+date: 2024-05-22T21:34:07.267Z
 tags: #idleparticles
 editor: markdown
 dateCreated: 2024-05-08T04:44:42.696Z
@@ -136,6 +136,11 @@ style="width:75%"></a>
 </div>
 
 # Idle particle packs
+
+![ezgif-7-70bed20355.gif](/user-pictures/friendlyfrog/ezgif-7-70bed20355.gif)
+https://drive.google.com/file/d/1V5lQJTkXkmzoYB2dxanw0TrOGpEVNsLZ/view?usp=drive_link
+
+---
 
 BRAND HAND FLAMES AURA
 
