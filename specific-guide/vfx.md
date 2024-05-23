@@ -2,7 +2,7 @@
 title: Visual FX
 description: All guides listed here.
 published: true
-date: 2024-05-10T01:12:13.511Z
+date: 2024-05-23T17:30:36.685Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-06T17:06:02.394Z
@@ -13,7 +13,7 @@ dateCreated: 2024-02-06T17:06:02.394Z
 {.links-list}
 
 # Basic Guides
-- [Create Idle Particles using prebuilt Idle Particle packs](/specific-guide/vfx/create-Idleparticles-using-idleparticle-packs)
+- [Create Idle Particles (Auras) using prebuilt Idle Particle packs](/specific-guide/vfx/create-Idleparticles-using-idleparticle-packs)
 - [Recoloring Particles](/specific-guide/vfx/Recoloring_Particles)
 {.links-list}
 
