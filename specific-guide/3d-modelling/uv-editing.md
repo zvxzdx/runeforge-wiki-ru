@@ -2,7 +2,7 @@
 title: UV Editing
 description: A general overview of UV editing and modding-specific use cases of it
 published: true
-date: 2024-05-14T14:10:19.264Z
+date: 2024-05-27T14:31:21.711Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-29T15:16:42.757Z
@@ -24,7 +24,8 @@ A UV consists of every face of a mesh unfolded onto a square plane. The position
 To view UVs, select a mesh and then open the UV Editor via the button in LoLMaya.
 ![uveditorbutton.png](/user-pictures/gatrix/uveditorbutton.png)
 
-## Importing textures into Maya via Hypershade
+## Importing and applying textures in Maya via Hypershade
+### Importing files
 You can use Hypershade to import any image file as a texture into Maya. 
 Keep in mind that image files that aren't square will be stretched to fit.
 
@@ -32,9 +33,9 @@ To do this you have to open Hypershade and then drag & drop an image file into t
 ![hypershadeimport.png](/user-pictures/gatrix/hypershadeimport.png)
 
 ### Applying imported textures to a mesh
+To apply a texture to a mesh, you simply have to select that mesh in your scene or Outliner and then hold right-click on the texture you want to apply. In the options that appear now, select "Apply Texture's Material to Mesh" and your mesh will have the texture applied to it, for better or worse.
 
-
-## Fixing transparent textures
+### Fixing transparent textures
 ![transparentexample.png](/user-pictures/gatrix/transparentexample.png)
 Your model may look weirdly transparent, but this is rather easy to fix.
 
