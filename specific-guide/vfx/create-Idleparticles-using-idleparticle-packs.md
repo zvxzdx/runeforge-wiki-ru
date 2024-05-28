@@ -2,7 +2,7 @@
 title: Create Idleparticles
 description: This is a guide explaining how to create idle particles using the custom-made idle particle packs.
 published: true
-date: 2024-05-22T21:34:07.267Z
+date: 2024-05-28T00:56:00.466Z
 tags: #idleparticles
 editor: markdown
 dateCreated: 2024-05-08T04:44:42.696Z
@@ -67,6 +67,8 @@ Also open the .py file, which is in the idleparticle folder you downloaded.
 Ritobin_cli.exe needs to be in the folder it was originally in with the hashes folder. Otherwise, you will have many hashed code names, like 0x3s4d5e5.
 
 ---
+If there already is an idleparticle system please look for step 4.5.
+
 4. Open both files with Visual Studio Code.
    Paste this code from the idleparticle folder you downloaded into your skin0.bin/.py
    Keep the position of the code in your mind and try to reproduce the steps.
@@ -93,6 +95,18 @@ Bones you can use:
 
 "Weapon" = Probably the weapon bone. You should look into the skeleton (.skl) of the champ to find out.
 Since many champs have different weapon bone names.
+
+---
+4.5 What if there i already is an idleparticle system in the bin?
+
+If theres already an idleparticle system in the bin it should look like this:![4.5.1.png](/user-pictures/friendlyfrog/4.5.1.png)
+
+So how do we place it into the bin now?
+
+We simply only copy a part of the code which is in the idleparticle bundle bin.
+
+Like this: 
+![4.5.2.png](/user-pictures/friendlyfrog/4.5.2.png)
 
 ---
 
