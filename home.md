@@ -2,20 +2,23 @@
 title: Home
 description: Runeforge Wiki Main Page
 published: true
-date: 2024-06-01T17:39:01.320Z
+date: 2024-06-01T20:45:03.946Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-07T11:55:37.251Z
 ---
 
-# Welcome to the Runeforge Wiki
-
-This wiki is for custom skins (also known as custom content) and provides a source of information across the League of Legends modding community.
-
 # Vanguard Launched!
 
 Since Patch _**14.9**_, League of Legends added their anti cheat software **Vanguard**, which some might know already through Valorant. In order for you to safely continue to use custom skins, we need you to use the **newest** version of [cs-lol manager](https://github.com/LeagueToolkit/cslol-manager/releases). 
 If you want more information about concerns regarding cs-lol manager and Vanguard, please check out our [**FAQ**](/faq#what-about-vanguard)
+
+<br>
+
+# Welcome to the Runeforge Wiki
+
+This wiki is for custom skins (also known as custom content) and provides a source of information across the League of Legends modding community.
+
 
 # How to use the Wiki?
 
