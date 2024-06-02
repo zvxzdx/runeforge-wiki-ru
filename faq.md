@@ -2,7 +2,7 @@
 title: FAQ
 description: Frequently Asked Questions
 published: true
-date: 2024-05-21T14:12:48.707Z
+date: 2024-06-02T19:44:33.986Z
 tags: faq
 editor: markdown
 dateCreated: 2024-03-17T21:31:27.204Z
@@ -10,25 +10,33 @@ dateCreated: 2024-03-17T21:31:27.204Z
 
 # *Frequently Asked Questions*
 
+<br>
+
 ## Are custom skins safe to use?
-> Riot has stated previously that Custom Skins are "Use at your own risk" as they cannot take responsibility if third parties provide you with any malware when using Custom Skins. 
+Riot has stated previously that Custom Skins are "Use at your own risk" as they cannot take responsibility if third parties provide you with any malware when using Custom Skins. 
 That said, RuneForge is the safest Custom Skins platform with an active community and moderation team. 
-{.is-info}
+
 
 ### Can I get banned for using Custom Skins?
 RuneForge currently has no recorded bans registered from any of its mods. But does warn users not to use Custom Skins in Korean Servers due to past banning history and strict competitive management of those servers.
+
+<br>
+
 ## What about Vanguard?
-> Vanguard was added to all the servers recently, for news surrounding it join our <a href="https://www.discord.gg/runeforge">Discord server</a>.
-{.is-info}
-
-Custom skins work fine with <kbd>cslol-manager</kbd> as of right now.
+**Vanguard was added to all the servers recently, for news surrounding it join our [Discord](https://www.discord.gg/runeforge) server.**
 
 
-### But Vanguard was added in 14.9, is it bannable now?
+Custom skins work fine with `cslol-manager`.
+
+
+### Vanguard was added in 14.9, is it bannable now?
 A new version of Cslol was released which uses the new DLL patcher that works with Vanguard.
 Download the new version and you are good to go!
+
 - [Download the latest Cslol](https://github.com/LeagueToolkit/cslol-manager/releases)
 {.links-list}
+
+<br>
 
 ### Will I get banned for using cslol-manager if I use it with Vanguard ?
 We can confidently say that you will most likely not get banned. There have been no reports of bans from the PH server and we do not expect that to change any time soon as it would signal a stance change from Riot towards custom skins - something which is unlikely to happen.
