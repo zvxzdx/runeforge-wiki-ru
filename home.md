@@ -2,11 +2,16 @@
 title: Home
 description: This wiki is for custom skins (also known as custom content) and provides a source of information across the League of Legends modding community.
 published: true
-date: 2024-06-01T20:51:42.618Z
+date: 2024-06-04T18:31:32.571Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-07T11:55:37.251Z
 ---
+
+> We kindly ask everyone to disable Ad-Blockers on this webpage. So we can sustain this Wiki for every modding enthusiast!
+{.is-danger}
+
+
 
 # Vanguard Launched!
 
