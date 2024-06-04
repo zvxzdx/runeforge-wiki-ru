@@ -2,7 +2,7 @@
 title: Home
 description: This wiki is for custom skins (also known as custom content) and provides a source of information across the League of Legends modding community.
 published: true
-date: 2024-06-04T18:31:32.571Z
+date: 2024-06-04T18:43:11.276Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-07T11:55:37.251Z
@@ -13,12 +13,22 @@ dateCreated: 2024-02-07T11:55:37.251Z
 
 
 
+
 # Vanguard Launched!
 
 Since Patch _**14.9**_, League of Legends added their anti cheat software **Vanguard**, which some might know already through Valorant. In order for you to safely continue to use custom skins, we need you to use the **newest** version of [cs-lol manager](https://github.com/LeagueToolkit/cslol-manager/releases). 
 If you want more information about concerns regarding cs-lol manager and Vanguard, please check out our [**FAQ**](/faq#what-about-vanguard)
 
 <br>
+
+# Ads
+
+As you know, maintaining a valuable resource like this modding Wiki requires ongoing support. To help us keep the Wiki running smoothly, we've recently introduced some unobtrusive video ads. These appear only when a sponsor claims a spot, so you won't experience disruptive pop-ups or flashy banners.
+
+We understand some users prefer ad blockers. However, if you're comfortable disabling them for this site, it would be a big help.  These ads provide a way to ensure the Wiki remains a reliable source for all your League of Legends modding needs.
+
+Rest assured, we have strict guidelines in place. You'll never see any harmful or irrelevant ads displayed here.
+
 
 # How to use the Wiki?
 
@@ -30,7 +40,8 @@ If you don't find what you need in our list, you can also use the search functio
 
 If you still can't find what you need then either, the guide/ page doesn't exist yet or you can ask for help at our [Discord](https://discord.com/invite/runeforge). We always try to get more users to skin creating and influence us with their creative minds.
 
-# Help us improve the site!
+
+## Help us improve the site!
 
 If you got a short moment *(~5 minutes)*, we appreciate you feedback!
 
