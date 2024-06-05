@@ -2,13 +2,11 @@
 title: 3D Modeling
 description: All guides listed here.
 published: true
-date: 2024-06-05T19:27:45.354Z
+date: 2024-06-05T19:28:08.364Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-06T17:03:29.274Z
 ---
-
-![title_3dmodeling.png](/titles/title_3dmodeling.png)
 
 # Maya Core
 # Tabs {.tabset}
