@@ -2,7 +2,7 @@
 title: Create a skin in Maya 2023+
 description: This guide will show you how to create your very own custom skin with Maya 2023
 published: true
-date: 2024-02-28T19:26:10.297Z
+date: 2024-06-05T18:14:51.593Z
 tags: guide, maya, 3d, modelling, custom skin, 2023
 editor: markdown
 dateCreated: 2024-02-14T23:08:19.012Z
@@ -11,6 +11,10 @@ dateCreated: 2024-02-14T23:08:19.012Z
 > Work ahead!
 > We want to write this guide out instead of linking videos. If you want to help us out: [Click here](/posting-guide/apply-as-contributor)
 {.is-info}
+
+> **Disclaimer!**
+> Maya 2023 and 2024 are confirmed working with the lolmaya plugin, all versions above arent confirmed working!
+{.is-warning}
 
 If you want to see the guide for Maya 2018, click the link down below.
 
