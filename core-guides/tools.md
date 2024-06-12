@@ -2,7 +2,7 @@
 title: Tools
 description: All tools listed here which contain general mostly short guides.
 published: true
-date: 2024-05-10T15:45:04.968Z
+date: 2024-06-12T13:59:09.461Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-06T17:01:25.224Z
@@ -90,9 +90,13 @@ How to use:
 -   [paint.net *Program to edit 2D files*](/core-guides/tools/paint-net)
 {.links-list}
 ## Paid
+> **<p align="center" style="bold"> ⚠️Adobe changed their [Terms of Service](https://blog.adobe.com/en/publish/2024/06/06/clarification-adobe-terms-of-use)⚠️ <br> Which allows them to use your work stored in the Creative Cloud to train AI.** 
+{.is-info}
+  
 -   [Adobe Photoshop *Program to edit 2D files*](/core-guides/tools/adobe/photoshop)
 -   [Adobe Substance Painter *Program to edit textures on a 3D model in a 2D or 3D environment*](/core-guides/tools/adobe/substance-painter)
 {.links-list}
+  
 ## Converters
 - [Ritoddstex (tex2dds) *Program to convert files between .tex and .dds*](/core-guides/tools/ritoddstex)
 {.links-list}
