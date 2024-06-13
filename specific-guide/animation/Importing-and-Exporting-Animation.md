@@ -2,7 +2,7 @@
 title: Importing and Exporting Animations
 description: A guide on how to import animations in Maya and export then for League modding
 published: true
-date: 2024-06-13T21:54:37.956Z
+date: 2024-06-13T22:05:28.146Z
 tags: animation
 editor: markdown
 dateCreated: 2024-02-12T01:46:49.842Z
@@ -49,6 +49,9 @@ This is not what you want
 This is what you want
 ![timeline_specification2.png](/user-pictures/goat/timeline_specification2.png)
 The bar needs to be "full"
+
+>You also need to leave one empty frame at the start! So in my case, instead of 40/40, I would have 39/39
+>{.is-warning}
 
 ### Exporting the animation
 
