@@ -2,7 +2,7 @@
 title: Importing and Exporting Animations
 description: A guide on how to import animations in Maya and export then for League modding
 published: true
-date: 2024-06-13T21:53:46.858Z
+date: 2024-06-13T21:54:37.956Z
 tags: animation
 editor: markdown
 dateCreated: 2024-02-12T01:46:49.842Z
@@ -32,7 +32,7 @@ Once extracted, navigate to the location where you extracted it and find the ani
 
 Make sure these are your import options :
 
-![import_options.png](/user-pictures/goat/importexport/import_options.png =x400)
+![import_options.png](/user-pictures/goat/importexport/import_options.png =x600)
 
 
 With the model in the scene (import the [.skn](/en/specific-guide/filetypes) and [.skl](/en/specific-guide/filetypes#skl) first), simply drag and drop the animation you want (should be [.anm](/en/specific-guide/filetypes)) to see in the viewport, and VOILA, you have your funny Blitzcrank walk in the Maya scene.
