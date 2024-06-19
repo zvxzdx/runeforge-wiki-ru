@@ -2,14 +2,12 @@
 title: Adobe Photoshop
 description: A guide on how to install and use Adobe Photoshop
 published: true
-date: 2024-06-12T13:58:07.563Z
+date: 2024-06-19T10:33:54.047Z
 tags: guide, photoshop, install, adobe
 editor: markdown
 dateCreated: 2024-02-11T19:32:06.351Z
 ---
 
-> **<p align="center" style="bold"> ⚠️Adobe changed their [Terms of Service](https://blog.adobe.com/en/publish/2024/06/06/clarification-adobe-terms-of-use)⚠️ <br> Which allows them to use your work stored in the Creative Cloud to train AI.** 
-{.is-info}
 
 # Photoshop
 Photoshop is a subscription based tool to edit 2D files. 
