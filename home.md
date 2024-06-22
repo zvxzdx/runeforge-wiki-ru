@@ -2,7 +2,7 @@
 title: Home
 description: This wiki is for custom skins (also known as custom content) and provides a source of information across the League of Legends modding community.
 published: true
-date: 2024-06-04T18:43:11.276Z
+date: 2024-06-22T14:40:35.870Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-07T11:55:37.251Z
@@ -10,16 +10,6 @@ dateCreated: 2024-02-07T11:55:37.251Z
 
 > We kindly ask everyone to disable Ad-Blockers on this webpage. So we can sustain this Wiki for every modding enthusiast!
 {.is-danger}
-
-
-
-
-# Vanguard Launched!
-
-Since Patch _**14.9**_, League of Legends added their anti cheat software **Vanguard**, which some might know already through Valorant. In order for you to safely continue to use custom skins, we need you to use the **newest** version of [cs-lol manager](https://github.com/LeagueToolkit/cslol-manager/releases). 
-If you want more information about concerns regarding cs-lol manager and Vanguard, please check out our [**FAQ**](/faq#what-about-vanguard)
-
-<br>
 
 # Ads
 
@@ -29,6 +19,7 @@ We understand some users prefer ad blockers. However, if you're comfortable disa
 
 Rest assured, we have strict guidelines in place. You'll never see any harmful or irrelevant ads displayed here.
 
+<br>
 
 # How to use the Wiki?
 
@@ -40,6 +31,10 @@ If you don't find what you need in our list, you can also use the search functio
 
 If you still can't find what you need then either, the guide/ page doesn't exist yet or you can ask for help at our [Discord](https://discord.com/invite/runeforge). We always try to get more users to skin creating and influence us with their creative minds.
 
+# Vanguard Launched!
+
+Since Patch _**14.9**_, League of Legends added their anti cheat software **Vanguard**, which some might know already through Valorant. In order for you to safely continue to use custom skins, we need you to use the **newest** version of [cs-lol manager](https://github.com/LeagueToolkit/cslol-manager/releases). 
+If you want more information about concerns regarding cs-lol manager and Vanguard, please check out our [**FAQ**](/faq#what-about-vanguard)
 
 ## Help us improve the site!
 
