@@ -2,7 +2,7 @@
 title: Home
 description: This wiki is for custom skins (also known as custom content) and provides a source of information across the League of Legends modding community.
 published: true
-date: 2024-06-22T14:40:35.870Z
+date: 2024-06-29T18:41:28.857Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-07T11:55:37.251Z
@@ -36,7 +36,7 @@ If you still can't find what you need then either, the guide/ page doesn't exist
 Since Patch _**14.9**_, League of Legends added their anti cheat software **Vanguard**, which some might know already through Valorant. In order for you to safely continue to use custom skins, we need you to use the **newest** version of [cs-lol manager](https://github.com/LeagueToolkit/cslol-manager/releases). 
 If you want more information about concerns regarding cs-lol manager and Vanguard, please check out our [**FAQ**](/faq#what-about-vanguard)
 
-## Help us improve the site!
+# Help us improve the site!
 
 If you got a short moment *(~5 minutes)*, we appreciate you feedback!
 
