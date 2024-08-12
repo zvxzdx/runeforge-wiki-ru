@@ -2,7 +2,7 @@
 title: Resources
 description: A page with all assets you can use for your custom skin as downloads!
 published: true
-date: 2024-08-12T14:48:46.068Z
+date: 2024-08-12T15:15:06.338Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-22T17:47:44.116Z
@@ -57,7 +57,7 @@ Includes the following:
 
 - [Download Extended template *recommended for intermediate or professional modders*](https://drive.google.com/file/d/1fcdORbKiISDqMxgu_UvI_qB8XoRJPz9M/view?usp=sharing)
 {.links-list}
-## Splash art, In-game circle and square templates
+## Loadingscreen assets
 Splash art, in-game circle and square templates that have the shadow border made as close to the one that Riot skins have.
 If you wish to know how to use these templates click on [this link](/core-guides/downloadable-assets/champion-templates).
 Provided by **bud**
@@ -65,6 +65,15 @@ Provided by **bud**
 - [paint.net Templates*Mediafire Link*](https://www.mediafire.com/folder/ca1b1aoin342h/paint.net_champion_templates)
 - [GIMP Templates*Mediafire Link*](https://www.mediafire.com/folder/0z7na9qzm4vw4/GIMP_champion_templates)
 {.links-list}
+## Simple HUD
+Provided by **[Yoru](linktr.ee/yoruqueenofnight)**
+- [Simple HUD Guide *HUD template included*](/specific-guide/ui/simple-hud-template)
+{.links-list}
+## Font
+Provided by [Tyre](https://tyre4770.carrd.co/)
+- [Custom Font *Including template*](/specific-guide/ui/custom-font)
+{.links-list}
+
 
 # Misc Assets
 # Tabs {.tabset}
