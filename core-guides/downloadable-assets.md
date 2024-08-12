@@ -2,7 +2,7 @@
 title: Resources
 description: A page with all assets you can use for your custom skin as downloads!
 published: true
-date: 2024-08-12T14:45:13.545Z
+date: 2024-08-12T14:48:46.068Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-22T17:47:44.116Z
@@ -12,7 +12,7 @@ dateCreated: 2024-02-22T17:47:44.116Z
 # Tabs {.tabset}
 ## Lol skin series loading screen borders
 A drive with many different loading screen borders from Riot's skin series.
-Provided by **Yoru**
+Provided by **[Yoru](linktr.ee/yoruqueenofnight)**
 - [Google Drive Link *External Link*](https://drive.google.com/drive/folders/1yeAYQjAJuYkzaXJdVWP6GL7NO31r2-Vp)
 {.links-list}
 ## Art Collection
@@ -24,7 +24,7 @@ Primarily female champions currently, but includes many HD references, including
 # Tabs {.tabset}
 ## Base Bodies
 A full gallery of many different base bodies for several characters. Some textured some not.
-Provided by **Bearded Shepherd**
+Provided by **[Bearded Shepherd](https://linktr.ee/BeardedShepherd)**
 - [Download here *External Link*](https://drive.google.com/drive/folders/1-9PeAE99OrQ1P9EZQdxDX5AAJ9k1HgqN)
 {.links-list}
 
