@@ -2,7 +2,7 @@
 title: Resources
 description: A page with all assets you can use for your custom skin as downloads!
 published: true
-date: 2024-04-06T12:08:11.781Z
+date: 2024-08-12T14:43:11.582Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-22T17:47:44.116Z
@@ -34,6 +34,34 @@ Primarily female champions currently, but includes many HD references, including
 A full gallery of many different base bodies for several characters. Some textured some not.
 Provided by **Bearded Shepherd**
 - [Download here *External Link*](https://drive.google.com/drive/folders/1-9PeAE99OrQ1P9EZQdxDX5AAJ9k1HgqN)
+{.links-list}
+
+# Templates
+# tabs {.tabset}
+## Mapskin
+Base Template by Xllwd 
+Includes the following:
+1. Ground textures
+2. Structure textures
+3. Minion and Monster textures
+4. Minimap textures
+
+- [Download Base template *recommended for beginners*](https://drive.google.com/file/d/1_4WQiG2lC1yTzC5E8BkWgexq2gYSidoz/view)
+{.links-list}
+
+---
+
+Extended Template by [Vector](https://linktr.ee/vectorcre)
+Includes the following:
+1. Everything from the base template
+2. Structure, Minions and Monster 3D models
+3. Particle effects
+4. Particle 3D models
+5. foliagepaint (bushes)
+6. Skyboxes
+7. Loadingscreen background
+
+- [Download Extended template *recommended for intermediate or professional modders*](https://drive.google.com/file/d/1fcdORbKiISDqMxgu_UvI_qB8XoRJPz9M/view?usp=sharing)
 {.links-list}
 
 # Misc Assets
