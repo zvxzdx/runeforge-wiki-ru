@@ -2,7 +2,7 @@
 title: Resources
 description: A page with all assets you can use for your custom skin as downloads!
 published: true
-date: 2024-08-12T15:15:06.338Z
+date: 2024-08-12T15:23:39.009Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-22T17:47:44.116Z
@@ -31,7 +31,7 @@ Provided by **[Bearded Shepherd](https://linktr.ee/BeardedShepherd)**
 # Templates
 # tabs {.tabset}
 ## Mapskin
-### Base Template 
+### Base Template (compatible with Patch 14.15)
 by **Xllwd** 
 Includes the following:
 1. Ground textures
@@ -44,7 +44,7 @@ Includes the following:
 
 ---
 
-### Extended Template 
+### Extended Template (compatible with Patch 14.15)
 by **[Vector](https://linktr.ee/vectorcre)**
 Includes the following:
 1. Everything from the base template
