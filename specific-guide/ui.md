@@ -2,7 +2,7 @@
 title: UI
 description: All guides listed here.
 published: true
-date: 2024-02-22T23:28:44.758Z
+date: 2024-08-12T15:11:16.731Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-08T18:25:05.289Z
@@ -17,8 +17,4 @@ dateCreated: 2024-02-08T18:25:05.289Z
 
 # Advanced Guides
 
-# Templates
 
-- [Using "Simple HUD Template" *A Template made by Yoru Queen of Night*](/specific-guide/ui/simple-hud-template)
-- [Use custom Font *Including Template*](/specific-guide/ui/custom-font)
-{.links-list}
