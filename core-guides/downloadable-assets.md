@@ -2,7 +2,7 @@
 title: Resources
 description: A page with all assets you can use for your custom skin as downloads!
 published: true
-date: 2024-08-12T14:43:11.582Z
+date: 2024-08-12T14:44:07.130Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-22T17:47:44.116Z
@@ -14,14 +14,6 @@ dateCreated: 2024-02-22T17:47:44.116Z
 A drive with many different loading screen borders from Riot's skin series.
 Provided by **Yoru**
 - [Google Drive Link *External Link*](https://drive.google.com/drive/folders/1yeAYQjAJuYkzaXJdVWP6GL7NO31r2-Vp)
-{.links-list}
-## Splash art, In-game circle and square templates
-Splash art, in-game circle and square templates that have the shadow border made as close to the one that Riot skins have.
-If you wish to know how to use these templates click on [this link](/core-guides/downloadable-assets/champion-templates).
-Provided by **bud**
-- [Photoshop Templates*Mediafire Link*](https://www.mediafire.com/folder/qb3kuw3ypwmq1/Photoshop_champion_templates)
-- [paint.net Templates*Mediafire Link*](https://www.mediafire.com/folder/ca1b1aoin342h/paint.net_champion_templates)
-- [GIMP Templates*Mediafire Link*](https://www.mediafire.com/folder/0z7na9qzm4vw4/GIMP_champion_templates)
 {.links-list}
 ## Art Collection
 Primarily female champions currently, but includes many HD references, including Arcane Assets + LOR followers.
@@ -39,7 +31,7 @@ Provided by **Bearded Shepherd**
 # Templates
 # tabs {.tabset}
 ## Mapskin
-Base Template by Xllwd 
+Base Template by **Xllwd** 
 Includes the following:
 1. Ground textures
 2. Structure textures
@@ -51,7 +43,7 @@ Includes the following:
 
 ---
 
-Extended Template by [Vector](https://linktr.ee/vectorcre)
+Extended Template by **[Vector](https://linktr.ee/vectorcre)**
 Includes the following:
 1. Everything from the base template
 2. Structure, Minions and Monster 3D models
@@ -62,6 +54,14 @@ Includes the following:
 7. Loadingscreen background
 
 - [Download Extended template *recommended for intermediate or professional modders*](https://drive.google.com/file/d/1fcdORbKiISDqMxgu_UvI_qB8XoRJPz9M/view?usp=sharing)
+{.links-list}
+## Splash art, In-game circle and square templates
+Splash art, in-game circle and square templates that have the shadow border made as close to the one that Riot skins have.
+If you wish to know how to use these templates click on [this link](/core-guides/downloadable-assets/champion-templates).
+Provided by **bud**
+- [Photoshop Templates*Mediafire Link*](https://www.mediafire.com/folder/qb3kuw3ypwmq1/Photoshop_champion_templates)
+- [paint.net Templates*Mediafire Link*](https://www.mediafire.com/folder/ca1b1aoin342h/paint.net_champion_templates)
+- [GIMP Templates*Mediafire Link*](https://www.mediafire.com/folder/0z7na9qzm4vw4/GIMP_champion_templates)
 {.links-list}
 
 # Misc Assets
