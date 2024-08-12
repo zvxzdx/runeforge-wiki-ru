@@ -2,7 +2,7 @@
 title: Resources
 description: A page with all assets you can use for your custom skin as downloads!
 published: true
-date: 2024-08-12T14:44:07.130Z
+date: 2024-08-12T14:45:13.545Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-22T17:47:44.116Z
@@ -31,7 +31,8 @@ Provided by **Bearded Shepherd**
 # Templates
 # tabs {.tabset}
 ## Mapskin
-Base Template by **Xllwd** 
+### Base Template 
+by **Xllwd** 
 Includes the following:
 1. Ground textures
 2. Structure textures
@@ -43,7 +44,8 @@ Includes the following:
 
 ---
 
-Extended Template by **[Vector](https://linktr.ee/vectorcre)**
+### Extended Template 
+by **[Vector](https://linktr.ee/vectorcre)**
 Includes the following:
 1. Everything from the base template
 2. Structure, Minions and Monster 3D models
