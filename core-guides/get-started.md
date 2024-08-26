@@ -2,7 +2,7 @@
 title: Get Started
 description: A short guide on how to start modding League of Legends. 
 published: false
-date: 2024-08-26T10:48:41.998Z
+date: 2024-08-26T10:49:12.288Z
 tags: guide, starting, new
 editor: markdown
 dateCreated: 2024-02-05T17:23:14.329Z
@@ -13,6 +13,7 @@ dateCreated: 2024-02-05T17:23:14.329Z
 
 # Tools
 As in any modding community, tools are required in order to get gamefiles or inject your modded files into the game. 
+
 # Tabs {.tabset}
 ## Mandatory
 Both tools are nessecary in order to mod. 
