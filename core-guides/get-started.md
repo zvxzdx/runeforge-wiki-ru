@@ -2,7 +2,7 @@
 title: Get Started
 description: A short guide on how to start modding League of Legends. 
 published: true
-date: 2024-08-26T10:50:09.262Z
+date: 2024-08-26T10:56:53.280Z
 tags: guide, starting, new
 editor: markdown
 dateCreated: 2024-02-05T17:23:14.329Z
@@ -43,9 +43,9 @@ The guides down below are recommended for beginners up to advanced modders. Don'
 {.links-list}
 ## 2D Editing
 - [Substance Painter Guide ***Advanced Guide** Recommended for users who are interested in drawing their own textures onto their models*](/specific-guide/texturing/substance-painter-guide)
-- [Recoloring Visual effects ***Beginner friendly** An easy videoguide on how to recolor visual effects | *partially requires bin editing**](specific-guide/vfx/Recoloring_Particles)
+- [Recoloring Visual effects ***Beginner friendly** An easy videoguide on how to recolor visual effects | *partially requires bin editing**](/specific-guide/vfx/Recoloring_Particles)
 {.links-list}
 ## Coding & VFX
-- [Recoloring Visual effects ***Beginner friendly** An easy videoguide on how to recolor visual effects | *partially requires 2D editing**](specific-guide/vfx/Recoloring_Particles)
+- [Recoloring Visual effects ***Beginner friendly** An easy videoguide on how to recolor visual effects | *partially requires 2D editing**](/specific-guide/vfx/Recoloring_Particles)
 - [Particle Swapping ***Beginner friendly** swap particles of existing Visual effects*](/specific-guide/coding/Particle-swapping)
 {.links-list}
