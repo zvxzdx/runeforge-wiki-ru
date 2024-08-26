@@ -2,14 +2,14 @@
 title: Get Started
 description: A short guide on how to start modding League of Legends. 
 published: false
-date: 2024-08-26T10:47:28.446Z
+date: 2024-08-26T10:48:41.998Z
 tags: guide, starting, new
 editor: markdown
 dateCreated: 2024-02-05T17:23:14.329Z
 ---
 
 
-![beginners.webp](/titles/beginners.webp =75%x)
+![beginners.webp](/titles/beginners.webp =50%x)
 
 # Tools
 As in any modding community, tools are required in order to get gamefiles or inject your modded files into the game. 
