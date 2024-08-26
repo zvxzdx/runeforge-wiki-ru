@@ -1,9 +1,9 @@
 ---
-title: General Guides
-description: All guides listed here which contain general mostly short guides around all topics.
-published: true
-date: 2024-08-26T10:20:10.028Z
-tags: 
+title: Get Started
+description: A short guide on how to start modding League of Legends. 
+published: false
+date: 2024-08-26T10:21:19.170Z
+tags: guide, starting, new
 editor: markdown
 dateCreated: 2024-02-05T17:23:14.329Z
 ---
