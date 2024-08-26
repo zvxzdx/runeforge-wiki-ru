@@ -2,7 +2,7 @@
 title: Get Started
 description: A short guide on how to start modding League of Legends. 
 published: true
-date: 2024-08-26T10:49:18.552Z
+date: 2024-08-26T10:50:09.262Z
 tags: guide, starting, new
 editor: markdown
 dateCreated: 2024-02-05T17:23:14.329Z
@@ -13,7 +13,6 @@ dateCreated: 2024-02-05T17:23:14.329Z
 
 # Tools
 As in any modding community, tools are required in order to get gamefiles or inject your modded files into the game. 
-
 # Tabs {.tabset}
 ## Mandatory
 Both tools are nessecary in order to mod. 
@@ -37,7 +36,6 @@ Editing software is as the name suggests here to modify said gamefiles. Therefor
 The guides down below are recommended for beginners up to advanced modders. Don't be scared about the load of informations in our guides. Some might look scary but you'll get the hang of it quickly!
 
 *We offer alot of different guides which are more specific to certain problems. Please make sure you check the out if you're having any trouble.*
-
 # Tabs {.tabset}
 ## 3D Editing
 - [Maya 2023+ Guide *An up-to-date guide with the newest tools available*](/specific-guide/3d-modelling/create-customskin-maya2023)
