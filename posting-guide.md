@@ -2,7 +2,7 @@
 title: All Guides for Posting
 description: Posting pages in this wiki can be tricky, so here is a list for all the waays you can post here!
 published: true
-date: 2024-04-05T09:27:41.636Z
+date: 2024-09-02T13:17:19.445Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-08T13:36:33.153Z
@@ -153,16 +153,8 @@ Example:
 The printed version:
 ![emote+pg.nasus_v01.png](/user-pictures/vector/new-post-guide/emote+pg.nasus_v01.png =15%x)
 
-# Code
-
-You can add code by adding "```" at the front and the end of the code snippet
-
-```
-Code
-Blahblah
-```
-
-# Embed Video
+# Videos
+## Embed Video from Youtube
 
 Copy paste the code into your page and change `VIDEO-ID` with the youtube link ID. Which would be everything after the "=" of the link!
 
@@ -174,4 +166,22 @@ Copy paste the code into your page and change `VIDEO-ID` with the youtube link I
 style="width:75%"></a>
 </div>
 ```
+## Upload and implement video
+You can adjust the **width** if the video is to small. The only allowed file formats are: .mp4 and .mov, nothing else afaik. Just upload it into your folder like a picture and replace the videolink accordingly. If you happen to use .mov, then replace the "type" with video/mov.
+
+```
+<video width="480" height="auto" controls>
+  <source src="/user-pictures/[videolink]4" type="video/mp4">
+</video>
+```
+# Code
+
+You can add code by adding "```" at the front and the end of the code snippet
+
+```
+Code
+Blahblah
+```
+
+
 
