@@ -2,7 +2,7 @@
 title: Animated Loading Screen
 description: How to make Animated Loading Screen
 published: true
-date: 2024-09-02T14:13:18.931Z
+date: 2024-09-02T14:14:19.959Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-29T20:24:07.036Z
@@ -37,7 +37,7 @@ If you prefer a visual guide, you can follow the step-by-step video tutorial ava
     ```bash
     uibase -> uibase.bin
     ```
-3. Drag and drop `uibase.bin` onto `rito_cli.exe` (in `programs\bin`) to convert it to a `.py` file.
+3. Drag and drop `uibase.bin` onto `ritobin_cli.exe` (in `programs\bin`) to convert it to a `.py` file.
 4. Open the `.py` file and update the values at the bottom with those from the CMD window.
 ![image.png](/user-pictures/sirdexal/image.png)
 5. Save the file, delete `uibase.bin`, and drag the `.py` file onto `ritobin_cli.exe` to reconvert it to a `.bin` format.
