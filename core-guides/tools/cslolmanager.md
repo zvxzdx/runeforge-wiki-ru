@@ -2,7 +2,7 @@
 title: CS-LoL Manager
 description: The tool to install and create mod packages.
 published: true
-date: 2024-03-02T11:29:18.169Z
+date: 2024-09-02T13:09:52.947Z
 tags: guide, cslol, tool, install, update, conflict, error
 editor: markdown
 dateCreated: 2024-02-07T11:36:31.919Z
@@ -56,6 +56,23 @@ Here you just click “Auto Rename” and it will extract the files.
 
 And that’s all! Now CSLoL is updated! 
 # Create a mod package
+## Step 1 Folder structure
+
+Start by renaming all folders of your mod the same way as its listed in the original data. 
+
+<video width="640" height="auto" controls>
+  <source src="/user-pictures/vector/general-guides/videos/cslolmakemod_fiels.mp4" type="video/mp4">
+</video>
+
+![folder_structure.png](/user-pictures/vector/general-guides/general/folder_structure.png =25%x)
+As you can see in the video and the picture above, this is the exact same folder structure as her .wad file. You also need to keep the files in place as in the original.
+
+## Step 2 CS-Lol mod import
+Creating a mod package is pretty simple, just follow the video down below and you're done!
+
+<video width="480" height="auto" controls>
+  <source src="/user-pictures/vector/general-guides/videos/cslolmakemod_creating.mp4" type="video/mp4">
+</video>
 
 # Misc Guides
 ## Sort Mods in List
