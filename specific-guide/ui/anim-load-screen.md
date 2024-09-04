@@ -2,7 +2,7 @@
 title: Animated Loading Screen
 description: How to make Animated Loading Screen
 published: true
-date: 2024-09-02T14:14:19.959Z
+date: 2024-09-04T09:40:51.403Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-29T20:24:07.036Z
@@ -62,11 +62,4 @@ If you prefer a visual guide, you can follow the step-by-step video tutorial ava
 1. Use `cslolmanager` to create a new mod and add the `UI.wad.client` folder.
 2. Run your mod and enjoy your new animated loading screen!
 
-## Further Reading
 
-- [Official League of Legends Modding Documentation](https://developer.riotgames.com/docs/lol)
-- [RuneForge Modding Community](https://www.runeforge.io)
-
-## Conclusion
-
-By following these steps, you should now have a fully functional custom animated loading screen for League of Legends. Enjoy your new creation and feel free to share it with the community!
