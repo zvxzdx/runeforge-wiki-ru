@@ -2,7 +2,7 @@
 title: 3D Modeling
 description: All guides listed here.
 published: true
-date: 2024-09-07T15:55:26.093Z
+date: 2024-09-07T17:22:37.425Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-06T17:03:29.274Z
@@ -33,7 +33,8 @@ dateCreated: 2024-02-06T17:03:29.274Z
 {.links-list}
 
 # Blender Guides
-
+- [Blender Starting guide](/specific-guide/3d-modelling/blender-starting-guide)
+{.links-list}
 # Fixes
 - [Fixing broken face normals](/specific-guide/3d-modelling/Fixing_broken_face_normals)
  {.links-list}
