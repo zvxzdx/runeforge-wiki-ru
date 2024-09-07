@@ -2,7 +2,7 @@
 title: Custom Skins in Blender - Starting guide
 description: A couple of videos(with a tutorial you can follow) to get started with the very basics of custom skinning
 published: true
-date: 2024-09-07T17:20:39.819Z
+date: 2024-09-07T17:23:19.837Z
 tags: 3d, modelling, blender
 editor: markdown
 dateCreated: 2024-02-12T16:10:47.938Z
@@ -41,7 +41,7 @@ This guide will help you start making custom skins on Blender, having the tools 
 - Open "Blender"
 - Go to "File", "Import", "gltf2.0"
 - **MAKE SURE YOU CHANGE BONE DIR TO "Blender"**
-![imagem_2024-02-12_153307903.png](/user-pictures/thisisquitter/blender_starting_guide/imagem_2024-02-12_153307903.png)
+![imagem_2024-02-12_153307903.png](/user-pictures/thisisquitter/blender_starting_guide/imagem_2024-02-12_153307903.png =75%x)
 - Select your file
 - You should be able to see the model imported into blender
 - If the model has various materials interlapping eachother, you can hide them by changing them to "Alpha Clip" (see video for example)
