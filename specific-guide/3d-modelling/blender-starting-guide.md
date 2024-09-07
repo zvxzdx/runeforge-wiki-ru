@@ -2,7 +2,7 @@
 title: Custom Skins in Blender - Starting guide
 description: A couple of videos(with a tutorial you can follow) to get started with the very basics of custom skinning
 published: true
-date: 2024-09-07T17:17:49.700Z
+date: 2024-09-07T17:20:39.819Z
 tags: 3d, modelling, blender
 editor: markdown
 dateCreated: 2024-02-12T16:10:47.938Z
@@ -12,10 +12,10 @@ dateCreated: 2024-02-12T16:10:47.938Z
 This guide will help you start making custom skins on Blender, having the tools needed, how to use them, and quick videos to explain every single one of these steps
 ## Tools Needed
 
-- [Blender](https://www.blender.org)
-- [Obsidian](https://github.com/Crauzer/Obsidian/releases/)
-- [lol2gltf(both the .exe and the CLI.exe)](https://github.com/Crauzer/lol2gltf/releases/tag/3.0.3)
-- [Paint NET](https://www.getpaint.net/download.html#download)
+- [Blender *Redirect to Download Page*](https://www.blender.org)
+- [Obsidian *Redirect to our Download and Guide page*](/core-guides/tools/obsidian)
+- [lol2gltf *Redirect to Download Page | **Make sure you download both, the .exe and CLI.exe!***](https://github.com/Crauzer/lol2gltf/releases/tag/3.0.3)
+- [Paint NET *Redirect to Download Page*](https://www.getpaint.net/download.html#download)
 {.links-list}
 ## Tool Installation
 ### lol2gltf
