@@ -2,7 +2,7 @@
 title: Create a skin in Maya 2023+
 description: This guide will show you how to create your very own custom skin with Maya 2023
 published: true
-date: 2024-06-05T18:18:41.348Z
+date: 2024-09-09T18:11:01.234Z
 tags: guide, maya, 3d, modelling, custom skin, 2023
 editor: markdown
 dateCreated: 2024-02-14T23:08:19.012Z
@@ -24,7 +24,7 @@ If you want to see the guide for Maya 2018, click the link down below.
 # Required Tools
 
 - [Maya 2023](/core-guides/tools/maya)
-- [LoL-Maya *Plugin made by tarngaina*](https://github.com/tarngaina/lol_maya)
+- [LoL-Maya *Plugin made by tarngaina*](/core-guides/tools/maya#install-lol-maya)
 - [Any 2D editing software *Skip this step if you already have one*](/core-guides/tools#texturing)
 {.links-list}
 
