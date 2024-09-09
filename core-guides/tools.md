@@ -2,7 +2,7 @@
 title: Tools
 description: All tools listed here which contain general mostly short guides.
 published: true
-date: 2024-09-05T06:55:34.871Z
+date: 2024-09-09T18:09:50.300Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-06T17:01:25.224Z
@@ -27,7 +27,7 @@ dateCreated: 2024-02-06T17:01:25.224Z
 -   [Autodesk Maya Student/ Trial *Program to create, edit, animate or rig 3D models*](/core-guides/tools/maya)
 {.links-list}
 ## Paid
--   [Autodesk Maya *Program to create, edit, animate or rig 3D models*](/core-guides/tools/maya)
+-   [Autodesk Maya *Program to create, edit, animate or rig 3D models*](/core-guides/tools/maya#maya-paid-subscription)
 {.links-list}
 ## Converters
 - [lol2gltf *Tool to convert League .skn and .skl to gltf*](/core-guides/tools/lol2gltf)
