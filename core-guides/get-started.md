@@ -2,7 +2,7 @@
 title: Get Started
 description: A short guide on how to start modding League of Legends. 
 published: true
-date: 2024-09-09T18:14:55.406Z
+date: 2024-09-09T18:15:29.404Z
 tags: guide, starting, new
 editor: markdown
 dateCreated: 2024-02-05T17:23:14.329Z
@@ -35,7 +35,7 @@ Editing software is as the name suggests here to modify said gamefiles. Therefor
 # Starter Guides
 The guides down below are recommended for beginners up to advanced modders. Don't be scared about the load of informations in our guides. Some might look scary but you'll get the hang of it quickly!
 
-*We offer alot of different guides which are more specific to certain problems. Please make sure you check the out if you're having any trouble.*
+*We offer alot of different guides which are more specific to certain problems. Please make sure you check them out if you're having any trouble.*
 # Tabs {.tabset}
 ## 3D Editing
 ### Maya
