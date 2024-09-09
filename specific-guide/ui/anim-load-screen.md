@@ -2,7 +2,7 @@
 title: Animated Loading Screen
 description: How to make Animated Loading Screen
 published: true
-date: 2024-09-04T09:40:51.403Z
+date: 2024-09-09T10:34:13.814Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-29T20:24:07.036Z
@@ -22,7 +22,7 @@ If you prefer a visual guide, you can follow the step-by-step video tutorial ava
 
 ## Step 1: Download and Extract Files
 
-1. **Download** the necessary files from [here](https://www.mediafire.com/file/aptcxtcvcnp73jh/Animated_Loading_Screen.zip/file).
+1. **Download** the necessary files from [here](https://www.mediafire.com/file/77skjtuhmkinlp4/Animated_Loading_Screen_V2.zip/file).
 2. **Extract** the ZIP file into a folder. Inside, you'll find two main folders: `UI.wad.client` and `programs`.
 
 ## Step 2: Prepare and Convert Your Video
