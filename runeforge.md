@@ -2,11 +2,14 @@
 title: Runeforge
 description: This is the Wiki/Knowledgebase for everything RuneForge
 published: true
-date: 2024-07-15T14:10:57.238Z
+date: 2024-09-16T20:39:31.314Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-17T21:23:53.939Z
 ---
+
+> As of now, posting as a Creator is not possible this way, please read more in the [Status](/status) page!
+{.is-danger}
 
 # Become a Creator
 
