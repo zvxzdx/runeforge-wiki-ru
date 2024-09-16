@@ -2,7 +2,7 @@
 title: Home
 description: This wiki is for custom skins (also known as custom content) and provides a source of information across the League of Legends modding community.
 published: true
-date: 2024-09-16T20:33:17.612Z
+date: 2024-09-16T20:54:05.401Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-07T11:55:37.251Z
@@ -20,17 +20,26 @@ We are a community dedicated in creating Mods for League of Legends. If you see 
 
 If you are new to our community, we highly recommend starting [here](/core-guides/get-started), where you find a List with nessecities and starter guides to get a leap into your new journey!
 
-# How to use the Wiki?
-
-The guides are sorted by what you try to achieve. If you want to texture something you click on "Texturing" at the sidebar. Simple right?
-
-However, alot of guides collide with each thematic, so even if you just want to texture something, it may happen that you also need to edit a bin file (which would be coding). An example for this would be on how to add "Special Materials". In that case, we order guides by what your goal is. In our example it would be by adding a texture, so the guide would still be in "Texturing".
-
-If you don't find what you need in our list, you can also use the search function by directly searching what you need or by searching by tags! Tag-searching is the icon next to the search bar. From there, you can select tags which would describe your goal the best.
-
-If you still can't find what you need then either, the guide/ page doesn't exist yet or you can ask for help at our [Discord](https://discord.com/invite/runeforge). We always try to get more users to skin creating and influence us with their creative minds.
 
 # Latest News
+
+## Runeforge 2.0
+
+As of now, the provider for Runeforge is getting a little out of our hands, which is why we upgrade our site (in time). Take a look at the official Statement on [X *(Twitter)*](https://x.com/RuneForgeio/status/1835693736396742896):
+
+> **We Are Experiencing Unprecedented Growth**
+> 
+> RuneForge has been experiencing unprecedented growth—our traffic has surged 4-5x beyond what our current platform can handle. In short: we're suffering from success. We’re thrilled by this overwhelming support from the community. This is a problem we never dreamed to have when we launched last year.
+> 
+> However, our current website provider, Wix, was designed for small personal blogs, shops and landing pages. This has limited our ability to build new features and upkeep our current site-functionality. We recognize that this impacts your experience, and we're committed to making it better. In the past few months, we’ve been hard at work on RuneForge 2.0, a new custom-made platform that will allow us to provide the features and functionality that we've been planning and that you've been asking for. Our goal is to create a site that not only meets, but also exceeds, your expectations.
+> 
+> **But Our Future Takes Time... and Money**
+> 
+> Building our new platform requires significant time and resources. If you'd like to support our journey and get a behind-the-scenes look at our development progress, consider subscribing through our Discord Server's Shop. Your support will allow us to accelerate our work and will help shape the future of RuneForge and League modding as a whole.
+> 
+> Thank you for being part of this incredible journey so far! We couldn't have done it without every single one of you.
+> ![runeforge2anounce.jpg](/user-pictures/vector/general-guides/runeforge2anounce.jpg =50%x)
+
 
 ## Ads
 
@@ -40,10 +49,6 @@ We understand some users prefer ad blockers. However, if you're comfortable disa
 
 Rest assured, we have strict guidelines in place. You'll never see any harmful or irrelevant ads displayed here.
 
-## Vanguard Launched!
-
-Since Patch _**14.9**_, League of Legends added their anti cheat software **Vanguard**, which some might know already through Valorant. In order for you to safely continue to use custom skins, we need you to use the **newest** version of [cs-lol manager](https://github.com/LeagueToolkit/cslol-manager/releases). 
-If you want more information about concerns regarding cs-lol manager and Vanguard, please check out our [**FAQ**](/faq#what-about-vanguard)
 
 # Help us improve the site!
 
