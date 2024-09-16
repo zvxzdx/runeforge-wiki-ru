@@ -2,7 +2,7 @@
 title: Home
 description: This wiki is for custom skins (also known as custom content) and provides a source of information across the League of Legends modding community.
 published: true
-date: 2024-09-16T20:54:05.401Z
+date: 2024-09-16T20:56:56.289Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-07T11:55:37.251Z
@@ -38,7 +38,9 @@ As of now, the provider for Runeforge is getting a little out of our hands, whic
 > Building our new platform requires significant time and resources. If you'd like to support our journey and get a behind-the-scenes look at our development progress, consider subscribing through our Discord Server's Shop. Your support will allow us to accelerate our work and will help shape the future of RuneForge and League modding as a whole.
 > 
 > Thank you for being part of this incredible journey so far! We couldn't have done it without every single one of you.
-> ![runeforge2anounce.jpg](/user-pictures/vector/general-guides/runeforge2anounce.jpg =50%x)
+>
+> [![runeforge2anounce.jpg](/user-pictures/vector/general-guides/runeforge2anounce.jpg =50%x)](https://discord.com/channels/1062123296725930074/shop)
+> *external Link will guide you to the discord shop*
 
 
 ## Ads
