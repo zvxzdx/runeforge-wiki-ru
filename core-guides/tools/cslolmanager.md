@@ -2,7 +2,7 @@
 title: CS-LoL Manager
 description: The tool to install and create mod packages.
 published: true
-date: 2024-09-16T15:49:22.215Z
+date: 2024-10-03T20:52:29.212Z
 tags: guide, cslol, tool, install, update, conflict, error
 editor: markdown
 dateCreated: 2024-02-07T11:36:31.919Z
@@ -26,13 +26,16 @@ Make sure you check for the green "latest" lable
 
 ---
 
-In order to install CS-LoL, you simply have to execute the file and choose a location to install it to. After it has extracted open the `cslol-manager.exe` and then open the League client.
+In order to install CS-LoL, you simply have to execute the file and choose a location you like to install it to. After it has extracted open the `cslol-manager.exe` and then open the League client.
 Press "Detect" in Cslol while the League client is open and you're set, you can add mods now!
 
 If detecting doesn't work for some reason, open CS-LoL and choose the "game"-folder for League of Legends. 
-The standard installation path would be: 
+The standard League game installation path would be: 
 `C:\Riot Games\League of Legends\Game`
 Now press select and you're done!
+
+> Please do **NOT** install Cslol manager into the League of Legends installation folder.
+{.is-warning}
 
 # Install a Mod
 Once you have the CS-LoL-Manager set up, downloading mods is rather straightforward from then on. Simply take the .zip or [.fantome](/specific-guide/filetypes#fantome) file that you downloaded on our site for the relevant skin, and drag and drop it into the program.
