@@ -2,14 +2,11 @@
 title: Home
 description: This wiki is for custom skins (also known as custom content) and provides a source of information across the League of Legends modding community.
 published: true
-date: 2024-09-16T20:56:56.289Z
+date: 2024-10-26T21:23:28.643Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-07T11:55:37.251Z
 ---
-
-> There is currently a **critical** [Status](/status) regarding the Runeforge main site! Please make sure to read it.
-{.is-danger}
 
 
 ![runeforge_welcome.webp](/titles/runeforge_welcome.webp =80%x){.align-center}
