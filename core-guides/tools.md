@@ -2,7 +2,7 @@
 title: Tools
 description: All tools listed here which contain general mostly short guides.
 published: true
-date: 2024-09-09T18:09:50.300Z
+date: 2024-10-29T22:32:34.644Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-06T17:01:25.224Z
@@ -92,7 +92,7 @@ How to use:
 ## Paid
   
 -   [Adobe Photoshop *Program to edit 2D files*](/core-guides/tools/adobe/photoshop)
--   [Adobe Substance Painter *Program to edit textures on a 3D model in a 2D or 3D environment*](/core-guides/tools/adobe/substance-painter)
+-   [Adobe Substance Painter *Program to edit textures on a 3D model in a 2D or 3D environment **Not recommended for editing any texture outside of a 3D model***](/core-guides/tools/adobe/substance-painter)
 {.links-list}
   
 ## Converters
