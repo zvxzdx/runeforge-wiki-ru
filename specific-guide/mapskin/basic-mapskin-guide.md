@@ -2,7 +2,7 @@
 title: Basic Mapskin starter guide
 description: A small guide on how to create a mapskin, this includes only textures.
 published: false
-date: 2024-10-29T23:09:16.125Z
+date: 2024-10-29T23:34:21.502Z
 tags: texture, starting, mapskin
 editor: markdown
 dateCreated: 2024-10-29T22:16:12.732Z
@@ -30,6 +30,7 @@ The following tools are needed to edit the map **textures**.
 **OR *HIGHLY RECOMMENDED:***
 - [Mapskin template *Base Template recommended*](/core-guides/downloadable-assets#templates)
 - [Any 2D editing software *which can handle editing .dds files*](/core-guides/tools#texturing)
+- [tex2dds *converter for .dds and .tex files*](/core-guides/tools/ritoddstex)
 {.links-list}
 
 # Guide
