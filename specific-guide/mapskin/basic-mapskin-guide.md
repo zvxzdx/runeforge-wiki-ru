@@ -2,7 +2,7 @@
 title: Basic Mapskin starter guide
 description: A small guide on how to create a mapskin, this includes only textures.
 published: false
-date: 2024-10-29T23:38:55.992Z
+date: 2024-10-29T23:59:29.281Z
 tags: texture, starting, mapskin
 editor: markdown
 dateCreated: 2024-10-29T22:16:12.732Z
@@ -50,12 +50,20 @@ In there are multiple folder which are the ground texture pieces.
 |base				                                 |all base ground texture/ part terrain textures used for before dragon mapchange or world events   |
 |chemtech/ cloud/ earth/ fire/ hextech/ ocean|The dragonmap ground textures once a the map changes                                               |
 |textures		                                 |some terrain textures, some unused textures & some assets for mapchanges|
-|worlds			                                 |World event parts *Needs conversion to .tex*                                                                                  |
+|worlds			                                 |World event parts (*Needs conversion to .tex*)                                                                                  |
 
 ### Editing
 
 In order to edit those textures, you need a 2D editing software which can handle .dds files. 
 
+#### Ground Textures
+
+- [Ground Texture Photoshop template *Recommended when you use Photoshop or Photopea*](/core-guides/downloadable-assets#mapskin-ground-texture-photoshop-template)
+{.links-list}
+
+*Warning huge file, you need a decent PC to handle that*
+
+Most ground textures are .dds files which need the standard format which you find in any other texturing guide. Depending on the used software you need to check which settings are nessecary. 
 
 
 
