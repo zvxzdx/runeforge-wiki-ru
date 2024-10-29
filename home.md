@@ -2,7 +2,7 @@
 title: Home
 description: This wiki is for custom skins (also known as custom content) and provides a source of information across the League of Legends modding community.
 published: true
-date: 2024-10-29T21:59:33.650Z
+date: 2024-10-29T22:00:09.560Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-07T11:55:37.251Z
@@ -17,7 +17,7 @@ We are a community dedicated in creating Mods for League of Legends. If you see 
 
 If you are new to our community, we highly recommend starting [here](/core-guides/get-started), where you find a List with nessecities and starter guides to get a leap into your new journey!
 
-[![beginners.webp](/titles/beginners.webp =50%x)](/core-guides/get-started)
+[![beginners.webp](/titles/beginners.webp =40%x)](/core-guides/get-started)
 
 
 # Latest News
