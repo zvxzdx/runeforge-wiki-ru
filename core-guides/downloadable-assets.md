@@ -2,7 +2,7 @@
 title: Resources
 description: A page with all assets you can use for your custom skin as downloads!
 published: true
-date: 2024-10-29T22:05:12.941Z
+date: 2024-10-29T22:05:33.491Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-22T17:47:44.116Z
@@ -89,3 +89,4 @@ How to use it:
 - Xllwd
 - Bearded Shepherd
 - Vector
+- Bud
