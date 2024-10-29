@@ -2,7 +2,7 @@
 title: Resources
 description: A page with all assets you can use for your custom skin as downloads!
 published: true
-date: 2024-10-29T22:05:33.491Z
+date: 2024-10-29T23:45:05.592Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-22T17:47:44.116Z
@@ -29,7 +29,7 @@ A full gallery of many different base bodies for several characters. Some textur
 # Templates
 # tabs {.tabset}
 ## Mapskin
-### Base Template (compatible with Patch 14.15)
+### Base Template (compatible with Patch 14.21 and after)
 Includes the following:
 1. Ground textures
 2. Structure textures
