@@ -2,7 +2,7 @@
 title: Resources
 description: A page with all assets you can use for your custom skin as downloads!
 published: true
-date: 2024-10-29T22:03:33.838Z
+date: 2024-10-29T22:05:12.941Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-22T17:47:44.116Z
@@ -30,7 +30,6 @@ A full gallery of many different base bodies for several characters. Some textur
 # tabs {.tabset}
 ## Mapskin
 ### Base Template (compatible with Patch 14.15)
-by **Xllwd** 
 Includes the following:
 1. Ground textures
 2. Structure textures
@@ -65,7 +64,7 @@ If you wish to know how to use these templates click on [this link](/core-guides
 - [Simple HUD Guide *HUD template included*](/specific-guide/ui/simple-hud-template)
 {.links-list}
 ## Font
-Provided by [Tyre](https://tyre4770.carrd.co/)
+
 - [Custom Font *Including template*](/specific-guide/ui/custom-font)
 {.links-list}
 
@@ -82,3 +81,11 @@ How to use it:
 
 - [Download here *External Link*](https://drive.google.com/file/d/1TltplZd9tFA5KLHMZ00Pp1TNvpLmI-_l/view?usp=sharing)
 {.links-list}
+
+# Sources
+
+- Yoru Queen of Night
+- Tyre
+- Xllwd
+- Bearded Shepherd
+- Vector
