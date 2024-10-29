@@ -2,7 +2,7 @@
 title: Basic Mapskin starter guide
 description: A small guide on how to create a mapskin, this includes only textures.
 published: false
-date: 2024-10-29T22:58:42.382Z
+date: 2024-10-29T23:09:16.125Z
 tags: texture, starting, mapskin
 editor: markdown
 dateCreated: 2024-10-29T22:16:12.732Z
@@ -46,9 +46,9 @@ In there are multiple folder which are the ground texture pieces.
 
 | Foldername                                 | Description                                                                                       | 
 |--------------------------------------------|---------------------------------------------------------------------------------------------------|
-|base				                                 |Part base ground texture/ part terrain textures used for before dragon mapchange or world events   |
+|base				                                 |all base ground texture/ part terrain textures used for before dragon mapchange or world events   |
 |chemtech/ cloud/ earth/ fire/ hextech/ ocean|The dragonmap ground textures once a the map changes                                               |
-|textures		                                 |Same as "base" some textures are ground textures, some terrain textures, some assets for mapchanges|
+|textures		                                 |some terrain textures, some unused textures & some assets for mapchanges|
 |worlds			                                 |World event parts                                                                                  |
 
 ### Editing
