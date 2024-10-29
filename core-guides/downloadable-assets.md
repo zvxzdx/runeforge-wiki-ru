@@ -2,7 +2,7 @@
 title: Resources
 description: A page with all assets you can use for your custom skin as downloads!
 published: true
-date: 2024-10-29T23:45:05.592Z
+date: 2024-10-29T23:56:07.591Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-22T17:47:44.116Z
@@ -29,6 +29,12 @@ A full gallery of many different base bodies for several characters. Some textur
 # Templates
 # tabs {.tabset}
 ## Mapskin
+### Mapskin Ground texture Photoshop template
+Does only include a Photoshop file with all ground textures! You still need one of the templates!
+
+- [Download Ground texture Photoshop template](https://drive.google.com/file/d/1isIlG4bNB3vIeh6qOJzGrQecyNevfF9z/view?usp=sharing)
+{.links-list}
+
 ### Base Template (compatible with Patch 14.21 and after)
 Includes the following:
 1. Ground textures
@@ -36,12 +42,12 @@ Includes the following:
 3. Minion and Monster textures
 4. Minimap textures
 
-- [Download Base template *recommended for beginners*](https://drive.google.com/file/d/1_4WQiG2lC1yTzC5E8BkWgexq2gYSidoz/view)
+- [Download Base template *recommended for beginners*](https://drive.google.com/file/d/184P9WYDDUJEG2PqjicQwPNnWZjrE6A5J/view?usp=sharing)
 {.links-list}
 
 ---
 
-### Extended Template (compatible with Patch 14.15)
+### Extended Template (compatible with Patch 14.21 and after)
 Includes the following:
 1. Everything from the base template
 2. Structure, Minions and Monster 3D models
