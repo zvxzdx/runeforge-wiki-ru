@@ -2,7 +2,7 @@
 title: Basic Mapskin starter guide
 description: A small guide on how to create a mapskin, this includes only textures.
 published: false
-date: 2024-10-29T23:59:29.281Z
+date: 2024-10-30T00:06:19.641Z
 tags: texture, starting, mapskin
 editor: markdown
 dateCreated: 2024-10-29T22:16:12.732Z
@@ -64,6 +64,41 @@ In order to edit those textures, you need a 2D editing software which can handle
 *Warning huge file, you need a decent PC to handle that*
 
 Most ground textures are .dds files which need the standard format which you find in any other texturing guide. Depending on the used software you need to check which settings are nessecary. 
+
+If you use the provided Photoshop template, you can start editing accordingly. It is split in different folders for you to edit. Save them as .dds files. Check the filenames and the folder when saving! 
+
+**Tips**
+- Edit the tiles as a whole to avoid weird texture failures or uneven seams
+- Save the WHOLE ground as a jpg or png and then open it your editing software to "cut out" each tile when saving, this takes alot less time
+- the tip above can also be used to save memory for less powerful PC's
+
+**Worlds Textures & potential future**
+
+With the current 2024 worlds, Riot changed the filetype of the ground textures into .tex, which means you need to convert them back into tex once u saved them as .dds. This can be done with [tex2dds](#tools)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
