@@ -2,8 +2,8 @@
 title: XnConvert tool
 description: A short guide on how to use XnConvert to rescale League assets
 published: true
-date: 2024-10-30T01:12:21.316Z
-tags: conver, rescaler
+date: 2024-10-30T01:24:44.366Z
+tags: convert, rescaler
 editor: markdown
 dateCreated: 2024-10-30T01:12:21.316Z
 ---
