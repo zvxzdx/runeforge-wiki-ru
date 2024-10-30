@@ -2,14 +2,14 @@
 title: Full sound modding guide
 description: A full overview of sound modding for League of Legends.
 published: true
-date: 2024-04-18T22:35:23.153Z
+date: 2024-10-30T04:44:06.952Z
 tags: sfx, sound fx, sound effects, sound
 editor: markdown
 dateCreated: 2024-02-22T20:47:04.714Z
 ---
 
 # Required Tools
-Download: **BNK-extract**, **Audacity**, **Wwise 2016** 
+Download: **BNK-extract**, **Audacity**, **Wwise** 
 
 - [Audio Tools](/core-guides/tools#sound-fx-audio)
 {.links-list}
