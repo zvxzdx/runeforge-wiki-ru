@@ -2,7 +2,7 @@
 title: Tools
 description: All tools listed here which contain general mostly short guides.
 published: true
-date: 2024-10-29T22:32:34.644Z
+date: 2024-10-30T00:26:55.837Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-06T17:01:25.224Z
@@ -97,6 +97,10 @@ How to use:
   
 ## Converters
 - [Ritoddstex (tex2dds) *Program to convert files between .tex and .dds*](/core-guides/tools/ritoddstex)
+{.links-list}
+
+## Rescalers
+- [Coming soon]()
 {.links-list}
 
 # Visual FX
