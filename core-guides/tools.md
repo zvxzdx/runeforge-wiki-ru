@@ -2,7 +2,7 @@
 title: Tools
 description: All tools listed here which contain general mostly short guides.
 published: true
-date: 2024-10-30T00:37:49.460Z
+date: 2024-10-30T00:39:58.943Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-06T17:01:25.224Z
@@ -100,7 +100,7 @@ How to use:
 {.links-list}
 
 ## Rescalers
-- [XnConvert *It's a bit older but works flawlessly | You dont need the paid version*](https://www.xnview.com/de/xnconvert/#downloads)
+- [XnConvert](/core-guides/tools/xnconvert)
 {.links-list}
 
 # Visual FX
