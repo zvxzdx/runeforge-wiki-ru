@@ -2,7 +2,7 @@
 title: Basic Mapskin starter guide
 description: A small guide on how to create a mapskin, this includes only textures.
 published: true
-date: 2024-10-30T01:14:50.237Z
+date: 2024-10-30T01:18:54.837Z
 tags: texture, starting, mapskin
 editor: markdown
 dateCreated: 2024-10-29T22:16:12.732Z
@@ -86,7 +86,7 @@ Alternatively, change the model and texture manually, just make sure they don't 
 
 # Exporting & Creating the mapskin
 
-Exporting the mapskin is as simple as every other skin, if you need a refreshment check out the [export settings](core-guides/tools/adobe/photoshop#intel-texture-works).
+Exporting the mapskin is as simple as every other skin, if you need a refreshment check out the [export settings](/core-guides/tools/adobe/photoshop#intel-texture-works).
 
 ## Quality settings
 
