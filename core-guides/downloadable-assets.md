@@ -2,7 +2,7 @@
 title: Resources
 description: A page with all assets you can use for your custom skin as downloads!
 published: true
-date: 2024-10-29T23:56:07.591Z
+date: 2024-10-30T04:46:07.653Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-22T17:47:44.116Z
@@ -67,6 +67,7 @@ If you wish to know how to use these templates click on [this link](/core-guides
 - [GIMP Templates*Mediafire Link*](https://www.mediafire.com/folder/0z7na9qzm4vw4/GIMP_champion_templates)
 {.links-list}
 ## Simple HUD
+**Currently Outdated!! We are working on a new one**
 - [Simple HUD Guide *HUD template included*](/specific-guide/ui/simple-hud-template)
 {.links-list}
 ## Font
