@@ -2,7 +2,7 @@
 title: Basic Mapskin starter guide
 description: A small guide on how to create a mapskin, this includes only textures.
 published: true
-date: 2024-10-30T01:14:29.038Z
+date: 2024-10-30T01:14:50.237Z
 tags: texture, starting, mapskin
 editor: markdown
 dateCreated: 2024-10-29T22:16:12.732Z
@@ -101,7 +101,7 @@ AFTER CONVERSION!
 
 With the current 2024 worlds, Riot changed the filetype of the ground textures into .tex, which means you need to convert them back into tex once u saved them as .dds. This can be done with [tex2dds](#tools). This might be the case for the future with all ground textures
 
-
+Once you've done all that, you can create your mod.
 In case you forgot [how to create a mod package](/core-guides/tools/cslolmanager#create-a-mod-package)!
 
 
