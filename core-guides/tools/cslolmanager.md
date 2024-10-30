@@ -2,7 +2,7 @@
 title: CS-LoL Manager
 description: The tool to install and create mod packages.
 published: true
-date: 2024-10-03T20:52:29.212Z
+date: 2024-10-30T04:03:06.657Z
 tags: guide, cslol, tool, install, update, conflict, error
 editor: markdown
 dateCreated: 2024-02-07T11:36:31.919Z
@@ -77,7 +77,7 @@ As you can see in the video and the picture above, this is the exact same folder
 Creating a mod package is pretty simple, just follow the video down below and you're done!
 
 <video width="480" height="auto" controls>
-  <source src="/user-pictures/vector/general-guides/videos/cslolmakemod_creating.mp4" type="video/mp4">
+  <source src="/user-pictures/vector/general-guides/videos/cslolmakemod_create.mp4" type="video/mp4">
 </video>
 
 # Misc Guides
