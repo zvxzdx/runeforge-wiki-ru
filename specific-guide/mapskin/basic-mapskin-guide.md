@@ -2,7 +2,7 @@
 title: Basic Mapskin starter guide
 description: A small guide on how to create a mapskin, this includes only textures.
 published: true
-date: 2024-10-30T01:18:54.837Z
+date: 2024-10-30T01:23:33.840Z
 tags: texture, starting, mapskin
 editor: markdown
 dateCreated: 2024-10-29T22:16:12.732Z
@@ -76,7 +76,7 @@ If you use the provided Photoshop template, you can start editing accordingly. I
 - Save the WHOLE ground as a jpg or png and then open it your editing software to "cut out" each tile when saving, this takes alot less time
 - the tip above can also be used to save memory for less powerful PC's
 
-#### Terrain & Mob textures
+## Terrain & Mob textures
 
 Since this is a beginners guide, editing those textures is a bit more complicated. In theory you can still just edit them in any 2D editing software with filters for example. However if you plan on doing more than a simple "mood change" you need to manually edit them with e.g. [Substance Painter](/core-guides/tools#texturing). 
 
