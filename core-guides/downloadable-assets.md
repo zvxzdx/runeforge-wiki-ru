@@ -2,7 +2,7 @@
 title: Resources
 description: A page with all assets you can use for your custom skin as downloads!
 published: true
-date: 2024-10-30T14:56:45.488Z
+date: 2024-10-30T15:34:05.876Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-22T17:47:44.116Z
@@ -42,7 +42,7 @@ Includes the following:
 3. Minion and Monster textures
 4. Minimap textures
 
-- [Download Base template *recommended for beginners*](https://drive.google.com/file/d/184P9WYDDUJEG2PqjicQwPNnWZjrE6A5J/view?usp=sharing)
+- [Download Base template *recommended for beginners*](https://drive.google.com/file/d/1_4WQiG2lC1yTzC5E8BkWgexq2gYSidoz/view?usp=drive_link)
 {.links-list}
 
 ---
