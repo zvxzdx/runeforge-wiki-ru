@@ -2,7 +2,7 @@
 title: Tools
 description: All tools listed here which contain general mostly short guides.
 published: true
-date: 2024-10-30T01:25:16.660Z
+date: 2024-10-30T01:26:04.223Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-06T17:01:25.224Z
@@ -100,7 +100,7 @@ How to use:
 {.links-list}
 
 ## Rescalers
-- [XnConvert](/core-guides/tools/xnconvert)
+- [XnConvert *Tool to rescale multiple files at once, including renaming*](/core-guides/tools/xnconvert)
 {.links-list}
 
 # Visual FX
