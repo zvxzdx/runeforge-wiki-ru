@@ -2,11 +2,15 @@
 title: Basic Mapskin starter guide
 description: A small guide on how to create a mapskin, this includes only textures.
 published: false
-date: 2024-10-30T00:06:19.641Z
+date: 2024-10-30T00:13:43.334Z
 tags: texture, starting, mapskin
 editor: markdown
 dateCreated: 2024-10-29T22:16:12.732Z
 ---
+
+>⚠️ Maintaining a mapskin guide and template is tricky, we appreciate any feedback and discoveries so we can update everything accordingly. Missing/ moved/ new files, changed names or new filetypes can potentially change every patch but mostly with every pre-season!⚠️
+{.is-info}
+
 
 # Introduction
 
@@ -74,7 +78,15 @@ If you use the provided Photoshop template, you can start editing accordingly. I
 
 **Worlds Textures & potential future**
 
-With the current 2024 worlds, Riot changed the filetype of the ground textures into .tex, which means you need to convert them back into tex once u saved them as .dds. This can be done with [tex2dds](#tools)
+With the current 2024 worlds, Riot changed the filetype of the ground textures into .tex, which means you need to convert them back into tex once u saved them as .dds. This can be done with [tex2dds](#tools).
+
+#### Terrain & Mob textures
+
+Since this is a beginners guide, editing those textures is a bit more complicated. In theory you can still just edit them in any 2D editing software with filters for example. However if you plan on doing more than a simple "mood change" you need to manually edit them with e.g. [Substance Painter](/core-guides/tools#texturing). 
+
+Alternatively, change the model and texture manually, just make sure they don't have animations which need to be changed aswell.
+
+> Regardless, this exceeds this guide and will be declared more detailed in another guide in the future. In the meantime you can check out any 3D editing guide to get more knowledge on how to edit 3D Models & our Texturing guides for more detailed info about painting models.
 
 
 
