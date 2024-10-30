@@ -2,7 +2,7 @@
 title: Basic Mapskin starter guide
 description: A small guide on how to create a mapskin, this includes only textures.
 published: true
-date: 2024-10-30T00:13:51.679Z
+date: 2024-10-30T00:27:43.294Z
 tags: texture, starting, mapskin
 editor: markdown
 dateCreated: 2024-10-29T22:16:12.732Z
@@ -76,10 +76,6 @@ If you use the provided Photoshop template, you can start editing accordingly. I
 - Save the WHOLE ground as a jpg or png and then open it your editing software to "cut out" each tile when saving, this takes alot less time
 - the tip above can also be used to save memory for less powerful PC's
 
-**Worlds Textures & potential future**
-
-With the current 2024 worlds, Riot changed the filetype of the ground textures into .tex, which means you need to convert them back into tex once u saved them as .dds. This can be done with [tex2dds](#tools).
-
 #### Terrain & Mob textures
 
 Since this is a beginners guide, editing those textures is a bit more complicated. In theory you can still just edit them in any 2D editing software with filters for example. However if you plan on doing more than a simple "mood change" you need to manually edit them with e.g. [Substance Painter](/core-guides/tools#texturing). 
@@ -87,6 +83,24 @@ Since this is a beginners guide, editing those textures is a bit more complicate
 Alternatively, change the model and texture manually, just make sure they don't have animations which need to be changed aswell.
 
 > Regardless, this exceeds this guide and will be declared more detailed in another guide in the future. In the meantime you can check out any 3D editing guide to get more knowledge on how to edit 3D Models & our Texturing guides for more detailed info about painting models.
+
+# Exporting & Creating the mapskin
+
+Exporting the mapskin is as simple as every other skin, if you need a refreshment check out the [export settings](core-guides/tools/adobe/photoshop#intel-texture-works).
+
+## Quality settings
+
+Since some people dont own a Nasa PC, you should be so kind to implement Quality settings, which can be done with this tool:
+
+- [Download any rescaling tool](/core-guides/tools#texturing)
+{.links-list}
+
+**Worlds Textures & potential future**
+
+With the current 2024 worlds, Riot changed the filetype of the ground textures into .tex, which means you need to convert them back into tex once u saved them as .dds. This can be done with [tex2dds](#tools).
+
+
+In case you forgot [how to create a mod package](/core-guides/tools/cslolmanager#create-a-mod-package)!
 
 
 
