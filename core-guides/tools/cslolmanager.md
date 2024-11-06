@@ -2,7 +2,7 @@
 title: CS-LoL Manager
 description: The tool to install and create mod packages.
 published: true
-date: 2024-11-05T01:47:45.043Z
+date: 2024-11-06T20:14:11.476Z
 tags: guide, cslol, tool, install, update, conflict, error
 editor: markdown
 dateCreated: 2024-02-07T11:36:31.919Z
@@ -54,9 +54,9 @@ On the main folder you have been using the program in, you delete everything exc
 
 Whereafter what you do, is run the installer of the updated CSLoL-Manager and extract it in the same main folder, where a popup shows up:
 
-![update_cslol_2.webp](/user-pictures/vector/new-post-guide/update_cslol_2.webp)
+![update_cslol_2.webp](/user-pictures/sirdexal/untitled-1.png)
 
-Here you just click “Auto Rename” and it will extract the files. 
+Here you just click “Yes To All” and it will extract the files. 
 
  
 
