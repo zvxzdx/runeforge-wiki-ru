@@ -2,7 +2,7 @@
 title: Animation Repathing
 description: Animation repathing ensures custom animations in games are applied to specific skins only, preventing them from affecting other skins. Without repathing, a custom animation may unintentionally override animations for the base skin or other skins.
 published: true
-date: 2024-11-13T20:09:14.753Z
+date: 2024-11-13T20:12:03.546Z
 tags: animation, bin, python
 editor: markdown
 dateCreated: 2024-11-13T20:01:33.195Z
@@ -75,6 +75,8 @@ Lastly, update the animation paths within each `AtomicClipData {}` section. This
 
 ## Result
 ![2024-11-1403-48-27-ezgif.com-resize.gif](/user-pictures/nyht/2024-11-1403-48-27-ezgif.com-resize.gif =x300)
+
+Now, the custom animations will no longer override other skins. By properly updating the animation paths, your custom animations will only apply to the intended skin, ensuring that no other skins are affected by the changes.now all the skins will not be override by the default's custom animations
 
 # Sources
 - Nyht
