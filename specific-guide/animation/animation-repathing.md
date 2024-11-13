@@ -2,7 +2,7 @@
 title: Animation Repathing
 description: Animation repathing ensures custom animations in games are applied to specific skins only, preventing them from affecting other skins. Without repathing, a custom animation may unintentionally override animations for the base skin or other skins.
 published: true
-date: 2024-11-13T20:01:33.195Z
+date: 2024-11-13T20:09:14.753Z
 tags: animation, bin, python
 editor: markdown
 dateCreated: 2024-11-13T20:01:33.195Z
@@ -56,7 +56,7 @@ These paths define where the game looks for animations, so changing them will di
 ![image_2024-11-14_033807720.png](/user-pictures/nyht/image_2024-11-14_033807720.png)
 
 
-## Repathing the animation path in Skin0.bin (animation folder)
+## Repathing the animation paths in Skin0.bin (animation folder)
 Lastly, we’ll edit the animation path in the Skin0.bin file (found in the animation folder). 
 
 This file is located at 
@@ -67,6 +67,11 @@ This file is located at
 
 **Edited:**
 ![image_2024-11-14_034438953.png](/user-pictures/nyht/image_2024-11-14_034438953.png)
+
+
+Lastly, update the animation paths within each `AtomicClipData {}` section. This step involves repathing all individual animation references to point to your custom animations. By doing this, you ensure that each animation clip is correctly linked to your modded files, preventing conflicts with other skins and keeping the animations specific to your custom skin.
+
+![image_2024-11-14_040854007.png](/user-pictures/nyht/image_2024-11-14_040854007.png)
 
 ## Result
 ![2024-11-1403-48-27-ezgif.com-resize.gif](/user-pictures/nyht/2024-11-1403-48-27-ezgif.com-resize.gif =x300)
