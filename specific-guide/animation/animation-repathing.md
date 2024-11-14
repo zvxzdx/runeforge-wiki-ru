@@ -1,8 +1,8 @@
 ---
 title: Animation Repathing
-description: Animation repathing ensures custom animations in games are applied to specific skins only, preventing them from affecting other skins. Without repathing, a custom animation may unintentionally override animations for the base skin or other skins.
+description: Guide to Animation repathing 
 published: true
-date: 2024-11-14T07:54:27.462Z
+date: 2024-11-14T07:54:58.834Z
 tags: animation, bin, python
 editor: markdown
 dateCreated: 2024-11-13T20:01:33.195Z
