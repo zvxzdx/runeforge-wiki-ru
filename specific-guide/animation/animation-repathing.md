@@ -2,7 +2,7 @@
 title: Animation Repathing
 description: Guide to Animation repathing 
 published: true
-date: 2024-11-14T10:24:47.807Z
+date: 2024-11-15T13:56:09.905Z
 tags: animation, bin, python
 editor: markdown
 dateCreated: 2024-11-13T20:01:33.195Z
@@ -55,7 +55,7 @@ These paths define where the game looks for animations, so changing them will di
 
 ![image_2024-11-14_033807720.png](/user-pictures/nyht/image_2024-11-14_033807720.png)
 
-edit: no need to put `.bin` on this part
+edit: no need to put `.bin` on the 2nd screenshot
 
 
 ## Repathing the animation paths in Skin0.bin (animation folder)
