@@ -2,7 +2,7 @@
 title: Obsidian
 description: A tool to explore and export .wad archives.
 published: true
-date: 2024-02-22T23:41:41.816Z
+date: 2024-11-21T14:04:56.869Z
 tags: obsidian, tool, export, explorer
 editor: markdown
 dateCreated: 2024-02-08T18:19:22.298Z
@@ -17,44 +17,49 @@ Obsidian is a tool to explore and export .wad files, which are the League of Leg
 - [Download Obsidian](https://github.com/Crauzer/Obsidian/releases)
 {.links-list}
 
-When installing the program, make sure that you have the latest release installed, you can confirm as such on github:
+When installing the program, make sure that you have the **latest release** installed, you can confirm as such on github:
 
-![githubobsidian.webp](/user-pictures/vector/new-post-guide/githubobsidian.webp)
+![obsidian_download_marked.png](/user-pictures/vector/general-guides/general/obsidian/obsidian_download_marked.png)
+
+**Make sure you dont download the "pre-release" versions!**
 
 Where you install the program by downloading the Obsidian .zip file on GitHub.
 When opening the .zip file or when extracting it to a folder, simply open the Obsidian.exe file to start the program.
 
+The first time it opens, you need to select the League of Legends "Game" folder. Which is in your installation path. The standard path is: `C:\Riot Games\League of Legends\Game`. This may vary if you installed the game somewhere else. Simply add in the filepath into the field and restart Obsidian.
+
+![obsidian_firststart.png](/user-pictures/vector/general-guides/general/obsidian/obsidian_firststart.png)
+
+Done!
+
 # How to use
 
-## Finding local files
+## Finding files
 
-There are various different types of files one might wish to edit as a League of Legends modder, that being from Champions, Maps, etc. but for this tutorial, we will be using our very own Aatrox as reference. 
+Once Obsidian opens up, you need to wait for it to load all files it needs. Once done, you can see a "DATA" folder, open it by clicking the small arror icon on the left side. Also open the "FINAL" folder.
 
+![obsidian_usage01.png](/user-pictures/vector/general-guides/general/obsidian/obsidian_usage01.png)
 
-What we do is that we go to our League of Legends files, and find the relevant folder the .wad.client file is in for Aatrox.
+In there are several folders and `.wad.client`'s. Thats the location for every file in League of Legends and TFT. If you want to edit a certain champion, simply open the "Champions" folder and select the champ you want to edit. If you want to do a Mapskin, open "Maps".
 
-If you saved your game directly in your `C:\` Drive, then it will be located in `C:\Riot Games\League of Legends\Game\DATA\FINAL\Champions` where you can find Aatrox in there.
+We recommend checking out the [filetypes](/specific-guide/filetypes) to see what you want to edit. However, Obsidian offers a preview of most of the files like .dds and .tex!
 
-Note: The "Champion.language_REGION.wad.client" is for the local voice lines of the champion. Meaning that Aatrox.en_US.WAD.CLIENT is his English Voice Lines.
-
-![finding_files.webp](/user-pictures/vector/new-post-guide/finding_files.webp)
-Once you have found your file, simply copy the file path at the top of your file explorer so you can find it on Obsidian.
+By the way: Each champion has at least two kinds of different wad files. For example Aatrox.wad.client and Aatrox.en_US.wad.client! All visual files are located in the `CHAMPIONNAME.wad.client` files, while the localization files are always in `CHAMPIONNAME.languageshortcut_Countryname.wad.client`. The latter of the files is depending on the language you installed League on. There can also be multiple loclization files downloaded if you changed your game language over time.
 
 ## Extract Files via Obsidian
 
-Now, open Obsidian.exe and wait for it to load. Whereafter you go to the menu at the top, click the box icon and click open, where you paste in the file path you copied, and find the .wad.client file you want to extract.
-
-![open.webp](/user-pictures/vector/new-post-guide/open.webp)
-
-
-From there you go through the file and find the textures, model or anything that you wish to edit on Aatrox. In our example, we just want his base textures which can be found under `Assets/Characters/Aatrox/Skins/Base`
-Where we then click the boxes next to the files we wish to extract:
+Once you found the nessecary files you wish to edit on Skin, you simply select the files you wish to edit. The go to "File" and hit "Extract Selected"
 
 ![extract.webp](/user-pictures/vector/new-post-guide/extract.webp)
 
-From there we go back to the top menu under the box icon, and click “Extract Selected” where we select the folder that we want to extract his files in. 
+![obsidian_usage02.png](/user-pictures/vector/general-guides/general/obsidian/obsidian_usage02.png)
+
+Select your folder you wish to export in and you're done!
+
+By the way: Make sure you only extract the selection, if you accidentally hit "Extract All" you export ALL League of Legends files into that folder. And I mean ALL of them.
 
 # Sources
 
+- Vector
 - Nagiliant
 - Crauzer
