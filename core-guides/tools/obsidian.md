@@ -2,7 +2,7 @@
 title: Obsidian
 description: A tool to explore and export .wad archives.
 published: true
-date: 2024-11-21T14:04:56.869Z
+date: 2024-11-22T13:51:23.322Z
 tags: obsidian, tool, export, explorer
 editor: markdown
 dateCreated: 2024-02-08T18:19:22.298Z
@@ -58,6 +58,12 @@ Select your folder you wish to export in and you're done!
 
 By the way: Make sure you only extract the selection, if you accidentally hit "Extract All" you export ALL League of Legends files into that folder. And I mean ALL of them.
 
+
+# Obsidian V4
+In some cases users can experience problems with Obsidian, in that case you may want to use Obsidian 4.
+
+- [Download Obsidian 4](https://github.com/Crauzer/Obsidian/releases/tag/4.3.2)
+{.links-list}
 # Sources
 
 - Vector
