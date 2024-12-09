@@ -2,7 +2,7 @@
 title: Sound FX
 description: All guides listed here.
 published: true
-date: 2024-02-22T23:28:57.142Z
+date: 2024-12-09T14:21:11.054Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-06T17:06:37.964Z
@@ -15,7 +15,11 @@ dateCreated: 2024-02-06T17:06:37.964Z
 {.links-list}
 
 # Advanced Guides
+- [Creating your own events / soundbanks](/specific-guide/sfx/custom-soundbank)
+{.links-list}
 
 # Fixes
 - [Missing Voice Line Fix](/specific-guide/sfx/fix-missing-voicelines)
 {.links-list}
+
+
