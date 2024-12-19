@@ -2,7 +2,7 @@
 title: FAQ
 description: Frequently Asked Questions
 published: true
-date: 2024-06-02T19:44:33.986Z
+date: 2024-12-19T23:37:48.548Z
 tags: faq
 editor: markdown
 dateCreated: 2024-03-17T21:31:27.204Z
@@ -64,7 +64,7 @@ We have the Help Forum where you can ask for help about but not limited to:
 - Issues regarding modding software we use
 
 
-## Can i get a paid skin through custom skins?
+## Can I get a paid skin through custom skins?
 > No. We do not support skin hacking and never will.
 {.is-info}
 
