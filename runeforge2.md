@@ -2,7 +2,7 @@
 title: Runeforge 2.0 Infopage
 description: All Informations about Runforge 2.0 and the respective site. Collected in one Page.
 published: false
-date: 2024-12-20T17:22:28.661Z
+date: 2024-12-20T17:27:05.647Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-20T17:22:28.661Z
@@ -25,6 +25,15 @@ style="width:75%"></a>
 
 ## Which License should I use?
 
+| Name                | Credit			 | Description                                                                 |
+|---------------------|--------------|-----------------------------------------------------------------------------|
+| CC-BY-4.0           | :check_mark: | Stores (usually) compressed animation data                                  |
+| CC-BY-SA-4.0 				| :check_mark: | https://en.wikipedia.org/wiki/DirectDraw_Surface                            |
+| Property Bin        | :check_mark: | Stores object properties in a hierarchical tree format (game configuration) |
+| CC-BY-NC-4.0        | :check_mark: | Stores rigged mesh data of characters                                       |
+| CC-BY-NC-SA-4.0     | :check_mark: | Stores skeleton data for a rigged mesh (skn) usually using the same name    |
+| CC-BY-ND-4.0      	| :check_mark: | Static mesh data stored in ASCII text format                                |
+| CC-BY-NC-ND-4.0     | :check_mark: | Static mesh data stored in a binary format                                  |
 
 
 # FAQ
@@ -48,7 +57,7 @@ style="width:75%"></a>
 
 - cs-lol is not tested on **Chinese** servers, if you want to try it there, us at your own risk
 
-- Bans can and will occur if you used "free" paid skins also know as Skin Hacking
+- Bans can and will occur if you used "free" paid skins also know as [Skin Hacking](/runeforge2#can-i-get-paid-skins-through-custom-skins-skin-hacking)
 
 
 ### Vanguard was added, is it dangerous to use cs-lol?
