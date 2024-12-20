@@ -2,7 +2,7 @@
 title: Runeforge 2.0 Infopage
 description: All Informations about Runforge 2.0 and the respective site. Collected in one Page.
 published: false
-date: 2024-12-20T17:27:05.647Z
+date: 2024-12-20T17:40:49.509Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-20T17:22:28.661Z
@@ -23,18 +23,28 @@ style="width:75%"></a>
 
 *Video will open externally*
 
+
+
 ## Which License should I use?
 
-| Name                | Credit			 | Description                                                                 |
-|---------------------|--------------|-----------------------------------------------------------------------------|
-| CC-BY-4.0           | :check_mark: | Stores (usually) compressed animation data                                  |
-| CC-BY-SA-4.0 				| :check_mark: | https://en.wikipedia.org/wiki/DirectDraw_Surface                            |
-| Property Bin        | :check_mark: | Stores object properties in a hierarchical tree format (game configuration) |
-| CC-BY-NC-4.0        | :check_mark: | Stores rigged mesh data of characters                                       |
-| CC-BY-NC-SA-4.0     | :check_mark: | Stores skeleton data for a rigged mesh (skn) usually using the same name    |
-| CC-BY-ND-4.0      	| :check_mark: | Static mesh data stored in ASCII text format                                |
-| CC-BY-NC-ND-4.0     | :check_mark: | Static mesh data stored in a binary format                                  |
+Licensing can be complicated, in order to understand what you want to allow user and what not, put the "Name" into the License field on Runeforge. 
 
+Example: 
+You want you skin to only be played by users and not used for commercial use, then choose one license which prohibits commercial use like **CC-BY-NC-ND-4.0**.
+
+<br>
+
+| Name                | Credit			   | Commercial Use | Modifications Allowed | Share-Alike Required |
+|---------------------|----------------|---------------------------------------------------------------|
+| CC-BY-4.0           | :green_circle: | :green_circle: | :green_circle:        | :red_circle:         |
+| CC-BY-SA-4.0 				| :green_circle: | :green_circle: | :green_circle:        | :green_circle:       |
+| CC-BY-NC-4.0        | :green_circle: | :red_circle:   | :green_circle: 				| :red_circle:				 |
+| CC-BY-NC-SA-4.0     | :green_circle: | :red_circle:   | :green_circle: 				| :green_circle: 			 |
+| CC-BY-ND-4.0      	| :green_circle: | :green_circle: | :red_circle:          | :red_circle:				 |
+| CC-BY-NC-ND-4.0     | :green_circle: | :red_circle:   | :red_circle: 					| :red_circle: 				 |
+
+:green_circle: : Yes
+:red_circle: : No
 
 # FAQ
 
