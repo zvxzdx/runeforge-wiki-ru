@@ -2,7 +2,7 @@
 title: Resources
 description: A page with all assets you can use for your custom skin as downloads!
 published: true
-date: 2024-10-30T15:34:05.876Z
+date: 2024-12-23T16:23:08.673Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-22T17:47:44.116Z
@@ -35,7 +35,7 @@ Does only include a Photoshop file with all ground textures! You still need one 
 - [Download Ground texture Photoshop template](https://drive.google.com/file/d/1isIlG4bNB3vIeh6qOJzGrQecyNevfF9z/view?usp=sharing)
 {.links-list}
 
-### Base Template (compatible with Patch 14.21 and after)
+### Base Template (updated with Patch 14.21)
 Includes the following:
 1. Ground textures
 2. Structure textures
@@ -47,7 +47,7 @@ Includes the following:
 
 ---
 
-### Extended Template (compatible with Patch 14.21 and after)
+### Extended Template (updated with Patch 14.21)
 Includes the following:
 1. Everything from the base template
 2. Structure, Minions and Monster 3D models
