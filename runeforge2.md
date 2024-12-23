@@ -2,7 +2,7 @@
 title: Runeforge 2.0 Infopage
 description: All Informations about Runforge 2.0 and the respective site. Collected in one Page.
 published: false
-date: 2024-12-20T17:42:03.750Z
+date: 2024-12-23T15:53:03.651Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-20T17:22:28.661Z
@@ -21,7 +21,7 @@ Runeforge came a long way, now we want to present Runeforge 2.0. Please note, th
 
 <div align="left">
   <a href="https://www.youtube.com/watch?v=BwR6KMdsHhU"><img src="https://img.youtube.com/vi/BwR6KMdsHhU/0.jpg" alt="Guide on how to use the simple hud template"
-style="width:75%"></a>
+style="width:25%"></a>
 </div>
 
 *Video will open externally*
