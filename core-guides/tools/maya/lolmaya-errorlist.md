@@ -2,7 +2,7 @@
 title: Lolmaya Errorlist
 description: All common and uncommon errors listed and their solutions
 published: false
-date: 2024-12-31T19:00:36.150Z
+date: 2024-12-31T19:04:37.838Z
 tags: error, fix, lolmaya
 editor: markdown
 dateCreated: 2024-12-31T17:38:06.431Z
@@ -21,3 +21,7 @@ dateCreated: 2024-12-31T17:38:06.431Z
 ## No skin cluster found
 ![no_skin_cluster.png](/user-pictures/bud/no_skin_cluster.png)
 This error occurs when the mesh/group inside the scene is not bound with the skeleton. To fix this simply select the mesh/group and bind it together with the scene's armature in the skin -> bind skin menu.
+
+## Mesh contains vertices that have weight on 4+ influences
+![4_influences.png](/user-pictures/bud/4_influences.png)
+This error occurs when the mesh that was bound to the skeleton is bound with settings allowing for vertices to have influences from more than 4 bones. League only supports up to 4 influences and you should be binding/weighting your skin around that. The easiest solution if you run into this issue is to open the LoLMaya shelf in Maya and press the button with the icon of number 4. This will force every vertex that has 4+ influence to only 4.
