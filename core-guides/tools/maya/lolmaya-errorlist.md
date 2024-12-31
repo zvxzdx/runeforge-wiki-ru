@@ -2,7 +2,7 @@
 title: Lolmaya Errorlist
 description: All common and uncommon errors listed and their solutions
 published: true
-date: 2024-12-31T19:06:04.453Z
+date: 2024-12-31T19:07:11.846Z
 tags: error, fix, lolmaya
 editor: markdown
 dateCreated: 2024-12-31T17:38:06.431Z
@@ -24,4 +24,4 @@ This error occurs when the mesh/group inside the scene is not bound with the ske
 
 ## Mesh contains vertices that have weight on 4+ influences
 ![4_influences.png](/user-pictures/bud/4_influences.png)
-This error occurs when the mesh that was bound to the skeleton is bound with settings allowing for vertices to have influences from more than 4 bones. League only supports up to 4 influences and you should be binding/weighting your skin around that. The easiest solution if you run into this issue is to open the LoLMaya shelf in Maya and press the button with the icon of number 4. This will force every vertex that has 4+ influence to only 4.
+This error occurs when the mesh that was bound to the skeleton is bound with settings allowing for vertices to have influences from more than 4 bones. League only supports up to 4 influences and you should be binding/weighting your skin around that. The easiest solution if you run into this issue is to open the LoLMaya shelf in Maya and press the button with the icon of the number 4. This will force every vertex that has 4+ influence to only 4.
