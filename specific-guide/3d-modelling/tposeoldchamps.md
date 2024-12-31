@@ -2,7 +2,7 @@
 title: T/A posing older champions in Maya
 description: This guide shows you how to T/A pose an older champion that might not be posed.
 published: true
-date: 2024-02-19T19:02:59.491Z
+date: 2024-12-31T17:21:18.807Z
 tags: maya, model
 editor: markdown
 dateCreated: 2024-02-13T00:23:29.029Z
