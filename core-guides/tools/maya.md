@@ -2,7 +2,7 @@
 title: Autodesk Maya
 description: This page is all about Autodesk Maya. We include a list of pages which contain this tool in order to help you finding what you need!
 published: true
-date: 2024-02-22T23:39:08.191Z
+date: 2024-12-31T19:38:21.998Z
 tags: maya, autodesk, student, trial, tool, lolmaya
 editor: markdown
 dateCreated: 2024-02-07T11:21:56.262Z
@@ -40,6 +40,12 @@ Also those prices are paid in **advance** so the full price for the whole time p
 
 *Make sure you use Maya 2023! Maya 2024.1 is confirmed to work, while 2024.2 might be buggy.*
 <br>
+
+## Errors
+
+- [Maya errorlist](/core-guides/tools/maya/errorlist)
+{.links-list}
+
 # **Install LoL-Maya**
 
 First get the Plugin
@@ -82,6 +88,11 @@ You can check if it worked when a **LolMaya and LolMaya\_MAPGEO** tab were creat
 # Updating LoL Maya
 
 When updating the plugin, you simply need to download the latest version and replace the files in Maya's Plugin Folder! That's it.
+
+## Errors
+
+- [Lolmaya errorlist](/core-guides/tools/maya/lolmaya-errorlist)
+{.links-list}
 
 # Sources
 
