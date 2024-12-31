@@ -2,7 +2,7 @@
 title: 3D Modeling
 description: All guides listed here.
 published: true
-date: 2024-09-07T17:22:37.425Z
+date: 2024-12-31T17:16:15.736Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-06T17:03:29.274Z
@@ -11,11 +11,11 @@ dateCreated: 2024-02-06T17:03:29.274Z
 # Maya Core
 # Tabs {.tabset}
 ## Maya 2023
-- [Creating a custom skin Maya 2023/24.1](/specific-guide/3d-modelling/create-customskin-maya2023)
+- [Creating a custom skin Maya 2023/24.1](/specific-guide/3d-modelling/maya/2023)
  {.links-list}
  
 ## Maya 2018
-- [Creating a custom skin Maya 2018 *Outdated*](/specific-guide/3d-modelling/create-customskin-maya2018)
+- [Creating a custom skin Maya 2018 *Outdated*](/specific-guide/maya/2018)
  {.links-list}
 
 # Advanced Maya Guides
