@@ -2,7 +2,7 @@
 title: 3D Modeling
 description: All guides listed here.
 published: true
-date: 2024-12-31T17:16:15.736Z
+date: 2024-12-31T17:18:30.947Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-06T17:03:29.274Z
@@ -22,7 +22,7 @@ dateCreated: 2024-02-06T17:03:29.274Z
 # Tabs {.tabset}
 ## Model Editing
 - [T/A posing older champions](/specific-guide/3d-modelling/tposeoldchamps)
-- [Skin bind settings](/specific-guide/3d-modelling/maya-bind-settings)
+- [Skin bind settings](/specific-guide/3d-modelling/maya/bind-settings)
 - [Replacing Champions with a different character](/specific-guide/3d-modelling/Replacing-Champion-With-a-Completely-Different-Model)
 {.links-list}
  ## UV Editing
