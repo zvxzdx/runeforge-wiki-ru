@@ -1,8 +1,8 @@
 ---
 title: Lolmaya Errorlist
 description: All common and uncommon errors listed and their solutions
-published: false
-date: 2024-12-31T19:04:37.838Z
+published: true
+date: 2024-12-31T19:06:04.453Z
 tags: error, fix, lolmaya
 editor: markdown
 dateCreated: 2024-12-31T17:38:06.431Z
