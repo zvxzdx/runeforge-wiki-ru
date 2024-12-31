@@ -2,7 +2,7 @@
 title: Lolmaya Errorlist
 description: All common and uncommon errors listed and their solutions
 published: true
-date: 2024-12-31T19:34:27.490Z
+date: 2024-12-31T19:34:35.547Z
 tags: error, fix, lolmaya
 editor: markdown
 dateCreated: 2024-12-31T17:38:06.431Z
@@ -31,7 +31,6 @@ This error occurs when the mesh that was bound to the skeleton is bound with set
 
 - **Fix**
 The easiest solution if you run into this issue is to open the LoLMaya shelf in Maya and press the button with the icon of the number 4. This will force every vertex that has 4+ influence to only 4.
-<!--skibidi toilet sigma rizz-->
 
 ## Too many vertices found
 ![too_many_verts.png](/user-pictures/bud/too_many_verts.png)
