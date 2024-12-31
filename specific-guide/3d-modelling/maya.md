@@ -2,7 +2,7 @@
 title: Maya
 description: All Maya related pages
 published: true
-date: 2024-12-31T17:28:47.367Z
+date: 2024-12-31T17:29:10.268Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-31T17:27:19.290Z
@@ -28,7 +28,7 @@ dateCreated: 2024-12-31T17:27:19.290Z
 {.links-list}
 
 ## Animation
-- [Fix custom animations overriding other skins](/specific-guide/animation/animation-repathing)
+- [Fix broken animations](/specific-guide/animation/maya/fix-broken-animations)
 {.links-list}
 
 
