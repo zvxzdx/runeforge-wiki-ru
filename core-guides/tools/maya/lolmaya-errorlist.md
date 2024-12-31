@@ -2,7 +2,7 @@
 title: Lolmaya Errorlist
 description: All common and uncommon errors listed and their solutions
 published: true
-date: 2024-12-31T19:36:38.284Z
+date: 2024-12-31T19:49:48.088Z
 tags: error, fix, lolmaya
 editor: markdown
 dateCreated: 2024-12-31T17:38:06.431Z
@@ -43,7 +43,7 @@ The easiest solution if you run into this issue is to open the LoLMaya shelf in 
 
 ## Too many vertices found
 ![too_many_verts.png](/user-pictures/bud/too_many_verts.png)
-This error occurs when the vertex count exceeds 65535. League .skn format only supports up to 16^4^ vertices which is 65356. 
+This error occurs when the vertex count exceeds 65535. League .skn format only supports up to 16^^4^ vertices which is 65356. 
 
 - **Fix**
 The only way to resolve this error is to delete parts or decimate your mesh until it's under the limit. This error can also occur if your model has too many UVs. Around 50k UV's is the limit.
