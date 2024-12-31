@@ -2,7 +2,7 @@
 title: Home
 description: This wiki is for custom skins (also known as custom content) and provides a source of information across the League of Legends modding community.
 published: true
-date: 2024-12-31T22:14:12.514Z
+date: 2024-12-31T22:15:43.035Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-07T11:55:37.251Z
