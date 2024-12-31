@@ -2,7 +2,7 @@
 title: Maya
 description: All Maya related pages
 published: true
-date: 2024-12-31T17:27:19.290Z
+date: 2024-12-31T17:28:47.367Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-31T17:27:19.290Z
@@ -34,7 +34,12 @@ dateCreated: 2024-12-31T17:27:19.290Z
 
 # Errors
 
-# Tabs {.tabset}
 ## Common Maya Errors
 
+- [All common Maya errors *Quick fixes and small guides*]()
+{.links-list}
+
 ## Lolmaya Errors
+
+- [All Lolmaya errors *Quick fixes and small guides*]()
+{.links-list}
