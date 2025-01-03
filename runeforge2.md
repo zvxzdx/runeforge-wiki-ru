@@ -2,7 +2,7 @@
 title: Runeforge 2.0 Infopage
 description: All Informations about Runforge 2.0 and the respective site. Collected in one Page.
 published: false
-date: 2025-01-03T14:56:31.124Z
+date: 2025-01-03T15:01:13.055Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-20T17:22:28.661Z
@@ -39,6 +39,8 @@ After you got your first mod approved, you can continue to post more afterwards 
 
 
 # How to post a Mod
+
+<br>
 
 <div align="left">
   <a href="https://www.youtube.com/watch?v=BwR6KMdsHhU"><img src="https://img.youtube.com/vi/BwR6KMdsHhU/0.jpg" alt="Guide on how to use the simple hud template"
