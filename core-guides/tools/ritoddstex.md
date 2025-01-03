@@ -2,7 +2,7 @@
 title: Ritoddstex
 description: Ritoddstex tool guide
 published: true
-date: 2024-02-13T10:37:02.112Z
+date: 2025-01-03T15:23:01.049Z
 tags: guide, tools, texturing, texture, 2d, ritoddstex
 editor: markdown
 dateCreated: 2024-02-12T12:15:57.106Z
@@ -27,6 +27,6 @@ This programm comes as standalone .exe file and doesn't require any installation
 
 # How to use
 
-> **Work in progress**
-> The page is not finished yet.
-{.is-danger}
+Simply drag and drop all .tex files onto the tex2dds.exe and wait until the process is finished. 
+
+If you want to reconvert the .dds files to .tex, simply repeat the process by drag and dropping all .dds files onto tex2dds.exe.
