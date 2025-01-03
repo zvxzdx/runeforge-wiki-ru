@@ -2,7 +2,7 @@
 title: Runeforge 2.0 Infopage
 description: All Informations about Runforge 2.0 and the respective site. Collected in one Page.
 published: false
-date: 2025-01-03T15:01:13.055Z
+date: 2025-01-03T15:01:40.768Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-20T17:22:28.661Z
@@ -91,7 +91,7 @@ You want you skin to only be played by users and not used for commercial use, th
 
 - Custom skin bans occured on **Korea** servers, on which all third party apps are prohibited including cs-lol
 
-- cs-lol is not tested on **Chinese** servers, if you want to try it there, us at your own risk
+- Cs-lol is not tested on **Chinese** servers, if you want to try it there, us at your own risk
 
 - Bans can and will occur if you used "free" paid skins also know as [Skin Hacking](/runeforge2#can-i-get-paid-skins-through-custom-skins-skin-hacking)
 
