@@ -2,7 +2,7 @@
 title: Runeforge 2.0 Infopage
 description: All Informations about Runforge 2.0 and the respective site. Collected in one Page.
 published: false
-date: 2024-12-23T15:53:18.856Z
+date: 2025-01-03T14:56:31.124Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-20T17:22:28.661Z
@@ -14,7 +14,28 @@ Runeforge came a long way, now we want to present Runeforge 2.0. Please note, th
 
 # How to become a Creator
 
-*TBA*
+### Step 1 Register Account
+ 
+- Create an Account by clicking "register" in the top right corner
+
+### Create a Mod
+
+*See [how to post a Mod](/runeforge2#how-to-post-a-mod)*
+
+- Go to your dashboard (top right corner and click dashboard)
+- Click "Create mod" & follow the steps
+
+### Review your mod
+
+- Once finished, click "Send for Review"
+
+After some time, once the mod got reviewed, you can get either of the following responses:
+
+- **Review rejected**
+We tell you why your mod got rejected, fix those issues and resend for another review
+
+- **Review approved**
+After you got your first mod approved, you can continue to post more afterwards without the waittime. You also automatically get the Creator role on your account.
 
 
 # How to post a Mod
