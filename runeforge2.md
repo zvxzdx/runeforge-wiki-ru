@@ -2,7 +2,7 @@
 title: Runeforge 2.0 Infopage
 description: All Informations about Runforge 2.0 and the respective site. Collected in one Page.
 published: false
-date: 2025-01-03T15:01:40.768Z
+date: 2025-01-03T15:01:51.917Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-20T17:22:28.661Z
@@ -127,5 +127,5 @@ For any other issue regarding crashes, broken skins or missing sounds, etc. plea
 
 ### What happened to Killerskins?
 
-- Killerskins had to shut down, Runeforge is successor.
+- Killerskins had to shut down, Runeforge is its successor.
 
