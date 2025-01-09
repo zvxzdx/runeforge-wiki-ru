@@ -2,7 +2,7 @@
 title: Resources
 description: A page with all assets you can use for your custom skin as downloads!
 published: true
-date: 2024-12-23T16:23:08.673Z
+date: 2025-01-09T14:36:48.807Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-22T17:47:44.116Z
@@ -29,6 +29,11 @@ A full gallery of many different base bodies for several characters. Some textur
 # Templates
 # tabs {.tabset}
 ## Mapskin
+
+> Warning! With the new season, these templates are OUTDATED! Please wait until we update them, this may take a while!
+{.is-danger}
+
+
 ### Mapskin Ground texture Photoshop template
 Does only include a Photoshop file with all ground textures! You still need one of the templates!
 
