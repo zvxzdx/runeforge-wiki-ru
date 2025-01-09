@@ -2,7 +2,7 @@
 title: Resources
 description: A page with all assets you can use for your custom skin as downloads!
 published: true
-date: 2025-01-09T14:36:48.807Z
+date: 2025-01-09T14:48:47.205Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-22T17:47:44.116Z
@@ -30,7 +30,7 @@ A full gallery of many different base bodies for several characters. Some textur
 # tabs {.tabset}
 ## Mapskin
 
-> Warning! With the new season, these templates are OUTDATED! Please wait until we update them, this may take a while!
+> Warning! With Patch 25.S1.1, these templates are OUTDATED! Please wait until we update them, this may take a while!
 {.is-danger}
 
 
