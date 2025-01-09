@@ -2,7 +2,7 @@
 title: Resources
 description: A page with all assets you can use for your custom skin as downloads!
 published: true
-date: 2025-01-09T14:48:47.205Z
+date: 2025-01-09T17:51:55.619Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-22T17:47:44.116Z
@@ -30,7 +30,7 @@ A full gallery of many different base bodies for several characters. Some textur
 # tabs {.tabset}
 ## Mapskin
 
-> Warning! With Patch 25.S1.1, these templates are OUTDATED! Please wait until we update them, this may take a while!
+> Warning! With Patch 25.S1.1, the base template is OUTDATED! Please wait until we update it, this may take a while!
 {.is-danger}
 
 
@@ -52,7 +52,7 @@ Includes the following:
 
 ---
 
-### Extended Template (updated with Patch 14.21)
+### Extended Template (updated with Patch 25.S1.1)
 Includes the following:
 1. Everything from the base template
 2. Structure, Minions and Monster 3D models
