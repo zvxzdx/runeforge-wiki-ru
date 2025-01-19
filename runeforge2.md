@@ -1,8 +1,8 @@
 ---
 title: Runeforge 2.0 Infopage
 description: All Informations about Runforge 2.0 and the respective site. Collected in one Page.
-published: false
-date: 2025-01-03T15:01:51.917Z
+published: true
+date: 2025-01-19T13:17:12.684Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-20T17:22:28.661Z
