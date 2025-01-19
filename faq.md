@@ -2,7 +2,7 @@
 title: FAQ
 description: Frequently Asked Questions
 published: true
-date: 2025-01-19T13:23:35.113Z
+date: 2025-01-19T13:23:57.019Z
 tags: faq
 editor: markdown
 dateCreated: 2024-03-17T21:31:27.204Z
@@ -10,7 +10,7 @@ dateCreated: 2024-03-17T21:31:27.204Z
 
 
 > This page is no longer maintained, please visit [this](https://wiki.runeforge.io/en/runeforge2#faq) one to read our current FAQ!
-{.is-info}
+{.is-warning}
 
 
 
