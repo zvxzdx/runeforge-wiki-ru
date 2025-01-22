@@ -2,7 +2,7 @@
 title: Runeforge 2.0 Infopage
 description: All Informations about Runforge 2.0 and the respective site. Collected in one Page.
 published: true
-date: 2025-01-19T13:17:12.684Z
+date: 2025-01-22T15:53:55.006Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-20T17:22:28.661Z
@@ -10,7 +10,7 @@ dateCreated: 2024-12-20T17:22:28.661Z
 
 # Runeforge 2.0 is here
 
-Runeforge came a long way, now we want to present Runeforge 2.0. Please note, that the website is still in BETA. Bugs and missing functions can still occur.
+Runeforge came a long way, now we want to present Runeforge 2.0. Please note, that the website is still in BETA. Bugs and missing functions can still occur. If you notice a bug, please let us know on our [Discord](https://discord.com/invite/runeforge) Server!
 
 # How to become a Creator
 
