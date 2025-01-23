@@ -2,7 +2,7 @@
 title: LtMAO
 description: A guide on how to install and use LtMAO.
 published: true
-date: 2024-05-08T22:43:27.324Z
+date: 2025-01-23T14:33:18.980Z
 tags: guide, install, ltmao
 editor: markdown
 dateCreated: 2024-02-11T19:27:37.139Z
@@ -160,7 +160,19 @@ Convert League .skn and .skl files to FBX and vice versa.
     
 ![lol2fbx.png](/user-pictures/bud/lol2fbx.png)
     
+    
  ---
+## Explorer contexts
+    
+For some guides on this wiki, you will need the file explorer contexts to make things easier. You can enable them by running LtMAO throught the shortcut as Admin, going to the settings and clicking this button.
+    
+![explorer-contexts.png](/user-pictures/fbs/explorer-contexts.png) 
+    
+After this, you should see LtMAO options when right clicking a directory or file.
+    
+![right-click.png](/user-pictures/fbs/right-click.png) 
+
+---
 ## issues
 If you have any issues or questions you can ask for help on the RuneForge discord.
   
