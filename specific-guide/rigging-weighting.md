@@ -2,7 +2,7 @@
 title: Rigging and Weighting
 description: All guides about rigging and weighting a model.
 published: true
-date: 2024-12-31T17:24:18.090Z
+date: 2025-01-23T18:25:57.608Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-20T03:53:01.275Z
@@ -13,3 +13,5 @@ dateCreated: 2024-02-20T03:53:01.275Z
  {.links-list}
 
 # Advanced Guides
+- [Maya's Bind settings](/specific-guide/3d-modelling/maya/bind-settings)
+	{.links-list}
