@@ -2,7 +2,7 @@
 title: Testing
 description: 
 published: false
-date: 2025-01-23T16:03:57.557Z
+date: 2025-01-23T16:04:21.225Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-31T21:51:40.832Z
@@ -42,3 +42,5 @@ Text
 - 2
 - three
 {.links-list}
+
+[faq](/faq)
