@@ -2,7 +2,7 @@
 title: Lolmaya Errorlist
 description: All common and uncommon errors listed and their solutions
 published: true
-date: 2024-12-31T19:49:48.088Z
+date: 2025-01-23T17:20:03.577Z
 tags: error, fix, lolmaya
 editor: markdown
 dateCreated: 2024-12-31T17:38:06.431Z
@@ -47,3 +47,13 @@ This error occurs when the vertex count exceeds 65535. League .skn format only s
 
 - **Fix**
 The only way to resolve this error is to delete parts or decimate your mesh until it's under the limit. This error can also occur if your model has too many UVs. Around 50k UV's is the limit.
+
+## Mesh contains X vertices shared by multiple materials
+![multiplemats.png](/user-pictures/bud/multiplemats.png)
+This error occurs when any vertices on the mesh have more than 1 material applied and making the mesh itself have more than 1 material in total.
+
+- **Fix**
+This error can be fixed in multiple ways. If you haven't started weighting your skin yet you can use the recommended auto fix shared vertices button on the LolMaya shelf.
+If you however did weights this isn't recommended because the option will unbind your skin making you redo the weighting.
+.
+Instead you can adjust the UV if needed then select the mesh and assign a new material. This will keep your weights while overriding the old materials and making the mesh have only one.
