@@ -2,7 +2,7 @@
 title: Testing
 description: 
 published: false
-date: 2025-01-24T15:56:10.359Z
+date: 2025-01-24T15:56:33.866Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-31T21:51:40.832Z
@@ -44,3 +44,12 @@ Text
 {.links-list}
 
 [faq](/faq)
+
+# Tabs {.tabset}
+## Maya 2023
+- [Creating a custom skin Maya 2023/24.1](/specific-guide/3d-modelling/maya/2023)
+ {.links-list}
+ 
+## Maya 2018
+- [Creating a custom skin Maya 2018 *Outdated*](/specific-guide/3d-modelling/maya/2018)
+ {.links-list}
