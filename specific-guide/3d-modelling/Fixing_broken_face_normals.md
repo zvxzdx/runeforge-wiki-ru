@@ -2,7 +2,7 @@
 title: Fixing Broken Face Normal
 description: This is how you can fix your champion looking "see-through"
 published: true
-date: 2024-02-22T15:42:23.523Z
+date: 2024-08-26T10:57:09.552Z
 tags: modelling, texture
 editor: markdown
 dateCreated: 2024-02-22T04:14:43.862Z

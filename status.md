@@ -2,7 +2,7 @@
 title: Status Page
 description: Runeforge & Runforge Wiki current status.
 published: true
-date: 2025-01-23T15:39:48.149Z
+date: 2025-01-23T15:39:49.943Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-18T16:58:55.268Z

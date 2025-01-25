@@ -2,7 +2,7 @@
 title: Resources
 description: A page with all assets you can use for your custom skin as downloads!
 published: true
-date: 2025-01-09T17:51:55.619Z
+date: 2025-01-09T17:51:57.656Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-22T17:47:44.116Z

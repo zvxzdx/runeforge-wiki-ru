@@ -2,7 +2,7 @@
 title: Using Matrix to edit VFX
 description: A guide on how to add and edit the matrix system in bin files.
 published: true
-date: 2024-02-21T22:39:18.777Z
+date: 2024-08-26T10:57:01.056Z
 tags: vfx, bin, matrix
 editor: markdown
 dateCreated: 2024-02-21T22:39:18.777Z

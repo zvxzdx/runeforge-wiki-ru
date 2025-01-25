@@ -2,7 +2,7 @@
 title: Rigging and Weighting
 description: All guides about rigging and weighting a model.
 published: true
-date: 2025-01-23T18:26:37.668Z
+date: 2025-01-23T18:26:39.588Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-20T03:53:01.275Z

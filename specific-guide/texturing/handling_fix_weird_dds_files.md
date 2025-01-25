@@ -2,7 +2,7 @@
 title: Handling/Fixing weird .dds files
 description: 
 published: true
-date: 2024-08-27T04:05:56.604Z
+date: 2024-08-27T04:05:58.849Z
 tags: photoshop, texturing, gimp
 editor: markdown
 dateCreated: 2024-02-22T03:44:52.272Z

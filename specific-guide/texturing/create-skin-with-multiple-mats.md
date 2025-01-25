@@ -2,7 +2,7 @@
 title: Create models/ skins with multiple materials
 description: A guide on how to bind multiple materials onto models in Maya.
 published: true
-date: 2024-03-10T16:51:57.513Z
+date: 2024-08-26T10:56:44.258Z
 tags: maya, modelling, texturing, multiple, material
 editor: markdown
 dateCreated: 2024-02-20T03:44:21.671Z

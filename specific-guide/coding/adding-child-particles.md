@@ -2,7 +2,7 @@
 title: Add child Particles
 description: A guide on how to add child particles to existing ones.
 published: true
-date: 2024-02-22T01:20:08.357Z
+date: 2024-08-26T10:57:03.261Z
 tags: guide, vfx, bin, particle
 editor: markdown
 dateCreated: 2024-02-22T01:20:08.357Z

@@ -2,7 +2,7 @@
 title: Making Custom Cursors
 description: This guide explains the creation of custom cursors using Photoshop and paint.net
 published: true
-date: 2024-04-15T00:43:16.409Z
+date: 2024-08-26T10:56:42.137Z
 tags: guide, photoshop, ui, paint.net
 editor: markdown
 dateCreated: 2024-02-18T21:42:47.305Z

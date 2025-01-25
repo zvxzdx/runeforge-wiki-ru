@@ -2,7 +2,7 @@
 title: Core Guides
 description: All core guides
 published: true
-date: 2024-03-29T16:48:08.221Z
+date: 2024-08-26T10:55:39.638Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-09T14:34:58.357Z

@@ -2,7 +2,7 @@
 title: Basic Guide Template
 description: 
 published: false
-date: 2024-02-22T01:03:50.136Z
+date: 2024-08-26T10:56:52.369Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-20T22:03:05.366Z

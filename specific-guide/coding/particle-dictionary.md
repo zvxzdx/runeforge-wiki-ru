@@ -2,7 +2,7 @@
 title: Particle and Bin Dictionary
 description: The full overview about everything you need to know about bins and particles!
 published: true
-date: 2024-02-21T21:55:47.044Z
+date: 2024-08-26T10:56:58.792Z
 tags: vfx, bin, particle, dictionary
 editor: markdown
 dateCreated: 2024-02-21T21:54:11.745Z

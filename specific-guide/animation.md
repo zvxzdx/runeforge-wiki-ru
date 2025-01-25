@@ -2,7 +2,7 @@
 title: Animation
 description: All guides listed here.
 published: true
-date: 2024-12-31T17:23:42.906Z
+date: 2024-12-31T17:23:44.742Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-06T17:04:47.520Z

@@ -2,7 +2,7 @@
 title: Get Started
 description: A short guide on how to start modding League of Legends. 
 published: true
-date: 2024-09-09T18:15:29.404Z
+date: 2024-09-09T18:15:31.547Z
 tags: guide, starting, new
 editor: markdown
 dateCreated: 2024-02-05T17:23:14.329Z

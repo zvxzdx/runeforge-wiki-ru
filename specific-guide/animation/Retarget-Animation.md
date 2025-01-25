@@ -2,7 +2,7 @@
 title: How to Transfer Animations from One Champ to Another (AKA Animation Retargeting)
 description: This guide will show you how to transfer an animation unto another character
 published: true
-date: 2024-05-11T19:46:00.689Z
+date: 2024-08-26T10:58:07.972Z
 tags: animation, champion, retargeting
 editor: markdown
 dateCreated: 2024-05-11T18:04:07.434Z

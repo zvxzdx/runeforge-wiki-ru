@@ -2,7 +2,7 @@
 title: Filetypes
 description: All filetypes listed here.
 published: true
-date: 2024-04-23T17:16:52.579Z
+date: 2024-08-26T10:55:45.821Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-10T14:08:46.366Z

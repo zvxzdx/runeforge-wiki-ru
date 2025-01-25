@@ -2,7 +2,7 @@
 title: Customizing the Loadingscreen
 description: A guide collection of different ways to customize loadingscreens.
 published: true
-date: 2024-02-22T20:56:45.506Z
+date: 2024-08-26T10:57:28.130Z
 tags: guide, ui, loadingscreen
 editor: markdown
 dateCreated: 2024-02-22T18:42:08.415Z

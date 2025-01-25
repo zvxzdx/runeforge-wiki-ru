@@ -2,7 +2,7 @@
 title: Adding Particle events to specific animations
 description: A guide on how to add particles to animations.
 published: true
-date: 2024-02-22T17:31:46.922Z
+date: 2024-08-26T10:57:23.490Z
 tags: animation, bin, particle
 editor: markdown
 dateCreated: 2024-02-22T17:31:46.922Z

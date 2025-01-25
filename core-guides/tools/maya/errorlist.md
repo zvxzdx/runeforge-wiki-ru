@@ -2,7 +2,7 @@
 title: Maya Errorlist
 description: All common errors you might find while working with maya.
 published: true
-date: 2024-12-31T19:37:01.922Z
+date: 2024-12-31T19:37:03.806Z
 tags: maya, error, fix
 editor: markdown
 dateCreated: 2024-12-31T17:35:21.031Z

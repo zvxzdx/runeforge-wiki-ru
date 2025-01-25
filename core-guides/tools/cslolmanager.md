@@ -2,8 +2,8 @@
 title: CS-LoL Manager
 description: The tool to install and create mod packages.
 published: true
-date: 2024-11-06T20:14:11.476Z
-tags: guide, cslol, tool, install, update, conflict, error
+date: 2024-11-06T20:14:13.572Z
+tags: cslol, tool, guide, install, update, conflict, error
 editor: markdown
 dateCreated: 2024-02-07T11:36:31.919Z
 ---

@@ -2,8 +2,8 @@
 title: Hacksaw
 description: A guide on how to install and use Hacksaw.
 published: true
-date: 2024-08-12T15:05:05.231Z
-tags: guide, vfx, hacksaw, install, bin, color
+date: 2024-08-26T10:56:02.724Z
+tags: guide, hacksaw, install, vfx, bin, color
 editor: markdown
 dateCreated: 2024-02-11T19:30:02.226Z
 ---

@@ -2,7 +2,7 @@
 title: Development
 description: All guides about the League of Legends Development.
 published: true
-date: 2024-04-30T14:24:58.012Z
+date: 2024-08-26T10:56:24.196Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-12T14:21:23.193Z

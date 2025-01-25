@@ -2,7 +2,7 @@
 title: Ritoddstex
 description: Ritoddstex tool guide
 published: true
-date: 2025-01-03T15:23:01.049Z
+date: 2025-01-03T15:23:02.959Z
 tags: guide, tools, texturing, texture, 2d, ritoddstex
 editor: markdown
 dateCreated: 2024-02-12T12:15:57.106Z

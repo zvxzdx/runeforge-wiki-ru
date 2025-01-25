@@ -1,41 +1,37 @@
 ---
-title: Home
-description: This wiki is for custom skins (also known as custom content) and provides a source of information across the League of Legends modding community.
+title:  Inicio
+description: Página Principal de la Wiki de Runeforge
 published: true
-date: 2025-01-19T13:26:13.942Z
+date: 2024-08-26T10:57:59.657Z
 tags: 
 editor: markdown
-dateCreated: 2024-02-07T11:55:37.251Z
+dateCreated: 2024-05-01T13:18:42.024Z
 ---
 
-
-![runeforge_welcome.webp](/titles/runeforge_welcome.webp =80%x){.align-center}
-
-# **Welcome to the Runeforge Wiki!**
-
-We are a community dedicated in creating Mods for League of Legends. If you see help, you shall find it in here, with out evergrowing list of guides and informations all about modding League of Legends. 
-
-If you are new to our community, we highly recommend starting [here](/core-guides/get-started), where you find a List with nessecities and starter guides to get a leap into your new journey!
-
-[![beginners.webp](/titles/beginners.webp =40%x)](/core-guides/get-started)
+> En este momento, se recomienda usar la versión inglesa de la Wiki hasta nuevo aviso. Muchos enlaces y páginas estarán desabilitados hasta su traducción.
+{.is-danger}
 
 
-# Latest News
-
-## Runeforge 2.0 enters BETA
-Betatesting for Runeforge 2.0 has started, please check out the Runeforge [Info & FAQ](https://wiki.runeforge.io/en/runeforge2) page for more informations.
+> **El español se tradujo mediante inteligencia artificial, ¡puede haber errores!**
+{.is-info}
 
 
+# Bienvenido al Wiki de Runeforge
+Este wiki se dedica a los aspectos personalizados (también conocidos como contenido personalizado) y proporciona una fuente de información para toda la comunidad de modding de League of Legends.
 
 
-## Ads
+# ¿Cómo usar el Wiki?
 
-As you know, maintaining a valuable resource like this modding Wiki requires ongoing support. To help us keep the Wiki running smoothly, we've recently introduced some unobtrusive video ads. These appear only when a sponsor claims a spot, so you won't experience disruptive pop-ups or flashy banners.
+Las guías están ordenadas por lo que deseas lograr. Si quieres texturizar algo, simplemente haz clic en "Texturizado" en la barra lateral. ¡Sencillo, ¿verdad?
 
-We understand some users prefer ad blockers. However, if you're comfortable disabling them for this site, it would be a big help.  These ads provide a way to ensure the Wiki remains a reliable source for all your League of Legends modding needs.
+Sin embargo, muchas guías se superponen temáticamente, por lo que incluso si solo quieres texturizar algo, es posible que también necesites editar un archivo binario (lo que sería programar). Un ejemplo de esto sería cómo agregar "Materiales especiales". En ese caso, ordenamos las guías por tu objetivo. En nuestro ejemplo, sería agregando una textura, por lo que la guía aún estaría en "Texturizado".
 
-Rest assured, we have strict guidelines in place. You'll never see any harmful or irrelevant ads displayed here.
+Si no encuentras lo que necesitas en nuestra lista, también puedes usar la función de búsqueda buscando directamente lo que necesitas o filtrando por etiquetas. ¡La búsqueda por etiquetas es el ícono junto a la barra de búsqueda! Desde allí, puedes seleccionar las etiquetas que mejor describan tu objetivo.
 
+Si aún así no puedes encontrar lo que necesitas, es posible que la guía o la página aún no existan o puedes pedir ayuda en nuestro [Discord](https://discord.com/invite/runeforge). Siempre tratamos de atraer a más usuarios a la creación de aspectos e influenciarnos con su creatividad.
 
+# ¡Ayúdanos a mejorar el sitio!
 
+Si tienes un momento (~5 minutos), ¡te agradecemos tus comentarios! *¡Esta encuesta está en inglés!*
 
+[![survey.webp](/survey.webp =75%x)](https://forms.gle/jKzcJ6jPtbPmK69d7)

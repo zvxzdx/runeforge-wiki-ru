@@ -2,7 +2,7 @@
 title: How to Recolor Particles
 description: A guide on recoloring particles
 published: true
-date: 2024-05-10T01:11:02.396Z
+date: 2024-08-26T10:58:05.861Z
 tags: vfx, color, particle
 editor: markdown
 dateCreated: 2024-05-10T01:11:02.396Z

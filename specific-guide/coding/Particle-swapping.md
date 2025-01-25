@@ -2,7 +2,7 @@
 title: Particle swapping through bin-editing
 description: This tutorial teaches you how to take particles from one champion and reuse them on another champion.
 published: true
-date: 2024-04-09T10:43:13.869Z
+date: 2024-08-26T10:57:11.941Z
 tags: code, bin, particle
 editor: markdown
 dateCreated: 2024-02-22T04:29:01.767Z

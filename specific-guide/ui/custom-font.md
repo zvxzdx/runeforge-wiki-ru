@@ -2,7 +2,7 @@
 title: Use custom Font
 description: A short guide including a template on how to use your custom font.
 published: true
-date: 2024-02-22T20:36:18.371Z
+date: 2024-08-26T10:57:30.255Z
 tags: template, font
 editor: markdown
 dateCreated: 2024-02-22T20:35:39.524Z

@@ -2,7 +2,7 @@
 title: Using the champion templates
 description: 
 published: true
-date: 2024-02-22T22:17:42.484Z
+date: 2024-08-26T10:57:34.470Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-22T22:17:42.484Z

@@ -2,7 +2,7 @@
 title: Exporting Blender Animations to League
 description: This guide will show the saving and fixing animations made in blender 
 published: false
-date: 2024-03-30T22:48:59.011Z
+date: 2024-08-26T10:57:51.227Z
 tags: maya, animation, export, blender, lolmaya
 editor: markdown
 dateCreated: 2024-03-30T22:48:59.011Z

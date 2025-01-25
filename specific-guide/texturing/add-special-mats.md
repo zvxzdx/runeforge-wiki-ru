@@ -2,7 +2,7 @@
 title: Add special materials
 description: A full overview about different materials and how to use them.
 published: true
-date: 2024-02-22T17:04:10.437Z
+date: 2024-08-26T10:57:20.941Z
 tags: maya, texturing, bin, material, special
 editor: markdown
 dateCreated: 2024-02-22T17:04:10.437Z

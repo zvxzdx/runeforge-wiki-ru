@@ -2,7 +2,7 @@
 title: Adobe
 description: All Adobe Programs
 published: true
-date: 2024-02-16T15:00:57.483Z
+date: 2024-08-26T10:56:13.218Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-11T19:35:43.676Z
