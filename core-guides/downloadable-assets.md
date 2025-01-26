@@ -2,7 +2,7 @@
 title: Resources
 description: A page with all assets you can use for your custom skin as downloads!
 published: true
-date: 2025-01-26T17:11:12.389Z
+date: 2025-01-26T17:14:24.263Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-22T17:47:44.116Z
@@ -84,7 +84,7 @@ If you wish to know how to use these templates click on [this link](/core-guides
 # Misc Assets
 # Tabs {.tabset}
 ## unpiewad
-Small Tool which removes extensions like `.Pie_C_13_10.dds` or `.briar.dds`.[^2]
+Small Tool which removes extensions like `.Pie_C_13_10.dds` or `.briar.dds`.[^5]
 
 How to use it:
 1. download and place inside the Ritobin folder.
