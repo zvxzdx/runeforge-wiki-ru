@@ -2,7 +2,7 @@
 title: Resources
 description: A page with all assets you can use for your custom skin as downloads!
 published: true
-date: 2025-01-09T17:51:57.656Z
+date: 2025-01-26T17:10:17.516Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-22T17:47:44.116Z
@@ -22,7 +22,7 @@ Primarily female champions currently, but includes many HD references, including
 # 3D Assets
 # Tabs {.tabset}
 ## Base Bodies
-A full gallery of many different base bodies for several characters. Some textured some not.
+A full gallery of many different base bodies for several characters. Some textured some not.[^1]
 - [Download here *External Link*](https://drive.google.com/drive/folders/1-9PeAE99OrQ1P9EZQdxDX5AAJ9k1HgqN)
 {.links-list}
 
@@ -35,12 +35,12 @@ A full gallery of many different base bodies for several characters. Some textur
 
 
 ### Mapskin Ground texture Photoshop template
-Does only include a Photoshop file with all ground textures! You still need one of the templates!
+Does only include a Photoshop file with all ground textures! You still need one of the templates![^5]
 
 - [Download Ground texture Photoshop template](https://drive.google.com/file/d/1isIlG4bNB3vIeh6qOJzGrQecyNevfF9z/view?usp=sharing)
 {.links-list}
 
-### Base Template (updated with Patch 14.21)
+### Base Template (updated with Patch 14.21)[^5]
 Includes the following:
 1. Ground textures
 2. Structure textures
@@ -52,7 +52,7 @@ Includes the following:
 
 ---
 
-### Extended Template (updated with Patch 25.S1.1)
+### Extended Template (updated with Patch 25.S1.1)[^3]
 Includes the following:
 1. Everything from the base template
 2. Structure, Minions and Monster 3D models
@@ -64,18 +64,18 @@ Includes the following:
 
 - [Download Extended template *recommended for intermediate or professional modders*](https://drive.google.com/file/d/1fcdORbKiISDqMxgu_UvI_qB8XoRJPz9M/view?usp=sharing)
 {.links-list}
-## Loadingscreen assets
+## Loadingscreen assets[^6]
 Splash art, in-game circle and square templates that have the shadow border made as close to the one that Riot skins have.
 If you wish to know how to use these templates click on [this link](/core-guides/downloadable-assets/champion-templates).
 - [Photoshop Templates*Mediafire Link*](https://www.mediafire.com/folder/qb3kuw3ypwmq1/Photoshop_champion_templates)
 - [paint.net Templates*Mediafire Link*](https://www.mediafire.com/folder/ca1b1aoin342h/paint.net_champion_templates)
 - [GIMP Templates*Mediafire Link*](https://www.mediafire.com/folder/0z7na9qzm4vw4/GIMP_champion_templates)
 {.links-list}
-## Simple HUD
+## Simple HUD[^2]
 
 - [Simple HUD Guide *HUD template included*](/specific-guide/ui/simple-hud-template)
 {.links-list}
-## Font
+## Font[^4]
 
 - [Custom Font *Including template*](/specific-guide/ui/custom-font)
 {.links-list}
@@ -84,7 +84,7 @@ If you wish to know how to use these templates click on [this link](/core-guides
 # Misc Assets
 # Tabs {.tabset}
 ## unpiewad
-Small Tool which removes extensions like `.Pie_C_13_10.dds` or `.briar.dds`.
+Small Tool which removes extensions like `.Pie_C_13_10.dds` or `.briar.dds`.[^2]
 
 How to use it:
 1. download and place inside the Ritobin folder.
@@ -94,11 +94,13 @@ How to use it:
 - [Download here *External Link*](https://drive.google.com/file/d/1TltplZd9tFA5KLHMZ00Pp1TNvpLmI-_l/view?usp=sharing)
 {.links-list}
 
+
 # Sources
 
-- Yoru Queen of Night
-- Tyre
-- Xllwd
-- Bearded Shepherd
-- Vector
-- Bud
+[^1]: Provided by Bearded Shepherd
+[^2]: Provided by Yoru Queen of Night
+[^3]: Provided by Xllwd
+[^4]: Provided by Tyre
+[^5]: Provided by Vector
+[^6]: Provided by Bud
+
