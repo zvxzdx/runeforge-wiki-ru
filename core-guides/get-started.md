@@ -2,7 +2,7 @@
 title: Get Started
 description: A short guide on how to start modding League of Legends. 
 published: true
-date: 2024-09-09T18:15:31.547Z
+date: 2025-01-27T14:01:38.219Z
 tags: guide, starting, new
 editor: markdown
 dateCreated: 2024-02-05T17:23:14.329Z
@@ -39,7 +39,7 @@ The guides down below are recommended for beginners up to advanced modders. Don'
 # Tabs {.tabset}
 ## 3D Editing
 ### Maya
-- [Maya 2023+ Guide *An up-to-date guide with the newest tools available*](/specific-guide/3d-modelling/create-customskin-maya2023)
+- [Maya 2023+ Guide *An up-to-date guide with the newest tools available*](/specific-guide/3d-modelling/maya/2023)
 - [LoLMaya *Guide for installing Plugin **exclusive for Maya***](/core-guides/tools/maya#install-lol-maya)
 {.links-list}
 
