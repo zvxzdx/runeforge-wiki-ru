@@ -2,7 +2,7 @@
 title: Maya
 description: All Maya related pages
 published: true
-date: 2024-12-31T17:55:09.319Z
+date: 2025-01-27T13:59:17.081Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-31T17:27:19.290Z
@@ -16,7 +16,7 @@ dateCreated: 2024-12-31T17:27:19.290Z
  {.links-list}
  
 ## Maya 2018
-- [Creating a custom skin Maya 2018 *Outdated*](/specific-guide/maya/2018)
+- [Creating a custom skin Maya 2018 *Outdated*](/specific-guide/3d-modelling/maya/2018)
  {.links-list}
 
 # Advanced Maya Guides
