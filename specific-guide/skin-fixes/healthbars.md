@@ -2,7 +2,7 @@
 title: How to manually fix healthbars
 description: A short tutorial on how to fix healthbars if FixHealthBar.exe doesnt work.
 published: true
-date: 2025-01-28T18:37:13.690Z
+date: 2025-01-28T20:14:32.396Z
 tags: guide, skin fix
 editor: markdown
 dateCreated: 2025-01-28T18:37:13.690Z
@@ -43,6 +43,7 @@ Following this, you need to delete the .py file, then navigate to your WAD direc
 
 ![packtowad.png](/user-pictures/fbs/packtowad.png)
 
-After this, you need to delete your ```champ.wad``` directory, restart cslol-manager and youre good to go!![excited-kitty.png](/user-pictures/fbs/excited-kitty.png)
+After this, you need to delete your ```champ.wad``` directory, restart cslol-manager and youre good to go!
+![excited-kitty.png](/user-pictures/fbs/excited-kitty.png)
 
 
