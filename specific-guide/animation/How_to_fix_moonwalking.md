@@ -2,7 +2,7 @@
 title: How to fix moonwalking
 description: This is the fix for when your champion starts walking in random directions
 published: true
-date: 2024-08-26T10:57:05.428Z
+date: 2025-01-31T13:30:57.246Z
 tags: animation, code
 editor: markdown
 dateCreated: 2024-02-22T03:13:56.381Z
@@ -15,6 +15,7 @@ Sometimes champions might be turned in the opposite direction of where  they go 
 ## How to fix:
 1. Convert and open the SkinX.bin of your skin, for example Skin0.bin
 2. Delete the following block:
+```rigPoseModifierData```
 ![moonwalk_fix.png](/user-pictures/goat/moonwalk_fix.png =x400)
 3. Convert back the bin
 
