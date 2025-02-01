@@ -2,7 +2,7 @@
 title: Texturing
 description: All guides listed here.
 published: true
-date: 2024-08-26T10:55:15.547Z
+date: 2025-02-01T17:07:36.898Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-06T17:04:08.844Z
@@ -21,8 +21,3 @@ dateCreated: 2024-02-06T17:04:08.844Z
 - [Add special materials *A full overview about different materials and how to use them*](/specific-guide/texturing/add-special-mats)
 {.links-list}
 
-# Fixes
-
-- [Handling/Fixing weird .dds files](/specific-guide/texturing/handling_fix_weird_dds_files)
-- [Fixing Broken Face Normal](/specific-guide/3d-modelling/Fixing_broken_face_normals)
-{.links-list}
