@@ -2,7 +2,7 @@
 title: Visual FX
 description: All guides listed here.
 published: true
-date: 2024-08-26T10:55:20.005Z
+date: 2025-02-01T17:07:59.859Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-06T17:06:02.394Z
@@ -26,7 +26,4 @@ dateCreated: 2024-02-06T17:06:02.394Z
 - [Add particles to animations](/specific-guide/coding/add-particles-to-animation)
 {.links-list}
 
-# Fixes
-- [Prevent VFX from breaking *And how to fix broken VFX*](/specific-guide/coding/fix-breaking-vfx)
-{.links-list}
 
