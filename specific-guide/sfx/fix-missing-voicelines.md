@@ -2,7 +2,7 @@
 title: Fix missing champion voicelines
 description: A guide on how to fix missing voicelines for champions in your custom skin.
 published: true
-date: 2024-08-26T10:56:50.324Z
+date: 2025-02-04T02:00:57.988Z
 tags: audio, voiceline, fix
 editor: markdown
 dateCreated: 2024-02-20T21:53:45.483Z
