@@ -2,7 +2,7 @@
 title: Skin fixes
 description: All guides for fixing issues with outdated custom skins
 published: true
-date: 2025-02-04T02:01:09.334Z
+date: 2025-02-04T02:01:53.842Z
 tags: guide, skin fix
 editor: markdown
 dateCreated: 2025-01-25T02:22:58.043Z
