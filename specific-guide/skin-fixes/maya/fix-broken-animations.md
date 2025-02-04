@@ -2,7 +2,7 @@
 title: How to fix broken animations with LoLmaya
 description: This tutorial shows you how to fix broken animations on your model that happen due to animation layering etc.
 published: true
-date: 2025-02-04T02:00:13.391Z
+date: 2025-02-04T02:01:47.397Z
 tags: maya, animation
 editor: markdown
 dateCreated: 2024-02-22T05:14:01.874Z
