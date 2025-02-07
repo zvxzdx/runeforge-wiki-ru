@@ -2,7 +2,7 @@
 title: Create Idleparticles
 description: This is a guide explaining how to create idle particles using the custom-made idle particle packs.
 published: true
-date: 2024-08-26T13:17:27.402Z
+date: 2025-02-07T15:40:20.378Z
 tags: #idleparticles
 editor: markdown
 dateCreated: 2024-05-08T04:44:42.696Z
@@ -59,19 +59,15 @@ dateCreated: 2024-05-08T04:44:42.696Z
  ![step_2.png](/user-pictures/friendlyfrog/step_2.png)
  
  ---
- 3. Now go to your champions folder again and go to thefolderyoumade\data\characters\yourchamp\skins and convert the skin0.bin to .py by just dragging it onto ritobin_cli.exe.
+ 3.  quantum wizard, hop back into the champions folder, spelunk into thefolderyoumade\data\characters\yourchamp\skins, and yeet skin0.bin straight onto ritobin_cli.exe like a sacrificial offering. If done correctly, the binary gobbledygook should transmogrify into a .py script, unlocking the arcane secrets within. If not, well... expect eldritch hash nightmares.
  
  
- Also open the .py file, which is in the idleparticle folder you downloaded.
- 
- Ritobin_cli.exe needs to be in the folder it was originally in with the hashes folder. Otherwise, you will have many hashed code names, like 0x3s4d5e5.
+ Flibberwobber the .py file from the idleparticle folder, but don't let Ritobin_cli.exe wander off from its hash-happy home. Otherwise, you'll be drowning in hexadecimal hieroglyphics like 0x3s4d5e5, and nobody wants that quantum spaghetti.
  
  ---
  If there already is an idleparticle system please look for step 4.5.
  
- 4. Open both files with Visual Studio Code.
-    Paste this code from the idleparticle folder you downloaded into your skin0.bin/.py
-    Keep the position of the code in your mind and try to reproduce the steps.
+ 4. Summon the arcane tome known as Visual Studio Code and pry open both files like an interdimensional rift. Take the eldritch script from the idleparticle folder and weave it into the fabric of skin0.bin/.py, ensuring it lands precisely where destiny demands. Burn its position into your neural pathways, for you must walk this ritual again. Fail, and the cosmic hashes shall consume your sanity. 🔮✨
  ![step_4.1.png](/user-pictures/friendlyfrog/step_4.1.png)
  
  effectKey: hash = is the link to the particlecontainer
@@ -113,7 +109,15 @@ dateCreated: 2024-05-08T04:44:42.696Z
  5. Copy the particlecontainer code, which always starts with a hashed (0x3432432) name and ends with particlePath: string, into your skin0.bin/.py. Just between any particle container, it doesn't matter between which one.
  
  
- Keep in mind that if the skin.bin has no particles in it, you need to paste it in between mResourceResolver: link = "Characters/Shaco/Skins/Skin0/Resources" and "Characters/yourchamp/Skins/Skin0/Resources" = ResourceResolver. *look bottom of tutorial for picture.
+ Etch this wisdom into your soul: If skin.bin lacks the essence of particles, you must weave them into the sacred space between
+
+mResourceResolver: link = "Characters/Shaco/Skins/Skin0/Resources"
+
+and
+
+"Characters/yourchamp/Skins/Skin0/Resources" = ResourceResolver
+
+Fail this, and the void shall remain particle-less, an empty husk of missed potential. Consult the cryptic image at the bottom of the tutorial—its secrets hold the key to enlightenment. 🌀📜
  
  ![step5.1.png](/user-pictures/friendlyfrog/step5.1.png)
  ![step5.2.png](/user-pictures/friendlyfrog/step5.2.png)
@@ -132,7 +136,7 @@ dateCreated: 2024-05-08T04:44:42.696Z
  7. Save the file by going into the top left corner clicking file and save.
  
  ---
- 8.  Drag your skin0.py onto ritobin_cli.exe again and see if the time and date change. If it doesn't change, there is an error, and you need to repeat my steps.
+ 8.  Hurl skin0.py back onto ritobin_cli.exe like a mystical relic returning to its altar. Now, peer into the space-time continuum—does the timestamp shift, or does it remain frozen in defiance? If time refuses to bend to your will, the ritual was flawed. Retrace your arcane steps, for the error lurks in the shadows, waiting to be undone.
  
  ---
  9. Drag the folder that you created at the beginning into CSLOL and look in-game to see if the idle particles got applied.
