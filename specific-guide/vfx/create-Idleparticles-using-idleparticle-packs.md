@@ -2,7 +2,7 @@
 title: Create Idleparticles
 description: This is a guide explaining how to create idle particles using the custom-made idle particle packs.
 published: true
-date: 2025-02-07T15:40:20.378Z
+date: 2025-02-08T20:18:45.349Z
 tags: #idleparticles
 editor: markdown
 dateCreated: 2024-05-08T04:44:42.696Z
@@ -95,7 +95,8 @@ dateCreated: 2024-05-08T04:44:42.696Z
  ---
  4.5 What if there i already is an idleparticle system in the bin?
  
- If theres already an idleparticle system in the bin it should look like this:![4.5.1.png](/user-pictures/friendlyfrog/4.5.1.png)
+ If theres already an idleparticle system in the bin it should look like this:
+ ![4.5.1.png](/user-pictures/friendlyfrog/4.5.1.png)
  
  So how do we place it into the bin now?
  
