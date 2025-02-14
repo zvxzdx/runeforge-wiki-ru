@@ -2,7 +2,7 @@
 title: Basic Information
 description: Basic Information to do SFX modding!
 published: true
-date: 2025-02-07T01:38:48.924Z
+date: 2025-02-14T16:28:04.951Z
 tags: sfx, audio, voice over, sound effects, sound, effect, vo
 editor: markdown
 dateCreated: 2024-02-10T20:41:38.554Z
@@ -43,6 +43,6 @@ zh_TW: Taiwanese
 ## File Extensions
 - .wav: Generic audio file format used before converting into the format that League of Legends can read.
 - .wem: File format that the game reads. You can not use any other type of audio format to replace sounds. Requires WWise to convert from wav to wem.
-- .wpk: Format that contains all the compressed .wem files that the bank references.
-- .bnk: Format that contains metadata and event data to play the files found in the wpk. There are usually two bnks along with the wpk: "xxx_events.bnk" and "xxx_audio.bnk"
+- .wpk: Format that contains all the compressed .wem files that the bank references (For VO).
+- .bnk: Format that contains metadata and event data to play the files found in the wpk. There are usually two bnks along with the wpk: "xxx_events.bnk" and "xxx_audio.bnk." (SFX is found in a .bnk instead, because Riot.)
 - .bin: Code that reads every .wem file and provides the logic to get it to work in game; something like the brain of the game. (Not only used for sounds)
