@@ -2,14 +2,14 @@
 title: A tutorial on how to fix Broken textures
 description: A tutorial on how to fix Broken textures caused by riot changing dds to tex
 published: true
-date: 2025-02-18T03:44:50.376Z
+date: 2025-02-18T08:03:12.748Z
 tags: texture, skin fix
 editor: markdown
 dateCreated: 2025-02-18T03:42:17.638Z
 ---
 
 # How to fix broken textures
-> This tutorial uses LtMAO, specifically the explorer contexts. If you dont have it installed, follow the instructions [here](/core-guides/tools/LtMAO).
+> This tutorial uses LtMAO, specifically the explorer contexts. If you dont have it installed, follow the instructions [here](/core-guides/tools/LtMAO#explorer-contexts).
 {.is-info}
 ---
 Riot is slowly changing textures to tex, causing mods to break if they have outdated dds textures. This is a tutorial on how to fix them.
