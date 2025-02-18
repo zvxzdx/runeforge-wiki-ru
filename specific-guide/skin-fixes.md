@@ -2,7 +2,7 @@
 title: Skin fixes
 description: All guides for fixing issues with outdated custom skins
 published: true
-date: 2025-02-04T02:01:53.842Z
+date: 2025-02-18T03:43:54.076Z
 tags: guide, skin fix
 editor: markdown
 dateCreated: 2025-01-25T02:22:58.043Z
@@ -21,6 +21,7 @@ dateCreated: 2025-01-25T02:22:58.043Z
 # Textures
 - [Fixing broken face normals](/specific-guide/skin-fixes/Fixing_broken_face_normals)
 - [Handling/Fixing weird .dds files](/specific-guide/skin-fixes/handling_fix_weird_dds_files)
+- [Fixing outdated textures](/specific-guide/skin-fixes/broken-textures)
  {.links-list}
 
 # SFX (Sound)
