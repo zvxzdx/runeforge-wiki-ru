@@ -2,7 +2,7 @@
 title: How to manually fix healthbars
 description: A short tutorial on how to fix healthbars if FixHealthBar.exe doesnt work.
 published: true
-date: 2025-02-18T08:02:37.507Z
+date: 2025-02-19T22:05:53.493Z
 tags: guide, skin fix
 editor: markdown
 dateCreated: 2025-01-28T18:37:13.690Z
@@ -14,9 +14,7 @@ dateCreated: 2025-01-28T18:37:13.690Z
 
 ---
 Examples of broken healthbars
-~unitHealthBarStyle=10~
 ![hpbarexample1.png](/user-pictures/fbs/hpbarexample1.png)
-~unitHealthBarStyle=9~
 ![hpbarexample.png](/user-pictures/fbs/hpbarexample.png)
 
 ---
@@ -35,7 +33,7 @@ In your text editor press ctrl+f and search for ```unitHealthBarStyle```, it wil
 
 ![hpbarstyle9.png](/user-pictures/fbs/hpbarstyle9.png)
 
-Change that number to 11 and save your file. Next, you will need to convert your .py back into .bin.
+Change that number to 12 and save your file. Next, you will need to convert your .py back into .bin.
 
 ![pytobin.png](/user-pictures/fbs/pytobin.png)
 
