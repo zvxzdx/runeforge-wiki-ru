@@ -2,7 +2,7 @@
 title: A tutorial on how to fix Broken textures
 description: A tutorial on how to fix Broken textures caused by riot changing dds to tex
 published: true
-date: 2025-02-21T01:21:29.568Z
+date: 2025-03-06T15:03:25.441Z
 tags: texture, skin fix
 editor: markdown
 dateCreated: 2025-02-18T03:42:17.638Z
@@ -21,7 +21,7 @@ Riot is slowly changing textures to tex, causing mods to break if they have outd
 ![ddstexwad.png](/user-pictures/fbs/ddstexwad.png)
 
 ## 2. Find your textures and convert them using LtMAO
-If you find any 2x,4x files, delete them. After converting the files to tex, you can delete every dds file. If you get an error "Unsupported dds format", then convert dds to png, then png to dds and then dds to tex. U need to delete the png files just like the dds ones.
+If you find any 2x,4x files, delete them. After converting the files to tex, you can delete every dds file. If you get an error "Unsupported dds format", then convert dds to png, then png to dds and then dds to tex. U need to delete the png files just like the dds ones. If theres a particle folder, do it to every dds file there too
 ![ddstexdel.png](/user-pictures/fbs/ddstexdel.png)
 
 ## 3. Repack your wad, then restart cslol.
