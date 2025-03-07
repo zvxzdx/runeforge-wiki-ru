@@ -2,7 +2,7 @@
 title: A tutorial on how to fix Broken textures
 description: A tutorial on how to fix Broken textures caused by riot changing dds to tex
 published: true
-date: 2025-03-07T14:41:11.220Z
+date: 2025-03-07T14:41:42.261Z
 tags: texture, skin fix
 editor: markdown
 dateCreated: 2025-02-18T03:42:17.638Z
@@ -13,6 +13,7 @@ dateCreated: 2025-02-18T03:42:17.638Z
 > # This tutorial uses LtMAO, specifically the explorer contexts. If you dont have it installed, follow the instructions [here for installing LtMAO](/core-guides/tools/LtMAO) and [here for enabling explorer contexts](/core-guides/tools/LtMAO#explorer-contexts). {.is-warning}
 # 
 ---
+
 Riot is slowly changing textures to tex, causing mods to break if they have outdated dds textures. This is a tutorial on how to fix them.
 
 ## 1. Find your mod in the cslol installed folder and extract the wad.
