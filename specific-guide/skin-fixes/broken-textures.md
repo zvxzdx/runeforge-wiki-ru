@@ -2,7 +2,7 @@
 title: A tutorial on how to fix Broken textures
 description: A tutorial on how to fix Broken textures caused by riot changing dds to tex
 published: true
-date: 2025-03-07T14:44:55.356Z
+date: 2025-03-07T14:45:06.405Z
 tags: texture, skin fix
 editor: markdown
 dateCreated: 2025-02-18T03:42:17.638Z
