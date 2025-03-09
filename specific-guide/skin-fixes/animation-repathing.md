@@ -2,7 +2,7 @@
 title: Animation Repathing
 description: Guide to Animation repathing 
 published: true
-date: 2025-03-09T08:07:35.801Z
+date: 2025-03-09T08:10:15.586Z
 tags: animation, bin, python
 editor: markdown
 dateCreated: 2024-11-13T20:01:33.195Z
@@ -27,7 +27,7 @@ Here's a new tool designed for creators who don't want to waste time and aim to 
 ## LolAnimPath
 lolAnimPath is a lightweight and easy-to-use tool designed for League of Legends custom skin creators. It allows you to repath animation files, ensuring that your custom animations do not override the default animations of other skins. Head over to GitHub for more details.
 
-- [lolAnimPath *Tools to eassily modify and repath animations*](https://github.com/Nyht7/lolAnimPath)
+- [lolAnimPath *Tools to easily modify and repath animations*](https://github.com/Nyht7/lolAnimPath)
 
 {.links-list}
 
