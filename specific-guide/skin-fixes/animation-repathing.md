@@ -2,7 +2,7 @@
 title: Animation Repathing
 description: Guide to Animation repathing 
 published: true
-date: 2025-02-04T02:00:23.462Z
+date: 2025-03-09T08:07:35.801Z
 tags: animation, bin, python
 editor: markdown
 dateCreated: 2024-11-13T20:01:33.195Z
@@ -18,7 +18,20 @@ Here's an example of base custom skin Gragas animations overriding Hillybilly Gr
 -   [Obsidian *Main program to extract and browse Leagues gamefiles.*](/core-guides/tools/obsidian)
 - [Choose any Code Editor *Visual Studio Code is recommended*](/core-guides/tools#code-bin-editing)
 - [Ritobin *Tools to convert bin files into Python files*](/core-guides/tools/rito-bin)
+
 {.links-list}
+
+# New Animation Repath Tool!
+Here's a new tool designed for creators who don't want to waste time and aim to make their workflow easier — introducing **lolAnimPath**.
+
+## LolAnimPath
+lolAnimPath is a lightweight and easy-to-use tool designed for League of Legends custom skin creators. It allows you to repath animation files, ensuring that your custom animations do not override the default animations of other skins. Head over to GitHub for more details.
+
+- [lolAnimPath *Tools to eassily modify and repath animations*](https://github.com/Nyht7/lolAnimPath)
+
+{.links-list}
+
+![image_2025-03-09_160551448.png](/user-pictures/nyht/image_2025-03-09_160551448.png)
 
 # Tutorial
 
