@@ -2,7 +2,7 @@
 title: Tools
 description: All tools listed here which contain general mostly short guides.
 published: true
-date: 2025-01-26T16:26:45.288Z
+date: 2025-03-09T08:16:11.111Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-06T17:01:25.224Z
@@ -65,6 +65,10 @@ How to use:
 
 ![healthbargif.gif](/healthbargif.gif =x400)
 - [Fix Healthbar Patcher *for missing Healthbars in mods since Patch 14.17*](https://github.com/GuiSaiUwU/FixHealthBar/releases/tag/1.2)
+{.links-list}
+
+## Animation Repathing
+- [lolAnimPath *Tools to easily modify and repath animations*](https://github.com/Nyht7/lolAnimPath)
 {.links-list}
 
 # Sound FX & Audio
