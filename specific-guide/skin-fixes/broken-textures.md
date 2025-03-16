@@ -2,7 +2,7 @@
 title: How to fix Broken textures for champions named A-J
 description: A tutorial on how to fix broken textures caused by riot changing dds to tex
 published: true
-date: 2025-03-16T17:38:25.430Z
+date: 2025-03-16T17:39:20.293Z
 tags: texture, skin fix
 editor: markdown
 dateCreated: 2025-02-18T03:42:17.638Z
@@ -64,7 +64,7 @@ Firstly, you need to add both `tex2dds` and `texconv` to your Windows path in or
 
 ---
 
-<video width="520" height="auto" controls>
+<video width="720" height="auto" controls>
   <source src="/user-pictures/moga/how_to_add_a_folder_to_path_on_windows.mp4" type="video/mp4">
 </video>
 
