@@ -2,13 +2,13 @@
 title: How to fix Broken textures for champions named A-J
 description: A tutorial on how to fix broken textures caused by riot changing dds to tex
 published: true
-date: 2025-03-16T17:33:25.400Z
+date: 2025-03-16T17:34:56.529Z
 tags: texture, skin fix
 editor: markdown
 dateCreated: 2025-02-18T03:42:17.638Z
 ---
 
- # How to fix broken textures
+ # How to fix broken textures with LtMAO
 
 > This tutorial uses LtMAO, specifically the explorer contexts. If you dont have it installed, follow the instructions [here for installing LtMAO](/core-guides/tools/LtMAO) and [here for enabling explorer contexts](/core-guides/tools/LtMAO#explorer-contexts). Alternatively, use the second section of this tutorial to fix textures without LtMAO. {.is-warning}
 
