@@ -2,7 +2,7 @@
 title: How to fix Broken textures for champions named A-J
 description: A tutorial on how to fix broken textures caused by riot changing dds to tex
 published: true
-date: 2025-03-16T17:34:56.529Z
+date: 2025-03-16T17:38:25.430Z
 tags: texture, skin fix
 editor: markdown
 dateCreated: 2025-02-18T03:42:17.638Z
@@ -60,9 +60,13 @@ Under your extracted folder, `Mod_Name\WAD` you will find all of your mod's file
 > - ***Every*** champion, even A-J, still use DDS files for their QWER-P icons (found under `champ.wad\assets\characters\champ\hud\icons2d`).
 > - ***Every*** champion uses TEX for their loadscreen, regardless of their name.
 
-Firstly, you need to add both `tex2dds` and `texconv` to your Windows path in order to use them from within any directory, otherwise, they will only be available while inside the folder they were installed to. To do this, search `env var` from your Windows start menu and click `Edit the system environment variables` or follow this video guide [How to add a folder to PATH on Windows](https://www.youtube.com/watch?v=pGRw1bgb1gU) since default windows search is garbage.
+Firstly, you need to add both `tex2dds` and `texconv` to your Windows path in order to use them from within any directory, otherwise, they will only be available while inside the folder they were installed to. To do this, search `env var` from your Windows start menu and click `Edit the system environment variables` or follow this video guide since default windows search is garbage.
 
-[how_to_add_a_folder_to_path_on_windows.mp4](/user-pictures/moga/how_to_add_a_folder_to_path_on_windows.mp4)
+---
+
+<video width="520" height="auto" controls>
+  <source src="/user-pictures/moga/how_to_add_a_folder_to_path_on_windows.mp4" type="video/mp4">
+</video>
 
 Using tex2dds manually by dragging each file, from the cli like `tex2dds file.dds` to create `file.tex`, or using LtMAO's context menu is impractical.
 First, navigate **inside** of your `champion.wad` folder, press `Ctrl+L` or click to focus the address bar in file explorer, type `cmd`, and press enter to open a command prompt at your current location. Your cmd path should end with `champ.wad`.
