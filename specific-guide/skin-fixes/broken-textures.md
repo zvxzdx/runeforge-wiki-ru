@@ -2,7 +2,7 @@
 title: How to fix Broken textures for champions named A-J
 description: A tutorial on how to fix broken textures caused by riot changing DDS to TEX
 published: true
-date: 2025-03-17T20:21:27.825Z
+date: 2025-03-17T20:23:13.267Z
 tags: texture, skin fix
 editor: markdown
 dateCreated: 2025-02-18T03:42:17.638Z
@@ -20,7 +20,7 @@ Riot is in the process of updating League's texture file format from DDS to TEX,
 
 ## 1. Extract wad from CSLOL installed folder
 
-Find your mod's wad file under CSLOL's installed folder at `CSLOL\installed\Mod_Name`. Right click your mod's wad file, hover the LtMAO context menu and select `wad_tool Unpack to Folder`.
+Find your mod's wad file under CSLOL's installed folder at `CSLOL\installed\Mod_Name\WAD`. Right click your mod's wad file, hover the LtMAO context menu and select `wad_tool Unpack to Folder`.
 
 ![ltmao_unpack.png](/user-pictures/moga/ltmao_unpack.png =x400)
 
