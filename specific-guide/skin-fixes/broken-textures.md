@@ -2,7 +2,7 @@
 title: How to fix Broken textures for champions named A-J
 description: A tutorial on how to fix broken textures caused by riot changing DDS to TEX
 published: true
-date: 2025-03-17T20:23:39.573Z
+date: 2025-03-17T21:07:09.995Z
 tags: texture, skin fix
 editor: markdown
 dateCreated: 2025-02-18T03:42:17.638Z
@@ -24,7 +24,7 @@ Find your mod's wad file under CSLOL's installed folder at `CSLOL\installed\Mod_
 
 ![ltmao_unpack.png](/user-pictures/moga/ltmao_unpack.png =x400)
 
-## 2. Locate textures and convert to TEX with LtMAO
+## 2. Locate texture files and convert DDS to TEX
 > If your DDS file's X and Y dimensions aren't both multiples of 4 before converting to tex, their created TEX file will appear blank or whited out in game. See Step 4 of the second section of this guide, **"without LtMAO"** to fix this.
 {.is-info}
 
