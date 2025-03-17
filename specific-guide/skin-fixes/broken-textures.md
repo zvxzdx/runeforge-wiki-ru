@@ -2,7 +2,7 @@
 title: How to fix Broken textures for champions named A-J
 description: A tutorial on how to fix broken textures caused by riot changing DDS to TEX
 published: true
-date: 2025-03-17T21:07:50.285Z
+date: 2025-03-17T21:09:05.772Z
 tags: texture, skin fix
 editor: markdown
 dateCreated: 2025-02-18T03:42:17.638Z
@@ -10,7 +10,7 @@ dateCreated: 2025-02-18T03:42:17.638Z
 
 > The first section of this tutorial uses LtMAO, specifically its explorer contexts. Follow the instructions [here to install LtMAO](/core-guides/tools/LtMAO) and [here for enabling explorer contexts](/core-guides/tools/LtMAO#explorer-contexts).
 > 
-> Alternatively, use the [second section of this tutorial](https://wiki.runeforge.io/en/specific-guide/skin-fixes/broken-textures#how-to-bulk-fix-without-ltmao) to fix textures without LtMAO. {.is-warning}
+> Alternatively, use the [second section of this tutorial](https://wiki.runeforge.io/en/specific-guide/skin-fixes/broken-textures#how-to-bulk-fix-no-ltmao) to fix textures without LtMAO. {.is-warning}
 
 Riot is in the process of updating League's texture file format from DDS to TEX, updating groups of champions in alphabetical order. This causes mods to break because riot's files are now looking for TEX files while your mod still includes DDS files.
 
@@ -25,7 +25,7 @@ Find your mod's wad file under CSLOL's installed folder at `CSLOL\installed\Mod_
 ![ltmao_unpack.png](/user-pictures/moga/ltmao_unpack.png =x400)
 
 ## 2. Locate texture files and convert DDS to TEX
-> If your DDS file's X and Y dimensions aren't both multiples of 4 before converting to tex, their created TEX file will appear blank or whited out in game. See Step 4 of the second section of this guide, **"without LtMAO"** to fix this.
+> If your DDS file's X and Y dimensions aren't both multiples of 4 before converting to tex, their created TEX file will appear blank or whited out in game. See Step 4 of the second section of this guide, **(No LtMAO)** to fix this.
 {.is-info}
 
 1. First, you can delete any alternate low settings textures, beginning with `4x_` or `2x_` because TEX doesn't need alternative files to display lower resolutions.
