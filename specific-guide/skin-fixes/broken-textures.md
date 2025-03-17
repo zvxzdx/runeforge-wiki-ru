@@ -2,41 +2,46 @@
 title: How to fix Broken textures for champions named A-J
 description: A tutorial on how to fix broken textures caused by riot changing DDS to TEX
 published: true
-date: 2025-03-16T17:41:54.041Z
+date: 2025-03-17T20:20:58.993Z
 tags: texture, skin fix
 editor: markdown
 dateCreated: 2025-02-18T03:42:17.638Z
 ---
 
- # How to fix broken textures with LtMAO
-
-> This tutorial uses LtMAO, specifically the explorer contexts. If you dont have it installed, follow the instructions [here for installing LtMAO](/core-guides/tools/LtMAO) and [here for enabling explorer contexts](/core-guides/tools/LtMAO#explorer-contexts). 
+> The first section of this tutorial uses LtMAO, specifically its explorer contexts. Follow the instructions [here to install LtMAO](/core-guides/tools/LtMAO) and [here for enabling explorer contexts](/core-guides/tools/LtMAO#explorer-contexts).
 > 
 > Alternatively, use the [second section of this tutorial](https://wiki.runeforge.io/en/specific-guide/skin-fixes/broken-textures#how-to-bulk-fix-without-ltmao) to fix textures without LtMAO. {.is-warning}
 
+Riot is in the process of updating League's texture file format TEX, from DDS, updating groups of champions in alphabetical order. This causes mods to break because riot's files are now looking for TEX files while your mod still includes DDS files.
+
 ---
 
-Riot is slowly changing textures to tex, causing mods to break if they have outdated dds textures. This is a tutorial on how to fix them.
+# How to update DDS textures with LtMAO
 
-## 1. Find your mod in the cslol installed folder and extract the wad.
-> If you get a lot of files with random names after extracting, extract hashes first, then delete the folder and extract the wad again
+## 1. Extract wad from CSLOL installed folder
+
+Find your mod's wad file under CSLOL's installed folder at `CSLOL\installed\Mod_Name`. Right click your mod's wad file, hover the LtMAO context menu and select `wad_tool Unpack to Folder`.
+
+![ltmao_unpack.png](/user-pictures/moga/ltmao_unpack.png =x400)
+
+## 2. Locate textures and convert to TEX with LtMAO
+> If your DDS file's X and Y dimensions aren't both multiples of 4 before converting to tex, their created TEX file will appear blank or whited out in game. See Step 4 of the second section of this guide, **"without LtMAO"** to fix this.
 {.is-info}
 
-![ddstexwad.png](/user-pictures/fbs/ddstexwad.png)
+1. First, you can delete any alternate low settings textures, beginning with `4x_` or `2x_` because TEX doesn't need alternative files to display lower resolutions.
+2. Convert each DDS file to TEX by right clicking it, selecting `LtMAO` then click `Ritoddstex: Convert To TEX`.
+3. After you convert your files to TEX, you can delete any remaining DDS files. If LtMAO gives any errors like `Unsupported DDS format`, try converting to PNG using the same context menu, back to DDS, and finally to TEX. You can delete your remaining PNG files alongside the DDS files.
+4. If theres a folder labeled `particles`, you need to convert DDS files there as well.
 
-## 2. Find your textures and convert them using LtMAO
-> If your files' X and Y dimensions aren't both multiples of 4, their created tex file will crash your game or appear blank in game. 
-{.is-info}
-
-If you find any 2x, 4x files, delete them. After converting the files to tex, you can delete every dds file. If you get an error "Unsupported dds format", then convert dds to png, then png to dds and then dds to tex. U need to delete the png files just like the dds ones. If theres a particle folder, do it to every dds file there too.
 ![ddstexdel.png](/user-pictures/fbs/ddstexdel.png)
 
-## 3. Repack your wad, then restart cslol.
-If the wad change date changes, you can delete your folder.
+## 3. Repack your wad and reload CSLOL
+
 ![backtowad.png](/user-pictures/fbs/backtowad.png)
 ![deletefolder.png](/user-pictures/fbs/deletefolder.png)
 
-This should be it. if you did everything right, your textures should look good in game.
+This should be it. If you did everything right, your textures should look normal again in game.
+
 ![brad.png](/user-pictures/fbs/brad.png =x300)
 
 ---
@@ -59,7 +64,7 @@ Under your extracted folder, `Mod_Name\WAD` you will find all of your mod's file
 > Before bulk converting, it's very important to realize a few details about TEX and DDS files in league. ***As of the 25.5 patch***, 
 > - Only champions who's name begin with A-J use TEX files for their textures and particles. This means AoE converting with a loop will incorrectly convert some of these files, ex. if a Caitlyn mod uses textures in a Qiyana folder. This is less common, and a more specific command can be used to work around this.
 > - Most files found under `assets\shared` do not need to be TEX and should be left alone if they are.
-> - ***Every*** champion, even A-J, still use DDS files for their QWER-P icons (found under `champ.wad\assets\characters\champ\hud\icons2d`).
+> - ***Every*** champion, even A-J, still uses DDS files for their QWER-P icons (found under `champ.wad\assets\characters\champ\hud\icons2d`).
 > - ***Every*** champion uses TEX for their loadscreen, regardless of their name.
 
 Firstly, you need to add both `tex2dds` and `texconv` to your Windows path in order to use them from within any directory, otherwise, they will only be available while inside the folder they were installed to. To do this, search `env var` from your Windows start menu and click `Edit the system environment variables` or follow this video guide since default windows search is garbage.
