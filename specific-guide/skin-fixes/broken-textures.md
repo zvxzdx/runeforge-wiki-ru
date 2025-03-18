@@ -2,7 +2,7 @@
 title: Fix Broken textures for champions with names starting with A-J
 description: A tutorial on how to fix broken textures caused by riot changing DDS to TEX
 published: true
-date: 2025-03-18T08:58:20.170Z
+date: 2025-03-18T09:02:24.613Z
 tags: texture, skin fix
 editor: markdown
 dateCreated: 2025-02-18T03:42:17.638Z
@@ -16,7 +16,7 @@ Riot is in the process of updating League's main texture file format from DDS to
 
 ---
 
-# Update textures with LtMAO
+# Update Textures With LtMAO
 
 ## 1. Extract wad from CSLOL installed folder
 
@@ -44,7 +44,7 @@ This should be it. If you did everything right, your textures should look normal
 
 ---
 
-# How to Bulk Fix (No LtMAO)
+# Bulk Fix Large Mods (No LtMAO)
 
 > You will need both [tex2dds](https://github.com/Morilli/Ritoddstex/releases) by Morilli and [texconv](https://github.com/microsoft/DirectXTex/releases) by Microsoft. These are both small CLI utilities. It is recommended to install both of these to a folder you remember, such as "League Mod Tools".
 {.is-info}
