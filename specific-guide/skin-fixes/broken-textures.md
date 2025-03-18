@@ -2,7 +2,7 @@
 title: Fix Broken textures for champions with names starting with A-J
 description: A tutorial on how to fix broken textures caused by riot changing DDS to TEX
 published: true
-date: 2025-03-18T09:03:09.877Z
+date: 2025-03-18T13:39:46.186Z
 tags: texture, skin fix
 editor: markdown
 dateCreated: 2025-02-18T03:42:17.638Z
@@ -79,7 +79,7 @@ First, navigate **inside** of your `champion.wad` folder, press `Ctrl+L` or clic
 ![open_cmd_here.gif](/user-pictures/moga/open_cmd_here.gif =x225)
 
 To convert every single DDS file in a directory to TEX, or vice versa, shrimply run this for command inside `champ.wad`. Make sure you understand the four highlighted notes above.
-`for /R %I in (*dds) do tex2dds "%I"` If this fails with an error or appears blank/white in game, go to step 3 and 4.
+`for /R %I in (*dds) do tex2dds "%I"` If this fails with an error, appears blank/white in game, or wont load and crashes, see step 3 and 4.
 - `for` is the basic loop command used in CMD to iterate on a conditional set of files from just one command.
 - `/R` is a for loop switch that indicates to loop recursively, meaning every file in every subfolder.
 - `%I` represents the currently active file when looping through each file.
@@ -97,7 +97,7 @@ If this completed successfully, you can go to Step 5 to remake your wad file and
 
 This step can also be used to pre-fix any potentially bad DDS files before converting them to TEX.
 
-In most cases, simply converting all DDS files to TEX with `tex2dds` will have worked, but if both of the above criteria aren't met, your TEX file will either simply fail to convert and produce an error such as `Error: dds file needs to be in either DXT1, DXT5 or uncompressed BGRA8 format!` or appear invisible or whited out in game.
+In most cases, simply converting all DDS files to TEX with `tex2dds` will have worked, but if both of the above criteria aren't met, your TEX file will either simply fail to convert and produce an error such as `Error: dds file needs to be in either DXT1, DXT5 or uncompressed BGRA8 format!`, appear invisible or whited out in game, or fail to load and crash League.
 
 ![saved_bad_dds.png](/user-pictures/moga/saved_bad_dds.png =x200)
 
