@@ -2,7 +2,7 @@
 title: Fix Broken textures for champions with names starting with A-J
 description: A tutorial on how to fix broken textures caused by riot changing DDS to TEX
 published: true
-date: 2025-03-18T14:48:52.613Z
+date: 2025-03-18T17:12:01.192Z
 tags: texture, skin fix
 editor: markdown
 dateCreated: 2025-02-18T03:42:17.638Z
@@ -87,7 +87,7 @@ To convert every single DDS file in a directory to TEX, or vice versa, shrimply 
 
 > Optionally, append `&& del "%I"` in order to delete your DDS file after converting to TEX.
 
-Next, on the same command line, run `for /R %I in (4x*tex,2x*tex) do del "%I"` to delete your now redundant `4x_` and `2x_` alternative texture files. This can instead be ran first and replaced with `4x*dds,2x*dds`.
+Next, on the same command line, run `for /R %I in (4x*tex,2x*tex,4x*dds,2x*dds) do del "%I"` to delete your now redundant `4x_` and `2x_` alternative texture files.
 
 If this completed successfully, you can go to Step 5 to remake your wad file and try it in game. 
 
