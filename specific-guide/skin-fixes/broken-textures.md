@@ -2,7 +2,7 @@
 title: Fix Broken textures for champions with names starting with A-J
 description: A tutorial on how to fix broken textures caused by riot changing DDS to TEX
 published: true
-date: 2025-03-18T14:42:41.710Z
+date: 2025-03-18T14:45:01.253Z
 tags: texture, skin fix
 editor: markdown
 dateCreated: 2025-02-18T03:42:17.638Z
@@ -119,7 +119,7 @@ Until you understand this command you should make sure you're under `Champ.wad` 
 
 This section is slightly more nuanced and may seem confusing, but in the end it's 1-2 commands and little reading.
 
-After confirming your DDS files are in the BC3_UNORM format and converting them to TEX, they may still fail to appear as expected in game. This is uncommon, and is because the X & Y coordinates of your DDS file were not a multiple of 4 before converting to TEX. To confirm, use [texdiag](https://github.com/microsoft/DirectXTex/releases) from the initial texconv link and run `texdiag info "file.dds"`. The output will include various information about your input file.
+After confirming your DDS files are in the BC3_UNORM format and converting them to TEX, they may still fail to appear as expected in game. This is uncommon, and is because the X & Y coordinates of your DDS file were not a multiple of 4 before converting to TEX. To confirm this, use [texdiag](https://github.com/microsoft/DirectXTex/releases) from the initial texconv link and run `texdiag info "file.dds"`. The output will include various information about your input file.
 
 ![texdiag_out.png](/user-pictures/moga/texdiag_out.png)
 
