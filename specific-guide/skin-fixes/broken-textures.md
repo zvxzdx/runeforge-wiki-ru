@@ -2,7 +2,7 @@
 title: Fix Broken textures for champions with names starting with A-J
 description: A tutorial on how to fix broken textures caused by riot changing DDS to TEX
 published: true
-date: 2025-03-18T08:58:04.449Z
+date: 2025-03-18T08:58:20.170Z
 tags: texture, skin fix
 editor: markdown
 dateCreated: 2025-02-18T03:42:17.638Z
@@ -12,7 +12,7 @@ dateCreated: 2025-02-18T03:42:17.638Z
 > 
 > Alternatively, use the [second section of this tutorial](https://wiki.runeforge.io/en/specific-guide/skin-fixes/broken-textures#how-to-bulk-fix-no-ltmao) to fix textures without LtMAO. {.is-warning}
 
-Riot is in the process of updating League's texture file format from DDS to TEX, updating groups of champions in alphabetical order. This causes mods to break because riot's files are now looking for TEX files while your mod still includes DDS files.
+Riot is in the process of updating League's main texture file format from DDS to TEX, updating groups of champions in alphabetical order. This causes mods to break because riot's files are now looking for TEX files while your mod still includes DDS files.
 
 ---
 
