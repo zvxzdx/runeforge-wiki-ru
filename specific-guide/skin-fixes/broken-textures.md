@@ -2,7 +2,7 @@
 title: Fix Broken textures for champions with names starting with A-J
 description: A tutorial on how to fix broken textures caused by riot changing DDS to TEX
 published: true
-date: 2025-03-18T14:46:21.915Z
+date: 2025-03-18T14:47:36.245Z
 tags: texture, skin fix
 editor: markdown
 dateCreated: 2025-02-18T03:42:17.638Z
@@ -130,7 +130,7 @@ To fix this file you need to convert the DDS' pixel format to `BC3_UNORM` as exp
 > Remember, if this file is not in your current directory, so if your input file is `"path\path\file.dds"` you  need to provide `-o "path\path"` before.
 {.is-info}
 
-If you can't find the broken file(s) quickly manually there is an easy way to find it.
+If you're unable to find the broken file(s) manually there is simple way to find them.
 1. Run `texdiag info -r *dds>>%desktop%\all.txt`, into a text file  which prints all texdiag outputs into a text file. Note `%desktop%` is an example path, change that directory and filename to one for your drive.
 2. Next, do `texdiag info -r *dds | findstr "width height">>%desktop%\sizes.txt` which uses FINDSTR to filter just the lines including width and height information.
 3. Open `sizes.txt` and remove any duplicate lines using `Ctrl+Shift+D` if using Notepad++. This leaves you with a list of each unique dimension from every DDS file.
