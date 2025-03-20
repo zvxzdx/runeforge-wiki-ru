@@ -2,7 +2,7 @@
 title: Fix Broken textures for champions with names starting with A-J
 description: A tutorial on how to fix broken textures caused by riot changing DDS to TEX
 published: true
-date: 2025-03-20T07:30:28.722Z
+date: 2025-03-20T07:38:20.464Z
 tags: texture, skin fix
 editor: markdown
 dateCreated: 2025-02-18T03:42:17.638Z
@@ -26,10 +26,10 @@ Find your mod's WAD file under CSLOL's installed folder at `CSLOL\installed\Mod_
 
 ## 2. Locate texture files and convert DDS to TEX
 
-1. First, you can delete alternate files, ie., files beginning with `4x_` or `2x_` because TEX does not need alternate files to display at lower texture settings.
+1. First, you can delete alternate files, i.e., files beginning with `4x_` or `2x_` because TEX does not need alternate files to display at lower texture settings.
 2. Convert each DDS file to TEX by right clicking it, selecting `LtMAO` then click `Ritoddstex: Convert To TEX`.
 3. After you convert your files to TEX, you can delete any remaining DDS files. If LtMAO gives any errors like `Unsupported DDS format`, try converting to PNG using the same context menu, back to DDS, and finally to TEX. You can delete your remaining PNG files alongside the DDS files.
-4. If theres a folder labeled `particles`, you need to convert DDS files there as well.
+4. If there is a folder labeled `particles`, you need to convert DDS files there as well.
 
 ![ddstexdel.png](/user-pictures/fbs/ddstexdel.png =x105)
 
@@ -49,14 +49,14 @@ This should be it. If you did everything right, your textures should look normal
 > You will need both [tex2dds](https://github.com/Morilli/Ritoddstex/releases) by Morilli and [texconv](https://github.com/microsoft/DirectXTex/releases) by Microsoft. These are both small CLI utilities. Install both of these to a folder you can remember later.
 {.is-info}
 
-This tutorial uses CMD, but you can use Powershell if you want, you just need to adjust the commands quite a bit as loops arent similar and some tools are not the same as in CMD. Also, to use env vars in Powershell you need to append `$env:` ex., `%pbe%` is `$env:pbe` in Powershell.
+This tutorial uses CMD, but you can use PowerShell if you want, you just need to adjust the commands quite a bit as loops are not similar and some tools are not the same as in CMD. Also, to use Environment Variables in PowerShell you need to append `$env:` ex., `%pbe%` is `$env:pbe` in PowerShell.
 
 ## 1. Extract your mod and it's WAD file
-Extract your mod's Fantome or Zip file to a folder using 7-Zip or Winrar. To add 7-Zip options to your context menu follow this guide [Fix 7-Zip Option Missing From Context Menu](https://www.intowindows.com/fix-7-zip-option-missing-from-context-menu/). Additionally, for easier access to your mod's files in the future, set Fantome files to open by default with 7-Zip or Winrar.
+Extract your mod's Fantome or Zip file to a folder using 7-Zip or WinRAR. To add 7-Zip options to your context menu follow this guide [Fix 7-Zip Option Missing From Context Menu](https://www.intowindows.com/fix-7-zip-option-missing-from-context-menu/). Additionally, for easier access to your mod's files in the future, set Fantome files to open by default with 7-Zip or WinRAR.
 
 ![extract_&_open.png](/user-pictures/moga/extract_&_open.png =x250)
 
-Under your extracted folder, `Mod_Name\WAD` you will find all of your mod's files compressed within a single WAD file, labeled `Champion.wad.client` or `Champion.en_US.wad.client`. Extract a WAD by dragging it onto one of CSLOL's tools called `wad-extract`, found in your CSLOL directory under `CSLOL\cslol-tools\wad-extract`. This extracts your mod's files into a folder called `Champion.wad` next to your WAD file. It may be necessary to have updated hashes and their full pathnames in your `wad-extract` directory, although some files may be custom or no known hash regardless. Unknown hashes will not prevent you from converting or editing your files, but without them you may inadvertantly edit files, such as any QWER+P icons because they are largely indistingushable while not in their directory.
+Under your extracted folder, `Mod_Name\WAD` you will find all of your mod's files compressed within a single WAD file, labeled `Champion.wad.client` or `Champion.en_US.wad.client`. Extract a WAD by dragging it onto one of CSLOL's tools called `wad-extract`, found in your CSLOL directory under `CSLOL\cslol-tools\wad-extract`. This extracts your mod's files into a folder called `Champion.wad` next to your WAD file. It may be necessary to have updated hashes and their full pathnames in your `wad-extract` directory, although some files may be custom or no known hash regardless. Unknown hashes will not prevent you from converting or editing your files, but without them you may inadvertently edit files, such as any QWER+P icons because they are largely indistinguishable while not in their directory.
 
 > Similar to the technique used above to open Fantomes with 7-Zip, you can do the same for WAD files with the extension `.client` and `wad-extract`. Now, double clicking a WAD file has `wad-extract` extract it into a folder next to your WAD.
 
@@ -65,7 +65,7 @@ Under your extracted folder, `Mod_Name\WAD` you will find all of your mod's file
 > - Only champions who's name begin with A-J use TEX files for their textures and particles. This means AoE converting with a loop will incorrectly convert some of these files, ex., if a Caitlyn mod uses textures in a Qiyana folder. This is less common, and a more specific command can be used to work around this.
 > - Most files found under `assets\shared` do not need to be TEX and should be left alone if they are.
 > - ***Every*** champion, even A-J, still uses DDS files for their QWER+P icons (found under `champ.wad\assets\characters\champ\hud\icons2d`).
-> - ***Every*** champion uses TEX for their loadscreen found in the main folder and ingame profile pictures found in `champ.wad\assets\characters\champ\hud`, regardless of their name.
+> - ***Every*** champion uses TEX for their loadscreen found in the main folder and in game profile pictures found in `champ.wad\assets\characters\champ\hud`, regardless of their name.
 
 First, you need to add both `tex2dds` and `texconv` to your Windows path in order to use them from within any directory, otherwise, they will only be available while inside the folder they were installed to. To do this, search `env var` from your Windows start menu and click `Edit the system environment variables` or follow this video guide since default windows search is garbage.
 
@@ -129,13 +129,13 @@ The above image is a great example of a DDS file that might look like it has pro
 
 To fix this file you need to convert the DDS' pixel format to `BC3_UNORM` as explained in Step 3, and adjust the dimensions. To adjust dimensions, use the `-w` and `-h` switches for width and height, so `texconv -w 300 -h 304 -y "file.dds"`. If the offending file is a loadscreen, their default dimensions are `308x560`.
 
-Do note that adjusting—and especially ever so slightly changing the aspect ratio of very small files—such as an icon sized 111x94 to 112x96 will create **very** visible resampling artifacts. In order to save the image quality, it can be better to actually crop pixels using a photo editor such as [Paint.NET](https://www.getpaint.net/). Cropping instead of resizing is more useful for static images like icons or decals with text, whereas resizing an erroneous mod's champion texture from 258x256 to 256x256 is far less likely to generate any noticable discrepancies in game. If the texture is a part of the game involving heavy movement or is otherwise not a static icon, then any resampling blur will not be noticable in the final TEX texture.
+Do note that adjusting—and especially ever so slightly changing the aspect ratio of very small files—such as an icon sized 111x94 to 112x96 will create **very** visible resampling artifacts. In order to save the image quality, it can be better to actually crop pixels using a photo editor such as [Paint.NET](https://www.getpaint.net/). Cropping instead of resizing is more useful for static images like icons or decals with text, whereas resizing an erroneous mod's champion texture from 258x256 to 256x256 is far less likely to generate any noticeable discrepancies in game. If the texture is a part of the game involving heavy movement or is otherwise not a static icon, then any resampling blur will not be noticeable in the final TEX texture.
 
 ![fukt_up_resize.png](/user-pictures/moga/fukt_up_resize.png =x220)
 
-As seen in the image above, the right side image after being resized to 112x96 has very visible artifacting, especially around the black border which is very cleanly pixelated before being stretched. Cropping to add or remove 1-2 pixels from any suitible side of the image to create the proper TEX dimensions will likely have no or extremely minor adjustments in game and will completely avoid the risk of ruining the image with resampling blurring the edges.
+As seen in the image above, the right side image after being resized to 112x96 has very visible artifacting, especially around the black border which is very cleanly pixelated before being stretched. Cropping to add or remove 1-2 pixels from any suitable side of the image to create the proper TEX dimensions will likely have no or extremely minor adjustments in game and will completely avoid the risk of ruining the image with resampling blurring the edges.
 
-> Remember, if the input file for `texconv` is not in your current directory, ie., an input file like `"path\path\file.dds"`, you need to provide an output path, `-o "path\path"` before.
+> Remember, if the input file for `texconv` is not in your current directory, i.e., an input file like `"path\path\file.dds"`, you need to provide an output path, `-o "path\path"` before.
 {.is-info}
 
 If you are unable to find the broken file(s) manually there is simple way to find them.
@@ -158,5 +158,5 @@ Once you confirm your fix works as expected, follow similar steps as before when
 2. Delete the `Champ.wad` folder.
 3. Go up a directory, select both META and WAD, right click, and click "Add to archive". If this is not available, follow this guide [Fix 7-Zip Option Missing From Context Menu](https://www.intowindows.com/fix-7-zip-option-missing-from-context-menu/).
 You can also use 7-Zip from CMD assuming it's part of your PATH. To make a structurally correct mod use `7z a "Mod_Name.zip" META WAD RAW` while inside the directory with those folders leaving you with a zip file as your mod next to your WAD/META/RAW folders. You need to know exactly where you are when you run this or make the zip manually because if you nest or otherwise make an incorrect mod structure, upon importing the mod into CSLOL it will simply error out.
-4. After you have successfully made your Zip file, *and optionally rename the extension to .fantome for fun*, you can use your mod in CSLOL. A Fantome file is a Zip file with additional information about the file, and is unncessary at all.
+4. After you have successfully made your Zip file, *and optionally rename the extension to `fantome` for fun*, you can use your mod in CSLOL. A Fantome file is a Zip file with additional information about the file, and is unnecessary at all.
 5. Profit.
