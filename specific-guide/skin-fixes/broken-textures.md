@@ -2,7 +2,7 @@
 title: Fix Broken textures for champions with names starting with A-J
 description: A tutorial on how to fix broken textures caused by riot changing DDS to TEX
 published: true
-date: 2025-03-20T06:01:18.034Z
+date: 2025-03-20T06:01:46.351Z
 tags: texture, skin fix
 editor: markdown
 dateCreated: 2025-02-18T03:42:17.638Z
@@ -76,9 +76,9 @@ First, you need to add both `tex2dds` and `texconv` to your Windows path in orde
 </video>
 
 Using tex2dds manually by dragging each file, from the cli like `tex2dds file.tex` to create `file.dds`, or using LtMAO's context menu is impractical.
-Navigate **inside** of your `champion.wad` folder, press `Ctrl+L` or click to focus the address bar in file explorer, type `cmd`, and press enter to open a command prompt at your current location. Your cmd path should end with `champ.wad`.
+Navigate **inside** of your `champion.wad` folder, press `Ctrl+L` or click to focus the address bar in file explorer, type `cmd`, and press enter to open a command prompt at your current location. Your CMD path should end with `champ.wad`.
 
-![open_cmd_here.gif](/user-pictures/moga/open_cmd_here.gif =x225)
+![open_cmd_here.gif](/user-pictures/moga/open_cmd_here.gif =x325)
 
 To convert every single DDS file in a directory to TEX, or vice versa, shrimply run this for command inside `champ.wad`. Make sure you understand the four highlighted notes above.
 `for /R %I in (*dds) do tex2dds "%I"` If this fails with an error, appears blank/white in game, or wont load and crashes, see step 3 and 4.
