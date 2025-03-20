@@ -2,7 +2,7 @@
 title: Fix Broken textures for champions with names starting with A-J
 description: A tutorial on how to fix broken textures caused by riot changing DDS to TEX
 published: true
-date: 2025-03-20T06:41:11.117Z
+date: 2025-03-20T06:42:10.165Z
 tags: texture, skin fix
 editor: markdown
 dateCreated: 2025-02-18T03:42:17.638Z
@@ -125,7 +125,7 @@ After confirming your DDS files are in the BC3_UNORM format and converting them 
 
 ![texdiag_out.png](/user-pictures/moga/texdiag_out.png)
 
-The above image is a great example of a DDS file that might look like it has even number dimensions and therefore compatible with TEX (excluding the format), but will, 1. not not convert to TEX, and even if the format was compatible with `tex2dds`, it would simply create a TEX file that does not work in game because of it's improper dimensions.
+The above image is a great example of a DDS file that might look like it has even number dimensions and therefore should not create issues (excluding the format), but regardless, it will 1. not not convert to TEX, and even if the format was compatible with `tex2dds`, it would simply create a TEX file that does not work in game because of it's improper dimensions.
 
 To fix this file you need to convert the DDS' pixel format to `BC3_UNORM` as explained in Step 3, and change the dimensions to their closest multiple of 4. To adjust dimensions, use the `-w` and `-h` switches for width and height, so `texconv -w 300 -h 304 -y "file.dds"`. If the offending file is a loadscreen, their default dimensions are `308x560`.
 
