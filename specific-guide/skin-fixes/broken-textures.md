@@ -2,7 +2,7 @@
 title: Fix Broken textures for champions with names starting with A-J
 description: A tutorial on how to fix broken textures caused by riot changing DDS to TEX
 published: true
-date: 2025-03-20T05:34:30.093Z
+date: 2025-03-20T05:38:00.635Z
 tags: texture, skin fix
 editor: markdown
 dateCreated: 2025-02-18T03:42:17.638Z
@@ -18,9 +18,9 @@ Riot is in the process of updating League's main texture file format from DDS to
 
 # Update Textures With LtMAO
 
-## 1. Extract wad from CSLOL installed folder
+## 1. Extract WAD from CSLOL installed folder
 
-Find your mod's wad file under CSLOL's installed folder at `CSLOL\installed\Mod_Name\WAD`.
+Find your mod's WAD file under CSLOL's installed folder at `CSLOL\installed\Mod_Name\WAD`.
 
 ![ltmao_unpack.png](/user-pictures/moga/ltmao_unpack.png =x320)
 
@@ -33,7 +33,7 @@ Find your mod's wad file under CSLOL's installed folder at `CSLOL\installed\Mod_
 
 ![ddstexdel.png](/user-pictures/fbs/ddstexdel.png)
 
-## 3. Repack your wad and reload CSLOL
+## 3. Repack your WAD and reload CSLOL
 
 ![backtowad.png](/user-pictures/fbs/backtowad.png)
 ![deletefolder.png](/user-pictures/fbs/deletefolder.png)
@@ -51,14 +51,14 @@ This should be it. If you did everything right, your textures should look normal
 
 This tutorial uses CMD, but you can use Powershell if you want, you just need to adjust the commands quite a bit as loops arent similar and some tools aren't the same as in CMD. Also, to use env vars in Powershell you need to append `$env:` ex., `%pbe%` is `$env:pbe` in Powershell.
 
-## 1. Extract your mod and it's wad file
+## 1. Extract your mod and it's WAD file
 Extract your mod's Fantome or Zip file to a folder using 7-Zip or Winrar. To add 7-Zip options to your context menu follow this guide [Fix 7-Zip Option Missing From Context Menu](https://www.intowindows.com/fix-7-zip-option-missing-from-context-menu/). Additionally, for easier access to mod files in the future, set Fantome files to open by default with 7-Zip or Winrar.
 
 ![extract_&_open.png](/user-pictures/moga/extract_&_open.png =x250)
 
-Under your extracted folder, `Mod_Name\WAD` you will find all of your mod's files compressed within a single wad file, labeled `Champion.wad.client` or `Champion.en_US.wad.client`. Extract a wad by dragging it onto one of CSLOL's tools called `wad-extract`, found in your CSLOL directory under `CSLOL\cslol-tools\wad-extract`. This extracts your mod's files into a folder called `Champion.wad` next to your wad file.
+Under your extracted folder, `Mod_Name\WAD` you will find all of your mod's files compressed within a single WAD file, labeled `Champion.wad.client` or `Champion.en_US.wad.client`. Extract a WAD by dragging it onto one of CSLOL's tools called `wad-extract`, found in your CSLOL directory under `CSLOL\cslol-tools\wad-extract`. This extracts your mod's files into a folder called `Champion.wad` next to your WAD file.
 
-> Similar to the technique used above to open Fantomes with 7-Zip, you can do the same for `wad.client` and `wad-extract`. Now, double clicking a wad file will extract it into a folder next to your wad.
+> Similar to the technique used above to open Fantomes with 7-Zip, you can do the same for WAD files with the extension `.client` and `wad-extract`. Now, double clicking a WAD file has `wad-extract` extract it into a folder next to your WAD.
 
 ## 2. Convert DDS to TEX in bulk without LtMAO
 > Before bulk converting, it's very important to realize a few details about TEX and DDS files in league. ***As of the 25.5 patch***, 
@@ -91,7 +91,7 @@ To convert every single DDS file in a directory to TEX, or vice versa, shrimply 
 
 Next, on the same command line, run `for /R %I in (4x*tex,2x*tex,4x*dds,2x*dds) do del "%I"` to delete your now redundant `4x_` and `2x_` alternative texture files.
 
-If this completed successfully, you can go to Step 5 to remake your wad file and try it in game. 
+If this completed successfully, you can go to Step 5 to remake your WAD file and try it in game. 
 
 ## 3. Optional: Fix bad DDS file's pixel format
 > There are two requirements for a DDS file to correctly convert to a league TEX file. It must be in a DXT1, DXT5, or uncompressed BGRA8 format and it's X and Y dimensions must both be multiples of 4.
@@ -105,7 +105,7 @@ In most cases, simply converting all DDS files to TEX with `tex2dds` will have w
 
 - Type `texconv` with no options to see all available switches.
 
-Now, run `texconv -f BC3_UNORM -r:keep -y *dds` to iterate on all DDS files below your current directory. If you mess this up, it's ok, just delete the `Champ.wad` folder and re-extract the wad file to start over.
+Now, run `texconv -f BC3_UNORM -r:keep -y *dds` to iterate on all DDS files below your current directory. If you mess this up, it's ok, just delete the `Champ.wad` folder and re-extract the WAD file to start over.
 - `-f` is the output pixel format flag and `BC3_UNORM` is the specified format. All of the formats are listed at the bottom of the texconv help output.
 - `-r` is used to tell texconv to recursively search for your input files, ie, go below your current directory, into subfolders. `:keep` leaves the output file in the same spot as it was, otherwise texconv will put every converted file into your current directory (bad!)
 - `-y` overwrites your old/input file with the converted/output file.
@@ -145,11 +145,11 @@ This is just an underdeveloped shortcut to finding bad files. With better filter
 
 Alternatively, you can use [Paint.NET](https://www.getpaint.net/index.html) to resize your DDS file in a gui application. The shortcut to open the resize window is `Ctrl+R`.
 
-## 5. Remake wad and repack mod file
+## 5. Remake WAD and repack mod file
 
-Firstly, test your fix without repacking your wad or Fantome/Zip. Simply drag the `Champ.wad` **folder** (not .client file) into CSLOL. It will load normally if you drag the correct folder, and it's name will be `Champion` with no metadata or description information.
+Firstly, test your fix without repacking your WAD or Fantome/Zip. Simply drag the `Champ.wad` **folder** (not .client file) into CSLOL. It will load normally if you drag the correct folder, and it's name will be `Champion` with no metadata or description information.
 
-Once you confirm your fix works as expected, follow similar steps as before when you extracted your wad.
+Once you confirm your fix works as expected, follow similar steps as before when you extracted your WAD.
 1. Drag the `Champ.wad` onto `wad-make`. This will overwrite the `Champ.wad.client` file.
 2. Delete the `Champ.wad` folder.
 3. Go up a directory, select both META and WAD, right click, and click "Add to archive". If this isn't available, follow this guide [Fix 7-Zip Option Missing From Context Menu](https://www.intowindows.com/fix-7-zip-option-missing-from-context-menu/).
