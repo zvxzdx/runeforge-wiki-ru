@@ -2,7 +2,7 @@
 title: Fix Broken textures for champions with names starting with A-J
 description: A tutorial on how to fix broken textures caused by riot changing DDS to TEX
 published: true
-date: 2025-03-20T01:57:54.285Z
+date: 2025-03-20T05:30:13.277Z
 tags: texture, skin fix
 editor: markdown
 dateCreated: 2025-02-18T03:42:17.638Z
@@ -48,6 +48,8 @@ This should be it. If you did everything right, your textures should look normal
 
 > You will need both [tex2dds](https://github.com/Morilli/Ritoddstex/releases) by Morilli and [texconv](https://github.com/microsoft/DirectXTex/releases) by Microsoft. These are both small CLI utilities. Install both of these to a folder you can remember later.
 {.is-info}
+
+This tutorial uses CMD, but you can use Powershell if you want, you just need to adjust the commands quite a bit as loops arent similar and some tools aren't the same as in CMD. Also, to use env vars in Powershell you need to append `$env:` ex. `%pbe%` becomes `$env:pbe` in Powershell.
 
 ## 1. Extract your mod and it's wad file
 Extract your mod's Fantome or Zip file to a folder using 7-Zip or Winrar. To add 7-Zip options to your context menu follow this guide [Fix 7-Zip Option Missing From Context Menu](https://www.intowindows.com/fix-7-zip-option-missing-from-context-menu/). Additionally, for easier access to mod files in the future, set Fantome files to open by default with 7-Zip or Winrar.
@@ -139,15 +141,18 @@ If you're unable to find the broken file(s) manually there is simple way to find
 
 As you can see from this list of dimensions, there are two values that aren't multiples of 4. Using this information you can go to `all.txt` and search for 1534 to find the files with incorrect dimensions.
 
-Alternatively, use [Paint.NET](https://www.getpaint.net/index.html) to resize your DDS file in a gui application. The shortcut to open the resize window is `Ctrl+R`.
+This is just an underdeveloped shortcut to finding bad files. With better filters and some conditionals you could easily make something that prints out offending files instead of finding them manually.
+
+Alternatively, you can use [Paint.NET](https://www.getpaint.net/index.html) to resize your DDS file in a gui application. The shortcut to open the resize window is `Ctrl+R`.
 
 ## 5. Remake wad and repack mod file
 
-Firstly, test your fix without repacking your wad or Fantome/Zip. Simply drag the `Champ.wad` **folder** (not .client file) into CSLOL. It will work if you drag the correct folder, and it'll be called `Champion` with no metadata/description.
+Firstly, test your fix without repacking your wad or Fantome/Zip. Simply drag the `Champ.wad` **folder** (not .client file) into CSLOL. It will load normally if you drag the correct folder, and it's name will be `Champion` with no metadata or description information.
 
-Once you confirm your fix is good, follow similar steps as before when you extracted your wad.
+Once you confirm your fix works as expected, follow similar steps as before when you extracted your wad.
 1. Drag the `Champ.wad` onto `wad-make`. This will overwrite the `Champ.wad.client` file.
 2. Delete the `Champ.wad` folder.
-3. Go up a directory and select both META and WAD, right click, and click "Add to archive". If this isn't available, follow this guide [Fix 7-Zip Option Missing From Context Menu](https://www.intowindows.com/fix-7-zip-option-missing-from-context-menu/).
-4. Create the Zip file, and optionally rename the extension to .fantome for funsies, but CSLOL takes Zip the same as Fantome.
+3. Go up a directory, select both META and WAD, right click, and click "Add to archive". If this isn't available, follow this guide [Fix 7-Zip Option Missing From Context Menu](https://www.intowindows.com/fix-7-zip-option-missing-from-context-menu/).
+You can also use 7-Zip from CMD assuming it's part of your PATH. To make a structurally correct mod use `7z a "Mod_Name.zip" META WAD RAW` while inside the directory with those folders leaving you with a zip file as your mod next to your WAD/META/RAW folders. It's imporant that you know exactly where you are when you run this or make the zip manually because  if you nest or otherwise make an incorrect mod structure, upon importing the mod into CSLOL it will simply error out.
+4. After you've made your Zip file, *and optionally rename the extension to .fantome for fun*, you can use your mod in CSLOL. A Fantome file is a Zip file with additional information about the file, and is unncessary at all.
 5. Profit.
