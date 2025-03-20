@@ -2,7 +2,7 @@
 title: Fix Broken textures for champions with names starting with A-J
 description: A tutorial on how to fix broken textures caused by riot changing DDS to TEX
 published: true
-date: 2025-03-20T19:59:08.797Z
+date: 2025-03-20T20:27:54.342Z
 tags: texture, skin fix
 editor: markdown
 dateCreated: 2025-02-18T03:42:17.638Z
@@ -113,7 +113,7 @@ Now, run `texconv -f BC3_UNORM -r:keep -y *dds` to iterate on all DDS files belo
 
 ![img_of_texconv_cmd.png](/user-pictures/moga/img_of_texconv_cmd.png)
 
-> While using `texconv`, it is important you are not in any random directory while using it because `-r` combined with the `*` wildcard will tell texconv to do **every** file under you. **If you want to work on a directory you are not inside of, you need to provide an output directory to texconv with `-o`** Ex., `texconv -f BC3_UNORM -r:keep -y -o Mod_Name\folder" "Mod_Name\folder\*dds"`
+> While using `texconv`, it is important you are not in any random directory while using it because `-r` combined with the `*` wildcard will tell texconv to do **every** file under you. **If you want to work on a directory you are not inside of, you need to provide an output DIRECTORY to texconv with `-o`** Ex., `texconv -f BC3_UNORM -r:keep -y -o Mod_Name\folder" "Mod_Name\folder\*dds"`
 Until you understand this command you should make sure you are under `Champ.wad` like the above image!
 {.is-warning}
 
@@ -129,19 +129,19 @@ The above image is a great example of a DDS file that might look like it has pro
 
 To fix this file you need to convert the DDS' pixel format to `BC3_UNORM` as explained in Step 3, and adjust the dimensions. To adjust dimensions, use the `-w` and `-h` switches for width and height, so `texconv -w 300 -h 304 -y "file.dds"`. If the offending file is a loadscreen, their default dimensions are `308x560`.
 
-Do note that adjusting—and especially ever so slightly changing the aspect ratio of very small files—such as an icon sized 111x94 to 112x96 will create **very** visible resampling artifacts. In order to preserve image quality, it can be better to actually crop pixels from a specific side of the image using a photo editor such as [Paint.NET](https://www.getpaint.net/). Cropping instead of resizing is more useful for static images like icons or decals with text, whereas resizing an erroneous mod's champion texture from 258x256 to 256x256 is far less likely to generate any noticeable discrepancies in game. If the texture is a part of the game involving heavy movement or is otherwise not a static icon, then any resampling blur will not be noticeable in the final TEX texture.
+Do note that adjusting—and especially ever so slightly changing the aspect ratio of very small files—such as an icon with the size 111x94 to 112x96 will create **very** apparent resampling artifacts. In order to preserve image quality, it may be better to actually crop pixels from a specific side of the image using a photo editor such as [Paint.NET](https://www.getpaint.net/). Cropping instead of resizing is more useful for static images like icons or decals with text, whereas resizing an erroneous mod's champion texture from 258x256 to 256x256 is far less likely to generate any noticeable discrepancies in game. If the texture is a part of the game involving heavy movement or is otherwise not a static icon, then any resampling blur will not be noticeable in the final TEX texture.
 
 ![fukt_up_resize.png](/user-pictures/moga/fukt_up_resize.png =x220)
 
 As seen in the image above, the right side image, having been resized to 112x96, has very visible artifacting, especially around it's jagged border. If I were to instead crop or extend the the original image's canvas (in accordance with the proper TEX dimensions), it will likely have no or extremely minor adjustments in game; and completely avoid the risk of resample blur ruining the image. The results of cropping can vary on the type of image, for example, an image used as an animation graphic like `kayn_spritesatlas_02`; even cropping or adding only a single pixel may completely alter it's animation in game.
 
-> Remember, if the input file provided to `texconv` is not in your current directory, i.e., the input file `"path\path\*.dds"`, you need to provide an output path, `-o "path\path"` before.
+> Remember, if the input file provided to `texconv` is not in your current directory, i.e., the input file `"path\path\*.dds"`, you need to provide an output path, `-o "path\path"` before. Also note that `texconv` will only output to preexisting directories.
 {.is-info}
 
 If you are unable to find the broken file(s) manually there is simple way to find them.
 1. Run `texdiag info -r *dds>>%desktop%\all.txt`, into a text file. Note `%desktop%` is an example path, change that directory and filename to one for your drive.
 2. Next, do `texdiag info -r *dds | findstr "width height">>%desktop%\sizes.txt` which uses FINDSTR to filter just the lines including width and height information.
-3. Open `sizes.txt` and globally remove duplicate lines with your text editor's tool, `Ctrl+Shift+D` in Notepad++. This cretes a brief list of each unique dimension from your pool of DDS files.
+3. Open `sizes.txt` and globally remove duplicate lines with your text editor's tool, `Ctrl+Shift+D` in Notepad++. This creates a brief list of each unique dimension from your pool of DDS files.
 
 ![npp_sizes.png](/user-pictures/moga/npp_sizes.png)
 
