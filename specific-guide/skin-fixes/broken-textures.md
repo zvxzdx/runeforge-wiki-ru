@@ -2,7 +2,7 @@
 title: Fix Broken textures for champions with names starting with A-J
 description: A tutorial on how to fix broken textures caused by riot changing DDS to TEX
 published: true
-date: 2025-03-20T19:43:27.598Z
+date: 2025-03-20T19:50:52.300Z
 tags: texture, skin fix
 editor: markdown
 dateCreated: 2025-02-18T03:42:17.638Z
@@ -141,13 +141,13 @@ As seen in the image above, the right side image after being resized to 112x96 h
 If you are unable to find the broken file(s) manually there is simple way to find them.
 1. Run `texdiag info -r *dds>>%desktop%\all.txt`, into a text file. Note `%desktop%` is an example path, change that directory and filename to one for your drive.
 2. Next, do `texdiag info -r *dds | findstr "width height">>%desktop%\sizes.txt` which uses FINDSTR to filter just the lines including width and height information.
-3. Open `sizes.txt` and remove any duplicate lines using `Ctrl+Shift+D` if using Notepad++. This leaves you with a list of each unique dimension from every DDS file.
+3. Open `sizes.txt` and globally remove duplicate lines with your text editor's tool, `Ctrl+Shift+D` in Notepad++. This cretes a brief list of each unique dimension from your pool of DDS files.
 
 ![npp_sizes.png](/user-pictures/moga/npp_sizes.png)
 
-As you can see from this list of dimensions, there are two values that are not multiples of 4. Using this information you can go to `all.txt` and search for 1534 to find the files with incorrect dimensions.
+As you can see from this list, there are two obvious values that are not compatible with TEX. Using this information you can go to `all.txt` and search your faulty height and/or width to find the file(s) with incorrect dimensions.
 
-This is just an underdeveloped shortcut to finding bad files. With better filters and some conditionals you could easily make something that prints out offending files instead of finding them manually.
+This is a very underdeveloped shortcut to finding bad files and with better filters and some conditionals you could easily make something that prints out offending files instead of finding them manually.
 
 ## 5. Remake WAD and repack mod file
 
