@@ -2,7 +2,7 @@
 title: Fix Broken textures for champions with names starting with A-J
 description: A tutorial on how to fix broken textures caused by riot changing DDS to TEX
 published: true
-date: 2025-03-20T06:24:13.573Z
+date: 2025-03-20T06:26:08.821Z
 tags: texture, skin fix
 editor: markdown
 dateCreated: 2025-02-18T03:42:17.638Z
@@ -83,7 +83,7 @@ Navigate **inside** of your `champion.wad` folder, press `Ctrl+L` or click to fo
 To convert every single DDS file in a directory to TEX, or vice versa, shrimply run this for command inside `champ.wad`. Make sure you understand the four highlighted notes above.
 `for /R %I in (*dds) do tex2dds "%I"` If this fails with an error, appears blank/white in game, or wont load and crashes, see step 3 and 4.
 - `for` is the basic loop command used in CMD to iterate on a conditional set of files from just one command.
-- `/R` is a for loop switch that indicates to loop recursively, meaning every file in every subfolder.
+- `/R` is a for loop switch that indicates to loop recursively.
 - `%I` represents the currently active file when looping through each file.
 - `(*dds)` uses the `*` wildcard to find any file that begins with literally anything and ends in `dds`.
 
