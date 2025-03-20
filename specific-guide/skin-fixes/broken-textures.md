@@ -2,7 +2,7 @@
 title: Fix Broken textures for champions with names starting with A-J
 description: A tutorial on how to fix broken textures caused by riot changing DDS to TEX
 published: true
-date: 2025-03-20T07:23:29.620Z
+date: 2025-03-20T07:25:00.355Z
 tags: texture, skin fix
 editor: markdown
 dateCreated: 2025-02-18T03:42:17.638Z
@@ -148,8 +148,6 @@ If you are unable to find the broken file(s) manually there is simple way to fin
 As you can see from this list of dimensions, there are two values that are not multiples of 4. Using this information you can go to `all.txt` and search for 1534 to find the files with incorrect dimensions.
 
 This is just an underdeveloped shortcut to finding bad files. With better filters and some conditionals you could easily make something that prints out offending files instead of finding them manually.
-
-Alternatively, you can use [Paint.NET](https://www.getpaint.net/) to resize your DDS file in a gui application. The shortcut to open the resize window is `Ctrl+R`.
 
 ## 5. Remake WAD and repack mod file
 
