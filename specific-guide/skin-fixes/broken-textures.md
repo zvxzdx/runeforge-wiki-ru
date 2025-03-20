@@ -2,7 +2,7 @@
 title: Fix Broken textures for champions with names starting with A-J
 description: A tutorial on how to fix broken textures caused by riot changing DDS to TEX
 published: true
-date: 2025-03-20T07:16:35.955Z
+date: 2025-03-20T07:19:15.126Z
 tags: texture, skin fix
 editor: markdown
 dateCreated: 2025-02-18T03:42:17.638Z
@@ -128,7 +128,7 @@ After confirming your DDS files are in the BC3_UNORM format and converting them 
 The above image is a great example of a DDS file that might look like it has proper dimensions because of the even numbers and therefore should not create issues, but instead, it will 1. not not convert to TEX because of the pixel format, and 2. even if the format was compatible with `tex2dds`, tex2dds would simply create a TEX file that does not work in game because of it's improper dimensions.
 
 To fix this file you need to convert the DDS' pixel format to `BC3_UNORM` as explained in Step 3, and adjust the dimensions. To adjust dimensions, use the `-w` and `-h` switches for width and height, so `texconv -w 300 -h 304 -y "file.dds"`. If the offending file is a loadscreen, their default dimensions are `308x560`.
-Do note that adjusting—and especially ever so slightly changing the aspect ratio of very small files—such as an icon sized 111x94 to 112x96 will create very visible resampling artifacts. In order to save the image quality, it can be better to actually crop pixels using a photo editor such as [Paint.NET](https://www.getpaint.net/). Cropping instead of resizing is more useful for static images like icons or decals with text, whereas resizing an erroneous mod's main champion texture from 1026x1024 to 1024x1024 is far less likely to generate any noticable discrepancies in game.
+Do note that adjusting—and especially ever so slightly changing the aspect ratio of very small files—such as an icon sized 111x94 to 112x96 will create very visible resampling artifacts. In order to save the image quality, it can be better to actually crop pixels using a photo editor such as [Paint.NET](https://www.getpaint.net/). Cropping instead of resizing is more useful for static images like icons or decals with text, whereas resizing an erroneous mod's champion texture from 258x256 to 256x256 is far less likely to generate any noticable discrepancies in game. If the texture is a part of the game involving heavy movement or is otherwise not a static icon any resampling blur will not be noticable.. 
 
 ![fukt_up_resize.png](/user-pictures/moga/fukt_up_resize.png =x220)
 
