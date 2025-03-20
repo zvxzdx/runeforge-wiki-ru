@@ -2,7 +2,7 @@
 title: Fix Broken textures for champions with names starting with A-J
 description: A tutorial on how to fix broken textures caused by riot changing DDS to TEX
 published: true
-date: 2025-03-20T06:43:58.646Z
+date: 2025-03-20T07:16:35.955Z
 tags: texture, skin fix
 editor: markdown
 dateCreated: 2025-02-18T03:42:17.638Z
@@ -127,9 +127,14 @@ After confirming your DDS files are in the BC3_UNORM format and converting them 
 
 The above image is a great example of a DDS file that might look like it has proper dimensions because of the even numbers and therefore should not create issues, but instead, it will 1. not not convert to TEX because of the pixel format, and 2. even if the format was compatible with `tex2dds`, tex2dds would simply create a TEX file that does not work in game because of it's improper dimensions.
 
-To fix this file you need to convert the DDS' pixel format to `BC3_UNORM` as explained in Step 3, and change the dimensions to their closest multiple of 4. To adjust dimensions, use the `-w` and `-h` switches for width and height, so `texconv -w 300 -h 304 -y "file.dds"`. If the offending file is a loadscreen, their default dimensions are `308x560`.
+To fix this file you need to convert the DDS' pixel format to `BC3_UNORM` as explained in Step 3, and adjust the dimensions. To adjust dimensions, use the `-w` and `-h` switches for width and height, so `texconv -w 300 -h 304 -y "file.dds"`. If the offending file is a loadscreen, their default dimensions are `308x560`.
+Do note that adjusting—and especially ever so slightly changing the aspect ratio of very small files—such as an icon sized 111x94 to 112x96 will create very visible resampling artifacts. In order to save the image quality, it can be better to actually crop pixels using a photo editor such as [Paint.NET](https://www.getpaint.net/). Cropping instead of resizing is more useful for static images like icons or decals with text, whereas resizing an erroneous mod's main champion texture from 1026x1024 to 1024x1024 is far less likely to generate any noticable discrepancies in game.
 
-> Remember, if this file is not in your current directory, so if your input file is `"path\path\file.dds"` you need to provide `-o "path\path"` before.
+![fukt_up_resize.png](/user-pictures/moga/fukt_up_resize.png =x220)
+
+As seen in the image above, the right side image after being resized to 112x96 has very visible artifacting. Cropping to add or remove 1-2 pixels from the top or right to fix the proper TEX dimension requirements will likely have none or extremely minor adjustments in game and will not completely ruin the image with resampling blurring the edges.
+
+> Remember, if the input file for `texconv` is not in your current directory, ie., an input file like `"path\path\file.dds"`, you need to provide an output path, `-o "path\path"` before.
 {.is-info}
 
 If you are unable to find the broken file(s) manually there is simple way to find them.
@@ -143,7 +148,7 @@ As you can see from this list of dimensions, there are two values that are not m
 
 This is just an underdeveloped shortcut to finding bad files. With better filters and some conditionals you could easily make something that prints out offending files instead of finding them manually.
 
-Alternatively, you can use [Paint.NET](https://www.getpaint.net/index.html) to resize your DDS file in a gui application. The shortcut to open the resize window is `Ctrl+R`.
+Alternatively, you can use [Paint.NET](https://www.getpaint.net/) to resize your DDS file in a gui application. The shortcut to open the resize window is `Ctrl+R`.
 
 ## 5. Remake WAD and repack mod file
 
