@@ -2,7 +2,7 @@
 title: Fix Broken textures for champions with names starting with A-J
 description: A tutorial on how to fix broken textures caused by riot changing DDS to TEX
 published: true
-date: 2025-03-20T07:38:20.464Z
+date: 2025-03-20T19:39:01.785Z
 tags: texture, skin fix
 editor: markdown
 dateCreated: 2025-02-18T03:42:17.638Z
@@ -113,7 +113,7 @@ Now, run `texconv -f BC3_UNORM -r:keep -y *dds` to iterate on all DDS files belo
 
 ![img_of_texconv_cmd.png](/user-pictures/moga/img_of_texconv_cmd.png)
 
-> While using `texconv`, it is important you are not in any random directory while using it because `-r` combined with the `*` wildcard will tell texconv to do **every** file under you. **If you want to work on a directory you are not inside of, you need to provide an output directory to texconv with `-o`** Ex., `texconv -f BC3_UNORM -r:keep -y -o Mod_Name\WAD\Riven.wad\assets\folder" "Mod_Name\WAD\Riven.wad\assets\folder\*dds"`
+> While using `texconv`, it is important you are not in any random directory while using it because `-r` combined with the `*` wildcard will tell texconv to do **every** file under you. **If you want to work on a directory you are not inside of, you need to provide an output directory to texconv with `-o`** Ex., `texconv -f BC3_UNORM -r:keep -y -o Mod_Name\folder" "Mod_Name\folder\*dds"`
 Until you understand this command you should make sure you are under `Champ.wad` like the above image!
 {.is-warning}
 
