@@ -2,7 +2,7 @@
 title: Fix Broken textures for champions with names starting with A-J
 description: A tutorial on how to fix broken textures caused by riot changing DDS to TEX
 published: true
-date: 2025-03-20T07:22:51.355Z
+date: 2025-03-20T07:23:29.620Z
 tags: texture, skin fix
 editor: markdown
 dateCreated: 2025-02-18T03:42:17.638Z
@@ -133,7 +133,7 @@ Do note that adjusting—and especially ever so slightly changing the aspect rat
 
 ![fukt_up_resize.png](/user-pictures/moga/fukt_up_resize.png =x220)
 
-As seen in the image above, the right side image after being resized to 112x96 has very visible artifacting. Cropping to add or remove 1-2 pixels from any suitible side of the image to create the proper TEX dimensions will likely have none or extremely minor adjustments in game and will completely avoid the risk of ruining the image with resampling blurring the edges.
+As seen in the image above, the right side image after being resized to 112x96 has very visible artifacting. Cropping to add or remove 1-2 pixels from any suitible side of the image to create the proper TEX dimensions will likely have no or extremely minor adjustments in game and will completely avoid the risk of ruining the image with resampling blurring the edges.
 
 > Remember, if the input file for `texconv` is not in your current directory, ie., an input file like `"path\path\file.dds"`, you need to provide an output path, `-o "path\path"` before.
 {.is-info}
