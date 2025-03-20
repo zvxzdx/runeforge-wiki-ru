@@ -2,7 +2,7 @@
 title: Fix Broken textures for champions with names starting with A-J
 description: A tutorial on how to fix broken textures caused by riot changing DDS to TEX
 published: true
-date: 2025-03-20T07:21:01.733Z
+date: 2025-03-20T07:21:31.119Z
 tags: texture, skin fix
 editor: markdown
 dateCreated: 2025-02-18T03:42:17.638Z
@@ -129,7 +129,7 @@ The above image is a great example of a DDS file that might look like it has pro
 
 To fix this file you need to convert the DDS' pixel format to `BC3_UNORM` as explained in Step 3, and adjust the dimensions. To adjust dimensions, use the `-w` and `-h` switches for width and height, so `texconv -w 300 -h 304 -y "file.dds"`. If the offending file is a loadscreen, their default dimensions are `308x560`.
 
-Do note that adjusting—and especially ever so slightly changing the aspect ratio of very small files—such as an icon sized 111x94 to 112x96 will create **very** visible resampling artifacts. In order to save the image quality, it can be better to actually crop pixels using a photo editor such as [Paint.NET](https://www.getpaint.net/). Cropping instead of resizing is more useful for static images like icons or decals with text, whereas resizing an erroneous mod's champion texture from 258x256 to 256x256 is far less likely to generate any noticable discrepancies in game. If the texture is a part of the game involving heavy movement or is otherwise not a static icon any resampling blur will not be noticable.
+Do note that adjusting—and especially ever so slightly changing the aspect ratio of very small files—such as an icon sized 111x94 to 112x96 will create **very** visible resampling artifacts. In order to save the image quality, it can be better to actually crop pixels using a photo editor such as [Paint.NET](https://www.getpaint.net/). Cropping instead of resizing is more useful for static images like icons or decals with text, whereas resizing an erroneous mod's champion texture from 258x256 to 256x256 is far less likely to generate any noticable discrepancies in game. If the texture is a part of the game involving heavy movement or is otherwise not a static icon, then any resampling blur will not be noticable.
 
 ![fukt_up_resize.png](/user-pictures/moga/fukt_up_resize.png =x220)
 
