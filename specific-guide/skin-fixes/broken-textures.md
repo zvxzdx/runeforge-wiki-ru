@@ -2,7 +2,7 @@
 title: Fix Broken textures for champions with names starting with A-J
 description: A tutorial on how to fix broken textures caused by riot changing DDS to TEX
 published: true
-date: 2025-03-20T05:54:37.985Z
+date: 2025-03-20T05:55:14.109Z
 tags: texture, skin fix
 editor: markdown
 dateCreated: 2025-02-18T03:42:17.638Z
@@ -62,7 +62,7 @@ Under your extracted folder, `Mod_Name\WAD` you will find all of your mod's file
 
 ## 2. Convert DDS to TEX in bulk without LtMAO
 > Before bulk converting, you should understand a few details about TEX and DDS files in league. ***As of the 25.5 patch***, 
-> - Only champions who's name begin with A-J use TEX files for their textures and particles. This means AoE converting with a loop will incorrectly convert some of these files, ex. if a Caitlyn mod uses textures in a Qiyana folder. This is less common, and a more specific command can be used to work around this.
+> - Only champions who's name begin with A-J use TEX files for their textures and particles. This means AoE converting with a loop will incorrectly convert some of these files, ex., if a Caitlyn mod uses textures in a Qiyana folder. This is less common, and a more specific command can be used to work around this.
 > - Most files found under `assets\shared` do not need to be TEX and should be left alone if they are.
 > - ***Every*** champion, even A-J, still uses DDS files for their QWER-P icons (found under `champ.wad\assets\characters\champ\hud\icons2d`).
 > - ***Every*** champion uses TEX for their loadscreen and ingame profile pictures, regardless of their name.
@@ -113,7 +113,7 @@ Now, run `texconv -f BC3_UNORM -r:keep -y *dds` to iterate on all DDS files belo
 
 ![img_of_texconv_cmd.png](/user-pictures/moga/img_of_texconv_cmd.png)
 
-> It is also important you are not in any random directory before running this because `-r` combined with the `*` wildcard will tell texconv to do **every** file under you. **If you want to work on a directory you are not inside of, you need to provide an output directory to texconv with `-o`** Ex. `texconv -f BC3_UNORM -r:keep -y -o "Mod_Name\WAD\Riven.wad" "Mod_Name\WAD\Riven.wad\*dds"`
+> It is also important you are not in any random directory before running this because `-r` combined with the `*` wildcard will tell texconv to do **every** file under you. **If you want to work on a directory you are not inside of, you need to provide an output directory to texconv with `-o`** Ex., `texconv -f BC3_UNORM -r:keep -y -o "Mod_Name\WAD\Riven.wad" "Mod_Name\WAD\Riven.wad\*dds"`
 Until you understand this command you should make sure you are under `Champ.wad` like the above image!
 {.is-warning}
 
