@@ -2,7 +2,7 @@
 title: Fix Broken textures for champions with names starting with A-J
 description: A tutorial on how to fix broken textures caused by riot changing DDS to TEX
 published: true
-date: 2025-03-20T07:25:00.355Z
+date: 2025-03-20T07:25:50.167Z
 tags: texture, skin fix
 editor: markdown
 dateCreated: 2025-02-18T03:42:17.638Z
@@ -151,7 +151,7 @@ This is just an underdeveloped shortcut to finding bad files. With better filter
 
 ## 5. Remake WAD and repack mod file
 
-Firstly, test your fix without repacking your WAD or Fantome/Zip. Simply drag the `Champ.wad` **folder** (not .client file) into CSLOL. It will load normally if you drag the correct folder, and it's name will be `Champion` with no metadata or description information.
+Before remaking your mod, test your fix without repacking your WAD or Fantome/Zip. Simply drag the `Champ.wad` **folder** (not .client file) into CSLOL. It will load normally if you drag the correct folder, and it's name will be `Champion` with no metadata or description information.
 
 Once you confirm your fix works as expected, follow similar steps as before when you extracted your WAD.
 1. Drag the `Champ.wad` onto `wad-make`. This will overwrite the `Champ.wad.client` file.
