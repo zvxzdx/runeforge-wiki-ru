@@ -2,7 +2,7 @@
 title: Fix Broken textures for champions with names starting with A-J
 description: A tutorial on how to fix broken textures caused by riot changing DDS to TEX
 published: true
-date: 2025-03-20T05:33:10.260Z
+date: 2025-03-20T05:34:07.136Z
 tags: texture, skin fix
 editor: markdown
 dateCreated: 2025-02-18T03:42:17.638Z
@@ -56,7 +56,7 @@ Extract your mod's Fantome or Zip file to a folder using 7-Zip or Winrar. To add
 
 ![extract_&_open.png](/user-pictures/moga/extract_&_open.png =x250)
 
-Under your extracted folder, `Mod_Name\WAD` you will find all of your mod's files compressed within a single wad file, labeled `Champion.wad.client`. Extract this file by dragging it onto one of CSLOL's tools called `wad-extract`, found in your CSLOL directory under `CSLOL\cslol-tools\wad-extract`. This extracts your mod's files into a folder called `Champion.wad` next to your wad file.
+Under your extracted folder, `Mod_Name\WAD` you will find all of your mod's files compressed within a single wad file, labeled `Champion.wad.client` or `Champion.en_US.wad.client`. Extract this file by dragging it onto one of CSLOL's tools called `wad-extract`, found in your CSLOL directory under `CSLOL\cslol-tools\wad-extract`. This extracts your mod's files into a folder called `Champion.wad` next to your wad file.
 
 > Similar to the technique used above to open Fantomes with 7-Zip, you can do the same for `wad.client` and `wad-extract`. Now, double clicking a wad file will extract it into a folder next to your wad.
 
