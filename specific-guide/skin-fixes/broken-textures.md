@@ -2,7 +2,7 @@
 title: Fix Broken textures for champions with names starting with A-J
 description: A tutorial on how to fix broken textures caused by riot changing DDS to TEX
 published: true
-date: 2025-03-20T05:51:30.357Z
+date: 2025-03-20T05:51:54.998Z
 tags: texture, skin fix
 editor: markdown
 dateCreated: 2025-02-18T03:42:17.638Z
@@ -56,7 +56,7 @@ Extract your mod's Fantome or Zip file to a folder using 7-Zip or Winrar. To add
 
 ![extract_&_open.png](/user-pictures/moga/extract_&_open.png =x250)
 
-Under your extracted folder, `Mod_Name\WAD` you will find all of your mod's files compressed within a single WAD file, labeled `Champion.wad.client` or `Champion.en_US.wad.client`. Extract a WAD by dragging it onto one of CSLOL's tools called `wad-extract`, found in your CSLOL directory under `CSLOL\cslol-tools\wad-extract`. This extracts your mod's files into a folder called `Champion.wad` next to your WAD file. It may be necessary to have updated hashes and their full pathnames in your `wad-extract` directory, although some files may be custom or no known hash regardless. Unknown hashes will not prevent you from converting or editing your files, but without them you may inadvertantly edit files, such as any QWER+P icons. This being because they are largely indistingushable while not in their directory.
+Under your extracted folder, `Mod_Name\WAD` you will find all of your mod's files compressed within a single WAD file, labeled `Champion.wad.client` or `Champion.en_US.wad.client`. Extract a WAD by dragging it onto one of CSLOL's tools called `wad-extract`, found in your CSLOL directory under `CSLOL\cslol-tools\wad-extract`. This extracts your mod's files into a folder called `Champion.wad` next to your WAD file. It may be necessary to have updated hashes and their full pathnames in your `wad-extract` directory, although some files may be custom or no known hash regardless. Unknown hashes will not prevent you from converting or editing your files, but without them you may inadvertantly edit files, such as any QWER+P icons because they are largely indistingushable while not in their directory.
 
 > Similar to the technique used above to open Fantomes with 7-Zip, you can do the same for WAD files with the extension `.client` and `wad-extract`. Now, double clicking a WAD file has `wad-extract` extract it into a folder next to your WAD.
 
