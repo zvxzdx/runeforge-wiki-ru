@@ -2,7 +2,7 @@
 title: Fix Broken textures for champions with names starting with A-J
 description: A tutorial on how to fix broken textures caused by riot changing DDS to TEX
 published: true
-date: 2025-03-20T06:39:33.956Z
+date: 2025-03-20T06:39:52.702Z
 tags: texture, skin fix
 editor: markdown
 dateCreated: 2025-02-18T03:42:17.638Z
@@ -117,7 +117,7 @@ Now, run `texconv -f BC3_UNORM -r:keep -y *dds` to iterate on all DDS files belo
 Until you understand this command you should make sure you are under `Champ.wad` like the above image!
 {.is-warning}
 
-## 4. Optional: Fix bad DDS file's dimensions
+## 4. Optional: Fix bad DDS dimensions
 
 This section is slightly more nuanced and may seem confusing, but in the end it is 1-2 commands and little reading.
 
