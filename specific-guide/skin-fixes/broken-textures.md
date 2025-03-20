@@ -2,7 +2,7 @@
 title: Fix Broken textures for champions with names starting with A-J
 description: A tutorial on how to fix broken textures caused by riot changing DDS to TEX
 published: true
-date: 2025-03-20T19:50:52.300Z
+date: 2025-03-20T19:59:08.797Z
 tags: texture, skin fix
 editor: markdown
 dateCreated: 2025-02-18T03:42:17.638Z
@@ -133,9 +133,9 @@ Do note that adjusting—and especially ever so slightly changing the aspect rat
 
 ![fukt_up_resize.png](/user-pictures/moga/fukt_up_resize.png =x220)
 
-As seen in the image above, the right side image after being resized to 112x96 has very visible artifacting, especially around the black border which is very cleanly pixelated before being stretched. Cropping to add or remove 1-2 pixels from any suitable side of the image to create the proper TEX dimensions will likely have no or extremely minor adjustments in game; and will completely avoid the risk of resample blur ruining the image.
+As seen in the image above, the right side image, having been resized to 112x96, has very visible artifacting, especially around it's jagged border. If I were to instead crop or extend the the original image's canvas (in accordance with the proper TEX dimensions), it will likely have no or extremely minor adjustments in game; and completely avoid the risk of resample blur ruining the image. The results of cropping can vary on the type of image, for example, an image used as an animation graphic like `kayn_spritesatlas_02`; even cropping or adding only a single pixel may completely alter it's animation in game.
 
-> Remember, if the input file for `texconv` is not in your current directory, i.e., an input file like `"path\path\file.dds"`, you need to provide an output path, `-o "path\path"` before.
+> Remember, if the input file provided to `texconv` is not in your current directory, i.e., the input file `"path\path\*.dds"`, you need to provide an output path, `-o "path\path"` before.
 {.is-info}
 
 If you are unable to find the broken file(s) manually there is simple way to find them.
