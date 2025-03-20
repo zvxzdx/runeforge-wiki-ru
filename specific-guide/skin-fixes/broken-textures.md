@@ -2,7 +2,7 @@
 title: Fix Broken textures for champions with names starting with A-J
 description: A tutorial on how to fix broken textures caused by riot changing DDS to TEX
 published: true
-date: 2025-03-20T05:30:13.277Z
+date: 2025-03-20T05:32:47.692Z
 tags: texture, skin fix
 editor: markdown
 dateCreated: 2025-02-18T03:42:17.638Z
@@ -49,7 +49,7 @@ This should be it. If you did everything right, your textures should look normal
 > You will need both [tex2dds](https://github.com/Morilli/Ritoddstex/releases) by Morilli and [texconv](https://github.com/microsoft/DirectXTex/releases) by Microsoft. These are both small CLI utilities. Install both of these to a folder you can remember later.
 {.is-info}
 
-This tutorial uses CMD, but you can use Powershell if you want, you just need to adjust the commands quite a bit as loops arent similar and some tools aren't the same as in CMD. Also, to use env vars in Powershell you need to append `$env:` ex. `%pbe%` becomes `$env:pbe` in Powershell.
+This tutorial uses CMD, but you can use Powershell if you want, you just need to adjust the commands quite a bit as loops arent similar and some tools aren't the same as in CMD. Also, to use env vars in Powershell you need to append `$env:` ex., `%pbe%` becomes `$env:pbe` in Powershell.
 
 ## 1. Extract your mod and it's wad file
 Extract your mod's Fantome or Zip file to a folder using 7-Zip or Winrar. To add 7-Zip options to your context menu follow this guide [Fix 7-Zip Option Missing From Context Menu](https://www.intowindows.com/fix-7-zip-option-missing-from-context-menu/). Additionally, for easier access to mod files in the future, set Fantome files to open by default with 7-Zip or Winrar.
