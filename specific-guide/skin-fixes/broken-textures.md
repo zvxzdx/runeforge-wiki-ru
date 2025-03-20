@@ -2,7 +2,7 @@
 title: Fix Broken textures for champions with names starting with A-J
 description: A tutorial on how to fix broken textures caused by riot changing DDS to TEX
 published: true
-date: 2025-03-20T06:32:03.425Z
+date: 2025-03-20T06:34:21.686Z
 tags: texture, skin fix
 editor: markdown
 dateCreated: 2025-02-18T03:42:17.638Z
@@ -107,7 +107,7 @@ In most cases, simply converting all DDS files to TEX with `tex2dds` will have w
 
 Now, run `texconv -f BC3_UNORM -r:keep -y *dds` to iterate on all DDS files below your current directory. If you mess this up, just delete the `Champ.wad` folder and re-extract the WAD file to start over.
 - `-f` is the output pixel format flag and `BC3_UNORM` is the specified format. All of the formats are listed at the bottom of the texconv help output.
-- `-r` is used to tell texconv to recursively search for your input files, ie, go below your current directory, into subfolders. `:keep` leaves the output file in the same spot as it was, otherwise texconv will put every converted file into your current directory (bad!)
+- `-r` is texconv's recursive switch. `:keep` leaves the output file in the same spot as it was before conversion, otherwise texconv will put the converted file into your current directory (bad!)
 - `-y` overwrites your old/input file with the converted/output file.
 - `*dds` uses a CMD wildcard to provide texconv with every file that begins with anything and ends in `dds`.
 
