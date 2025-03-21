@@ -2,7 +2,7 @@
 title: Fix Broken textures for champions with names starting with A-J
 description: A tutorial on how to fix broken textures caused by riot changing DDS to TEX
 published: true
-date: 2025-03-20T20:29:37.130Z
+date: 2025-03-21T05:07:30.046Z
 tags: texture, skin fix
 editor: markdown
 dateCreated: 2025-02-18T03:42:17.638Z
@@ -46,7 +46,7 @@ This should be it. If you did everything right, your textures should look normal
 
 # Bulk Fix Large Mods (No LtMAO)
 
-> You will need both [tex2dds](https://github.com/Morilli/Ritoddstex/releases) by Morilli and [texconv](https://github.com/microsoft/DirectXTex/releases) by Microsoft. These are both small CLI utilities. Install both of these to a folder you can remember later.
+> You will need at least [tex2dds](https://github.com/Morilli/Ritoddstex/releases) by Morilli and it's a good idea to get [texconv](https://github.com/microsoft/DirectXTex/releases) by Microsoft. These are both small CLI utilities. Install both of these to a folder you can remember later.
 {.is-info}
 
 This tutorial uses CMD, but you can use PowerShell if you want, you just need to adjust the commands quite a bit as loops are not similar and some tools are not the same as in CMD. Also, to use Environment Variables in PowerShell you need to append `$env:` ex., `%pbe%` is `$env:pbe` in PowerShell.
