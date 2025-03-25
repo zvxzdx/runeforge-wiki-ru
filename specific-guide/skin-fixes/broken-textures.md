@@ -2,7 +2,7 @@
 title: Fix Broken textures for champions with names starting with A-J
 description: A tutorial on how to fix broken textures caused by riot changing DDS to TEX
 published: true
-date: 2025-03-25T20:57:38.121Z
+date: 2025-03-25T22:36:04.574Z
 tags: texture, skin fix
 editor: markdown
 dateCreated: 2025-02-18T03:42:17.638Z
@@ -141,7 +141,7 @@ As seen in the image above, the right side image, having been resized to 112x96,
 If you are unable to find the broken file(s) manually there is simple way to find them.
 1. Run `texdiag info -r *dds>>%desktop%\all.txt`, into a text file. Note `%desktop%` is an example path, change that directory and filename to one for your drive.
 2. Next, do `texdiag info -r *dds | findstr "width height">>%desktop%\sizes.txt` which uses FINDSTR to filter just the lines including width and height information.
-3. Open `sizes.txt` and globally (ie, not just concurrent) remove duplicate lines with your text editor's tool, `Ctrl+Shift+D` in Notepad++. This creates a brief list of each unique dimension from your pool of DDS files.
+3. Open `sizes.txt` and globally (ie, not just concurrently) remove duplicate lines with your text editor's tool, `Ctrl+Shift+D` in Notepad++. This creates a brief list of each unique dimension from your pool of DDS files.
 
 ![npp_sizes.png](/user-pictures/moga/npp_sizes.png)
 
