@@ -2,7 +2,7 @@
 title: Fix Broken Textures for Champion Names Starting A-J
 description: A tutorial on how to fix broken textures as a result of Riot upgrading to TEX files, from DDS files.
 published: true
-date: 2025-03-26T14:25:38.284Z
+date: 2025-03-26T14:26:43.663Z
 tags: texture, skin fix
 editor: markdown
 dateCreated: 2025-02-18T03:42:17.638Z
@@ -62,7 +62,7 @@ Under your extracted folder, `Mod_Name\WAD` you will find all of your mod's file
 
 ## 2. Convert DDS to TEX in Bulk Without LtMAO
 > Before bulk converting, you should understand a few details about TEX and DDS files in league. ***As of the 25.5 patch***, 
-> - Only champions who's name begin with A-J use TEX files for their textures and particles. This means AoE converting with a loop will incorrectly convert some of these files, ex., if a Caitlyn mod uses textures in a Qiyana folder. This is less common, and a more specific command can be used to work around this.
+> - Only champions who's name begin with A-J use TEX files for their textures and particles. This means AoE converting with a loop will incorrectly convert some of these files, ex., if a Caitlyn mod uses textures in a Zed folder. This is less common, and a more specific command can be used to work around this.
 > - Most files found under `assets\shared` do not need to be TEX and should be left alone if they are.
 > - ***Every*** champion, even A-J, still uses DDS files for their QWER+P icons (found under `champ.wad\assets\characters\champ\hud\icons2d`).
 > - ***Every*** champion uses TEX for their loadscreen found in the main folder and in game profile pictures found in `champ.wad\assets\characters\champ\hud`, regardless of their name.
