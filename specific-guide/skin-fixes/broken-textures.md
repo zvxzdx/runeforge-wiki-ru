@@ -1,8 +1,8 @@
 ---
-title: Fix Broken textures for champions with names starting with A-J
+title: Fix Broken textures for champions with names starting A-J
 description: A tutorial on how to fix broken textures caused by riot changing DDS to TEX
 published: true
-date: 2025-03-26T00:17:22.998Z
+date: 2025-03-26T02:12:54.061Z
 tags: texture, skin fix
 editor: markdown
 dateCreated: 2025-02-18T03:42:17.638Z
