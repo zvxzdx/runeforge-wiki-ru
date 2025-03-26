@@ -1,8 +1,8 @@
 ---
-title: Fix broken textures for champions with names starting A-J
-description: A tutorial on how to fix broken textures caused by Riot upgrading to TEX files, from DDS files
+title: Fix Broken Textures for Champion Names Starting A-J
+description: A tutorial on how to fix broken textures as a result of Riot upgrading to TEX files, from DDS files.
 published: true
-date: 2025-03-26T02:16:33.144Z
+date: 2025-03-26T14:18:22.267Z
 tags: texture, skin fix
 editor: markdown
 dateCreated: 2025-02-18T03:42:17.638Z
@@ -10,7 +10,7 @@ dateCreated: 2025-02-18T03:42:17.638Z
 
 > The first section of this tutorial uses LtMAO, specifically its explorer contexts. Follow the instructions [here to install LtMAO](/core-guides/tools/LtMAO) and [here for enabling explorer contexts](/core-guides/tools/LtMAO#explorer-contexts).
 > 
-> Alternatively, use the [second section of this tutorial](https://wiki.runeforge.io/en/specific-guide/skin-fixes/broken-textures#bulk-fix-large-mods-no-ltmao) to fix textures without LtMAO. {.is-warning}
+> Use the [second section of this tutorial](https://wiki.runeforge.io/en/specific-guide/skin-fixes/broken-textures#bulk-fix-large-mods-no-ltmao) to fix without LtMAO, or if the first section still results in a crash or invisible textures. {.is-warning}
 
 Riot is in the process of updating League's main texture file format from DDS to TEX, updating groups of champions in alphabetical order. This causes mods to break because Riot's files are now looking for TEX files while your mod still includes DDS files.
 
@@ -18,13 +18,13 @@ Riot is in the process of updating League's main texture file format from DDS to
 
 # Update Textures With LtMAO
 
-## 1. Extract WAD from CSLOL installed folder
+## 1. Extract WAD from CSLOL Installed Folder
 
 Find your mod's WAD file under CSLOL's installed folder at `CSLOL\installed\Mod_Name\WAD`.
 
 ![wrongred.png](/user-pictures/fbs/wrongred.png =x260)
 
-## 2. Locate texture files and convert DDS to TEX
+## 2. Locate Texture Files and Convert DDS to TEX
 
 1. First, you can delete alternate files, i.e., files beginning with `4x_` or `2x_` because TEX does not need alternate files to display at lower texture settings.
 2. Convert each DDS file to TEX by right clicking it, selecting `LtMAO` then click `Ritoddstex: Convert To TEX`.
@@ -33,7 +33,7 @@ Find your mod's WAD file under CSLOL's installed folder at `CSLOL\installed\Mod_
 
 ![ddstexdel.png](/user-pictures/fbs/ddstexdel.png =x105)
 
-## 3. Repack your WAD and reload CSLOL
+## 3. Repack Your WAD and Reload CSLOL
 
 ![backtowad.png](/user-pictures/fbs/backtowad.png =x120)
 ![deletefolder.png](/user-pictures/fbs/deletefolder.png =x55)
@@ -51,7 +51,7 @@ This should be it. If you did everything right, your textures should look normal
 
 This tutorial uses CMD, but you can use PowerShell if you want, you just need to adjust the commands quite a bit as loops are not similar and some tools are not the same as in CMD. Also, to use Environment Variables in PowerShell you need to append `$env:` ex., `%pbe%` is `$env:pbe` in PowerShell.
 
-## 1. Extract your mod and it's WAD file
+## 1. Extract Your Mod and It's WAD File
 Extract your mod's Fantome or Zip file to a folder using 7-Zip or WinRAR. To add 7-Zip options to your context menu follow this guide [Fix 7-Zip Option Missing From Context Menu](https://www.intowindows.com/fix-7-zip-option-missing-from-context-menu/). Additionally, for easier access to your mod's files in the future, set Fantome files to open by default with 7-Zip or WinRAR.
 
 ![extract_&_open.png](/user-pictures/moga/extract_&_open.png =x250)
@@ -60,7 +60,7 @@ Under your extracted folder, `Mod_Name\WAD` you will find all of your mod's file
 
 > Similar to the technique used above to open Fantomes with 7-Zip, you can do the same for WAD files with the extension `.client` and `wad-extract`. Now, double clicking a WAD file has `wad-extract` extract it into a folder next to your WAD.
 
-## 2. Convert DDS to TEX in bulk without LtMAO
+## 2. Convert DDS to TEX in Bulk Without LtMAO
 > Before bulk converting, you should understand a few details about TEX and DDS files in league. ***As of the 25.5 patch***, 
 > - Only champions who's name begin with A-J use TEX files for their textures and particles. This means AoE converting with a loop will incorrectly convert some of these files, ex., if a Caitlyn mod uses textures in a Qiyana folder. This is less common, and a more specific command can be used to work around this.
 > - Most files found under `assets\shared` do not need to be TEX and should be left alone if they are.
@@ -93,7 +93,7 @@ Next, on the same command line, run `for /R %I in (4x*tex,2x*tex,4x*dds,2x*dds) 
 
 If this completed successfully, you can go to Step 5 to remake your WAD file and try it in game. 
 
-## 3. Optional: Fix bad DDS pixel format
+## 3. Optional: Fix Bad DDS Pixel Format
 > There are two requirements for a DDS file to correctly convert to a league TEX file. It must be in a DXT1, DXT5, or uncompressed BGRA8 format and it's X and Y dimensions must both be multiples of 4.
 {.is-info}
 
@@ -117,7 +117,7 @@ Now, run `texconv -f BC3_UNORM -r:keep -y *dds` to iterate on all DDS files belo
 Until you understand this command you should make sure you are under `Champ.wad` like the above image!
 {.is-warning}
 
-## 4. Optional: Fix bad DDS dimensions
+## 4. Optional: Fix Bad DDS Dimension(s)
 
 This section is slightly more nuanced and may seem confusing, but in the end it is 1-2 commands and little reading.
 
@@ -149,7 +149,7 @@ As you can see from this list, there are two obvious values that are not compati
 
 This is a very underdeveloped shortcut to finding bad files and with better filters and some conditionals you could easily make something that prints out offending files instead of finding them manually.
 
-## 5. Remake WAD and repack mod file
+## 5. Remake WAD and Repack Mod File
 
 Before remaking your mod, test your fix by simply dragging your `Champ.wad` **folder** (not .client file) into CSLOL. It will load normally if you drag the correct folder, and it's name will be `Champion` with no description or other metadata information.
 
