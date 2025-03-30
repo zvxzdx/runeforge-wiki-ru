@@ -2,7 +2,7 @@
 title: Fix Broken Textures for Champion Names Starting A-J
 description: A tutorial on how to fix broken textures as a result of Riot upgrading to TEX files, from DDS files.
 published: true
-date: 2025-03-30T00:16:36.203Z
+date: 2025-03-30T00:16:55.916Z
 tags: texture, skin fix
 editor: markdown
 dateCreated: 2025-02-18T03:42:17.638Z
@@ -49,7 +49,7 @@ This should be it. If you did everything right, your textures should look normal
 For crashing or invisible skins after LtMAO converting see step 3 and 4.
 
 > You will need at least [tex2dds](https://github.com/Morilli/Ritoddstex/releases) by Morilli and it's a good idea to get [texconv](https://github.com/microsoft/DirectXTex/releases) by Microsoft. These are both small CLI utilities. Install both of these to a folder you can remember later.
-Please read this section in its entirety before trying to follow the instructions. You may inadvertantly do something by simply following along without having fully understaning what you're doing. If you have problems at any stage in this process, go back and re-read this entire section and make sure you haven’t missed anything 
+Please read this section in its entirety before trying to follow the instructions. You may inadvertantly do something by simply following along without having fully understaning what you're doing. If you have problems at any stage in this process, go back and re-read this entire section and make sure you haven’t missed anything.
 {.is-info}
 
 This tutorial uses CMD, but the commands are simple enough to easily rework for use with any other command processor like PowerShell.
