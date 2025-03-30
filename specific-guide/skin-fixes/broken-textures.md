@@ -2,7 +2,7 @@
 title: Fix Broken Textures for Champion Names Starting A-J
 description: A tutorial on how to fix broken textures as a result of Riot upgrading to TEX files, from DDS files.
 published: true
-date: 2025-03-26T14:37:27.605Z
+date: 2025-03-30T00:15:08.034Z
 tags: texture, skin fix
 editor: markdown
 dateCreated: 2025-02-18T03:42:17.638Z
@@ -49,9 +49,10 @@ This should be it. If you did everything right, your textures should look normal
 For crashing or invisible skins after LtMAO converting see step 3 and 4.
 
 > You will need at least [tex2dds](https://github.com/Morilli/Ritoddstex/releases) by Morilli and it's a good idea to get [texconv](https://github.com/microsoft/DirectXTex/releases) by Microsoft. These are both small CLI utilities. Install both of these to a folder you can remember later.
+Please read this sectiom in its entirety before trying to follow the instructions. You may inadvertantly do something by simply following along without having fully understaning what you're doing. If you have problems at any stage in this process, go back and re-read this entire section and make sure you haven’t missed anything 
 {.is-info}
 
-This tutorial uses CMD, but you can use PowerShell if you want, you just need to adjust the commands quite a bit as loops are not similar and some tools are not the same as in CMD. Also, to use Environment Variables in PowerShell you need to append `$env:` ex., `%pbe%` is `$env:pbe` in PowerShell.
+This tutorial uses CMD, but the commands are simple enough to translate to any other command processor like PowerShell.
 
 ## 1. Extract Your Mod and It's WAD File
 Extract your mod's Fantome or Zip file to a folder using 7-Zip or WinRAR. To add 7-Zip options to your context menu follow this guide [Fix 7-Zip Option Missing From Context Menu](https://www.intowindows.com/fix-7-zip-option-missing-from-context-menu/). Additionally, for easier access to your mod's files in the future, set Fantome files to open by default with 7-Zip or WinRAR.
