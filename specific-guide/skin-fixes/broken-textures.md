@@ -2,7 +2,7 @@
 title: Fix Broken Textures for Champion Names Starting A-J
 description: A tutorial on how to fix broken textures as a result of Riot upgrading to TEX files, from DDS files.
 published: true
-date: 2025-03-31T20:23:39.313Z
+date: 2025-03-31T20:28:03.537Z
 tags: texture, skin fix
 editor: markdown
 dateCreated: 2025-02-18T03:42:17.638Z
@@ -55,7 +55,7 @@ Please read this section in its entirety before trying to follow the instruction
 This tutorial uses CMD, but the commands are simple enough to easily rework for use with any other command processor like PowerShell.
 
 ## 1. Extract Your Mod and It's WAD File
-Extract your mod's Fantome or Zip file to a folder using 7-Zip or WinRAR. To add 7-Zip options to your context menu follow this guide [Fix 7-Zip Option Missing From Context Menu](https://www.intowindows.com/fix-7-zip-option-missing-from-context-menu/). Additionally, for easier access to your mod's files in the future, set Fantome files to open by default with 7-Zip or WinRAR. (Do NOT just rename the fantome to `.zip`, this is a huge waste of time)
+Extract your mod's Fantome or Zip file to a folder using 7-Zip or WinRAR. To add 7-Zip options to your context menu follow this guide [Fix 7-Zip Option Missing From Context Menu](https://www.intowindows.com/fix-7-zip-option-missing-from-context-menu/). Additionally, for easier access to your mod's files in the future, set Fantome files to open by default with 7-Zip or WinRAR. (Do not just rename the fantome to `.zip`, this is a huge waste of time.)
 
 ![extract_&_open.png](/user-pictures/moga/extract_&_open.png =x250)
 
