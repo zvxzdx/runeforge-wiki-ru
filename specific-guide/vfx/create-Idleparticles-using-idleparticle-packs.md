@@ -2,7 +2,7 @@
 title: Create Idleparticles
 description: This is a guide explaining how to create idle particles using the custom-made idle particle packs.
 published: true
-date: 2025-02-08T20:18:45.349Z
+date: 2025-04-07T18:05:56.879Z
 tags: #idleparticles
 editor: markdown
 dateCreated: 2024-05-08T04:44:42.696Z
@@ -31,7 +31,7 @@ dateCreated: 2024-05-08T04:44:42.696Z
  
  # What are idleparticles?
  
- ![udyr_aura_resized.gif](/user-pictures/friendlyfrog/udyr_aura_resized.gif)
+
  They are also known as "Auras".
  
  IdleParticlesEffects is an emitter in the main.bin of your champ, it tells the game which particles you set as idle particles (auras).
@@ -56,7 +56,7 @@ dateCreated: 2024-05-08T04:44:42.696Z
  ---
  2. Open the champ folder and the folder you downloaded, and paste the customparticles folder, which is in assets, into your assets folder.
  
- ![step_2.png](/user-pictures/friendlyfrog/step_2.png)
+
  
  ---
  3.  quantum wizard, hop back into the champions folder, spelunk into thefolderyoumade\data\characters\yourchamp\skins, and yeet skin0.bin straight onto ritobin_cli.exe like a sacrificial offering. If done correctly, the binary gobbledygook should transmogrify into a .py script, unlocking the arcane secrets within. If not, well... expect eldritch hash nightmares.
@@ -68,7 +68,7 @@ dateCreated: 2024-05-08T04:44:42.696Z
  If there already is an idleparticle system please look for step 4.5.
  
  4. Summon the arcane tome known as Visual Studio Code and pry open both files like an interdimensional rift. Take the eldritch script from the idleparticle folder and weave it into the fabric of skin0.bin/.py, ensuring it lands precisely where destiny demands. Burn its position into your neural pathways, for you must walk this ritual again. Fail, and the cosmic hashes shall consume your sanity. 🔮✨
- ![step_4.1.png](/user-pictures/friendlyfrog/step_4.1.png)
+
  
  effectKey: hash = is the link to the particlecontainer
  
@@ -96,14 +96,12 @@ dateCreated: 2024-05-08T04:44:42.696Z
  4.5 What if there i already is an idleparticle system in the bin?
  
  If theres already an idleparticle system in the bin it should look like this:
- ![4.5.1.png](/user-pictures/friendlyfrog/4.5.1.png)
+
  
  So how do we place it into the bin now?
  
  We simply only copy a part of the code which is in the idleparticle bundle bin.
  
- Like this: 
- ![4.5.2.png](/user-pictures/friendlyfrog/4.5.2.png)
  
  ---
  
@@ -120,19 +118,10 @@ and
 
 Fail this, and the void shall remain particle-less, an empty husk of missed potential. Consult the cryptic image at the bottom of the tutorial—its secrets hold the key to enlightenment. 🌀📜
  
- ![step5.1.png](/user-pictures/friendlyfrog/step5.1.png)
- ![step5.2.png](/user-pictures/friendlyfrog/step5.2.png)
- 
  ---
  
   6. Copy and paste the code found in the character resolver into your bin. Just between anything doesn't matter.
- 
- 
- ![step_6.1.png](/user-pictures/friendlyfrog/step_6.1.png)
- 
- 
- ![step_6_2.png](/user-pictures/friendlyfrog/step_6_2.png)
- 
+
  ---
  7. Save the file by going into the top left corner clicking file and save.
  
@@ -142,11 +131,6 @@ Fail this, and the void shall remain particle-less, an empty husk of missed pote
  ---
  9. Drag the folder that you created at the beginning into CSLOL and look in-game to see if the idle particles got applied.
  
- ---
-   *picture from step 5 if you have no particles in your bin.
- 
- ![extra_step.png](/user-pictures/friendlyfrog/extra_step.png)
- 
  # Video Guide
  
  <div align="left">
@@ -154,89 +138,3 @@ Fail this, and the void shall remain particle-less, an empty husk of missed pote
  style="width:75%"></a>
  </div>
  
- # Idle particle packs
- 
- ![ezgif-7-70bed20355.gif](/user-pictures/friendlyfrog/ezgif-7-70bed20355.gif)
- https://drive.google.com/file/d/1V5lQJTkXkmzoYB2dxanw0TrOGpEVNsLZ/view?usp=drive_link
- 
- ---
- 
- BRAND HAND FLAMES AURA
- 
- ![brand_aura.gif](/user-pictures/friendlyfrog/brand_aura.gif)
- 
- https://drive.google.com/file/d/1RbwSYwkhUI0M-s42vuqX5kVCBM_xXxDV/view?usp=drive_link
- 
- ---
- Udyr E AURA AND SMOKE
- 
- ![udyr_e_aura.gif](/user-pictures/friendlyfrog/udyr_e_aura.gif)
- 
- https://drive.google.com/file/d/1ucKyVonQdo_-Ww3rtGMM2It08X1fP4OL/view?usp=drive_link
- 
- ---
- GLOW AURA AND SETT BASIC ATTACK TRAILS 
- 
- 0x84809410 = Hand trails
- 
- 0x6047adf7 = Glow
- 
- ![udyr_glow_and_sett_ba_trail.gif](/user-pictures/friendlyfrog/udyr_glow_and_sett_ba_trail.gif)
- 
- https://drive.google.com/file/d/1oFVwb23Trf3h0utjXRXOPnWSZ0rB8OMj/view?usp=drive_link
- 
- ---
- SWAIN+YONE AURA
- 
- 0x42e58c6a = Swain's part of the aura
- 
- 0x78882b8c = Yone's part of the aura
- 
- 
- ![swain+yone_aura.gif](/user-pictures/friendlyfrog/swain+yone_aura.gif)
- 
- 
- https://drive.google.com/file/d/1Ynxe4eCPq8cqLf31efsZmnKO7brl-n0F/view?usp=drive_link
- 
- ---
- SETT ELECTRICTY AURA 
- 
- ![electricity_aura.gif](/user-pictures/friendlyfrog/electricity_aura.gif)
- 
- https://drive.google.com/file/d/167oKE-0yLm7lKgzkC9zam-Coz9Y2ryIG/view?usp=drive_link
- 
- ---
- 
- EZREAL BATTLE ACADEMIA PASSIVE AURA
- 
- ![ezreal_battle_academia_passive_aura.gif](/user-pictures/friendlyfrog/ezreal_battle_academia_passive_aura.gif)
- 
- https://drive.google.com/file/d/11O3miLODy9_YJ6Y1ACkOEe6BjgwEBcqj/view?usp=drive_link
- 
- 
- ---
- SPIRIT BLOSSOM AURA
- 
- ![spirit_blossom_aura.gif](/user-pictures/friendlyfrog/spirit_blossom_aura.gif)
- 
- https://drive.google.com/file/d/1oeiVDS7QnQHtuotMJiyQgD4_boMElH42/view?usp=drive_link
- 
- ---
- STAR GUARDIAN AURA
- 
- ![star_guardian_stars.gif](/user-pictures/friendlyfrog/star_guardian_stars.gif)
- 
- https://drive.google.com/file/d/1wEOlaMaE9B8WNSghgMOZn2-AvUhU2MM2/view?usp=drive_link
- 
- 
- ---
- RIVEN SPIRIT BLOSSOM R SWORD AURA
- 
- ![riven_r_word_aura.gif](/user-pictures/friendlyfrog/riven_r_word_aura.gif)
- 
- https://drive.google.com/file/d/1nxt3Wiz0c-6GYe4M4CYM9e4FiFIeV36V/view?usp=drive_link
- 
- 
- # Sources
- 
- FriendlyFrog
