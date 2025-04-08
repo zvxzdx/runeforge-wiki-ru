@@ -2,7 +2,7 @@
 title: LtMAO
 description: A guide on how to install and use LtMAO.
 published: true
-date: 2025-01-23T14:33:20.913Z
+date: 2025-04-08T16:57:15.371Z
 tags: guide, install, ltmao
 editor: markdown
 dateCreated: 2024-02-11T19:27:37.139Z
@@ -14,7 +14,7 @@ This page will explain the LtMAO tool made by Tarngaina and all of its features.
 ---
 ## Download and Installation
 > ### <p><span style="color:#ffffff">Installation</span>
-> Download: <a href="https://github.com/tarngaina/LtMAO/archive/refs/heads/master.zip">LtMAO-master.zip</a>
+> Download: <a href="https://github.com/tarngaina/LtMAO/archive/refs/heads/hai.zip">LtMAO-hai.zip</a>
 > Extract: <kbd>LtMAO-master.zip</kbd>
 > Run <kbd>LtMAO/start.bat</kbd>
 > {.is-info}
