@@ -2,7 +2,7 @@
 title: Simple HUD Template by Yoru
 description: A short guide on how to use the "Simple HUD Template" made by Yoru Queen of Night
 published: true
-date: 2025-01-09T14:37:36.040Z
+date: 2025-04-24T22:24:01.373Z
 tags: hud, template, simple hud
 editor: markdown
 dateCreated: 2024-02-11T18:16:47.335Z
@@ -22,6 +22,7 @@ If you use this template, please credit it properly and link back to this page.
 ## Nessecary tools
 - [Yoru's Template *Download the .zip file and extract it to the folder "UI.wad.client"*](https://drive.google.com/file/d/1_Hkgvk2E0BL7-wdAazjzKx_cXaTWwW5i/view?pli=1)
 - [Photoshop *Paid Program to edit picture files*](/core-guides/tools/adobe/photoshop)
+- [LtMAO *The context menu specifically*]([LtMAO](/core-guides/tools/LtMAO#explorer-contexts))
 {.links-list}
 
 **PLUS** one of the Plugin options:
@@ -64,6 +65,7 @@ The layers (should) have the same name in all of the .psd files.They are also co
 There will also be gray colored folders called “Empty layers for actions (Ignore)”. They are needed in order to not break when batch processing the template.
 
 ## Video Guide
+Follow the video until the 17th minute, then scroll further.
 <br>
 <div align="left">
   <a href="https://www.youtube.com/watch?v=9BMv-_M00ac"><img src="https://img.youtube.com/vi/9BMv-_M00ac/0.jpg" alt="Guide on how to use the simple hud template"
@@ -71,6 +73,9 @@ style="width:75%"></a>
 </div>
 
 *External link to Youtube!*
+
+## Converting your files to .tex with LtMAO
+After you have saved your files as .dds, you need to convert them to .tex with LtMAO. Just right click on the UI.wad.client and use the context menu to convert all DDS to TEX
 
 # Sources
 
