@@ -2,7 +2,7 @@
 title: Simple HUD Template by Yoru
 description: A short guide on how to use the "Simple HUD Template" made by Yoru Queen of Night
 published: true
-date: 2025-04-25T21:48:02.233Z
+date: 2025-04-25T21:49:11.091Z
 tags: hud, template, simple hud
 editor: markdown
 dateCreated: 2024-02-11T18:16:47.335Z
@@ -71,12 +71,6 @@ style="width:75%"></a>
 
 *External link to Youtube!*
 
-## Converting your files to .tex with LtMAO
-After you have saved your files as .dds, you need to convert them to .tex with LtMAO. Just right click on the UI.wad.client and use the context menu to convert all DDS to TEX. If you know cmd, you can delete all .dds and psd files by running this command in the directory `for /R %I in (*psd,*dds) do del "%I"`
-
-![batchddstex.png](/user-pictures/fbs/batchddstex.png)
-
-After this, you can continue with the video.
 # Sources
 
 - Yoru Queen of Night
