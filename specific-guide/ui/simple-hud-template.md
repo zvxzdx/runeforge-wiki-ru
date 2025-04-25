@@ -2,7 +2,7 @@
 title: Simple HUD Template by Yoru
 description: A short guide on how to use the "Simple HUD Template" made by Yoru Queen of Night
 published: true
-date: 2025-04-24T22:37:47.920Z
+date: 2025-04-25T21:48:02.233Z
 tags: hud, template, simple hud
 editor: markdown
 dateCreated: 2024-02-11T18:16:47.335Z
@@ -19,7 +19,7 @@ If you use this template, please credit it properly and link back to this page.
 ## Nessecary tools
 - [Yoru's Template *Download the .zip file and extract it to the folder "UI.wad.client"*](https://drive.google.com/file/d/13GYjZe1m2v6c88BdOz6J7MgUwa5Mlo2c/view)
 - [Photoshop *Paid Program to edit picture files*](/core-guides/tools/adobe/photoshop)
-- [LtMAO *The context menu specifically*]([LtMAO](/core-guides/tools/LtMAO#explorer-contexts))
+- [LtMAO *The context menu specifically*](/core-guides/tools/LtMAO#explorer-contexts)
 {.links-list}
 
 **PLUS** one of the Plugin options:
