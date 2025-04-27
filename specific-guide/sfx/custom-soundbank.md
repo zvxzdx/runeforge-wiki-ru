@@ -2,7 +2,7 @@
 title: Custom Soundbanks
 description: Learn how to create custom soundbanks to add your own sound events in League of Legends! This guide will teach you to prepare audio files, package them using Wwise, and link them to in-game events like abilities, animations, and more.
 published: true
-date: 2025-04-27T15:34:48.186Z
+date: 2025-04-27T16:31:43.838Z
 tags: wwise, sound fx, sound effects, soundbank, events
 editor: markdown
 dateCreated: 2024-12-09T14:20:05.253Z
@@ -111,7 +111,7 @@ Now, once you've created the `Attenuation`, click `Edit....`
 
 ![image_2024-12-09_220544127.png](/user-pictures/nyht/image_2024-12-09_220544127.png)
 
-Now that the `Attenuation Editor` has opened, go to `Properties` and scroll down until you see `Spread`. Click the dropdown for `Spread` and select `Custom`. You will then see only the green line graph.
+Now that the `Attenuation Editor` has opened, go to `Properties` and scroll down until you see `Focus`. Click the dropdown for `Focus` and select `Custom`. You will then see only the green line graph.
 
 Next, set the `Max Distance` to `2650` `(from 100)`, and double-click the middle of the graph to create a dot.
 
