@@ -2,7 +2,7 @@
 title: Custom Soundbanks
 description: Learn how to create custom soundbanks to add your own sound events in League of Legends! This guide will teach you to prepare audio files, package them using Wwise, and link them to in-game events like abilities, animations, and more.
 published: true
-date: 2024-12-29T05:28:33.409Z
+date: 2025-04-27T15:34:48.186Z
 tags: wwise, sound fx, sound effects, soundbank, events
 editor: markdown
 dateCreated: 2024-12-09T14:20:05.253Z
@@ -11,7 +11,7 @@ dateCreated: 2024-12-09T14:20:05.253Z
 # How to create your own events/soundbanks
 
 ## Required Tools
-- [Wwise2019.1.11 *Program to create or edit Sound banks for games*](/core-guides/tools/wwise)
+- [Wwise2022.1.3 *Program to create or edit Sound banks for games*](/core-guides/tools/wwise)
 - [Audacity *Audio Editor*](https://www.audacityteam.org/)
 -   [BNK Extract *Program to extract.bnk files*](https://github.com/Morilli/bnk-extract-GUI/releases)
 - [Visual Studio Code *Feature rich tool to read, create or edit code*](/core-guides/tools/visual-studio)
@@ -20,7 +20,7 @@ dateCreated: 2024-12-09T14:20:05.253Z
 
 # Tutorial 
 
-## Adding the .wav files to Wwise2019.1.11
+## Adding the .wav files to Wwise2022.1.3
 First, drag your `.wav` audio files into `Actor-Mixer Hierarchy` > `Default Work Unit*`, then click `Import`. 
 
 Make sure all sounds are set to `Sound SFX`. and the `Audio Tab` is open shown on the left side.
