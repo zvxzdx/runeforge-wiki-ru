@@ -1,8 +1,8 @@
 ---
-title: Fix Broken Textures for Champions Who's Names Begin With A-M
+title: Fix Broken Textures for Champions Whose Name Begin With A-M
 description: A tutorial on how to update your mod's deprecated texture files to Riot's TEX format.
 published: true
-date: 2025-04-05T01:05:19.186Z
+date: 2025-04-28T01:29:19.326Z
 tags: texture, skin fix
 editor: markdown
 dateCreated: 2025-02-18T03:42:17.638Z
@@ -12,7 +12,7 @@ dateCreated: 2025-02-18T03:42:17.638Z
 > 
 > Use the [second section of this tutorial](https://wiki.runeforge.io/en/specific-guide/skin-fixes/broken-textures#bulk-fix-large-mods-no-ltmao) to fix without LtMAO, or if the first section causes a crash or invisible textures. {.is-warning}
 
-Riot is in the process of updating League's main texture file format from DDS to TEX, updating groups of champions in alphabetical order. This causes mods to break because Riot's files are now looking for TEX files while your mod still includes irrelevant DDS files.
+Riot is in the process of updating League's main texture file format from DDS to their own TEX format, updating groups of champions in alphabetical order. This causes mods to break because Riot's files are now looking for TEX files while your mod still includes irrelevant DDS files.
 
 ---
 
@@ -142,8 +142,8 @@ As seen in the image above, the right side image, having been resized to 112x96,
 {.is-info}
 
 If you are unable to find the broken file(s) manually there is simple way to find them.
-1. Run `texdiag info -r *dds>>%desktop%\all.txt`, into a text file. Note `%desktop%` is an example path, change that directory and filename to one for your drive.
-2. Next, do `texdiag info -r *dds | findstr "width height">>%desktop%\sizes.txt` which uses FINDSTR to filter just the lines including width and height information.
+1. Run `texdiag info -r *dds>>%desktop%\fixdds_allinfo.txt`, into a text file. Note `%desktop%` is an example path, change that directory and filename to one for your drive.
+2. Next, do `texdiag info -r *dds | findstr "width height">>%desktop%\fixdds_sizes.txt` which uses FINDSTR to filter just the lines including width and height information.
 3. Open `sizes.txt` and globally (ie, not just concurrently) remove duplicate lines with your text editor's tool, `Ctrl+Shift+D` in Notepad++. This creates a brief list of each unique dimension from your pool of DDS files.
 
 ![npp_sizes.png](/user-pictures/moga/npp_sizes.png)
