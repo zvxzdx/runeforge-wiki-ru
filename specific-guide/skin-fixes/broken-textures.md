@@ -1,8 +1,8 @@
 ---
-title: Fix Broken Textures for Champions Whose Name Begin With A-M
+title: Fix Broken Textures for Champions With Names Starting With A-M
 description: A tutorial on how to update your mod's deprecated texture files to Riot's TEX format.
 published: true
-date: 2025-04-28T01:29:19.326Z
+date: 2025-04-28T03:59:08.548Z
 tags: texture, skin fix
 editor: markdown
 dateCreated: 2025-02-18T03:42:17.638Z
