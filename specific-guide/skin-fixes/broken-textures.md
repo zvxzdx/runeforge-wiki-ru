@@ -2,7 +2,7 @@
 title: Fix Broken Textures for Champions With Names Starting With A-M
 description: A tutorial on how to update your mod's deprecated texture files to Riot's TEX format.
 published: true
-date: 2025-04-28T03:59:08.548Z
+date: 2025-05-13T23:33:20.873Z
 tags: texture, skin fix
 editor: markdown
 dateCreated: 2025-02-18T03:42:17.638Z
@@ -68,7 +68,7 @@ Under your extracted folder, `Mod_Name\WAD` you will find all of your mod's file
 > - Only champions who's name begin with A-M use TEX files for their textures and particles. This means AoE converting with a loop will incorrectly convert some of these files, ex., if a Caitlyn mod uses textures in a Zed folder. This is less common, and a more specific command can be used to work around this.
 > - Most files found under `assets\shared` do not need to be TEX and should be left alone if they are.
 > - ***Every*** champion, even A-M, still uses DDS files for their QWER+P icons (found under `champ.wad\assets\characters\champ\hud\icons2d`).
-> - ***Every*** champion uses TEX for their loadscreen found in the main folder and in game profile pictures found in `champ.wad\assets\characters\champ\hud`.
+> - ***Every*** champion uses TEX for their **loadscreen** found in the main folder and in game **HUD icons** found in `champ.wad\assets\characters\champ\hud`.
 
 First, you need to add both `tex2dds` and `texconv` to your Windows path in order to use them from within any directory, otherwise, they will only be available while inside the folder they were installed to. To do this, search `env var` from your Windows start menu and click `Edit the system environment variables` or follow this video guide since default windows search is garbage.
 
@@ -163,3 +163,8 @@ Once you confirm your fix works as expected, follow similar steps as before when
 You can also use 7-Zip from CMD assuming it's part of your PATH. To make a structurally correct mod use `7z a "Mod_Name.zip" META WAD RAW` while inside the directory with those folders leaving you with a zip file as your mod next to your WAD/META/RAW folders. You need to know exactly where you are when you run this or make the zip manually because if you nest or otherwise make an incorrect mod structure, upon importing the mod into CSLOL it will simply error out.
 4. After you have successfully made your Zip file, *and optionally rename the extension to `fantome` for fun*, you can use your mod in CSLOL. A Fantome file is a Zip file with additional information about the file, and is unnecessary at all.
 5. Profit.
+
+# Sources
+
+- Yuumi
+- Moga
