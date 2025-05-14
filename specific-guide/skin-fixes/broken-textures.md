@@ -1,8 +1,8 @@
 ---
-title: Fix Broken Textures for Champions With Names Starting With A-M
+title: Fix Broken Textures for Champions With Names Starting With A-R
 description: A tutorial on how to update your mod's deprecated texture files to Riot's TEX format.
 published: true
-date: 2025-05-14T03:03:20.222Z
+date: 2025-05-14T03:04:46.917Z
 tags: texture, skin fix
 editor: markdown
 dateCreated: 2025-02-18T03:42:17.638Z
@@ -12,7 +12,7 @@ dateCreated: 2025-02-18T03:42:17.638Z
 > 
 > Use the [second section of this tutorial](https://wiki.runeforge.io/en/specific-guide/skin-fixes/broken-textures#bulk-fix-large-mods-no-ltmao) to fix without LtMAO, or if the first section causes a crash or invisible textures. {.is-warning}
 
-Riot is in the process of updating League's main texture file format from DDS to their own TEX format, updating groups of champions in alphabetical order. This causes mods to break because Riot's files are now looking for TEX files while your mod still includes irrelevant DDS files.
+Riot is in the process of updating League's main texture file format from DDS to their own TEX format, updating groups of champions in alphabetical order. This causes mods to break because Riot's files are now using TEX file, which your mod is not overwriting.
 
 ---
 
