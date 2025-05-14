@@ -2,7 +2,7 @@
 title: Fix Broken Textures for Champions With Names Starting With A-R
 description: A tutorial on how to update your mod's deprecated texture files to Riot's TEX format.
 published: true
-date: 2025-05-14T03:17:38.366Z
+date: 2025-05-14T03:19:48.780Z
 tags: texture, skin fix
 editor: markdown
 dateCreated: 2025-02-18T03:42:17.638Z
@@ -167,4 +167,4 @@ You can also use 7-Zip from CMD assuming it's part of your PATH. To make a struc
 # Sources
 
 - Yuumi
-- Moga [Discord](http://discord.com/users/1204195565685051408)
+- Moga - [Discord](http://discord.com/users/1204195565685051408)
