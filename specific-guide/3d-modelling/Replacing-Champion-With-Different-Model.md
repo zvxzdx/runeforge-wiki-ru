@@ -2,7 +2,7 @@
 title: Replacing Champions With a Different Character
 description: This tutotial will show you how to replace the model from a champion with another one
 published: true
-date: 2024-12-31T17:22:57.137Z
+date: 2025-05-15T01:36:47.659Z
 tags: modelling
 editor: markdown
 dateCreated: 2024-02-29T02:01:05.953Z
@@ -89,7 +89,7 @@ You can then import your model also by drag and dropping it into the scene.
 
 ![8.png](/user-pictures/goat/custommodels/8.png =x400)
 
-After importing, you might notice that you model isnt exactly the same size, might be bigger or smaller then your League champion. In my case, the model is way smaller. 
+After importing, you might notice that your model isnt exactly the same size, might be bigger or smaller then your League champion. In my case, the model is way smaller. 
 
 ![9.png](/user-pictures/goat/custommodels/9.png =x400)
 
