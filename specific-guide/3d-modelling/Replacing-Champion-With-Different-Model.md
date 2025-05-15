@@ -2,7 +2,7 @@
 title: Replacing Champions With a Different Character
 description: This tutotial will show you how to replace the model from a champion with another one
 published: true
-date: 2025-05-15T01:36:47.659Z
+date: 2025-05-15T01:38:05.635Z
 tags: modelling
 editor: markdown
 dateCreated: 2024-02-29T02:01:05.953Z
@@ -93,7 +93,7 @@ After importing, you might notice that your model isnt exactly the same size, mi
 
 ![9.png](/user-pictures/goat/custommodels/9.png =x400)
 
-You will want to make sure it fits has best has possible. Something like shoulder to shoulder should be what you aim for. 
+You will want to make sure it fits as best as possible. Something like shoulder to shoulder should be what you aim for. 
 
 >Scale your model! Not the League champion!
 >{.is-warning}
