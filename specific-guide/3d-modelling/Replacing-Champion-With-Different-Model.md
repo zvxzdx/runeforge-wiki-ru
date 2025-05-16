@@ -2,7 +2,7 @@
 title: Replacing Champions With a Different Character
 description: This tutotial will show you how to replace the model from a champion with another one
 published: true
-date: 2025-05-16T02:09:49.588Z
+date: 2025-05-16T02:11:48.385Z
 tags: modelling
 editor: markdown
 dateCreated: 2024-02-29T02:01:05.953Z
@@ -82,7 +82,7 @@ With the group or mesh selected, go to File > Export Selected and select the fil
 
 After saving your custom model, you can open a new scene and load your desired League champion by dragging and dropping the [.skn](/en/specific-guide/filetypes#skl) into it (this will also import the [.skl](/en/specific-guide/filetypes#skl) automatically)
 
-![8.png](/user-pictures/moga/goat_model_swap/goat_model_swap_8.png)
+![8.png](/user-pictures/moga/goat_model_swap/goat_model_swap_8.png =x550)
 
 After importing, you might notice that your model isnt exactly the same size, might be bigger or smaller then your League champion. In my case, the model is way smaller. 
 
