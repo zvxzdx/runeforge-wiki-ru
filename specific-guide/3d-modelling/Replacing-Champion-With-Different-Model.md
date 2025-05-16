@@ -2,7 +2,7 @@
 title: Replacing Champions With a Different Character
 description: This tutotial will show you how to replace the model from a champion with another one
 published: true
-date: 2025-05-16T00:32:12.311Z
+date: 2025-05-16T00:32:49.383Z
 tags: modelling
 editor: markdown
 dateCreated: 2024-02-29T02:01:05.953Z
@@ -43,13 +43,13 @@ First, I would recommend loading your new model in an empty scene, to check if e
 
 If your model has no [.skl](/en/specific-guide/filetypes#skl) and is standing upright in the middle of the scene, then you won.
 
-![11.png](/user-pictures/goat/custommodels/11.png =x500)
+![11.png](/user-pictures/goat/custommodels/11.png =x550)
 
 <details>
 <summary>If lose</summary>
 <br>
   
-![1.png](/user-pictures/goat/custommodels/1.png =x500)
+![1.png](/user-pictures/goat/custommodels/1.png =x550)
 
 Here my model is not upright and already has a skeleton (or an [.skl](/en/specific-guide/filetypes#skl), for simpler term). So I will first start by fixing those issues
 
@@ -57,7 +57,7 @@ If your model already has an [.skl](/en/specific-guide/filetypes#skl), you will 
 
 You will first select every part of your mesh, then, in the Rigging tab, you will find Skin > Unbind
   
-![2.png](/user-pictures/goat/custommodels/2.png =x500)
+![2.png](/user-pictures/goat/custommodels/2.png =x550)
 
 You can then delete the `.skl`, it is no longer needed.
 
@@ -65,11 +65,11 @@ After, you will want to make your character upright (if it is not already). It i
 
 First, group your meshes : select all your meshes by drag selecting then press ctrl+g or by going into Edit > Group 
 
-![3.png](/user-pictures/goat/custommodels/3.png =x500)
+![3.png](/user-pictures/goat/custommodels/3.png =x550)
 
 This will create a group that you can select with a pivot in the center of your scene, allowing you to easily rotate your model! (You can hold "J" while rotating to rotate on hard angles)
 
-![4.png](/user-pictures/goat/custommodels/4.png =x500)
+![4.png](/user-pictures/goat/custommodels/4.png =x550)
 
 With your model now boneless and standing straight, you can export it as an .fbx, an .obj or any other format Maya can read!
 
@@ -83,22 +83,22 @@ With the group or mesh selected, go to File > Export Selected and select the fil
 After saving your custom model, you can open a new scene and load your desired League champion by drag and dropping the [.skn](/en/specific-guide/filetypes#skl) into it (this will also import the [.skl](/en/specific-guide/filetypes#skl) automatically)
 I will then import Zeri, since this is the Champion I chose
 
-![7.png](/user-pictures/goat/custommodels/7.png =x500)
+![7.png](/user-pictures/goat/custommodels/7.png =x550)
 
 You can then import your model also by drag and dropping it into the scene.
 
-![8.png](/user-pictures/goat/custommodels/8.png =x500)
+![8.png](/user-pictures/goat/custommodels/8.png =x550)
 
 After importing, you might notice that your model isnt exactly the same size, might be bigger or smaller then your League champion. In my case, the model is way smaller. 
 
-![9.png](/user-pictures/goat/custommodels/9.png =x500)
+![9.png](/user-pictures/goat/custommodels/9.png =x550)
 
 You will want to make sure it fits as best as possible. Something like shoulder to shoulder should be what you aim for. 
 
 >Scale your model! Not the League champion!
 >{.is-warning}
 
-![10.png](/user-pictures/goat/custommodels/10.png =x500)
+![10.png](/user-pictures/goat/custommodels/10.png =x550)
 
 Once thats done, you can hide the champion model for now. In the Outliner, select the League champion and press H.
 
@@ -106,7 +106,7 @@ Once thats done, you can hide the champion model for now. In the Outliner, selec
 
 Now that the model is hidden, press the little Bone button so you can see your .skl through the model
 
-![12.png](/user-pictures/goat/custommodels/12.png =x500)
+![12.png](/user-pictures/goat/custommodels/12.png =x550)
 
 ## Cleaning up the skeleton
 
@@ -156,7 +156,7 @@ And try to place it like the original weapon was, put it somewhere on the weapon
 # Binding the skeleton 
 We will now bind the skeleton to our model! To do this, simply select your mesh/es and the Root of your skeleton, then go to the Rigging tab, Skin > Bind Skin and open the options by pressing the little square on the right side.
 
-![20.png](/user-pictures/goat/custommodels/20.png =x500)
+![20.png](/user-pictures/goat/custommodels/20.png =x550)
 
 Now that you are in the options, try to copy my settings here : make sure to bind to the Joint Hierarchy, set the max influence TO A MAXIMUM OF 4 (but I highly recommend 3, and go lower if your mesh doesnt have a lot of polygons/faces), and remove "Maintain max influences".
 
@@ -196,11 +196,11 @@ A little strange tho...
 
 Usually, when getting your model online, you should also have a texture file included with it.
 
-![24.png](/user-pictures/goat/custommodels/24.png =x500)
+![24.png](/user-pictures/goat/custommodels/24.png =x550)
 
 Its possible that you will different weird files, we only want the colored ones. In my case, these 2.
 
-![25.png](/user-pictures/goat/custommodels/25.png =x500)
+![25.png](/user-pictures/goat/custommodels/25.png =x550)
 
 Now in maya, assign the "Body" material to your mesh, since most if not all League champs have that material, the game will then be able to detect it and assign the right material to it.
 
@@ -216,7 +216,7 @@ Lets also not forget to reverse the normals, or else your character is gonna loo
 
 With your mesh selected, go to the Modeling Tab, Mesh Display > Reverse
 
-![28.png](/user-pictures/goat/custommodels/28.png =x500)
+![28.png](/user-pictures/goat/custommodels/28.png =x550)
 
 And also replace the texture file in your assets! Replace the Body texture, usualy Champ_base_tx_cm. The 2x and 4x are texture quality when you lower them in settings in game, so swap them too! Or else the skin will look strange in lower settings.
 
