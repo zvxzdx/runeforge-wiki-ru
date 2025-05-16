@@ -2,7 +2,7 @@
 title: Replacing Champions With a Different Character
 description: This tutotial will show you how to replace the model from a champion with another one
 published: true
-date: 2025-05-16T14:06:07.719Z
+date: 2025-05-16T14:06:42.108Z
 tags: modelling
 editor: markdown
 dateCreated: 2024-02-29T02:01:05.953Z
@@ -38,7 +38,7 @@ I will be using Maya for this guide.
 
 ## Finding Your Model
 
-What you will want first is choosing a character you want and finding a model for it. For this guide, I will be swapping Zeri with Cuphead!
+What you will want first is to choose a character you want and find a model for it. For this guide, I will be swapping Zeri with Cuphead!
 
 You might be able to find your character by searching "(Character Name) 3D model" in Google. If you cannot find it, you might have to create it yourself!
 
