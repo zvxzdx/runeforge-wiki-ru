@@ -2,7 +2,7 @@
 title: Replacing Champions With a Different Character
 description: This tutotial will show you how to replace the model from a champion with another one
 published: true
-date: 2025-05-16T02:24:22.752Z
+date: 2025-05-16T02:24:34.528Z
 tags: modelling
 editor: markdown
 dateCreated: 2024-02-29T02:01:05.953Z
@@ -139,7 +139,7 @@ You want your character to fit the skeleton as much as possible! Its going to in
 <details>
 <summary>If your Champion has a weapon</summary>
 <br>
-Its fairly simple! For exemple, Yasuo has a sword; to replace it, simply add your desired weapon over the weapon bone! 
+Its fairly simple! For example, Yasuo has a sword; to replace it, simply add your desired weapon over the weapon bone! 
   
 ![33.png](/user-pictures/goat/custommodels/33.png =x300)
   
