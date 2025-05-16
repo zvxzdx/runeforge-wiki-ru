@@ -2,7 +2,7 @@
 title: Replacing Champions With a Different Character
 description: This tutotial will show you how to replace the model from a champion with another one
 published: true
-date: 2025-05-16T02:30:27.965Z
+date: 2025-05-16T02:40:38.635Z
 tags: modelling
 editor: markdown
 dateCreated: 2024-02-29T02:01:05.953Z
@@ -151,17 +151,17 @@ And try to place it like the original weapon was, put it somewhere on the weapon
 # Binding the Skeleton 
 We will now bind the skeleton to our model! To do this, simply select your mesh(es) and the Root of your skeleton, then go to the Rigging tab, Skin > Bind Skin and open the options by pressing the little square on the right side.
 
-![20.png](/user-pictures/moga/goat_model_swap/goat_model_swap_20.png =x550)
+![20.png](/user-pictures/moga/goat_model_swap/goat_model_swap_20.png =x500)
 
 Now that you are in the options, try to copy my settings here; make sure to bind to the Joint Hierarchy, set the max influence TO A MAXIMUM OF 4 (I highly recommend 3, and go lower if your mesh doesn't have many polygons/faces), and remove "Maintain max influences".
 
-![34.png](/user-pictures/goat/custommodels/34.png)
+![34.png](/user-pictures/goat/custommodels/34.png =x400)
 
 Of course, make sure the deformation look good by rotating different joints, like the shoulders, the leg, the spine, etc.
 
 If the first settings didnt do a good job, unbind the mesh first and try these ones instead. (the unbind option is at the same place as the bind skin option)
 
-![35.png](/user-pictures/goat/custommodels/35.png)
+![35.png](/user-pictures/goat/custommodels/35.png =x400)
 
 # Weighting Your Character
 I will not be going over this step, since its a pretty big one and we already have another tutorial for it!
@@ -171,15 +171,15 @@ You can follow Yoru's Weight Painting guide [here!](https://youtu.be/LxO4djdtxJg
 # Getting the New Model in Game
 Once the Weight Painting is done, you are pretty much good to go! You can now export your new [.skn](/en/specific-guide/filetypes) and [.skl](/en/specific-guide/filetypes#skl) into your asset folder. Simply replace the .skn, the .skl will update automatically
 
-![22.png](/user-pictures/goat/custommodels/22.png =x350)
-![23.png](/user-pictures/goat/custommodels/23.png =x350)
+![22.png](/user-pictures/goat/custommodels/22.png =x450)
+![23.png](/user-pictures/goat/custommodels/23.png =x450)
 
 >Remember to select League of Legends : SKN + SKL !
 
 You can now drag the client folder into csLoL and run the program. Rename the folder containing your asset and data folder to (Champion Name).wad.client and just drag and drop it in csLoL, it should create a new mod.
 
-![31.png](/user-pictures/goat/custommodels/31.png =x380)
-![32.png](/user-pictures/goat/custommodels/32.png =x350)
+![31.png](/user-pictures/goat/custommodels/31.png =x280)
+![32.png](/user-pictures/goat/custommodels/32.png =x258)
 
 You could now see your model in game!
 
@@ -191,11 +191,11 @@ A little strange tho...
 
 Usually, when getting your model online, you should also have a texture file included with it.
 
-![24.png](/user-pictures/goat/custommodels/24.png =x550)
+![24.png](/user-pictures/goat/custommodels/24.png =x350)
 
 Its possible that you will different weird files, we only want the colored ones. In my case, these 2.
 
-![25.png](/user-pictures/goat/custommodels/25.png =x550)
+![25.png](/user-pictures/goat/custommodels/25.png =x350)
 
 Now in maya, assign the "Body" material to your mesh, since most if not all League champs have that material, the game will then be able to detect it and assign the right material to it.
 
@@ -215,7 +215,9 @@ With your mesh selected, go to the Modeling Tab, Mesh Display > Reverse
 
 And also replace the texture file in your assets! Replace the Body texture, usualy Champ_base_tx_cm. The 2x and 4x are texture quality when you lower them in settings in game, so swap them too! Or else the skin will look strange in lower settings.
 
-![29.png](/user-pictures/goat/custommodels/29.png)
+This is only required for `.dds` files, regardless of champion. If the champion uses dds files by default, you can edit their bin to use `tex` to avoid needing to use `2x,4x` files.
+
+![29.png](/user-pictures/goat/custommodels/29.png =x400)
 
 >You will need to change your texture files to .dds first! To do that, you can use GIMP, Photoshop with the Intel Texture Works plug-in, or Photopea to export them as .dds!
 >{.is-warning}
