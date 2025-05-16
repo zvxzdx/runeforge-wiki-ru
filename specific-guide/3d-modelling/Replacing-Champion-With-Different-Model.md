@@ -2,7 +2,7 @@
 title: Replacing Champions With a Different Character
 description: This tutotial will show you how to replace the model from a champion with another one
 published: true
-date: 2025-05-16T02:26:19.565Z
+date: 2025-05-16T02:26:47.848Z
 tags: modelling
 editor: markdown
 dateCreated: 2024-02-29T02:01:05.953Z
@@ -149,7 +149,7 @@ And try to place it like the original weapon was, put it somewhere on the weapon
 </details>
 
 # Binding the Skeleton 
-We will now bind the skeleton to our model! To do this, simply select your mesh/es and the Root of your skeleton, then go to the Rigging tab, Skin > Bind Skin and open the options by pressing the little square on the right side.
+We will now bind the skeleton to our model! To do this, simply select your mesh(es) and the Root of your skeleton, then go to the Rigging tab, Skin > Bind Skin and open the options by pressing the little square on the right side.
 
 ![20.png](/user-pictures/moga/goat_model_swap/goat_model_swap_20.png =x550)
 
