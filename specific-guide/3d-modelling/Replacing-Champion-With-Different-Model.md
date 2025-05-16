@@ -2,7 +2,7 @@
 title: Replacing Champions With a Different Character
 description: This tutotial will show you how to replace the model from a champion with another one
 published: true
-date: 2025-05-16T00:48:26.716Z
+date: 2025-05-16T02:02:11.203Z
 tags: modelling
 editor: markdown
 dateCreated: 2024-02-29T02:01:05.953Z
@@ -87,7 +87,7 @@ I will then import Zeri, since this is the Champion I chose
 
 You can then import your model also by drag and dropping it into the scene.
 
-![8.png](/user-pictures/goat/custommodels/8.png =x550)
+![8.png](/user-pictures/moga/goat_model_swap/goat_model_swap_8.png =x550)
 
 After importing, you might notice that your model isnt exactly the same size, might be bigger or smaller then your League champion. In my case, the model is way smaller. 
 
@@ -102,11 +102,11 @@ You will want to make sure it fits as best as possible. Something like shoulder 
 
 Once thats done, you can hide the champion model for now. In the Outliner, select the League champion and press H.
 
-![13.png](/user-pictures/goat/custommodels/13.png =x330)
+![13.png](/user-pictures/moga/goat_model_swap/goat_model_swap_13.png =x550)
 
 Now that the model is hidden, press the little Bone button so you can see your .skl through the model
 
-![12.png](/user-pictures/goat/custommodels/12.png =x550)
+![12.png](/user-pictures/moga/goat_model_swap/goat_model_swap_12.png)
 
 ## Cleaning up the skeleton
 
@@ -156,7 +156,7 @@ And try to place it like the original weapon was, put it somewhere on the weapon
 # Binding the skeleton 
 We will now bind the skeleton to our model! To do this, simply select your mesh/es and the Root of your skeleton, then go to the Rigging tab, Skin > Bind Skin and open the options by pressing the little square on the right side.
 
-![20.png](/user-pictures/moga/goat_model_swap/20.png =x500)
+![20.png](/user-pictures/moga/goat_model_swap/goat_model_swap_20.png =x550)
 
 Now that you are in the options, try to copy my settings here : make sure to bind to the Joint Hierarchy, set the max influence TO A MAXIMUM OF 4 (but I highly recommend 3, and go lower if your mesh doesnt have a lot of polygons/faces), and remove "Maintain max influences".
 
@@ -216,7 +216,7 @@ Lets also not forget to reverse the normals, or else your character is gonna loo
 
 With your mesh selected, go to the Modeling Tab, Mesh Display > Reverse
 
-![28.png](/user-pictures/goat/custommodels/28.png =x550)
+![28.png](/user-pictures/moga/goat_model_swap/goat_model_swap_28.png =x550)
 
 And also replace the texture file in your assets! Replace the Body texture, usualy Champ_base_tx_cm. The 2x and 4x are texture quality when you lower them in settings in game, so swap them too! Or else the skin will look strange in lower settings.
 
