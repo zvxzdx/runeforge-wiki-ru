@@ -2,7 +2,7 @@
 title: Replacing Champions With a Different Character
 description: This tutotial will show you how to replace the model from a champion with another one
 published: true
-date: 2025-05-16T02:13:08.294Z
+date: 2025-05-16T02:17:10.499Z
 tags: modelling
 editor: markdown
 dateCreated: 2024-02-29T02:01:05.953Z
@@ -43,13 +43,13 @@ First, I would recommend loading your new model in an empty scene, to check if e
 
 If your model has no [.skl](/en/specific-guide/filetypes#skl) and is standing upright in the middle of the scene, then you won.
 
-![11.png](/user-pictures/goat/custommodels/11.png =x550)
+![11.png](/user-pictures/goat/custommodels/11.png =x300)
 
 <details>
 <summary>If lose</summary>
 <br>
   
-![1.png](/user-pictures/goat/custommodels/1.png =x550)
+![1.png](/user-pictures/moga/goat_model_swap/goat_model_swap_1.png =x350)
 
 Here my model is not upright and already has a skeleton (or an [.skl](/en/specific-guide/filetypes#skl), for simpler term). So I will first start by fixing those issues
 
@@ -82,18 +82,18 @@ With the group or mesh selected, go to File > Export Selected and select the fil
 
 After saving your custom model, you can open a new scene and load your desired League champion by dragging and dropping the [.skn](/en/specific-guide/filetypes#skl) into it (this will also import the [.skl](/en/specific-guide/filetypes#skl) automatically)
 
-![8.png](/user-pictures/moga/goat_model_swap/goat_model_swap_8.png =x550)
+![8.png](/user-pictures/moga/goat_model_swap/goat_model_swap_8.png =x400)
 
 After importing, you might notice that your model isnt exactly the same size, might be bigger or smaller then your League champion. In my case, the model is way smaller. 
 
-![9.png](/user-pictures/goat/custommodels/9.png =x550)
+![9.png](/user-pictures/goat/custommodels/9.png =x400)
 
 You will want to make sure it fits as best as possible. Something like shoulder to shoulder should be what you aim for. 
 
 >Scale your model! Not the League champion!
 >{.is-warning}
 
-![10.png](/user-pictures/goat/custommodels/10.png =x550)
+![10.png](/user-pictures/goat/custommodels/10.png =x350)
 
 Once thats done, you can hide the champion model for now. In the Outliner, select the League champion and press H.
 
