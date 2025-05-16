@@ -2,7 +2,7 @@
 title: Replacing Champions With a Different Character
 description: This tutotial will show you how to replace the model from a champion with another one
 published: true
-date: 2025-05-16T02:17:10.499Z
+date: 2025-05-16T02:22:25.673Z
 tags: modelling
 editor: markdown
 dateCreated: 2024-02-29T02:01:05.953Z
@@ -119,7 +119,7 @@ Simply select the bones you want to remove and press backspace!
   
 ![14.png](/user-pictures/goat/custommodels/14.png)
   
-Also, you may notice a few BUFFBONES here and there, do not delete those! These are used for the particles effect!
+Also, you may notice a few BUFFBONES here and there, do not delete those! These are used for the particle effects!
 </details>
 
 # Placing the bones
