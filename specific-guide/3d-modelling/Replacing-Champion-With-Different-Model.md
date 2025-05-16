@@ -2,7 +2,7 @@
 title: Replacing Champions With a Different Character
 description: This tutotial will show you how to replace the model from a champion with another one
 published: true
-date: 2025-05-16T00:31:09.195Z
+date: 2025-05-16T00:31:48.266Z
 tags: modelling
 editor: markdown
 dateCreated: 2024-02-29T02:01:05.953Z
@@ -43,13 +43,13 @@ First, I would recommend loading your new model in an empty scene, to check if e
 
 If your model has no [.skl](/en/specific-guide/filetypes#skl) and is standing upright in the middle of the scene, then you won.
 
-![11.png](/user-pictures/goat/custommodels/11.png =x600)
+![11.png](/user-pictures/goat/custommodels/11.png =x400)
 
 <details>
 <summary>If lose</summary>
 <br>
   
-![1.png](/user-pictures/goat/custommodels/1.png =x600)
+![1.png](/user-pictures/goat/custommodels/1.png =x400)
 
 Here my model is not upright and already has a skeleton (or an [.skl](/en/specific-guide/filetypes#skl), for simpler term). So I will first start by fixing those issues
 
@@ -57,7 +57,7 @@ If your model already has an [.skl](/en/specific-guide/filetypes#skl), you will 
 
 You will first select every part of your mesh, then, in the Rigging tab, you will find Skin > Unbind
   
-![2.png](/user-pictures/goat/custommodels/2.png =x600)
+![2.png](/user-pictures/goat/custommodels/2.png =x400)
 
 You can then delete the `.skl`, it is no longer needed.
 
@@ -65,11 +65,11 @@ After, you will want to make your character upright (if it is not already). It i
 
 First, group your meshes : select all your meshes by drag selecting then press ctrl+g or by going into Edit > Group 
 
-![3.png](/user-pictures/goat/custommodels/3.png =x600)
+![3.png](/user-pictures/goat/custommodels/3.png =x400)
 
 This will create a group that you can select with a pivot in the center of your scene, allowing you to easily rotate your model! (You can hold "J" while rotating to rotate on hard angles)
 
-![4.png](/user-pictures/goat/custommodels/4.png =x600)
+![4.png](/user-pictures/goat/custommodels/4.png =x400)
 
 With your model now boneless and standing straight, you can export it as an .fbx, an .obj or any other format Maya can read!
 
