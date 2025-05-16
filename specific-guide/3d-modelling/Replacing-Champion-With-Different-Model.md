@@ -2,7 +2,7 @@
 title: Replacing Champions With a Different Character
 description: This tutotial will show you how to replace the model from a champion with another one
 published: true
-date: 2025-05-16T00:28:58.597Z
+date: 2025-05-16T00:29:51.751Z
 tags: modelling
 editor: markdown
 dateCreated: 2024-02-29T02:01:05.953Z
@@ -61,7 +61,7 @@ You will first select every part of your mesh, then, in the Rigging tab, you wil
 
 You can then delete the `.skl`, it is no longer needed.
 
-After, you will want to make your character upright (if it isnt). It is possible that your mesh will have multiple different parts, this will complicates thing if you simply try to rotate it. 
+After, you will want to make your character upright (if it is not already). It is possible that your mesh will have multiple different parts, this will complicates thing if you simply try to rotate it. 
 
 First, group your meshes : select all your meshes by drag selecting then press ctrl+g or by going into Edit > Group 
 
