@@ -2,7 +2,7 @@
 title: Replacing Champions With a Different Character
 description: This tutotial will show you how to replace the model from a champion with another one
 published: true
-date: 2025-05-16T02:12:49.720Z
+date: 2025-05-16T02:13:08.294Z
 tags: modelling
 editor: markdown
 dateCreated: 2024-02-29T02:01:05.953Z
@@ -97,7 +97,7 @@ You will want to make sure it fits as best as possible. Something like shoulder 
 
 Once thats done, you can hide the champion model for now. In the Outliner, select the League champion and press H.
 
-![13.png](/user-pictures/moga/goat_model_swap/goat_model_swap_13.png =x550)
+![13.png](/user-pictures/moga/goat_model_swap/goat_model_swap_13.png =x400)
 
 Now that the model is hidden, press the little Bone button so you can see your .skl through the model
 
