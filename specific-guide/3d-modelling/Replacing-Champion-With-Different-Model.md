@@ -2,7 +2,7 @@
 title: Replacing Champions With a Different Character
 description: This tutotial will show you how to replace the model from a champion with another one
 published: true
-date: 2025-05-16T00:32:49.383Z
+date: 2025-05-16T00:47:02.929Z
 tags: modelling
 editor: markdown
 dateCreated: 2024-02-29T02:01:05.953Z
@@ -156,7 +156,7 @@ And try to place it like the original weapon was, put it somewhere on the weapon
 # Binding the skeleton 
 We will now bind the skeleton to our model! To do this, simply select your mesh/es and the Root of your skeleton, then go to the Rigging tab, Skin > Bind Skin and open the options by pressing the little square on the right side.
 
-![20.png](/user-pictures/goat/custommodels/20.png =x550)
+![20.png](/user-pictures/moga/goat_model_swap/20.png)
 
 Now that you are in the options, try to copy my settings here : make sure to bind to the Joint Hierarchy, set the max influence TO A MAXIMUM OF 4 (but I highly recommend 3, and go lower if your mesh doesnt have a lot of polygons/faces), and remove "Maintain max influences".
 
