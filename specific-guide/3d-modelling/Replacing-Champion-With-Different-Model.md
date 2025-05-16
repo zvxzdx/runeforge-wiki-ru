@@ -2,7 +2,7 @@
 title: Replacing Champions With a Different Character
 description: This tutotial will show you how to replace the model from a champion with another one
 published: true
-date: 2025-05-16T02:22:25.673Z
+date: 2025-05-16T02:23:02.720Z
 tags: modelling
 editor: markdown
 dateCreated: 2024-02-29T02:01:05.953Z
@@ -125,7 +125,7 @@ Also, you may notice a few BUFFBONES here and there, do not delete those! These 
 # Placing the bones
 Now, you may have noticed the the bones dont really align with my character, so lets move them!
 
-In general, you want the elbow bone where the elbow is, the hip bone where the hip is, etc...
+In general, you want the elbow bone where the elbow is, the hip bone where the hip is, etc.
 
 You can use the Rotate tool to make them align with your character as much as possible. 
 
