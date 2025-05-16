@@ -2,7 +2,7 @@
 title: Replacing Champions With a Different Character
 description: This tutotial will show you how to replace the model from a champion with another one
 published: true
-date: 2025-05-16T02:24:34.528Z
+date: 2025-05-16T02:26:19.565Z
 tags: modelling
 editor: markdown
 dateCreated: 2024-02-29T02:01:05.953Z
@@ -28,7 +28,7 @@ OR
 I will be using Maya for this guide.
 
 # Guide
-## Finding your model
+## Finding Your Model
 What you will want first is choosing a character you want and finding a model for it. For this guide, I will be swapping Zeri with Cuphead!
 
 You might be able to find your character by searching "(Character Name) 3D model" in google. If you cannot find it, you might have to create it yourself!
@@ -38,7 +38,7 @@ Here are a few sites to help you find some cool models :
 - [Model Ressource](https://www.models-resource.com)
 - [Deviant Art](https://www.deviantart.com)
 
-## Setting-up your model
+## Setting Up Your Model
 First, I would recommend loading your new model in an empty scene, to check if everything is in order
 
 If your model has no [.skl](/en/specific-guide/filetypes#skl) and is standing upright in the middle of the scene, then you won.
@@ -78,7 +78,7 @@ With the group or mesh selected, go to File > Export Selected and select the fil
 ![5.png](/user-pictures/goat/custommodels/5.png =x300)![6.png](/user-pictures/goat/custommodels/6.png =x300)  
 </details>
 
-# Replacing the model
+# Replacing the Model
 
 After saving your custom model, you can open a new scene and load your desired League champion by dragging and dropping the [.skn](/en/specific-guide/filetypes#skl) into it (this will also import the [.skl](/en/specific-guide/filetypes#skl) automatically)
 
@@ -103,7 +103,7 @@ Now that the model is hidden, press the little Bone button so you can see your .
 
 ![12.png](/user-pictures/moga/goat_model_swap/goat_model_swap_12.png =x400)
 
-## Cleaning up the skeleton
+## Cleaning Up the Skeleton
 
 >This next step is optional, and I recommend doing it ONLY if you know what you are doing!
 >{.is-warning}
@@ -122,7 +122,7 @@ Simply select the bones you want to remove and press backspace!
 Also, you may notice a few BUFFBONES here and there, do not delete those! These are used for the particle effects!
 </details>
 
-# Placing the bones
+# Placing the Bones
 Now, you may have noticed the the bones dont really align with my character, so lets move them!
 
 In general, you want the elbow bone where the elbow is, the hip bone where the hip is, etc.
@@ -148,7 +148,7 @@ And try to place it like the original weapon was, put it somewhere on the weapon
 ![34.png](/user-pictures/goat/custommodels/34.png =x300)
 </details>
 
-# Binding the skeleton 
+# Binding the Skeleton 
 We will now bind the skeleton to our model! To do this, simply select your mesh/es and the Root of your skeleton, then go to the Rigging tab, Skin > Bind Skin and open the options by pressing the little square on the right side.
 
 ![20.png](/user-pictures/moga/goat_model_swap/goat_model_swap_20.png =x550)
@@ -163,12 +163,12 @@ If the first settings didnt do a good job, unbind the mesh first and try these o
 
 ![35.png](/user-pictures/goat/custommodels/35.png)
 
-# Weighting your character
+# Weighting Your Character
 I will not be going over this step, since its a pretty big one and we already have another tutorial for it!
 
 You can follow Yoru's Weight Painting guide [here!](https://youtu.be/LxO4djdtxJg?si=D9QrBaDeyVQ_eaqu)
 
-# Getting the new model in game
+# Getting the New Model in Game
 Once the Weight Painting is done, you are pretty much good to go! You can now export your new [.skn](/en/specific-guide/filetypes) and [.skl](/en/specific-guide/filetypes#skl) into your asset folder. Simply replace the .skn, the .skl will update automatically
 
 ![22.png](/user-pictures/goat/custommodels/22.png =x350)
@@ -187,7 +187,7 @@ You could now see your model in game!
 
 A little strange tho...
 
-## Getting the textures
+## Getting the Textures
 
 Usually, when getting your model online, you should also have a texture file included with it.
 
