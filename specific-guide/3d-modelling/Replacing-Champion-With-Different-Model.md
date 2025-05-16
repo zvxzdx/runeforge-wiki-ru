@@ -2,7 +2,7 @@
 title: Replacing Champions With a Different Character
 description: This tutotial will show you how to replace the model from a champion with another one
 published: true
-date: 2025-05-16T02:23:23.630Z
+date: 2025-05-16T02:23:51.200Z
 tags: modelling
 editor: markdown
 dateCreated: 2024-02-29T02:01:05.953Z
@@ -131,7 +131,7 @@ You can use the Rotate tool to make them align with your character as much as po
 
 If, lets say, the arms are too long/too short, scale them to make it fit the skeleton.
 
-Make your character fit the skeleton as much as possible! Its going to influence the quality a lot!
+You want your character to fit the skeleton as much as possible! Its going to influence the quality a lot!
 
 ------------------------BEFORE------------------------------------------------AFTER------------------------
 ![18.png](/user-pictures/goat/custommodels/18.png =x300)![19.png](/user-pictures/goat/custommodels/19.png =x300)
