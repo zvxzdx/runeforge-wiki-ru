@@ -2,7 +2,7 @@
 title: Replacing Champions With a Different Character
 description: This tutotial will show you how to replace the model from a champion with another one
 published: true
-date: 2025-05-21T23:47:13.765Z
+date: 2025-05-21T23:57:18.175Z
 tags: modelling
 editor: markdown
 dateCreated: 2024-02-29T02:01:05.953Z
@@ -195,29 +195,27 @@ Once the weight painting is done, you are pretty much good to go! You can now ex
 > Remember to select `League of Legends: SKN & SKL` !
 {.is-info}
 
-You can now drag the client folder into csLoL and run the program. Rename the folder containing your asset and data folder to `ChampName.wad.client` and just drag and drop it in CCSLoL; it should create a new mod.
+You can now drag the client folder into csLoL and run the program. Rename the folder containing your asset and data folder to `Champion.wad.client` and just drag and drop it in CSLoL; it will create a new mod named after the folder you dragged in.
 
 ![31.png](/user-pictures/goat/custommodels/31.png =x280)
 
 ![32.png](/user-pictures/goat/custommodels/32.png =x258)
 
-You could now see your model in game!
+You should now see your model in game!
 
 ![26.png](/user-pictures/goat/custommodels/26.png =x300)
 
-A little strange, tho...
+A little strange, though...
 
 ## Getting the Textures
 
-Usually, when getting your model online, you should also have a texture file included with it.
-
-![24.png](/user-pictures/goat/custommodels/24.png =x350)
+Usually, when getting your model online, you should also have a set of texture files included alongside it.
 
 It's possible that you will find different weird files. We only want the colored ones. In my case, these 2.
 
 ![25.png](/user-pictures/goat/custommodels/25.png =x350)
 
-Now in Maya, assign the "Body" material to your mesh. Since most, if not all, League champs have that material, the game will then be able to detect it and assign the right material to it.
+Now, in Maya, assign the "Body" material to your mesh. Since most, if not all, League champs have that material, the game will then be able to detect it and assign the right material to it.
 
 Select your mesh, then, while holding right click, Assign Existing Material > Body.
 
@@ -230,22 +228,22 @@ Select your mesh, then, while holding right click, Assign Existing Material > Bo
 
 {.links-list}
 
-Let's also not forget to reverse the normals, or else your character is going to look see-through.
+We also need to reverse our normals, or else the character is going to look see-through in game.
 
-With your mesh selected, go to the Modeling Tab, Mesh Display > Reverse.
+With your mesh selected, go to the Modeling Tab > Mesh Display > Reverse.
 
 ![28.png](/user-pictures/moga/goat_model_swap/goat_model_swap_28.png =x550)
 
-And also replace the texture file in your assets! Replace the body texture, usually Champ_base_tx_cm. The 2x and 4x are texture quality when you lower them in settings in the game, so swap them too! Or else the skin will look strange in lower settings.
+Finally, don't forget to replace the texture file in your assets folder! Replace the body texture, usually `champ_base_tx_cm`. The files with the suffix `2x_` or `4x_` are used for lower quality texture settings, so swap them too! Or else the skin will look strange in lower settings.
 
-This is only required for `dds` files, regardless of champion. If the champion uses `dds` files by default, you can edit their `bin` to use `tex` to avoid the use of `2x,4x` files.
+**This is only required for `dds` files, regardless of champion.** Tex files do not need these smaller, duplicate files. If the champion uses `dds` files by default, you can edit their `bin` to use `tex` to avoid the use of `2x,4x` files.
 
 ![29.png](/user-pictures/goat/custommodels/29.png =x400)
 
-> You will need to change your texture files to `dds` or `tex` first, depending on what your bin says! To do that, you can use GIMP, PaintNET, Photoshop with the Intel Texture Works plug-in, or Photopea to export them as .dds! If you want or need tex, you can convert dds files to tex with [tex2dds](https://github.com/Morilli/Ritoddstex/releases/latest).
+> League only accepts `dds` or `tex` files, depending on what your bin says! You can use GIMP, PaintNET, Photoshop with the Intel Texture Works plug-in, or Photopea to export them as `dds` ! If you want or need tex, you can convert dds files to tex with [tex2dds](https://github.com/Morilli/Ritoddstex/releases/latest) or [LtMAO](https://github.com/tarngaina/LtMAO).
 {.is-info}
 
-And that's the basics! You should now have your new model in game!
+And those are the basics! You should now have your new model in game!
 
 ![30.png](/user-pictures/goat/custommodels/30.png)
 
