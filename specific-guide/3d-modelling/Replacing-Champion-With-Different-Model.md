@@ -2,7 +2,7 @@
 title: Replacing Champions With a Different Character
 description: This tutotial will show you how to replace the model from a champion with another one
 published: true
-date: 2025-05-21T22:54:40.133Z
+date: 2025-05-21T22:54:49.716Z
 tags: modelling
 editor: markdown
 dateCreated: 2024-02-29T02:01:05.953Z
@@ -232,7 +232,7 @@ And also replace the texture file in your assets! Replace the Body texture, usua
 
 ![29.png](/user-pictures/goat/custommodels/29.png)
 
->You will need to change yur texture files to .dds first! To do that, you can use GIMP, Photoshop with the Intel Texture Works plug-in, or Photopea to export them as .dds!
+>You will need to change your texture files to .dds first! To do that, you can use GIMP, Photoshop with the Intel Texture Works plug-in, or Photopea to export them as .dds!
 >{.is-warning}
 
 And thats the basics! You should now have your new model in game!
