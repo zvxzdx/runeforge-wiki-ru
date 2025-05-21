@@ -2,17 +2,7 @@
 title: Replacing Champions With a Different Character
 description: This tutotial will show you how to replace the model from a champion with another one
 published: true
-date: 2025-05-21T22:54:49.716Z
-tags: modelling
-editor: markdown
-dateCreated: 2024-02-29T02:01:05.953Z
----
-
----
-title: Replacing Champions With a Different Character
-description: This tutotial will show you how to replace the model from a champion with another one
-published: true
-date: 2025-05-15T01:36:47.659Z
+date: 2025-05-21T22:55:07.544Z
 tags: modelling
 editor: markdown
 dateCreated: 2024-02-29T02:01:05.953Z
