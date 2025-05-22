@@ -1,8 +1,8 @@
 ---
 title: Replacing Champions With a Different Character
-description: This tutotial will show you how to replace the model from a champion with another one
+description: This tutorial will show you how to model swap a League champion with a custom model
 published: true
-date: 2025-05-21T23:57:18.175Z
+date: 2025-05-22T00:06:48.006Z
 tags: modelling
 editor: markdown
 dateCreated: 2024-02-29T02:01:05.953Z
