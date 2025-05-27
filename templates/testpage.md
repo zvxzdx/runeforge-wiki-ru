@@ -2,7 +2,7 @@
 title: Testing
 description: 
 published: false
-date: 2025-05-27T13:49:36.977Z
+date: 2025-05-27T13:59:23.654Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-31T21:51:40.832Z
@@ -53,3 +53,6 @@ Text
 ## Maya 2018
 - [Creating a custom skin Maya 2018 *Outdated*](/specific-guide/3d-modelling/maya/2018)
  {.links-list}
+
+
+![plugin_manager.png](/plugin_manager.png)
