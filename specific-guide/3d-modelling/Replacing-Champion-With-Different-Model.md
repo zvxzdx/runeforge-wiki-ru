@@ -2,7 +2,7 @@
 title: Replacing Champions With a Different Character (Model Swap)
 description: This tutorial will show you how to model swap a League champion with a custom model
 published: true
-date: 2025-05-22T00:07:01.484Z
+date: 2025-05-28T12:52:28.875Z
 tags: modelling
 editor: markdown
 dateCreated: 2024-02-29T02:01:05.953Z
@@ -139,9 +139,8 @@ Now, you may have noticed that the bones don't really align with my character, s
 
 In general, you want the elbow bone where the elbow is, the hip bone where the hip is, etc.
 
-You can use the Rotate tool to make them align with your character as much as possible. 
-
-If, let's say, the arms are too long/too short, scale them to make them fit the skeleton.
+Only use the Rotate (E) and Move (W) Tool to align with your character. Do not use the Scale (R) Tool.
+If, the arms are too long/too short, use the Move Tool to better fit the model.
 
 You want your character to fit the skeleton as much as possible! It's going to influence the quality a lot!
 
